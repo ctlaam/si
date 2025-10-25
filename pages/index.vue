@@ -2,10 +2,10 @@
   <div class="container">
     <div>
       <logo />
-      <h1 class="title">
+      <h1 class="title text-white bg-red-400">
         my-project
       </h1>
-      <h2 class="subtitle">
+      <h2 class="subtitle text-red-400">
         My swell Nuxt.js project
       </h2>
       <div class="links">
