@@ -23,7 +23,7 @@ export default {
     ]
   },
   loading: { color: '#fff' },
-  css: [],
+  css: ["@/assets/css/index.css"],
   plugins: [],
   buildModules: [],
   modules: [],
