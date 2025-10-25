@@ -73,7 +73,7 @@
                                                 thành công</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="https://sigroup.vn/chuong-trinh-dinh-cu/"><span>Chương trình
+                            <li class="menu-item"><a href="/SettlementProgram"><span>Chương trình
                                         định cư</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-my/"><span>Định
@@ -251,12 +251,12 @@
                                     href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
                             </li>
                             <li class="menu-item"><a target="_blank" rel="nofollow"
-                                    href="https://tsi.com.vn/"><span>Xuất nhập khẩu</span></a></li>
-                            <li class="menu-item"><a href="https://sigroup.vn/su-kien-si-group/"><span>Sự
+                                    href=""><span>Xuất nhập khẩu</span></a></li>
+                            <li class="menu-item"><a href="/Events"><span>Sự
                                         Kiện</span></a></li>
-                            <li class="menu-item"><a href="https://sigroup.vn/tin-tuc-si-group/"><span>Tin
+                            <li class="menu-item"><a href="/News"><span>Tin
                                         Tức</span></a></li>
-                            <li class="menu-item"><a href="https://sigroup.vn/lien-he-si-group/"><span>Liên
+                            <li class="menu-item"><a href="/Contacts"><span>Liên
                                         Hệ</span></a></li>
                         </ul>
                     </div>
