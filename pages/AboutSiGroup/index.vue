@@ -36,28 +36,22 @@
               </div>
               <div class="col-12">
                 <div class="si-banners-border">
-                  <div class="si-banners slick-initialized slick-slider slick-dotted">
-                    <div class="slick-list draggable">
-                      <div class="slick-track" style="opacity: 1; width: 476px; transform: translate3d(0px, 0px, 0px);">
-                        <div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false"
-                          style="width: 476px;" tabindex="0" role="tabpanel" id="slick-slide00"
-                          aria-describedby="slick-slide-control00">
-                          <div
-                            :style="{ backgroundImage: `url(${require('@/assets/uploads/2023/11/Hinh-2-VP.jpg')})` }"
-                            class="bg-banner vh-80">
-                            <img class="d-block d-md-none"
-                              src="@/assets/uploads/2023/11/Hinh-2-VP.jpg"
-                              alt="@/assets/uploads/2023/11/Hinh-2-VP.jpg">
-                          </div>
-                        </div>
+                  <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="false" :autoplaySpeed="4000"
+                    :slidesToShow="1" :slidesToScroll="1">
+                    <div v-for="(item, index) in banners1" :key="index" class="banner-slide">
+                      <!-- Desktop background -->
+                      <div class="banner-bg d-none d-md-block"
+                        :style="{ backgroundImage: `url(${require(`@/assets/uploads/${item.bgDesktop}`)})` }">
+                        <div class="bg-overlay"></div>
+                      </div>
+
+                      <!-- Mobile image -->
+                      <div class="banner-bg d-block d-md-none">
+                        <img :src="require(`@/assets/uploads/${item.bgMobile}`)" :alt="item.alt" class="w-100" />
                       </div>
                     </div>
-                    <ul class="slick-dots" role="tablist">
-                      <li class="slick-active" role="presentation"><button type="button" role="tab"
-                          id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 1" tabindex="0"
-                          aria-selected="true">1</button></li>
-                    </ul>
-                  </div>
+                  </SlickCarousel>
+
                 </div>
               </div>
               <div id="gia-tri-cot-loi" class="col-12 core-values my-10 py-10">
@@ -65,9 +59,8 @@
                 <!-- <h3 class="text-center mt-8">{{ core_value.Content }}</h3> -->
                 <img src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
                   alt="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
-                  data-lazy-src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
-                  data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                    src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
+                  data-lazy-src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png" data-ll-status="loaded"
+                  class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
                     alt="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"></noscript>
                 <!-- <div class="possible d-flex align-items-start justify-content-center mt-4">
                                                               </div> -->
@@ -79,9 +72,8 @@
                 <h2 class="text-center si-title">LỊCH SỬ PHÁT TRIỂN</h2>
                 <img src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
                   alt="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
-                  data-lazy-src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
-                  data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                    src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
+                  data-lazy-src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg" data-ll-status="loaded"
+                  class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
                     alt="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"></noscript>
                 <!-- <div class="history text-center mt-10">
                                                               </div> -->
@@ -94,53 +86,42 @@
                 <div class="text-center mt-10 hinh-anh-quy-mo">
                   <img src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
                     alt="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
-                    data-lazy-src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
-                    data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                      src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
+                    data-lazy-src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png" data-ll-status="loaded"
+                    class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
                       alt="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"></noscript>
                 </div>
                 <div class="company">
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="#"><img
-                        src="@/assets/uploads/2024/08/ISI.png"
-                        alt="@/assets/uploads/2024/08/ISI.png"
-                        data-lazy-src="@/assets/uploads/2024/08/ISI.png" data-ll-status="loaded"
-                        class="entered lazyloaded"><noscript><img
+                    <a rel="nofollow" target="_blank" href="#"><img src="@/assets/uploads/2024/08/ISI.png"
+                        alt="@/assets/uploads/2024/08/ISI.png" data-lazy-src="@/assets/uploads/2024/08/ISI.png"
+                        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
                           src="@/assets/uploads/2024/08/ISI.png"
                           alt="@/assets/uploads/2024/08/ISI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="#"><img
-                        src="@/assets/uploads/2024/08/TSI.png"
-                        alt="@/assets/uploads/2024/08/TSI.png"
-                        data-lazy-src="@/assets/uploads/2024/08/TSI.png" data-ll-status="loaded"
-                        class="entered lazyloaded"><noscript><img
+                    <a rel="nofollow" target="_blank" href="#"><img src="@/assets/uploads/2024/08/TSI.png"
+                        alt="@/assets/uploads/2024/08/TSI.png" data-lazy-src="@/assets/uploads/2024/08/TSI.png"
+                        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
                           src="@/assets/uploads/2024/08/TSI.png"
                           alt="@/assets/uploads/2024/08/TSI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="#"><img
-                        src="@/assets/uploads/2024/08/RSI.png"
-                        alt="@/assets/uploads/2024/08/RSI.png"
-                        data-lazy-src="@/assets/uploads/2024/08/RSI.png" data-ll-status="loaded"
-                        class="entered lazyloaded"><noscript><img
+                    <a rel="nofollow" target="_blank" href="#"><img src="@/assets/uploads/2024/08/RSI.png"
+                        alt="@/assets/uploads/2024/08/RSI.png" data-lazy-src="@/assets/uploads/2024/08/RSI.png"
+                        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
                           src="@/assets/uploads/2024/08/RSI.png"
                           alt="@/assets/uploads/2024/08/RSI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="#"><img
-                        src="@/assets/uploads/2024/08/ASI.png"
-                        alt="@/assets/uploads/2024/08/ASI.png"
-                        data-lazy-src="@/assets/uploads/2024/08/ASI.png" data-ll-status="loaded"
-                        class="entered lazyloaded"><noscript><img
+                    <a rel="nofollow" target="_blank" href="#"><img src="@/assets/uploads/2024/08/ASI.png"
+                        alt="@/assets/uploads/2024/08/ASI.png" data-lazy-src="@/assets/uploads/2024/08/ASI.png"
+                        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
                           src="@/assets/uploads/2024/08/ASI.png"
                           alt="@/assets/uploads/2024/08/ASI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="#"><img
-                        src="@/assets/uploads/2024/08/BIOTECH.png"
-                        alt="@/assets/uploads/2024/08/BIOTECH.png"
-                        data-lazy-src="@/assets/uploads/2024/08/BIOTECH.png"
+                    <a rel="nofollow" target="_blank" href="#"><img src="@/assets/uploads/2024/08/BIOTECH.png"
+                        alt="@/assets/uploads/2024/08/BIOTECH.png" data-lazy-src="@/assets/uploads/2024/08/BIOTECH.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img
                           src="@/assets/uploads/2024/08/BIOTECH.png"
                           alt="@/assets/uploads/2024/08/BIOTECH.png" /></noscript></a>
@@ -149,9 +130,8 @@
                     <a rel="nofollow" target="_blank" href="#"><img
                         src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
                         alt="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
-                        data-lazy-src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
-                        data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                          src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
+                        data-lazy-src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png" data-ll-status="loaded"
+                        class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
                           alt="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png" /></noscript></a>
                   </div>
                 </div>
@@ -162,9 +142,8 @@
               <div class="col-12">
                 <h2 class="text-center si-title">SI GROUP TRÊN TOÀN CẦU</h2>
                 <img src="@/assets/uploads/2024/11/World-Map-VN-2.png" alt="SI GROUP TRÊN TOÀN CẦU"
-                  data-lazy-src="@/assets/uploads/2024/11/World-Map-VN-2.png"
-                  data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                    src="@/assets/uploads/2024/11/World-Map-VN-2.png"
+                  data-lazy-src="@/assets/uploads/2024/11/World-Map-VN-2.png" data-ll-status="loaded"
+                  class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/11/World-Map-VN-2.png"
                     alt="SI GROUP TRÊN TOÀN CẦU"></noscript>
               </div>
             </div>
@@ -175,7 +154,7 @@
                 <div class="col-12">
                   <div class="slides-bod">
                     <SlickCarousel :arrows="true" :dots="false" :infinite="true" :autoplay="true" :autoplaySpeed="2500"
-                      :slidesToShow="5" :slidesToScroll="1" :responsive="responsiveSettings">
+                      :slidesToShow="4" :slidesToScroll="1" :responsive="responsiveSettings">
                       <div v-for="(member, index) in bodList" :key="index" class="it-bod text-center my-3"
                         @click="openPopup(index)">
                         <img :src="member.img" :alt="member.name" class="img-fluid rounded shadow-sm" />
@@ -208,8 +187,7 @@
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Ông PHAN NHẬT MINH"
                           data-lazy-src="@/assets/uploads/2024/08/Anh-Minh-1.png"><noscript><img
-                            src="@/assets/uploads/2024/08/Anh-Minh-1.png"
-                            alt="Ông PHAN NHẬT MINH"></noscript>
+                            src="@/assets/uploads/2024/08/Anh-Minh-1.png" alt="Ông PHAN NHẬT MINH"></noscript>
                       </div>
                       <div class="content">
                         <div class="name text-left">Ông PHAN NHẬT MINH</div>
@@ -247,10 +225,8 @@
                       <div class="img">
                         <img
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                          alt="Bà NGUYỄN THỊ BÍCH HÀ"
-                          data-lazy-src="@/assets/uploads/2024/08/Co-Ha.png"><noscript><img
-                            src="@/assets/uploads/2024/08/Co-Ha.png"
-                            alt="Bà NGUYỄN THỊ BÍCH HÀ"></noscript>
+                          alt="Bà NGUYỄN THỊ BÍCH HÀ" data-lazy-src="@/assets/uploads/2024/08/Co-Ha.png"><noscript><img
+                            src="@/assets/uploads/2024/08/Co-Ha.png" alt="Bà NGUYỄN THỊ BÍCH HÀ"></noscript>
                       </div>
                       <div class="content">
                         <div class="name text-left">Bà NGUYỄN THỊ BÍCH HÀ</div>
@@ -292,8 +268,7 @@
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Bà LÊ THỊ HUY BÌNH"
                           data-lazy-src="@/assets/uploads/2024/08/Chi-Binh-2.png"><noscript><img
-                            src="@/assets/uploads/2024/08/Chi-Binh-2.png"
-                            alt="Bà LÊ THỊ HUY BÌNH"></noscript>
+                            src="@/assets/uploads/2024/08/Chi-Binh-2.png" alt="Bà LÊ THỊ HUY BÌNH"></noscript>
                       </div>
                       <div class="content">
                         <div class="name text-left">Bà LÊ THỊ HUY BÌNH</div>
@@ -338,8 +313,7 @@
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Ông JEAN LESLY BENOIT "
                           data-lazy-src="@/assets/uploads/2024/10/Ong-Lesly.png"><noscript><img
-                            src="@/assets/uploads/2024/10/Ong-Lesly.png"
-                            alt="Ông JEAN LESLY BENOIT "></noscript>
+                            src="@/assets/uploads/2024/10/Ong-Lesly.png" alt="Ông JEAN LESLY BENOIT "></noscript>
                       </div>
                       <div class="content">
                         <div class="name text-left">Ông JEAN LESLY BENOIT </div>
@@ -367,10 +341,8 @@
                       <div class="img">
                         <img
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                          alt="Ông GREG MCKEAN"
-                          data-lazy-src="@/assets/uploads/2025/08/Ong-Greg-2-1.png"><noscript><img
-                            src="@/assets/uploads/2025/08/Ong-Greg-2-1.png"
-                            alt="Ông GREG MCKEAN"></noscript>
+                          alt="Ông GREG MCKEAN" data-lazy-src="@/assets/uploads/2025/08/Ong-Greg-2-1.png"><noscript><img
+                            src="@/assets/uploads/2025/08/Ong-Greg-2-1.png" alt="Ông GREG MCKEAN"></noscript>
                       </div>
                       <div class="content">
                         <div class="name text-left">Ông GREG MCKEAN</div>
@@ -487,7 +459,8 @@ export default {
         require("@/assets/uploads/2025/03/DN-DN-xuat-sac.png"),
         require("@/assets/uploads/2025/03/Asia-business-awards-1-1.png"),
       ],
-      bodList: [
+      bodList: 
+      [
         {
           name: "Ông PHAN NHẬT MINH",
           position: "Chủ tịch HĐQT",
@@ -533,6 +506,13 @@ export default {
           settings: { slidesToShow: 2 },
         },
       ],
+      banners1: [
+        {
+          bgDesktop: '2023/11/Hinh-2-VP.jpg',
+          bgMobile: '2023/11/Hinh-2-VP.jpg',
+          alt: 'Hình 2 - Văn phòng SI Group'
+        }
+      ]
     };
   },
   methods: {
@@ -546,10 +526,29 @@ export default {
 }
 </script>
 <style>
+.banner-bg {
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  position: relative;
+}
+
+.bg-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.vh-80 {
+  height: 80vh;
+}
 .si-banners .slick-dots {
   bottom: -71px !important;
 }
-
 </style>
 <style scoped>
 .about-us .open-letter {
@@ -680,9 +679,11 @@ export default {
   display: flex;
   flex-wrap: wrap
 }
+
 .slick-dots {
-    bottom: -71px !important;
+  bottom: -71px !important;
 }
+
 .about-us .si-scale .company .img {
   height: auto;
   width: 16.66%;
