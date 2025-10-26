@@ -716,7 +716,8 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
-
+import "@/assets/css/slick.css"
+import "@/assets/css/sig-core.css"
 export default {
     components: {
         Logo
@@ -735,7 +736,7 @@ export default {
     left: 0;
     width: 100%;
     height: 175px;
-    background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, .8) 58.33%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(180deg,#000000 0%,rgba(0,0,0,.8) 58.33%,rgba(0,0,0,0) 100%);
     opacity: .7;
     transform: rotate(180deg)
 }
@@ -792,12 +793,7 @@ export default {
     object-fit: cover
 }
 
-.blog-detail .content h1,
-.blog-detail .content h2,
-.blog-detail .content h3,
-.blog-detail .content h4,
-.blog-detail .content h5,
-.blog-detail .content h6 {
+.blog-detail .content h1,.blog-detail .content h2,.blog-detail .content h3,.blog-detail .content h4,.blog-detail .content h5,.blog-detail .content h6 {
     font-family: var(--font-black)
 }
 
@@ -844,9 +840,7 @@ export default {
     display: block
 }
 
-.blog-detail .item .tt-related,
-.blog-detail .item h4,
-.blog-detail .item h2 {
+.blog-detail .item .tt-related,.blog-detail .item h4,.blog-detail .item h2 {
     font-size: var(--size-20)
 }
 
@@ -861,7 +855,7 @@ export default {
 }
 
 .blog-detail .item .flag-detail img {
-    height: 40px !important
+    height: 40px!important
 }
 
 .blog-detail .item .flag-detail span {
@@ -910,7 +904,7 @@ export default {
 }
 
 .blog-page .item .img .flag-detail img {
-    height: 40px !important
+    height: 40px!important
 }
 
 .blog-page .item:hover h2 {
@@ -928,8 +922,7 @@ export default {
     font-size: .813rem
 }
 
-.blog-page .feature .time .clock,
-.blog-page .item p .clock {
+.blog-page .feature .time .clock,.blog-page .item p .clock {
     background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-surface.png)
 }
 
@@ -1026,7 +1019,8 @@ export default {
 
 @media (max-width: 820px) {
     .blog-detail .si-title {
-        font-size: 30px
+        font-size:30px
     }
 }
+
 </style>

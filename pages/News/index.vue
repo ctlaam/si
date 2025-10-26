@@ -493,7 +493,8 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
-
+import "@/assets/css/slick.css"
+import "@/assets/css/sig-core.css"
 export default {
     components: {
         Logo

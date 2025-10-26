@@ -54,8 +54,7 @@
                 <div class="si-nav d-none d-md-flex justify-content-end">
                     <div class="menu-main-container">
                         <ul id="menu-main" class="menu-main list-unstyled">
-                            <li class="menu-item current-menu-item"><a
-                                    href="https://sigroup.vn/solution-international-group/" aria-current="page"><span>Về
+                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" aria-current="page"><span>Về
                                         SI Group</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="/ve-chung-toi#gia-tri-cot-loi"><span>Giá trị cốt
@@ -250,8 +249,8 @@
                             <li class="menu-item"><a target="_blank" rel="nofollow"
                                     href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
                             </li>
-                            <li class="menu-item"><a target="_blank" rel="nofollow"
-                                    href=""><span>Xuất nhập khẩu</span></a></li>
+                            <li class="menu-item"><a target="_blank" rel="nofollow" href=""><span>Xuất nhập
+                                        khẩu</span></a></li>
                             <li class="menu-item"><a href="/Events"><span>Sự
                                         Kiện</span></a></li>
                             <li class="menu-item"><a href="/News"><span>Tin
@@ -492,3 +491,39 @@
         </div>
     </div>
 </template>
+<style scoped>
+.si-nav.mobile {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background: #fff;
+    z-index: 1000;
+    transition: all 0.3s;
+}
+
+.si-nav.mobile.active {
+    display: block;
+}
+
+.menu-mobile {
+    cursor: pointer;
+}
+</style>
+
+<script>
+export default {
+    mounted() {
+        document.querySelector('.menu-mobile').addEventListener('click', function () {
+            document.querySelector('.si-nav.mobile').classList.toggle('active');
+        });
+
+        // Thêm sự kiện cho nút đóng (nếu cần)
+        document.querySelector('.si-nav-close').addEventListener('click', function () {
+            document.querySelector('.si-nav.mobile').classList.remove('active');
+        });
+    }
+}
+</script>
