@@ -17,9 +17,9 @@
                             </div>
                             <div class="top-right clearfix">
                                 <ul class="top-info clearfix">
-                                    <li><a href="tel:(+84)76 9998686">(+84)76 9998686</a></li>
+                                    <li><a href="#">(+84)76 9998686</a></li>
                                     <li>
-                                        <a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a>
+                                        <a href="#">Paul.nguyen@tsi.com.vn</a>
                                     </li>
                                 </ul>
                             </div>
@@ -42,13 +42,13 @@
                             </div>
                             <div class="logo-box">
                                 <div class="logo">
-                                    <a href="/" title="Delici - Restaurants HTML Template"><img
+                                    <a href="#" title="Delici - Restaurants HTML Template"><img
                                             src="https://tsi.com.vn/assets/images/logo.png" alt=""
                                             title="Delici - Restaurants HTML Template" /></a>
                                 </div>
                             </div>
                             <div class="link link-btn">
-                                <a href="/page/contact.html" class="theme-btn btn-style-one clearfix">
+                                <a href="#" class="theme-btn btn-style-one clearfix">
                                     <span class="btn-wrap">
                                         <span class="text-one">Liên hệ</span><span class="text-two">Liên
                                             hệ</span></span></a>
@@ -65,15 +65,15 @@
                             data-toggle="collapse" data-target="#menu"></span>
                     </div>
                     <div class="logo-box">
-                        <a href="/" title="TSI"><img src="https://tsi.com.vn/assets/images/logo.png" alt=""
+                        <a href="#" title="TSI"><img src="https://tsi.com.vn/assets/images/logo.png" alt=""
                                 title="TSI" /></a>
                     </div>
                     <div class="side-menu">
                         <ul class="navigation clearfix">
-                            <li><a href="/">Trang chủ</a></li>
-                            <li><a href="/page/about.html">Giới thiệu</a></li>
-                            <li><a href="/page/distribution.html">Phân phối</a></li>
-                            <li><a href="/page/contact.html">Liên hệ</a></li>
+                            <li><a href="#">Trang chủ</a></li>
+                            <li><a href="#">Giới thiệu</a></li>
+                            <li><a href="#">Phân phối</a></li>
+                            <li><a href="#">Liên hệ</a></li>
                         </ul>
                     </div>
                     <ul class="info">
@@ -83,13 +83,13 @@
                         </li>
                         <li>Tầng 19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</li>
                         <li>
-                            <a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a>
+                            <a href="#">Paul.nguyen@tsi.com.vn</a>
                         </li>
                     </ul>
                     <div class="separator"><span></span></div>
                     <div class="booking-info">
                         <div class="bk-no">
-                            <a href="tel:(+84)76 9998686">(+84)76 9998686</a>
+                            <a href="#">(+84)76 9998686</a>
                         </div>
                     </div>
                 </div>
@@ -172,7 +172,7 @@
                                                 dương và được giới thượng lưu săn lùng.&nbsp;<br /></span></span><span
                                             class="lead"><br /><br /></span>
                                     </div>
-                                    <a href="#https://tsi.com.vn/less/post/bao-ngu-vien-xanh-uc-yumbah"
+                                    <a href="#"
                                         class="btn btn-outline-light">Xem thêm</a>
                                 </div>
                             </div>
@@ -817,7 +817,7 @@
                                 <div class="inner wow fadeInUp">
                                     <div class="content">
                                         <div class="logo">
-                                            <span style="color: #ffffff"><a href="/" title="TSI"
+                                            <span style="color: #ffffff"><a href="#" title="TSI"
                                                     style="color: #ffffff"><img
                                                         src="https://tsi.com.vn/assets/images/logo.png" alt=""
                                                         title="TSI" /></a></span>
@@ -835,11 +835,11 @@
                                                         Nội</span>
                                                 </li>
                                                 <li>
-                                                    <span style="color: #ffffff"><a href="mailto:Paul.nguyen@tsi.com.vn"
+                                                    <span style="color: #ffffff"><a href="#"
                                                             style="color: #ffffff">Paul.nguyen@tsi.com.vn</a></span>
                                                 </li>
                                                 <li>
-                                                    <span style="color: #ffffff"><a href="tel:(+84) 76 9998686"
+                                                    <span style="color: #ffffff"><a href="#"
                                                             style="color: #ffffff">Thông tin liên hệ: (+84) 76
                                                             9998686</a></span>
                                                 </li>
@@ -855,7 +855,7 @@
                                 <div class="inner wow fadeInLeft">
                                     <ul class="links">
                                         <li>
-                                            <span style="color: #ffffff"><a href="/page/distribution.html"
+                                            <span style="color: #ffffff"><a href="#"
                                                     style="color: #ffffff">Chính sách</a></span>
                                         </li>
                                     </ul>
@@ -865,11 +865,11 @@
                                 <div class="inner wow fadeInRight">
                                     <ul class="links">
                                         <li>
-                                            <span style="color: #ffffff"><a href="/page/about.html"
+                                            <span style="color: #ffffff"><a href="#"
                                                     style="color: #ffffff">Giới thiệu</a></span>
                                         </li>
                                         <li>
-                                            <span style="color: #ffffff"><a href="/page/contact.html"
+                                            <span style="color: #ffffff"><a href="#"
                                                     style="color: #ffffff">Liên hệ</a></span>
                                         </li>
                                     </ul>

@@ -12,7 +12,7 @@
                                         <nav style="--bs-breadcrumb-divider: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&quot;);"
                                             aria-label="breadcrumb">
                                             <ol class="breadcrumb">
-                                                <li class="breadcrumb-item"><a href="/" title="Trang chủ">Trang chủ</a>
+                                                <li class="breadcrumb-item"><a href="#" title="Trang chủ">Trang chủ</a>
                                                 </li>
                                                 <li class="breadcrumb-item active" aria-current="page">Chương trình định
                                                     cư</li>
@@ -32,7 +32,7 @@
                         <div id="dinh-cu-my" data-id="227" class="row feature-list">
                             <div data-id="695" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-eb-3-dien-tay-nghe-lao-dong/"
+                                    href="#"
                                     title="Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -60,7 +60,7 @@
                                 </a>
                             </div>
                             <div data-id="690" class="col-12 col-md-4 mt-10">
-                                <a target="_blank" href="https://sigroup.vn/chuong-trinh/eb-5-chuong-trinh-dien-dau-tu/"
+                                <a target="_blank" href="#"
                                     title="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"
@@ -86,7 +86,7 @@
                             </div>
                             <div data-id="1953" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-eb-2-visa-tai-nang-dac-biet/"
+                                    href="#"
                                     title="Visa định cư Mỹ EB-2 diện tài năng đặc biệt" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2023/12/visa-EB-2-tai-nang-dac-biet.jpg"
@@ -128,7 +128,7 @@
                         <div id="dinh-cu-uc" data-id="43" class="row feature-list">
                             <div data-id="13119" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-tay-nghe-theo-nhu-cau-skills-in-demand-visa/"
+                                    href="#"
                                     title="Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -161,7 +161,7 @@
                             </div>
                             <div data-id="12720" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-doi-moi-quoc-gia-national-innovation-visa/"
+                                    href="#"
                                     title="Visa Đổi mới Quốc gia (National Innovation Visa)" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
@@ -193,7 +193,7 @@
                             </div>
                             <div data-id="804" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-494-dama-dinh-cu-uc-dien-tay-nghe-tam-tru-vung-chi-dinh/"
+                                    href="#"
                                     title="Visa 494 DAMA – Định cư Úc diện tay nghề tạm trú vùng chỉ định"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -243,7 +243,7 @@
                         <div id="dinh-cu-canada" data-id="132" class="row feature-list">
                             <div data-id="8309" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-de-cu-tinh-bang-alberta-dien-express-entry/"
+                                    href="#"
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Express Entry" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
@@ -277,7 +277,7 @@
                             </div>
                             <div data-id="8307" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-de-cu-tinh-bang-alberta-dien-co-hoi-alberta-aos/"
+                                    href="#"
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Cơ hội Alberta (Alberta Opportunity Stream)"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -311,7 +311,7 @@
                             </div>
                             <div data-id="8305" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-de-cu-tinh-bang-alberta-dien-doi-moi-nong-thon-rrs/"
+                                    href="#"
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Đổi mới Nông thôn (Rural Renewal Stream)"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -360,7 +360,7 @@
                         </div>
                         <div id="dinh-cu-eu" data-id="382" class="row feature-list">
                             <div data-id="15305" class="col-12 col-md-4 mt-10">
-                                <a target="_blank" href="https://sigroup.vn/chuong-trinh/quoc-te-hoa-doanh-nghiep/"
+                                <a target="_blank" href="#"
                                     title="Quốc tế hóa doanh nghiệp" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
@@ -391,7 +391,7 @@
                             </div>
                             <div data-id="15313" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-dau-tu-so-huu-quoc-tich-chau-au-chi-trong-120-ngay/"
+                                    href="#"
                                     title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -425,7 +425,7 @@
                             </div>
                             <div data-id="14698" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-dau-tu-so-huu-quoc-tich-malta-giai-phap-doc-quyen-2025/"
+                                    href="#"
                                     title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"

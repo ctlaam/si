@@ -12,7 +12,7 @@
                                         <nav style="--bs-breadcrumb-divider: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&quot;);"
                                             aria-label="breadcrumb">
                                             <ol class="breadcrumb">
-                                                <li class="breadcrumb-item"><a href="/" title="Trang chủ">Trang chủ</a>
+                                                <li class="breadcrumb-item"><a href="#" title="Trang chủ">Trang chủ</a>
                                                 </li>
                                                 <li class="breadcrumb-item active" aria-current="page">Sự Kiện</li>
                                             </ol>
@@ -32,7 +32,7 @@
                                             :autoplaySpeed="2000" :slidesToShow="1" :slidesToScroll="1">
                                             <!-- Slide 1 -->
                                             <a target="_blank"
-                                                href="https://sigroup.vn/su-kien/si-group-ky-thoa-thuan-hop-tac-dau-tu-voi-chinh-phu-solomon/"
+                                                href="#"
                                                 title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ">
                                                 <div class="justify-center align-items-center position-relative bg-banner vh-80"
                                                     :style="{
@@ -65,7 +65,7 @@
 
                                             <!-- Slide 2 -->
                                             <a target="_blank"
-                                                href="https://sigroup.vn/su-kien/bo-ngoai-giao-my-trao-tang-giai-thuong-dong-gop-xuat-sac-cho-pho-chu-tich-hdqt-si-group-ba-nguyen-thi-bich-ha/"
+                                                href="#"
                                                 title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà">
                                                 <div class="justify-center align-items-center position-relative bg-banner vh-80"
                                                     :style="{
@@ -98,7 +98,7 @@
 
                                             <!-- Slide 3 -->
                                             <a target="_blank"
-                                                href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
+                                                href="#"
                                                 title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp & Độc quyền sở hữu quốc tịch">
                                                 <div class="justify-center align-items-center position-relative bg-banner vh-80"
                                                     :style="{
@@ -134,7 +134,7 @@
                                 <div class="row">
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
-                                            href="https://sigroup.vn/su-kien/si-group-ky-thoa-thuan-hop-tac-dau-tu-voi-chinh-phu-solomon/"
+                                            href="#"
                                             title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                             class="si-event mt-10">
                                             <div class="img">
@@ -171,7 +171,7 @@
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
-                                            href="https://sigroup.vn/su-kien/bo-ngoai-giao-my-trao-tang-giai-thuong-dong-gop-xuat-sac-cho-pho-chu-tich-hdqt-si-group-ba-nguyen-thi-bich-ha/"
+                                            href="#"
                                             title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                                             class="si-event mt-10">
                                             <div class="img">
@@ -214,7 +214,7 @@
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
-                                            href="https://sigroup.vn/su-kien/lanh-dao-si-group-thao-luan-voi-chinh-quyen-queensland-ve-chien-luoc-hop-tac-dau-tu/"
+                                            href="#"
                                             title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                                             class="si-event mt-10">
                                             <div class="img">
@@ -249,7 +249,7 @@
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
-                                            href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
+                                            href="#"
                                             title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
                                             class="si-event mt-10">
                                             <div class="img">
@@ -285,7 +285,7 @@
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
-                                            href="https://sigroup.vn/su-kien/si-group-to-chuc-buoi-training-chuyen-sau-cac-san-pham-doc-quyen-voi-doi-tac-chien-luoc/"
+                                            href="#"
                                             title="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                                             class="si-event mt-10">
                                             <div class="img">
@@ -319,7 +319,7 @@
                                     </div>
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
-                                            href="https://sigroup.vn/su-kien/ban-lanh-dao-si-group-va-thu-tuong-bahamas-trao-doi-ke-hoach-hop-tac-dau-tu-vao-dac-khu-kinh-te-sez/"
+                                            href="#"
                                             title="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
                                             class="si-event mt-10">
                                             <div class="img">
@@ -358,14 +358,14 @@
                                             <div class="si-pagi">
                                                 <span aria-current="page" class="page-numbers current">1</span>
                                                 <a class="page-numbers"
-                                                    href="https://sigroup.vn/su-kien-si-group/page/2/">2</a>
+                                                    href="#">2</a>
                                                 <a class="page-numbers"
-                                                    href="https://sigroup.vn/su-kien-si-group/page/3/">3</a>
+                                                    href="#">3</a>
                                                 <span class="page-numbers dots">…</span>
                                                 <a class="page-numbers"
-                                                    href="https://sigroup.vn/su-kien-si-group/page/9/">9</a>
+                                                    href="#">9</a>
                                                 <a class="next page-numbers"
-                                                    href="https://sigroup.vn/su-kien-si-group/page/2/">
+                                                    href="#">
                                                     <div class="si-next"></div>
                                                 </a>
                                             </div>
@@ -387,7 +387,7 @@
                                         cấp giải pháp tối ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ
                                         thành công và thời gian hoàn thành cho từng dịch vụ.<br>Để được tư vấn chính
                                         xác, nhanh chóng và bảo mật, Quý khách liên hệ trực tiếp Hotline <a
-                                            href="tel:+84979355355">(+84) 979 355 355</a> hoặc để lại thông tin. Đội ngũ
+                                            href="#">(+84) 979 355 355</a> hoặc để lại thông tin. Đội ngũ
                                         với hơn 20 năm kinh nghiệm của SI Group luôn sẵn sàng để kết nối và tư vấn miễn
                                         phí. </div>
                                 </div>

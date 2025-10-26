@@ -14,8 +14,8 @@
                             </div>
                             <div class="top-right clearfix">
                                 <ul class="top-info clearfix">
-                                    <li><a href="tel:(+84)76 9998686">(+84)76 9998686</a></li>
-                                    <li><a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a></li>
+                                    <li><a href="#">(+84)76 9998686</a></li>
+                                    <li><a href="#">Paul.nguyen@tsi.com.vn</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -32,11 +32,11 @@
                                 </div>
                             </div>
                             <div class="logo-box">
-                                <div class="logo"><a href="/" title="Delici - Restaurants HTML Template"><img
+                                <div class="logo"><a href="#" title="Delici - Restaurants HTML Template"><img
                                             src="/assets/images/logo.png" alt=""
                                             title="Delici - Restaurants HTML Template"></a></div>
                             </div>
-                            <div class="link link-btn"><a href="/page/contact.html"
+                            <div class="link link-btn"><a href="#"
                                     class="theme-btn btn-style-one clearfix"> <span class="btn-wrap"> <span
                                             class="text-one">Liên hệ</span><span class="text-two">Liên
                                             hệ</span></span></a></div>
@@ -49,24 +49,24 @@
                 <div class="inner-box">
                     <div class="cross-icon hidden-bar-closer"><span class="fa fa-close" data-bs-toggle="collapse"
                             data-bs-target="#menu" data-toggle="collapse" data-target="#menu"></span></div>
-                    <div class="logo-box"><a href="/" title="TSI"><img src="/assets/images/logo.png" alt=""
+                    <div class="logo-box"><a href="#" title="TSI"><img src="/assets/images/logo.png" alt=""
                                 title="TSI"></a></div>
                     <div class="side-menu">
                         <ul class="navigation clearfix">
-                            <li><a href="/">Trang chủ</a></li>
-                            <li><a href="/page/about.html">Giới thiệu</a></li>
-                            <li><a href="/page/distribution.html">Phân phối</a></li>
-                            <li><a href="/page/contact.html">Liên hệ</a></li>
+                            <li><a href="#">Trang chủ</a></li>
+                            <li><a href="#">Giới thiệu</a></li>
+                            <li><a href="#">Phân phối</a></li>
+                            <li><a href="#">Liên hệ</a></li>
                         </ul>
                     </div>
                     <ul class="info">
                         <li>Tầng 44 Bitexco Financial Tower 02 Hải Triều, Bến Nghé, Quận 1, Hồ Chí Minh</li>
                         <li>Tầng 19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</li>
-                        <li><a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a></li>
+                        <li><a href="#">Paul.nguyen@tsi.com.vn</a></li>
                     </ul>
                     <div class="separator"><span></span></div>
                     <div class="booking-info">
-                        <div class="bk-no"><a href="tel:(+84)76 9998686">(+84)76 9998686</a></div>
+                        <div class="bk-no"><a href="#">(+84)76 9998686</a></div>
                     </div>
                 </div>
             </section>
@@ -133,7 +133,7 @@
                                                 ngư trở thành món quà quý giá từ đại dương và được giới thượng lưu săn
                                                 lùng.&nbsp;<br></span></span><span class="lead"><br><br></span>
                                     </div>
-                                    <a href="#https://tsi.com.vn/less/post/bao-ngu-vien-xanh-uc-yumbah"
+                                    <a href="#"
                                         class="btn btn-outline-light">Xem thêm</a>
                                 </div>
                             </div>

@@ -12,7 +12,7 @@
                                     với nhu cầu, điều kiện riêng biệt của từng Quý khách hàng. Chúng tôi cung cấp giải
                                     pháp tối ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ thành công và
                                     thời gian hoàn thành cho từng dịch vụ.<br>Để được tư vấn chính xác, nhanh chóng và
-                                    bảo mật, Quý khách liên hệ trực tiếp Hotline <a href="tel:+84979355355">(+84) 979
+                                    bảo mật, Quý khách liên hệ trực tiếp Hotline <a href="#">(+84) 979
                                         355 355</a> hoặc để lại thông tin. Đội ngũ với hơn 20 năm kinh nghiệm của SI
                                     Group luôn sẵn sàng để kết nối và tư vấn miễn phí. </div>
                             </div>

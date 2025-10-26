@@ -12,7 +12,7 @@
                                         <nav style="--bs-breadcrumb-divider: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&quot;);"
                                             aria-label="breadcrumb">
                                             <ol class="breadcrumb">
-                                                <li class="breadcrumb-item"><a href="/" title="Trang chủ">Trang chủ</a>
+                                                <li class="breadcrumb-item"><a href="#" title="Trang chủ">Trang chủ</a>
                                                 </li>
                                                 <li class="breadcrumb-item active" aria-current="page">Tin Tức</li>
                                             </ol>
@@ -77,7 +77,7 @@
                         <div class="row feature mt-10">
                             <div class="col-12 col-md-7">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/bo-an-ninh-noi-dia-hoa-ky-dhs-de-xuat-giam-phi-chuong-trinh-eb-5/"
+                                    href="#"
                                     title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
@@ -100,7 +100,7 @@
                             </div>
                             <div class="col-12 col-md-5">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/bo-an-ninh-noi-dia-hoa-ky-dhs-de-xuat-giam-phi-chuong-trinh-eb-5/"
+                                    href="#"
                                     title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5">
                                     <h1>Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5</h1>
                                     <h3 class="my-1"></h3>
@@ -118,7 +118,7 @@
                         <div class="row feature-list">
                             <div class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/to-chuc-chi-dinh-trong-chuong-trinh-start-up-visa-canada/"
+                                    href="#"
                                     title="So sánh ba nhóm tổ chức chỉ định trong chương trình Start-up Visa Canada"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -143,7 +143,7 @@
 
                             <div class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/lo-hong-moi-trong-chuong-trinh-express-entry-canada-gian-lan-ket-qua-thi-tieng-phap/"
+                                    href="#"
                                     title="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -167,7 +167,7 @@
                             </div>
 
                             <div class="col-12 col-md-4 mt-10">
-                                <a target="_blank" href="https://sigroup.vn/tin-tuc/mua-nha-dinh-cu-o-uc/"
+                                <a target="_blank" href="#"
                                     title="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -191,7 +191,7 @@
 
                             <div class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/lam-sao-de-co-duoc-thu-moi-chinh-thuc-tu-to-chuc-chi-dinh-canada/"
+                                    href="#"
                                     title="Làm sao để có được thư mời chính thức từ tổ chức chỉ định Canada?"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -216,7 +216,7 @@
 
                             <div class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/cac-tieu-chi-de-chon-du-an-start-up-visa-canada-phu-hop/"
+                                    href="#"
                                     title="Các tiêu chí để chọn dự án Start-up Visa Canada phù hợp" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-9.jpg"
@@ -239,7 +239,7 @@
 
                             <div class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/so-sanh-chuong-trinh-dau-tu-dinh-cu-new-zealand-va-uc/"
+                                    href="#"
                                     title="So sánh chương trình đầu tư định cư New Zealand và Úc" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-10.jpg"
@@ -264,11 +264,11 @@
                             <div class="col-12">
                                 <div class="si-pagi">
                                     <span aria-current="page" class="page-numbers current">1</span>
-                                    <a class="page-numbers" href="https://sigroup.vn/tin-tuc-si-group/page/2/">2</a>
-                                    <a class="page-numbers" href="https://sigroup.vn/tin-tuc-si-group/page/3/">3</a>
+                                    <a class="page-numbers" href="#">2</a>
+                                    <a class="page-numbers" href="#">3</a>
                                     <span class="page-numbers dots">…</span>
-                                    <a class="page-numbers" href="https://sigroup.vn/tin-tuc-si-group/page/129/">129</a>
-                                    <a class="next page-numbers" href="https://sigroup.vn/tin-tuc-si-group/page/2/">
+                                    <a class="page-numbers" href="#">129</a>
+                                    <a class="next page-numbers" href="#">
                                         <div class="si-next"></div>
                                     </a>
                                 </div>

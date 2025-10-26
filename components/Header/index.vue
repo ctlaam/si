@@ -2,7 +2,7 @@
     <div class="si-header">
         <div class="container d-flex align-items-center justify-content-between">
             <div class="background w-100 h-100 position-absolute"></div>
-            <a class="logo position-relative" href="https://sigroup.vn/">
+            <a class="logo position-relative" href="#">
                 <img class="d-none d-md-block py-3" width="131" height="101"
                     src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/si_logofullgold.png" alt="SI Group">
                 <img class="d-md-none entered lazyloaded" width="58" height="40"
@@ -17,7 +17,7 @@
                 <div class="si-top d-flex align-items-center justify-content-end">
 
                     <div class="call d-flex align-items-center">
-                        <a href="tel:+84979355355">(+84) 979 355 355</a>
+                        <a href="#">(+84) 979 355 355</a>
                     </div>
                     <!-- <div>
                         <img class="search-top" width="24"
@@ -33,208 +33,157 @@
                 <div class="si-nav d-none d-md-flex justify-content-end">
                     <div class="menu-main-container">
                         <ul id="menu-main" class="menu-main list-unstyled">
-                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" ><span>Về
+                            <li class="menu-item current-menu-item"><a href="#"><span>Về
                                         SI Group</span></a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="/ve-chung-toi#gia-tri-cot-loi"><span>Giá trị cốt
+                                    <li class="menu-item"><a href="#"><span>Giá trị cốt
                                                 lõi</span></a></li>
-                                    <li class="menu-item"><a href="/ve-chung-toi#lich-su-phat-trien"><span>Lịch sử phát
+                                    <li class="menu-item"><a href="#"><span>Lịch sử phát
                                                 triển</span></a></li>
-                                    <li class="menu-item"><a href="/ve-chung-toi#chung-nhan-giai-thuong"><span>Chứng
+                                    <li class="menu-item"><a href="#"><span>Chứng
                                                 nhận &amp; Giải thưởng</span></a></li>
-                                    <li class="menu-item"><a href="/ve-chung-toi#ban-lanh-dao"><span>Ban lãnh
+                                    <li class="menu-item"><a href="#"><span>Ban lãnh
                                                 đạo</span></a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/bao-chi/"><span>Báo chí</span></a>
+                                    <li class="menu-item"><a href="#"><span>Báo chí</span></a>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/khach-hang-thanh-cong-si-group/"><span>Khách hàng
+                                    <li class="menu-item"><a href="#"><span>Khách hàng
                                                 thành công</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="/SettlementProgram"><span>Chương trình
+                            <li class="menu-item"><a href="#"><span>Chương trình
                                         định cư</span></a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-my/"><span>Định
+                                    <li class="menu-item"><a href="#"><span>Định
                                                 cư Mỹ</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/eb-5-chuong-trinh-dien-dau-tu/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-5 định cư Mỹ diện đầu tư</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-eb-3-dien-tay-nghe-lao-dong/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-3 định cư Mỹ diện tay nghề</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-eb-2-visa-tai-nang-dac-biet/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-2 định cư Mỹ diện tài năng đặc biệt</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-eb-1c-chuong-trinh-dinh-cu-my-danh-cho-nhan-su-cap-cao/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-1C định cư Mỹ</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-l-1a-chuong-trinh-dien-doanh-nhan/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         L-1A định cư Mỹ diện doanh nhân</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/danh-sach-nganh-nghe-uu-tien-dinh-cu/danh-sach-nganh-nghe-uu-tien-dinh-cu-my/"><span>Danh
+                                            <li class="menu-item"><a href="#"><span>Danh
                                                         sách ngành nghề ưu tiên định cư Mỹ</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-uc/"><span>Định
+                                    <li class="menu-item"><a href="#"><span>Định
                                                 cư Úc</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-tay-nghe-theo-nhu-cau-skills-in-demand-visa/"><span>Skills
+                                            <li class="menu-item"><a href="#"><span>Skills
                                                         in Demand Visa</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-doi-moi-quoc-gia-national-innovation-visa/"><span>National
+                                            <li class="menu-item"><a href="#"><span>National
                                                         Innovation Visa</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-visa-494-lao-dong-tay-nghe-do-doanh-nghiep-bao-lanh/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         494 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-494-dama-dinh-cu-uc-dien-tay-nghe-tam-tru/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         494 DAMA</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-186-dinh-cu-dien-tay-nghe-do-doanh-nghiep-de-cu/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         186 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-491-chuong-trinh-dinh-cu-dien-tay-nghe-khu-vuc-chi-dinh/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         491 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-190-chuong-trinh-dinh-cu-dien-tay-nghe-bao-lanh-bang/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         190 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/tin-tuc/visa-482-obs-giai-phap-danh-cho-nha-dau-tu-trong-boi-canh-visa-188-dong-cua/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         482 OBS</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-482-dinh-cu-uc-dien-tay-nghe-tam-tru/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         482</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-482-dama-dinh-cu-uc-dien-tay-nghe-tam-tru-vung-chi-dinh/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         482 DAMA</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/danh-sach-nganh-nghe-uu-tien-dinh-cu/danh-sach-nganh-nghe-uu-tien-dinh-cu-uc/"><span>Danh
+                                            <li class="menu-item"><a href="#"><span>Danh
                                                         sách ngành nghề ưu tiên định cư Úc</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-canada/"><span>Định cư
+                                    <li class="menu-item"><a href="#"><span>Định cư
                                                 Canada</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-thi-thuc-khoi-nghiep-start-up-visa/"><span>Chương
+                                            <li class="menu-item"><a href="#"><span>Chương
                                                         trình Start up visa Canada diện khởi nghiệp</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-express-entry-dinh-cu-dien-tay-nghe-cao/"><span>Chương
+                                            <li class="menu-item"><a href="#"><span>Chương
                                                         trình Express Entry Canada định cư diện tay nghề
                                                         cao</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/danh-sach-nganh-nghe-uu-tien-dinh-cu/danh-sach-nganh-nghe-uu-tien-dinh-cu-canada/"><span>Danh
+                                            <li class="menu-item"><a href="#"><span>Danh
                                                         sách ngành nghề ưu tiên định cư Canada</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-eu/"><span>Định
+                                    <li class="menu-item"><a href="#"><span>Định
                                                 cư Châu Âu</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-bo-dao-nha/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Bồ Đào Nha</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-hungary/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Hungary</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-malta/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Malta</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-slovakia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Slovakia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-bulgaria/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Bulgaria</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-hy-lap/"><span>Định cư Hy
+                                            <li class="menu-item"><a href="#"><span>Định cư Hy
                                                         Lạp</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-tay-ban-nha/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Tây Ban Nha</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-y/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Ý</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-dao-sip/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Đảo Síp</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-latvia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Latvia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-ireland/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Ireland</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-vuong-quoc-anh/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Vương Quốc Anh</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-tho-nhi-ky/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Thổ Nhĩ Kỳ</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-slovenia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Slovenia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-thuy-si/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Thụy Sĩ</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-phap/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Pháp</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-cac-nuoc-khac/"><span>Định cư các
+                                    <li class="menu-item"><a href="#"><span>Định cư các
                                                 nước khác</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-dominica/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Dominica</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-grenada/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Grenada</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-vanuatu/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Vanuatu</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-st-kitts-nevis/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư St. Kitts &amp; Nevis</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-antigua-barbuda/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Antigua &amp; Barbuda</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-malaysia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Malaysia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-saint-lucia/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Saint Lucia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-singapore/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Singapore</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-new-zealand/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư New Zealand</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-uae/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         UAE</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-toan-cau"><span>Định cư toàn
+                                    <li class="menu-item"><a href="#"><span>Định cư toàn
                                                 cầu</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a 
-                                    href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
+                            <li class="menu-item"><a href="#"><span>Bất động sản</span></a>
                             </li>
-                            <li class="menu-item"><a href="/tsi" rel="nofollow"><span>Xuất nhập
+                            <li class="menu-item"><a href="#" rel="nofollow"><span>Xuất nhập
                                         khẩu</span></a></li>
-                            <li class="menu-item"><a href="/Events"><span>Sự
+                            <li class="menu-item"><a href="#"><span>Sự
                                         Kiện</span></a></li>
-                            <li class="menu-item"><a href="/News"><span>Tin
+                            <li class="menu-item"><a href="#"><span>Tin
                                         Tức</span></a></li>
-                            <li class="menu-item"><a href="/Contacts"><span>Liên
+                            <li class="menu-item"><a href="#"><span>Liên
                                         Hệ</span></a></li>
                         </ul>
                     </div>
@@ -243,208 +192,157 @@
                     <span class="si-nav-close"></span>
                     <div class="menu-main-container">
                         <ul id="menu-main-1" class="menu-main list-unstyled">
-                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" aria-current="page"><span>Về
+                            <li class="menu-item current-menu-item"><a href="#" aria-current="page"><span>Về
                                         SI Group</span></a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="/ve-chung-toi#gia-tri-cot-loi"><span>Giá trị cốt
+                                    <li class="menu-item"><a href="#"><span>Giá trị cốt
                                                 lõi</span></a></li>
-                                    <li class="menu-item"><a href="/ve-chung-toi#lich-su-phat-trien"><span>Lịch sử phát
+                                    <li class="menu-item"><a href="#"><span>Lịch sử phát
                                                 triển</span></a></li>
-                                    <li class="menu-item"><a href="/ve-chung-toi#chung-nhan-giai-thuong"><span>Chứng
+                                    <li class="menu-item"><a href="#"><span>Chứng
                                                 nhận &amp; Giải thưởng</span></a></li>
-                                    <li class="menu-item"><a href="/ve-chung-toi#ban-lanh-dao"><span>Ban lãnh
+                                    <li class="menu-item"><a href="#"><span>Ban lãnh
                                                 đạo</span></a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/bao-chi/"><span>Báo chí</span></a>
+                                    <li class="menu-item"><a href="#"><span>Báo chí</span></a>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/khach-hang-thanh-cong-si-group/"><span>Khách hàng
+                                    <li class="menu-item"><a href="#"><span>Khách hàng
                                                 thành công</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="/SettlementProgram"><span>Chương trình
+                            <li class="menu-item"><a href="#"><span>Chương trình
                                         định cư</span></a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-my/"><span>Định
+                                    <li class="menu-item"><a href="#"><span>Định
                                                 cư Mỹ</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/eb-5-chuong-trinh-dien-dau-tu/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-5 định cư Mỹ diện đầu tư</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-eb-3-dien-tay-nghe-lao-dong/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-3 định cư Mỹ diện tay nghề</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-eb-2-visa-tai-nang-dac-biet/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-2 định cư Mỹ diện tài năng đặc biệt</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-eb-1c-chuong-trinh-dinh-cu-my-danh-cho-nhan-su-cap-cao/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         EB-1C định cư Mỹ</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-l-1a-chuong-trinh-dien-doanh-nhan/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         L-1A định cư Mỹ diện doanh nhân</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/danh-sach-nganh-nghe-uu-tien-dinh-cu/danh-sach-nganh-nghe-uu-tien-dinh-cu-my/"><span>Danh
+                                            <li class="menu-item"><a href="#"><span>Danh
                                                         sách ngành nghề ưu tiên định cư Mỹ</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-uc/"><span>Định
+                                    <li class="menu-item"><a href="#"><span>Định
                                                 cư Úc</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-tay-nghe-theo-nhu-cau-skills-in-demand-visa/"><span>Skills
+                                            <li class="menu-item"><a href="#"><span>Skills
                                                         in Demand Visa</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-doi-moi-quoc-gia-national-innovation-visa/"><span>National
+                                            <li class="menu-item"><a href="#"><span>National
                                                         Innovation Visa</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-visa-494-lao-dong-tay-nghe-do-doanh-nghiep-bao-lanh/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         494 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-494-dama-dinh-cu-uc-dien-tay-nghe-tam-tru/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         494 DAMA</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-186-dinh-cu-dien-tay-nghe-do-doanh-nghiep-de-cu/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         186 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-491-chuong-trinh-dinh-cu-dien-tay-nghe-khu-vuc-chi-dinh/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         491 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-190-chuong-trinh-dinh-cu-dien-tay-nghe-bao-lanh-bang/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         190 Úc</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/tin-tuc/visa-482-obs-giai-phap-danh-cho-nha-dau-tu-trong-boi-canh-visa-188-dong-cua/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         482 OBS</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-482-dinh-cu-uc-dien-tay-nghe-tam-tru/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         482</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/visa-482-dama-dinh-cu-uc-dien-tay-nghe-tam-tru-vung-chi-dinh/"><span>Visa
+                                            <li class="menu-item"><a href="#"><span>Visa
                                                         482 DAMA</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/danh-sach-nganh-nghe-uu-tien-dinh-cu/danh-sach-nganh-nghe-uu-tien-dinh-cu-uc/"><span>Danh
+                                            <li class="menu-item"><a href="#"><span>Danh
                                                         sách ngành nghề ưu tiên định cư Úc</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-canada/"><span>Định cư
+                                    <li class="menu-item"><a href="#"><span>Định cư
                                                 Canada</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-thi-thuc-khoi-nghiep-start-up-visa/"><span>Chương
+                                            <li class="menu-item"><a href="#"><span>Chương
                                                         trình Start up visa Canada diện khởi nghiệp</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-express-entry-dinh-cu-dien-tay-nghe-cao/"><span>Chương
+                                            <li class="menu-item"><a href="#"><span>Chương
                                                         trình Express Entry Canada định cư diện tay nghề
                                                         cao</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/danh-sach-nganh-nghe-uu-tien-dinh-cu/danh-sach-nganh-nghe-uu-tien-dinh-cu-canada/"><span>Danh
+                                            <li class="menu-item"><a href="#"><span>Danh
                                                         sách ngành nghề ưu tiên định cư Canada</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-eu/"><span>Định
+                                    <li class="menu-item"><a href="#"><span>Định
                                                 cư Châu Âu</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-bo-dao-nha/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Bồ Đào Nha</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-hungary/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Hungary</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-malta/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Malta</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-slovakia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Slovakia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-bulgaria/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Bulgaria</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-hy-lap/"><span>Định cư Hy
+                                            <li class="menu-item"><a href="#"><span>Định cư Hy
                                                         Lạp</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-tay-ban-nha/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Tây Ban Nha</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-y/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Ý</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-dao-sip/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Đảo Síp</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-latvia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Latvia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-ireland/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Ireland</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-vuong-quoc-anh/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Vương Quốc Anh</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-tho-nhi-ky/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Thổ Nhĩ Kỳ</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-slovenia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Slovenia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-thuy-si/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Thụy Sĩ</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-phap/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Pháp</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-cac-nuoc-khac/"><span>Định cư các
+                                    <li class="menu-item"><a href="#"><span>Định cư các
                                                 nước khác</span></a>
                                         <ul class="sub-menu">
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-dominica/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Dominica</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-grenada/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Grenada</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-vanuatu/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Vanuatu</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-st-kitts-nevis/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư St. Kitts &amp; Nevis</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-antigua-barbuda/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Antigua &amp; Barbuda</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-malaysia/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Malaysia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-saint-lucia/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư Saint Lucia</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-singapore/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         Singapore</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-new-zealand/"><span>Định
+                                            <li class="menu-item"><a href="#"><span>Định
                                                         cư New Zealand</span></a></li>
-                                            <li class="menu-item"><a
-                                                    href="https://sigroup.vn/quoc-gia/dinh-cu-uae/"><span>Định cư
+                                            <li class="menu-item"><a href="#"><span>Định cư
                                                         UAE</span></a></li>
                                         </ul>
                                     </li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-toan-cau"><span>Định cư toàn
+                                    <li class="menu-item"><a href="#"><span>Định cư toàn
                                                 cầu</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a 
-                                    href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
+                            <li class="menu-item"><a href="#"><span>Bất động sản</span></a>
                             </li>
 
-                            <li class="menu-item"><a  href="/tsi"><span>Xuất nhập khẩu</span></a></li>
-                            <li class="menu-item"><a href="https://sigroup.vn/su-kien-si-group/"><span>Sự
+                            <li class="menu-item"><a href="#"><span>Xuất nhập khẩu</span></a></li>
+                            <li class="menu-item"><a href="#"><span>Sự
                                         Kiện</span></a></li>
-                            <li class="menu-item"><a href="/News"><span>Tin
+                            <li class="menu-item"><a href="#"><span>Tin
                                         Tức</span></a></li>
-                            <li class="menu-item"><a href="/Contacts"><span>Liên
+                            <li class="menu-item"><a href="#"><span>Liên
                                         Hệ</span></a></li>
                         </ul>
                     </div>

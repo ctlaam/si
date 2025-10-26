@@ -13,7 +13,7 @@
                       style="--bs-breadcrumb-divider: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&quot;);"
                       aria-label="breadcrumb">
                       <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="/" title="Trang chủ">Trang chủ</a></li>
+                        <li class="breadcrumb-item"><a href="#" title="Trang chủ">Trang chủ</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Về SI Group</li>
                       </ol>
                     </nav>
@@ -101,7 +101,7 @@
                 </div>
                 <div class="company">
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="https://sigroup.vn/solution-international-group/"><img
+                    <a rel="nofollow" target="_blank" href="#"><img
                         src="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png"
                         alt="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png"
                         data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png" data-ll-status="loaded"
@@ -110,7 +110,7 @@
                           alt="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="https://tsi.com.vn/"><img
+                    <a rel="nofollow" target="_blank" href="#"><img
                         src="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png"
                         alt="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png"
                         data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png" data-ll-status="loaded"
@@ -119,7 +119,7 @@
                           alt="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="https://rsi.hk/"><img
+                    <a rel="nofollow" target="_blank" href="#"><img
                         src="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png"
                         alt="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png"
                         data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png" data-ll-status="loaded"
@@ -128,7 +128,7 @@
                           alt="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="https://asiansolution.com.au/"><img
+                    <a rel="nofollow" target="_blank" href="#"><img
                         src="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png"
                         alt="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png"
                         data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png" data-ll-status="loaded"
@@ -137,7 +137,7 @@
                           alt="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="https://sigroup.vn/solution-international-group/"><img
+                    <a rel="nofollow" target="_blank" href="#"><img
                         src="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png"
                         alt="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png"
                         data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png"
@@ -146,7 +146,7 @@
                           alt="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png" /></noscript></a>
                   </div>
                   <div class="img">
-                    <a rel="nofollow" target="_blank" href="https://pafoundation.org.vn/"><img
+                    <a rel="nofollow" target="_blank" href="#"><img
                         src="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
                         alt="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
                         data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
