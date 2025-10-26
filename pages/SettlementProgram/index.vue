@@ -12,7 +12,7 @@
                                         <nav style="--bs-breadcrumb-divider: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&quot;);"
                                             aria-label="breadcrumb">
                                             <ol class="breadcrumb">
-                                                <li class="breadcrumb-item"><a href="/" title="Trang chủ">Trang chủ</a>
+                                                <li class="breadcrumb-item"><a href="#" title="Trang chủ">Trang chủ</a>
                                                 </li>
                                                 <li class="breadcrumb-item active" aria-current="page">Chương trình định
                                                     cư</li>
@@ -32,7 +32,7 @@
                         <div id="dinh-cu-my" data-id="227" class="row feature-list">
                             <div data-id="695" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-eb-3-dien-tay-nghe-lao-dong/"
+                                    href="#"
                                     title="Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -60,7 +60,7 @@
                                 </a>
                             </div>
                             <div data-id="690" class="col-12 col-md-4 mt-10">
-                                <a target="_blank" href="https://sigroup.vn/chuong-trinh/eb-5-chuong-trinh-dien-dau-tu/"
+                                <a target="_blank" href="#"
                                     title="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"
@@ -86,7 +86,7 @@
                             </div>
                             <div data-id="1953" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-eb-2-visa-tai-nang-dac-biet/"
+                                    href="#"
                                     title="Visa định cư Mỹ EB-2 diện tài năng đặc biệt" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2023/12/visa-EB-2-tai-nang-dac-biet.jpg"
@@ -128,7 +128,7 @@
                         <div id="dinh-cu-uc" data-id="43" class="row feature-list">
                             <div data-id="13119" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-tay-nghe-theo-nhu-cau-skills-in-demand-visa/"
+                                    href="#"
                                     title="Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -161,7 +161,7 @@
                             </div>
                             <div data-id="12720" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-doi-moi-quoc-gia-national-innovation-visa/"
+                                    href="#"
                                     title="Visa Đổi mới Quốc gia (National Innovation Visa)" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
@@ -193,7 +193,7 @@
                             </div>
                             <div data-id="804" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-494-dama-dinh-cu-uc-dien-tay-nghe-tam-tru-vung-chi-dinh/"
+                                    href="#"
                                     title="Visa 494 DAMA – Định cư Úc diện tay nghề tạm trú vùng chỉ định"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -243,7 +243,7 @@
                         <div id="dinh-cu-canada" data-id="132" class="row feature-list">
                             <div data-id="8309" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-de-cu-tinh-bang-alberta-dien-express-entry/"
+                                    href="#"
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Express Entry" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
@@ -277,7 +277,7 @@
                             </div>
                             <div data-id="8307" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-de-cu-tinh-bang-alberta-dien-co-hoi-alberta-aos/"
+                                    href="#"
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Cơ hội Alberta (Alberta Opportunity Stream)"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -311,7 +311,7 @@
                             </div>
                             <div data-id="8305" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-de-cu-tinh-bang-alberta-dien-doi-moi-nong-thon-rrs/"
+                                    href="#"
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Đổi mới Nông thôn (Rural Renewal Stream)"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -360,7 +360,7 @@
                         </div>
                         <div id="dinh-cu-eu" data-id="382" class="row feature-list">
                             <div data-id="15305" class="col-12 col-md-4 mt-10">
-                                <a target="_blank" href="https://sigroup.vn/chuong-trinh/quoc-te-hoa-doanh-nghiep/"
+                                <a target="_blank" href="#"
                                     title="Quốc tế hóa doanh nghiệp" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
@@ -391,7 +391,7 @@
                             </div>
                             <div data-id="15313" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-dau-tu-so-huu-quoc-tich-chau-au-chi-trong-120-ngay/"
+                                    href="#"
                                     title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                                     class="item mt-5">
                                     <div class="img position-relative">
@@ -425,7 +425,7 @@
                             </div>
                             <div data-id="14698" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-dau-tu-so-huu-quoc-tich-malta-giai-phap-doc-quyen-2025/"
+                                    href="#"
                                     title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
@@ -466,244 +466,9 @@
                         </div>
                     </div>
                 </div>
-                <script
-                    src="data:text/javascript;base64,d2luZG93LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgalF1ZXJ5KHdpbmRvdykub24oImxvYWQiLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBqUXVlcnkoZG9jdW1lbnQpLm9uKCJjbGljayIsICIuZGluaC1jdS1tb3JlIiwgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIHZhciAkdGhhdCA9IGpRdWVyeSh0aGlzKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSA9ICR0aGF0LmF0dHIoImRhdGEtaWQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgaWQgPSBqUXVlcnkoIiMiK25hbWUpLmF0dHIoImRhdGEtaWQiKSwKICAgICAgICAgICAgICAgICAgICAgICAgaWRQb3N0cyA9IFtdOwogICAgICAgICAgICAgICAgICAgIGpRdWVyeSgiIyIgKyBuYW1lICsgIiAuY29sLTEyIikuZWFjaChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkUG9zdHMucHVzaChqUXVlcnkodGhpcykuYXR0cigiZGF0YS1pZCIpKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICBqUXVlcnkuYWpheCh7CiAgICAgICAgICAgICAgICAgICAgICAgIHVybDogQUpBWF9VUkwsCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICJQT1NUIiwKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aW9uOiAibG9hZF9tb3JlX2RpbmhfY3UiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkOiBpZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkUG9zdHM6IGlkUG9zdHMsCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGFUeXBlOiAianNvbiIsCiAgICAgICAgICAgICAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChkYXRhLCB0ZXh0U3RhdHVzLCBqcVhIUikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRhdGEuc3RhdHVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRhdGEucG9zdHMubGVuZ3RoIDwgMykgJHRoYXQuaGlkZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBtb3JlSHRtbCA9ICIiOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEucG9zdHMubWFwKGZ1bmN0aW9uIChpdGVtKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vcmVIdG1sICs9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnPGRpdiBkYXRhLWlkPSInICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0uaWQgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyIgY2xhc3M9ImNvbC0xMiBjb2wtbWQtNCBtdC0xMCI+PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9IicgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5zbHVnICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICciIHRpdGxlPSInICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0udGl0bGUgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyIgY2xhc3M9Iml0ZW0gbXQtNSI+PGRpdiBjbGFzcz0iaW1nIHBvc2l0aW9uLXJlbGF0aXZlIj48aW1nIHNyYz0iJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtLmltYWdlICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICciIGFsdD0iJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtLnRpdGxlICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICciIGNsYXNzPSJibG9nLXRodW1ibmFpbCBpbWctZmx1aWQiPjxkaXYgY2xhc3M9ImQtZmxleCBmbGFnLWRldGFpbCI+PGRpdj48aW1nIHNyYz0iJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtLmZsYWcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyIgYWx0PSInICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0uY291bnRyeSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIj48L2Rpdj48ZGl2PjxzcGFuPicgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5jb3VudHJ5ICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICc8L3NwYW4+PC9kaXY+PC9kaXY+PC9kaXY+PHAgY2xhc3M9InB5LTMgZC1mbGV4IGFsaWduLWl0ZW1zLWNlbnRlciI+PHNwYW4gY2xhc3M9ImNsb2NrIj48L3NwYW4+PHNwYW4+JyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtLmRhdGUgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIjwvc3Bhbj48L3A+PGgyPiIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS50aXRsZSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnPC9oMj48ZGl2IGNsYXNzPSJweS0yIHNpLTMtbGluZSI+PHAgY2xhc3M9Iml0ZW0tc2hvcnQtY29udGVudCI+JyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdGVtLmV4Y2VycHQgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIjwvcD48L2Rpdj48L2E+PC9kaXY+IjsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqUXVlcnkoIiMiICsgbmFtZSkuYXBwZW5kKG1vcmVIdG1sKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3I6IGZ1bmN0aW9uIChqcVhIUiwgdGV4dFN0YXR1cywgZXJyb3JUaHJvd24pIHt9LAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOw=="
-                    data-rocket-status="executed">window.addEventListener('DOMContentLoaded', function() {
-            jQuery(window).on("load", function () {
-                jQuery(document).on("click", ".dinh-cu-more", function () {
-                    var $that = jQuery(this),
-                        name = $that.attr("data-id"),
-                        id = jQuery("#"+name).attr("data-id"),
-                        idPosts = [];
-                    jQuery("#" + name + " .col-12").each(function () {
-                        idPosts.push(jQuery(this).attr("data-id"));
-                    });
-                    jQuery.ajax({
-                        url: AJAX_URL,
-                        type: "POST",
-                        data: {
-                            action: "load_more_dinh_cu",
-                            name: name,
-                            id: id,
-                            idPosts: idPosts,
-                        },
-                        dataType: "json",
-                        success: function (data, textStatus, jqXHR) {
-                            if (data.status) {
-                                if (data.posts.length < 3) $that.hide();
-                                var moreHtml = "";
-                                data.posts.map(function (item) {
-                                    moreHtml +=
-                                        '<div data-id="' +
-                                        item.id +
-                                        '" class="col-12 col-md-4 mt-10"><a target="_blank" href="' +
-                                        item.slug +
-                                        '" title="' +
-                                        item.title +
-                                        '" class="item mt-5"><div class="img position-relative"><img src="' +
-                                        item.image +
-                                        '" alt="' +
-                                        item.title +
-                                        '" class="blog-thumbnail img-fluid"><div class="d-flex flag-detail"><div><img src="' +
-                                        item.flag +
-                                        '" alt="' +
-                                        item.country +
-                                        '"></div><div><span>' +
-                                        item.country +
-                                        '</span></div></div></div><p class="py-3 d-flex align-items-center"><span class="clock"></span><span>' +
-                                        item.date +
-                                        "</span></p><h2>" +
-                                        item.title +
-                                        '</h2><div class="py-2 si-3-line"><p class="item-short-content">' +
-                                        item.excerpt +
-                                        "</p></div></a></div>";
-                                });
-                                jQuery("#" + name).append(moreHtml);
-                            }
-                        },
-                        error: function (jqXHR, textStatus, errorThrown) {},
-                    });
-                });
-            });
-        });</script>
+               
             </main>
-            <footer data-wpr-lazyrender="1" class="si-footer">
-                <div class="container">
-                    <div class="row">
-                        <div class="py-4 col-12 col-md-5">
-                            <div class="si-footer-tt">ĐỊA CHỈ VĂN PHÒNG</div>
-                            <div class="info">
-                                <div>
-                                    <p>
-                                        <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"
-                                            alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"
-                                            data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"
-                                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"></noscript><span>Tầng
-                                            44, Bitexco Financial Tower, 02 Hải Triều, Bến Nghé, Quận 1</span>
-                                    </p>
-                                </div>
-                                <div>
-                                    <p>
-                                        <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"
-                                            alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"
-                                            data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"
-                                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"></noscript><a
-                                            href="tel:+84979355355">(+84) 979 355 355</a>
-                                    </p>
-                                </div>
-                                <div>
-                                    <p>
-                                        <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"
-                                            alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"
-                                            data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"
-                                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"></noscript><a
-                                            href="mailto:info@si.im">info@si.im</a>
-                                    </p>
-                                </div>
-                                <div>
-                                    <p>
-                                        <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Suite
-                                            417, 480 Collins Street, Melbourne, VIC 3000</span>
-                                    </p>
-                                </div>
-                                <div>
-                                    <p>
-                                        <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Tầng
-                                            19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</span>
-                                    </p>
-                                </div>
-                                <div>
-                                    <p>
-                                        <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                            data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
-                                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>700
-                                            12th Street, N.W., Suite 700, Washington, DC, US 20005</span>
-                                    </p>
-                                </div>
-                            </div>
-                            <p class="social">
-                                <a target="_blank" title="Facebook" href="https://www.facebook.com/SIGroupVietNam"
-                                    class="Facebook"></a>
-                                <a target="_blank" title="Zalo" href="https://zalo.me/sigroupvn" class="Zalo"></a>
-                                <a target="_blank" title="Linkedin" href="https://www.linkedin.com/company/90769349/"
-                                    class="Linkedin"></a>
-                                <a target="_blank" title="Youtube" href="https://www.youtube.com/@SI-Group"
-                                    class="Youtube"></a>
-                            </p>
-                        </div>
-                        <div class="py-4 col-12 col-md-3">
-                            <div class="si-footer-tt">GIỚI THIỆU</div>
-                            <div class="menu-gioi-thieu-container">
-                                <ul id="menu-gioi-thieu" class="">
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/solution-international-group/">Giới thiệu SI
-                                            Group</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/su-kien-si-group/">Sự Kiện</a>
-                                    </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/tin-tuc-si-group/">Tin Tức</a>
-                                    </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/lien-he-si-group/">Liên hệ SI
-                                            Group</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="py-4 col-12 col-md-4">
-                            <div class="si-footer-tt">CHƯƠNG TRÌNH</div>
-                            <div class="menu-chuong-trinh-container">
-                                <ul id="menu-chuong-trinh" class="">
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-uc/">Định cư
-                                            Úc</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-canada/">Định cư
-                                            Canada</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-my/">Định cư
-                                            Mỹ</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-eu/">Định cư
-                                            EU</a></li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-cac-nuoc-khac/">Định cư các nước
-                                            khác</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-y/">Định cư Ý</a>
-                                    </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-slovakia/">Định
-                                            cư Slovakia</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-hungary/">Định cư
-                                            Hungary</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-malta/">Định cư
-                                            Malta</a></li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-vuong-quoc-anh/">Định cư Anh</a>
-                                    </li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-bo-dao-nha/">Định
-                                            cư Bồ Đào Nha</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-hy-lap/">Định cư
-                                            Hy Lạp</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-dao-sip/">Định cư
-                                            Đảo Síp</a></li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-tay-ban-nha/">Định cư Tây Ban
-                                            Nha</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-bulgaria/">Định
-                                            cư Bulgaria</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-uae/">Định cư
-                                            UAE</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-grenada/">Định cư
-                                            Grenada</a></li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-antigua-barbuda/">Định cư Antigua
-                                            &amp; Barbuda</a></li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-st-kitts-nevis/">Định cư St. Kitts
-                                            &amp; Nevis</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-dominica/">Định
-                                            cư Dominica</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-singapore/">Định
-                                            cư Singapore</a></li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-saint-lucia/">Định cư Saint
-                                            Lucia</a></li>
-                                    <li class="menu-item"><a
-                                            href="https://sigroup.vn/quoc-gia/dinh-cu-new-zealand/">Định cư New
-                                            Zealand</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-vanuatu/">Định cư
-                                            Vanuatu</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-tho-nhi-ky/">Định
-                                            cư Thổ Nhĩ Kỳ</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-malaysia/">Định
-                                            cư Malaysia</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-ireland/">Định cư
-                                            Ireland</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-latvia/">Định cư
-                                            Latvia</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-phap/">Định cư
-                                            Pháp</a></li>
-                                    <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-toan-cau">Định cư
-                                            toàn cầu</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="copyright">© 2022 SI GROUP. All Rights Reserved By SI GROUP</div>
-                </div>
-            </footer>
+          
             <div class="popup-form">
                 <div class="position-relative">
                     <div class="close-popup"></div>
@@ -715,12 +480,12 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+
 import "@/assets/css/slick.css"
 import "@/assets/css/sig-core.css"
 export default {
     components: {
-        Logo
+        
     }
 }
 </script>
