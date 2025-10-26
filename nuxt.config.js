@@ -56,6 +56,9 @@ export default {
 
   plugins: [
     { src: '~/plugins/vue-slick-carousel.client.js', mode: 'client' }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a2e59103dc8d620d33793671ab604932e78c82a0
   ]
 }
