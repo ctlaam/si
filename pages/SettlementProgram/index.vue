@@ -36,15 +36,15 @@
                                     title="Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/114_8ce002d724.jpg"
+                                        <img src="@/assets/uploads/2023/11/114_8ce002d724.jpg"
                                             alt="Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia"
                                             class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                            <img src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 alt="Định cư Mỹ"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                    src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                     alt="Định cư Mỹ" /></noscript>
                                             <span>Định cư Mỹ</span>
                                         </div>
@@ -63,14 +63,14 @@
                                 <a target="_blank" href="#"
                                     title="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"
+                                        <img src="@/assets/uploads/2023/11/2_f164830d12.png"
                                             alt="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                            <img src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 alt="Định cư Mỹ"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                    src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                     alt="Định cư Mỹ" /></noscript>
                                             <span>Định cư Mỹ</span>
                                         </div>
@@ -89,14 +89,14 @@
                                     href="#"
                                     title="Visa định cư Mỹ EB-2 diện tài năng đặc biệt" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/12/visa-EB-2-tai-nang-dac-biet.jpg"
+                                        <img src="@/assets/uploads/2023/12/visa-EB-2-tai-nang-dac-biet.jpg"
                                             alt="Visa định cư Mỹ EB-2 diện tài năng đặc biệt" class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                            <img src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 alt="Định cư Mỹ"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                    src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                     alt="Định cư Mỹ" /></noscript>
                                             <span>Định cư Mỹ</span>
                                         </div>
@@ -132,20 +132,20 @@
                                     title="Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
+                                        <img src="@/assets/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
                                             alt="Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
+                                            data-lazy-src="@/assets/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
+                                                src="@/assets/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
                                                 alt="Tìm hiểu Skills in Demand Visa (SID) &#8211; Visa Tay nghề theo Nhu cầu"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                            <img src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                 alt="Định cư Úc"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                    src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                     alt="Định cư Úc" /></noscript>
                                             <span>Định cư Úc</span>
                                         </div>
@@ -164,20 +164,20 @@
                                     href="#"
                                     title="Visa Đổi mới Quốc gia (National Innovation Visa)" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
+                                        <img src="@/assets/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
                                             alt="Visa Đổi mới Quốc gia (National Innovation Visa)"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
+                                            data-lazy-src="@/assets/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
+                                                src="@/assets/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
                                                 alt="Visa Đổi mới Quốc gia (National Innovation Visa)"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                            <img src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                 alt="Định cư Úc"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                    src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                     alt="Định cư Úc" /></noscript>
                                             <span>Định cư Úc</span>
                                         </div>
@@ -197,20 +197,20 @@
                                     title="Visa 494 DAMA – Định cư Úc diện tay nghề tạm trú vùng chỉ định"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/1_fa6c3528f8.jpg"
+                                        <img src="@/assets/uploads/2023/11/1_fa6c3528f8.jpg"
                                             alt="Visa 494 DAMA – Định cư Úc diện tay nghề tạm trú vùng chỉ định"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/1_fa6c3528f8.jpg"
+                                            data-lazy-src="@/assets/uploads/2023/11/1_fa6c3528f8.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2023/11/1_fa6c3528f8.jpg"
+                                                src="@/assets/uploads/2023/11/1_fa6c3528f8.jpg"
                                                 alt="Visa 494 DAMA &#8211; Định cư Úc diện tay nghề tạm trú vùng chỉ định"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                            <img src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                 alt="Định cư Úc"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                    src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                     alt="Định cư Úc" /></noscript>
                                             <span>Định cư Úc</span>
                                         </div>
@@ -246,20 +246,20 @@
                                     href="#"
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Express Entry" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
+                                        <img src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
                                             alt="Chương trình Đề cử Tỉnh bang Alberta diện Express Entry"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
+                                            data-lazy-src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
+                                                src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Express-Entry.jpg"
                                                 alt="Chương trình Đề cử Tỉnh bang Alberta diện Express Entry"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                            <img src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 alt="Định cư Canada"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                                    src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                     alt="Định cư Canada" /></noscript>
                                             <span>Định cư Canada</span>
                                         </div>
@@ -281,20 +281,20 @@
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Cơ hội Alberta (Alberta Opportunity Stream)"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Co-hoi-Alberta.jpg"
+                                        <img src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Co-hoi-Alberta.jpg"
                                             alt="Chương trình Đề cử Tỉnh bang Alberta diện Cơ hội Alberta (Alberta Opportunity Stream)"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Co-hoi-Alberta.jpg"
+                                            data-lazy-src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Co-hoi-Alberta.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Co-hoi-Alberta.jpg"
+                                                src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Co-hoi-Alberta.jpg"
                                                 alt="Chương trình Đề cử Tỉnh bang Alberta diện Cơ hội Alberta (Alberta Opportunity Stream)"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                            <img src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 alt="Định cư Canada"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                                    src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                     alt="Định cư Canada" /></noscript>
                                             <span>Định cư Canada</span>
                                         </div>
@@ -315,20 +315,20 @@
                                     title="Chương trình Đề cử Tỉnh bang Alberta diện Đổi mới Nông thôn (Rural Renewal Stream)"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Doi-moi-Nong-thon-RRS.jpg"
+                                        <img src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Doi-moi-Nong-thon-RRS.jpg"
                                             alt="Chương trình Đề cử Tỉnh bang Alberta diện Đổi mới Nông thôn (Rural Renewal Stream)"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Doi-moi-Nong-thon-RRS.jpg"
+                                            data-lazy-src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Doi-moi-Nong-thon-RRS.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Doi-moi-Nong-thon-RRS.jpg"
+                                                src="@/assets/uploads/2024/08/De-cu-Tinh-bang-Alberta-Dien-Doi-moi-Nong-thon-RRS.jpg"
                                                 alt="Chương trình Đề cử Tỉnh bang Alberta diện Đổi mới Nông thôn (Rural Renewal Stream)"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                            <img src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 alt="Định cư Canada"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                                    src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                     alt="Định cư Canada" /></noscript>
                                             <span>Định cư Canada</span>
                                         </div>
@@ -363,18 +363,18 @@
                                 <a target="_blank" href="#"
                                     title="Quốc tế hóa doanh nghiệp" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
+                                        <img src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
                                             alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
+                                            data-lazy-src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
+                                                src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
                                                 alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                            <img src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                 alt="Định cư EU"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                                    src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                     alt="Định cư EU" /></noscript>
                                             <span>Định cư EU</span>
                                         </div>
@@ -395,20 +395,20 @@
                                     title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
+                                        <img src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
                                             alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
+                                            data-lazy-src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
+                                                src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
                                                 alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                            <img src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                 alt="Định cư EU"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                                    src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                     alt="Định cư EU" /></noscript>
                                             <span>Định cư EU</span>
                                         </div>
@@ -428,20 +428,20 @@
                                     href="#"
                                     title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
+                                        <img src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                                             alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group"
                                             class="blog-thumbnail entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
+                                            data-lazy-src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                                             data-ll-status="loaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
+                                                src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                                                 alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                            <img src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                 alt="Định cư EU"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                 data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
+                                                    src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
                                                     alt="Định cư EU" /></noscript>
                                             <span>Định cư EU</span>
                                         </div>
@@ -688,7 +688,7 @@ export default {
 }
 
 .blog-page .feature .time .clock,.blog-page .item p .clock {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-surface.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/clock-surface.png)
 }
 
 .blog-page .feature .img {
@@ -750,7 +750,7 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
@@ -760,18 +760,18 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
 }
 
 .si-pagi a:hover .si-prev {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev-white.png)
 }
 
 .si-pagi a:hover .si-next {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next-white.png)
 }
 
 .blog-detail .content .wp-caption {

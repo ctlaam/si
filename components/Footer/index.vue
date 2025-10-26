@@ -7,32 +7,32 @@
                 <div class="info">
                     <div>
                         <p>
-                            <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png" data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"></noscript><span>Tầng 44, Bitexco Financial Tower, 02 Hải Triều, Bến Nghé, Quận 1</span>
+                            <img src="@/assets/themes/sigroup/assets/images/ic-ft-1.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-1.png" data-lazy-src="@/assets/themes/sigroup/assets/images/ic-ft-1.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="@/assets/themes/sigroup/assets/images/ic-ft-1.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-1.png"></noscript><span>Tầng 44, Bitexco Financial Tower, 02 Hải Triều, Bến Nghé, Quận 1</span>
                         </p>
                     </div>
                     <div>
                         <p>
-                            <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png" data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"></noscript><a href="#">(+84) 979 355 355</a>
+                            <img src="@/assets/themes/sigroup/assets/images/ic-ft-2.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-2.png" data-lazy-src="@/assets/themes/sigroup/assets/images/ic-ft-2.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="@/assets/themes/sigroup/assets/images/ic-ft-2.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-2.png"></noscript><a href="#">(+84) 979 355 355</a>
                         </p>
                     </div>
                     <div>
                         <p>
-                            <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png" data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"></noscript><a href="#">info@si.im</a>
+                            <img src="@/assets/themes/sigroup/assets/images/ic-ft-3.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-3.png" data-lazy-src="@/assets/themes/sigroup/assets/images/ic-ft-3.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="@/assets/themes/sigroup/assets/images/ic-ft-3.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-3.png"></noscript><a href="#">info@si.im</a>
                         </p>
                     </div>
                     <div>
                         <p>
-                            <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Suite 417, 480 Collins Street, Melbourne, VIC 3000</span>
+                            <img src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-4.png" data-lazy-src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Suite 417, 480 Collins Street, Melbourne, VIC 3000</span>
                         </p>
                     </div>
                     <div>
                         <p>
-                            <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Tầng 19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</span>
+                            <img src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-4.png" data-lazy-src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Tầng 19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</span>
                         </p>
                     </div>
                     <div>
                         <p>
-                            <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>700 12th Street, N.W., Suite 700, Washington, DC, US 20005</span>
+                            <img src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-4.png" data-lazy-src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="@/assets/themes/sigroup/assets/images/ic-ft-4.png" alt="@/assets/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>700 12th Street, N.W., Suite 700, Washington, DC, US 20005</span>
                         </p>
                     </div>
                 </div>

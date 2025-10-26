@@ -1113,11 +1113,11 @@ textarea.form-control {
         display: none!important
     }
 }
-
+/* 
 @font-face {
     font-family: "Futura-Bold";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Bold.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Bold.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Bold.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Bold.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Bold.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Bold.svg#Futura-Bold") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-Bold.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-Bold.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-Bold.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-Bold.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-Bold.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-Bold.svg#Futura-Bold") format("svg");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -1125,8 +1125,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "FSBaskervilleOldFace";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/FSBaskervilleOldFace.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/FSBaskervilleOldFace.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/FSBaskervilleOldFace.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/FSBaskervilleOldFace.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/FSBaskervilleOldFace.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/FSBaskervilleOldFace.svg#FSBaskervilleOldFace") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/FSBaskervilleOldFace.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/FSBaskervilleOldFace.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/FSBaskervilleOldFace.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/FSBaskervilleOldFace.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/FSBaskervilleOldFace.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/FSBaskervilleOldFace.svg#FSBaskervilleOldFace") format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -1134,8 +1134,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-BoldOblique";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BoldOblique.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BoldOblique.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BoldOblique.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BoldOblique.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BoldOblique.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BoldOblique.svg#Futura-BoldOblique") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-BoldOblique.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-BoldOblique.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-BoldOblique.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-BoldOblique.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-BoldOblique.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-BoldOblique.svg#Futura-BoldOblique") format("svg");
     font-weight: 700;
     font-style: italic;
     font-display: swap
@@ -1143,8 +1143,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-ExtraBoldOblique";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.svg#Futura-ExtraBoldOblique") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-ExtraBoldOblique.svg#Futura-ExtraBoldOblique") format("svg");
     font-weight: 700;
     font-style: italic;
     font-display: swap
@@ -1152,8 +1152,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-ExtraBold";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBold.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBold.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBold.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBold.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBold.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-ExtraBold.svg#Futura-ExtraBold") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBold.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-ExtraBold.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBold.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBold.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-ExtraBold.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-ExtraBold.svg#Futura-ExtraBold") format("svg");
     font-weight: 700;
     font-style: normal;
     font-display: swap
@@ -1161,8 +1161,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-Book";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Book.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Book.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Book.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Book.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Book.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Book.svg#Futura-Book") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-Book.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-Book.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-Book.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-Book.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-Book.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-Book.svg") format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -1170,8 +1170,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-HeavyOblique";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-HeavyOblique.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-HeavyOblique.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-HeavyOblique.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-HeavyOblique.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-HeavyOblique.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-HeavyOblique.svg#Futura-HeavyOblique") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-HeavyOblique.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-HeavyOblique.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-HeavyOblique.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-HeavyOblique.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-HeavyOblique.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-HeavyOblique.svg#Futura-HeavyOblique") format("svg");
     font-weight: 900;
     font-style: italic;
     font-display: swap
@@ -1179,8 +1179,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-BookOblique";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BookOblique.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BookOblique.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BookOblique.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BookOblique.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BookOblique.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-BookOblique.svg#Futura-BookOblique") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-BookOblique.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-BookOblique.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-BookOblique.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-BookOblique.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-BookOblique.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-BookOblique.svg") format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -1188,8 +1188,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-Light";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Light.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Light.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Light.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Light.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Light.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Light.svg#Futura-Light") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-Light.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-Light.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-Light.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-Light.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-Light.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-Light.svg") format("svg");
     font-weight: 300;
     font-style: normal;
     font-display: swap
@@ -1197,8 +1197,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-Heavy";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Heavy.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Heavy.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Heavy.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Heavy.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Heavy.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Heavy.svg#Futura-Heavy") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-Heavy.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-Heavy.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-Heavy.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-Heavy.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-Heavy.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-Heavy.svg") format("svg");
     font-weight: 900;
     font-style: normal;
     font-display: swap
@@ -1206,8 +1206,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-Oblique";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Oblique.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Oblique.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Oblique.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Oblique.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Oblique.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-Oblique.svg#Futura-Oblique") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-Oblique.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-Oblique.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-Oblique.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-Oblique.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-Oblique.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-Oblique.svg") format("svg");
     font-weight: 400;
     font-style: italic;
     font-display: swap
@@ -1215,8 +1215,8 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura.svg#Futura") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura.svg") format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -1224,12 +1224,12 @@ textarea.form-control {
 
 @font-face {
     font-family: "Futura-LightOblique";
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-LightOblique.eot);
-    src: url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-LightOblique.eot?#iefix") format("embedded-opentype"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-LightOblique.woff2) format("woff2"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-LightOblique.woff) format("woff"),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-LightOblique.ttf) format("truetype"),url("https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/Futura-LightOblique.svg#Futura-LightOblique") format("svg");
+    src: url(@/assets/themes/sigroup/assets/fonts/Futura-LightOblique.eot);
+    src: url("@/assets/themes/sigroup/assets/fonts/Futura-LightOblique.eot") format("embedded-opentype"),url(@/assets/themes/sigroup/assets/fonts/Futura-LightOblique.woff2) format("woff2"),url(@/assets/themes/sigroup/assets/fonts/Futura-LightOblique.woff) format("woff"),url(@/assets/themes/sigroup/assets/fonts/Futura-LightOblique.ttf) format("truetype"),url("@/assets/themes/sigroup/assets/fonts/Futura-LightOblique.svg#Futura-LightOblique") format("svg");
     font-weight: 300;
     font-style: italic;
     font-display: swap
-}
+} */
 
 .hide-speed {
     display: none
@@ -1544,7 +1544,7 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/breadcrumb-bg.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/breadcrumb-bg.png)
 }
 
 .si-breadcrumbs .breadcrumb {
@@ -1670,51 +1670,51 @@ body {
 }
 
 .si-footer .social .Facebook {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-fb.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-fb.png)
 }
 
 .si-footer .social .Facebook:hover {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-fb-hv.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-fb-hv.png)
 }
 
 .si-footer .social .Youtube {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-you.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-you.png)
 }
 
 .si-footer .social .Youtube:hover {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-you-hv.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-you-hv.png)
 }
 
 .si-footer .social .Twitter {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-twi.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-twi.png)
 }
 
 .si-footer .social .Twitter:hover {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-twi-hv.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-twi-hv.png)
 }
 
 .si-footer .social .Telegram {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-tele.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-tele.png)
 }
 
 .si-footer .social .Telegram:hover {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-tele-hv.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-tele-hv.png)
 }
 
 .si-footer .social .Linkedin {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-linkedin.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-linkedin.png)
 }
 
 .si-footer .social .Linkedin:hover {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-linkedin-hv.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-linkedin-hv.png)
 }
 
 .si-footer .social .Zalo {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-zalo.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-zalo.png)
 }
 
 .si-footer .social .Zalo:hover {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-zalo-hv.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-zalo-hv.png)
 }
 
 .si-footer .menu-item a {
@@ -1819,7 +1819,7 @@ body {
 }
 
 .si-banners .slick-prev::after {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-prev-bn.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-prev-bn.png)
 }
 
 .si-banners .slick-next {
@@ -1827,7 +1827,7 @@ body {
 }
 
 .si-banners .slick-next::after {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-next-bn.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/ic-next-bn.png)
 }
 
 .si-banners .slick-arrow:hover {
@@ -1927,7 +1927,7 @@ body {
 }
 
 .si-blog .item .clock {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-senary.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/clock-senary.png)
 }
 
 .si-blog .item:hover .img>img {
@@ -2218,11 +2218,11 @@ body {
 }
 
 .si-event .info .d-flex .clock {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-black.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/clock-black.png)
 }
 
 .si-event .info .d-flex .location {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/loca-black.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/loca-black.png)
 }
 
 .si-event .info .d-flex>div {
@@ -2255,7 +2255,7 @@ body {
 }
 
 .si-form {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/home-contact.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/home-contact.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2314,11 +2314,11 @@ body {
 }
 
 .si-form .si-call .phone {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-phone.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-phone.png)
 }
 
 .si-form .si-call .mail {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-mail.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-mail.png)
 }
 
 .si-form .si-call a {
@@ -2701,7 +2701,7 @@ body {
     content: "";
     width: 16px;
     height: 16px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/close.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/close.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
@@ -2813,7 +2813,7 @@ body {
     content: "";
     width: 16px;
     height: 16px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/close.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/close.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2930,7 +2930,7 @@ body {
     content: "";
     width: 16px;
     height: 16px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/close.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/close.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover

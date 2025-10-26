@@ -43,11 +43,11 @@
                           style="width: 476px;" tabindex="0" role="tabpanel" id="slick-slide00"
                           aria-describedby="slick-slide-control00">
                           <div
-                            style="background-image:url(https://sigroup.vn/wp-content/uploads/2023/11/Hinh-2-VP.jpg);"
+                            :style="{ backgroundImage: `url(${require('@/assets/uploads/2023/11/Hinh-2-VP.jpg')})` }"
                             class="bg-banner vh-80">
                             <img class="d-block d-md-none"
-                              src="https://sigroup.vn/wp-content/uploads/2023/11/Hinh-2-VP.jpg"
-                              alt="https://sigroup.vn/wp-content/uploads/2023/11/Hinh-2-VP.jpg">
+                              src="@/assets/uploads/2023/11/Hinh-2-VP.jpg"
+                              alt="@/assets/uploads/2023/11/Hinh-2-VP.jpg">
                           </div>
                         </div>
                       </div>
@@ -63,12 +63,12 @@
               <div id="gia-tri-cot-loi" class="col-12 core-values my-10 py-10">
                 <h2 class="text-center si-title"> GIÁ TRỊ CỐT LÕI</h2>
                 <!-- <h3 class="text-center mt-8">{{ core_value.Content }}</h3> -->
-                <img src="https://sigroup.vn/wp-content/uploads/2024/10/Gia-tri-cot-loi-VN.png"
-                  alt="https://sigroup.vn/wp-content/uploads/2024/10/Gia-tri-cot-loi-VN.png"
-                  data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/Gia-tri-cot-loi-VN.png"
+                <img src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
+                  alt="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
+                  data-lazy-src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
                   data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                    src="https://sigroup.vn/wp-content/uploads/2024/10/Gia-tri-cot-loi-VN.png"
-                    alt="https://sigroup.vn/wp-content/uploads/2024/10/Gia-tri-cot-loi-VN.png"></noscript>
+                    src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
+                    alt="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"></noscript>
                 <!-- <div class="possible d-flex align-items-start justify-content-center mt-4">
                                                               </div> -->
                 <!-- <div class="quote relative mt-10" v-if="core_value.Quote">
@@ -77,12 +77,12 @@
               </div>
               <div id="lich-su-phat-trien" class="col-12 mb-10 pb-5">
                 <h2 class="text-center si-title">LỊCH SỬ PHÁT TRIỂN</h2>
-                <img src="https://sigroup.vn/wp-content/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
-                  alt="https://sigroup.vn/wp-content/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
-                  data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
+                <img src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
+                  alt="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
+                  data-lazy-src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
                   data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                    src="https://sigroup.vn/wp-content/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
-                    alt="https://sigroup.vn/wp-content/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"></noscript>
+                    src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
+                    alt="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"></noscript>
                 <!-- <div class="history text-center mt-10">
                                                               </div> -->
               </div>
@@ -92,67 +92,67 @@
               <div class="col-12 si-scale">
                 <h2 class="text-center si-title">QUY MÔ TẬP ĐOÀN</h2>
                 <div class="text-center mt-10 hinh-anh-quy-mo">
-                  <img src="https://sigroup.vn/wp-content/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
-                    alt="https://sigroup.vn/wp-content/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
-                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
+                  <img src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
+                    alt="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
+                    data-lazy-src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
                     data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                      src="https://sigroup.vn/wp-content/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2024/09/SI-LOGO_Full_Brown-1.png"></noscript>
+                      src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
+                      alt="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"></noscript>
                 </div>
                 <div class="company">
                   <div class="img">
                     <a rel="nofollow" target="_blank" href="#"><img
-                        src="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png" data-ll-status="loaded"
+                        src="@/assets/uploads/2024/08/ISI.png"
+                        alt="@/assets/uploads/2024/08/ISI.png"
+                        data-lazy-src="@/assets/uploads/2024/08/ISI.png" data-ll-status="loaded"
                         class="entered lazyloaded"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png"
-                          alt="https://sigroup.vn/wp-content/uploads/2024/08/ISI.png" /></noscript></a>
+                          src="@/assets/uploads/2024/08/ISI.png"
+                          alt="@/assets/uploads/2024/08/ISI.png" /></noscript></a>
                   </div>
                   <div class="img">
                     <a rel="nofollow" target="_blank" href="#"><img
-                        src="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png" data-ll-status="loaded"
+                        src="@/assets/uploads/2024/08/TSI.png"
+                        alt="@/assets/uploads/2024/08/TSI.png"
+                        data-lazy-src="@/assets/uploads/2024/08/TSI.png" data-ll-status="loaded"
                         class="entered lazyloaded"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png"
-                          alt="https://sigroup.vn/wp-content/uploads/2024/08/TSI.png" /></noscript></a>
+                          src="@/assets/uploads/2024/08/TSI.png"
+                          alt="@/assets/uploads/2024/08/TSI.png" /></noscript></a>
                   </div>
                   <div class="img">
                     <a rel="nofollow" target="_blank" href="#"><img
-                        src="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png" data-ll-status="loaded"
+                        src="@/assets/uploads/2024/08/RSI.png"
+                        alt="@/assets/uploads/2024/08/RSI.png"
+                        data-lazy-src="@/assets/uploads/2024/08/RSI.png" data-ll-status="loaded"
                         class="entered lazyloaded"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png"
-                          alt="https://sigroup.vn/wp-content/uploads/2024/08/RSI.png" /></noscript></a>
+                          src="@/assets/uploads/2024/08/RSI.png"
+                          alt="@/assets/uploads/2024/08/RSI.png" /></noscript></a>
                   </div>
                   <div class="img">
                     <a rel="nofollow" target="_blank" href="#"><img
-                        src="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png" data-ll-status="loaded"
+                        src="@/assets/uploads/2024/08/ASI.png"
+                        alt="@/assets/uploads/2024/08/ASI.png"
+                        data-lazy-src="@/assets/uploads/2024/08/ASI.png" data-ll-status="loaded"
                         class="entered lazyloaded"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png"
-                          alt="https://sigroup.vn/wp-content/uploads/2024/08/ASI.png" /></noscript></a>
+                          src="@/assets/uploads/2024/08/ASI.png"
+                          alt="@/assets/uploads/2024/08/ASI.png" /></noscript></a>
                   </div>
                   <div class="img">
                     <a rel="nofollow" target="_blank" href="#"><img
-                        src="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png"
+                        src="@/assets/uploads/2024/08/BIOTECH.png"
+                        alt="@/assets/uploads/2024/08/BIOTECH.png"
+                        data-lazy-src="@/assets/uploads/2024/08/BIOTECH.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png"
-                          alt="https://sigroup.vn/wp-content/uploads/2024/08/BIOTECH.png" /></noscript></a>
+                          src="@/assets/uploads/2024/08/BIOTECH.png"
+                          alt="@/assets/uploads/2024/08/BIOTECH.png" /></noscript></a>
                   </div>
                   <div class="img">
                     <a rel="nofollow" target="_blank" href="#"><img
-                        src="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
+                        src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
+                        alt="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
+                        data-lazy-src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
-                          alt="https://sigroup.vn/wp-content/uploads/2024/08/PHAN-ANH-FOUNDATION.png" /></noscript></a>
+                          src="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png"
+                          alt="@/assets/uploads/2024/08/PHAN-ANH-FOUNDATION.png" /></noscript></a>
                   </div>
                 </div>
               </div>
@@ -161,10 +161,10 @@
               </div>
               <div class="col-12">
                 <h2 class="text-center si-title">SI GROUP TRÊN TOÀN CẦU</h2>
-                <img src="https://sigroup.vn/wp-content/uploads/2024/11/World-Map-VN-2.png" alt="SI GROUP TRÊN TOÀN CẦU"
-                  data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/11/World-Map-VN-2.png"
+                <img src="@/assets/uploads/2024/11/World-Map-VN-2.png" alt="SI GROUP TRÊN TOÀN CẦU"
+                  data-lazy-src="@/assets/uploads/2024/11/World-Map-VN-2.png"
                   data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                    src="https://sigroup.vn/wp-content/uploads/2024/11/World-Map-VN-2.png"
+                    src="@/assets/uploads/2024/11/World-Map-VN-2.png"
                     alt="SI GROUP TRÊN TOÀN CẦU"></noscript>
               </div>
             </div>
@@ -207,8 +207,8 @@
                         <img
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Ông PHAN NHẬT MINH"
-                          data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/Anh-Minh-1.png"><noscript><img
-                            src="https://sigroup.vn/wp-content/uploads/2024/08/Anh-Minh-1.png"
+                          data-lazy-src="@/assets/uploads/2024/08/Anh-Minh-1.png"><noscript><img
+                            src="@/assets/uploads/2024/08/Anh-Minh-1.png"
                             alt="Ông PHAN NHẬT MINH"></noscript>
                       </div>
                       <div class="content">
@@ -248,8 +248,8 @@
                         <img
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Bà NGUYỄN THỊ BÍCH HÀ"
-                          data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/Co-Ha.png"><noscript><img
-                            src="https://sigroup.vn/wp-content/uploads/2024/08/Co-Ha.png"
+                          data-lazy-src="@/assets/uploads/2024/08/Co-Ha.png"><noscript><img
+                            src="@/assets/uploads/2024/08/Co-Ha.png"
                             alt="Bà NGUYỄN THỊ BÍCH HÀ"></noscript>
                       </div>
                       <div class="content">
@@ -291,8 +291,8 @@
                         <img
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Bà LÊ THỊ HUY BÌNH"
-                          data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/Chi-Binh-2.png"><noscript><img
-                            src="https://sigroup.vn/wp-content/uploads/2024/08/Chi-Binh-2.png"
+                          data-lazy-src="@/assets/uploads/2024/08/Chi-Binh-2.png"><noscript><img
+                            src="@/assets/uploads/2024/08/Chi-Binh-2.png"
                             alt="Bà LÊ THỊ HUY BÌNH"></noscript>
                       </div>
                       <div class="content">
@@ -337,8 +337,8 @@
                         <img
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Ông JEAN LESLY BENOIT "
-                          data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/Ong-Lesly.png"><noscript><img
-                            src="https://sigroup.vn/wp-content/uploads/2024/10/Ong-Lesly.png"
+                          data-lazy-src="@/assets/uploads/2024/10/Ong-Lesly.png"><noscript><img
+                            src="@/assets/uploads/2024/10/Ong-Lesly.png"
                             alt="Ông JEAN LESLY BENOIT "></noscript>
                       </div>
                       <div class="content">
@@ -368,8 +368,8 @@
                         <img
                           src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                           alt="Ông GREG MCKEAN"
-                          data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/08/Ong-Greg-2-1.png"><noscript><img
-                            src="https://sigroup.vn/wp-content/uploads/2025/08/Ong-Greg-2-1.png"
+                          data-lazy-src="@/assets/uploads/2025/08/Ong-Greg-2-1.png"><noscript><img
+                            src="@/assets/uploads/2025/08/Ong-Greg-2-1.png"
                             alt="Ông GREG MCKEAN"></noscript>
                       </div>
                       <div class="content">
@@ -458,64 +458,64 @@ export default {
     return {
       activePopup: null,
       logos: [
-        "https://sigroup.vn/wp-content/uploads/2024/09/US-Citizenship-and-Immigration-Services.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Western-Australia.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Gov-of-Canada.png",
-        "https://sigroup.vn/wp-content/uploads/2023/10/16_LIVE_IN_MELBOURNE_9e45d747dc.png",
-        "https://sigroup.vn/wp-content/uploads/2023/10/17_SOUTH_AUSTRALIA_GOVERNMENT_ff9d1ea1b0.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Queensland.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/NSW.png",
-        "https://sigroup.vn/wp-content/uploads/2023/10/18_US_DEPARTMENT_OF_STATE_260b357a29.png",
-        "https://sigroup.vn/wp-content/uploads/2023/10/19_USCIS_3e9a9f02de.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/US-Department-of-state.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Hungary.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Switzerland.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Slovenia.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Bahamas.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Cyprus.png",
-        "https://sigroup.vn/wp-content/uploads/2024/09/Haiti.png",
-        "https://sigroup.vn/wp-content/uploads/2023/12/21.-DARWIN-INNOVATION-HUB.png",
-        "https://sigroup.vn/wp-content/uploads/2023/12/22.-PORT-HEDLAND.png",
-        "https://sigroup.vn/wp-content/uploads/2023/12/23.-MY-AUSTRALIAN-PROPERTY.png",
-        "https://sigroup.vn/wp-content/uploads/2025/03/Gov-of-Malta.png",
-        "https://sigroup.vn/wp-content/uploads/2025/03/Gov-of-Solomon-Island.png",
+        require("@/assets/uploads/2024/09/US-Citizenship-and-Immigration-Services.png"),
+        require("@/assets/uploads/2024/09/Western-Australia.png"),
+        require("@/assets/uploads/2024/09/Gov-of-Canada.png"),
+        require("@/assets/uploads/2023/10/16_LIVE_IN_MELBOURNE_9e45d747dc.png"),
+        require("@/assets/uploads/2023/10/17_SOUTH_AUSTRALIA_GOVERNMENT_ff9d1ea1b0.png"),
+        require("@/assets/uploads/2024/09/Queensland.png"),
+        require("@/assets/uploads/2024/09/NSW.png"),
+        require("@/assets/uploads/2023/10/18_US_DEPARTMENT_OF_STATE_260b357a29.png"),
+        require("@/assets/uploads/2023/10/19_USCIS_3e9a9f02de.png"),
+        require("@/assets/uploads/2024/09/US-Department-of-state.png"),
+        require("@/assets/uploads/2024/09/Hungary.png"),
+        require("@/assets/uploads/2024/09/Switzerland.png"),
+        require("@/assets/uploads/2024/09/Slovenia.png"),
+        require("@/assets/uploads/2024/09/Bahamas.png"),
+        require("@/assets/uploads/2024/09/Cyprus.png"),
+        require("@/assets/uploads/2024/09/Haiti.png"),
+        require("@/assets/uploads/2023/12/21.-DARWIN-INNOVATION-HUB.png"),
+        require("@/assets/uploads/2023/12/22.-PORT-HEDLAND.png"),
+        require("@/assets/uploads/2023/12/23.-MY-AUSTRALIAN-PROPERTY.png"),
+        require("@/assets/uploads/2025/03/Gov-of-Malta.png"),
+        require("@/assets/uploads/2025/03/Gov-of-Solomon-Island.png"),
       ],
       banners: [
-        "https://sigroup.vn/wp-content/uploads/2025/03/Top-10-Thuong-hieu-manh-QG-1.png",
-        "https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia-1-1.png",
-        "https://sigroup.vn/wp-content/uploads/2025/03/SP-DV-Tin-dung.png",
-        "https://sigroup.vn/wp-content/uploads/2025/03/DN-DN-xuat-sac.png",
-        "https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards-1-1.png",
+        require("@/assets/uploads/2025/03/Top-10-Thuong-hieu-manh-QG-1.png"),
+        require("@/assets/uploads/2025/03/Thuong-hieu-manh-quoc-gia-1-1.png"),
+        require("@/assets/uploads/2025/03/SP-DV-Tin-dung.png"),
+        require("@/assets/uploads/2025/03/DN-DN-xuat-sac.png"),
+        require("@/assets/uploads/2025/03/Asia-business-awards-1-1.png"),
       ],
       bodList: [
         {
           name: "Ông PHAN NHẬT MINH",
           position: "Chủ tịch HĐQT",
-          img: "https://sigroup.vn/wp-content/uploads/2024/08/Anh-Minh-1.png",
+          img: require("@/assets/uploads/2024/08/Anh-Minh-1.png"),
           bio: `<p>Tốt nghiệp đại học San Francisco chuyên ngành quản trị hệ thống thông tin, ...</p>`
         },
         {
           name: "Bà NGUYỄN THỊ BÍCH HÀ",
           position: "Phó Chủ tịch HĐQT",
-          img: "https://sigroup.vn/wp-content/uploads/2024/08/Co-Ha.png",
+          img: require("@/assets/uploads/2024/08/Co-Ha.png"),
           bio: `<p>Bà Hà Nguyễn là cố vấn kinh tế cho Đại sứ quán Hoa Kỳ ...</p>`
         },
         {
           name: "Bà LÊ THỊ HUY BÌNH",
           position: "Tổng Giám đốc",
-          img: "https://sigroup.vn/wp-content/uploads/2024/08/Chi-Binh-2.png",
+          img: require("@/assets/uploads/2024/08/Chi-Binh-2.png"),
           bio: `<p>Bà Bình có hơn 15 năm kinh nghiệm trong lĩnh vực du lịch, truyền thông...</p>`
         },
         {
           name: "Ông JEAN LESLY BENOIT",
           position: "Phó Tổng Giám đốc",
-          img: "https://sigroup.vn/wp-content/uploads/2024/10/Ong-Lesly.png",
+          img: require("@/assets/uploads/2024/10/Ong-Lesly.png"),
           bio: `<p>Ông Benoit là nhà ngoại giao và điều hành cấp cao...</p>`
         },
         {
           name: "Ông GREG MCKEAN",
           position: "Phó TGĐ Phát triển kinh doanh khu vực Châu Á TBD",
-          img: "https://sigroup.vn/wp-content/uploads/2025/08/Ong-Greg-2-1.png",
+          img: require("@/assets/uploads/2025/08/Ong-Greg-2-1.png"),
           bio: `<p>Ông Greg McKean là cựu Giám đốc Di trú bang Queensland...</p>`
         }
       ],
@@ -545,7 +545,12 @@ export default {
   }
 }
 </script>
+<style>
+.si-banners .slick-dots {
+  bottom: -71px !important;
+}
 
+</style>
 <style scoped>
 .about-us .open-letter {
   flex-wrap: wrap;
@@ -584,7 +589,7 @@ export default {
 }
 
 .about-us .core-values {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/bg-core-values.png);
+  background-image: url(@/assets/themes/sigroup/assets/images/bg-core-values.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover
@@ -613,13 +618,13 @@ export default {
 .about-us .core-values .quote::after {
   top: 11px;
   left: 11px;
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/quote-left.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/quote-left.png)
 }
 
 .about-us .core-values .quote::before {
   right: 11px;
   bottom: 11px;
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/quote-right.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/quote-right.png)
 }
 
 .about-us .possible {
@@ -675,7 +680,9 @@ export default {
   display: flex;
   flex-wrap: wrap
 }
-
+.slick-dots {
+    bottom: -71px !important;
+}
 .about-us .si-scale .company .img {
   height: auto;
   width: 16.66%;
@@ -898,7 +905,7 @@ export default {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/hexagon-mini.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/hexagon-mini.png)
 }
 
 .about-us .history .it:nth-child(2n+1) {
@@ -911,7 +918,7 @@ export default {
 
 .about-us .history .it:nth-child(2n+1) .info::after {
   right: -16px;
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/tri-right.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/tri-right.png)
 }
 
 .about-us .history .it:nth-child(2n+2) .time {
@@ -920,7 +927,7 @@ export default {
 
 .about-us .history .it:nth-child(2n+2) .info::after {
   left: -16px;
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/tri-left.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/tri-left.png)
 }
 
 .about-us .history .it:first-child {
@@ -1036,15 +1043,15 @@ export default {
 }
 
 .about-us .si-banners .slick-arrow.slick-prev {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-prev-bn.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-prev-bn.png)
 }
 
 .about-us .si-banners .slick-arrow.slick-next {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-next-bn.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-next-bn.png)
 }
 
 .managing-director {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/bg-bod.jpg);
+  background-image: url(@/assets/themes/sigroup/assets/images/bg-bod.jpg);
   background-position: center center;
   background-repeat: no-repeat
 }
@@ -1107,7 +1114,7 @@ export default {
   overflow: auto;
   max-height: calc(100vh - 150px);
   cursor: default;
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/bg-bod.jpg);
+  background-image: url(@/assets/themes/sigroup/assets/images/bg-bod.jpg);
   background-position: center center;
   background-repeat: no-repeat
 }
@@ -1190,7 +1197,7 @@ export default {
   content: "";
   width: 16px;
   height: 16px;
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/close.png);
+  background-image: url(@/assets/themes/sigroup/assets/images/close.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1258,7 +1265,8 @@ export default {
   }
 
   .si-scale .si-banners .slick-dots {
-    position: relative
+    position: relative;
+    bottom: -71px !important;
   }
 
   .hinh-anh-quy-mo {

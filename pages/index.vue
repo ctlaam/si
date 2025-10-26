@@ -13,7 +13,7 @@
           <div id="section-1" class="mx-auto">
             <div class="home-banner slick-initialized slick-slider">
               <div class="country-banners">
-                <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="4000"
+                <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="false" :autoplaySpeed="4000"
                   :slidesToShow="1" :slidesToScroll="1">
                   <div v-for="(item, index) in banners" :key="index" class="banner-slide">
                     <div class="banner-bg d-none d-md-block" :style="{ backgroundImage: `url(${item.bgDesktop})` }">
@@ -47,10 +47,10 @@
                       <div class="social-links">
                         <div>Social media</div>
                         <div class="line"></div>
-                        <div class="icons">
-                          <a href="#"><img src="/images/facebook.png" alt="Facebook" /></a>
-                          <a href="#"><img src="/images/zalo.png" alt="Zalo" /></a>
-                          <a href="#"><img src="/images/linkedin.png" alt="LinkedIn" /></a>
+                        <div class="icons gap-x-3">
+                          <a href="#"><img src="@/assets/images/facebook.png" alt="Facebook" /></a>
+                          <a href="#"><img src="@/assets/images/zalo.png" alt="Zalo" /></a>
+                          <a href="#"><img src="@/assets/images/linkedin.png" alt="LinkedIn" /></a>
                         </div>
                       </div>
                     </div>
@@ -66,7 +66,7 @@
           <div class="container">
             <div id="section-2" class="row py-10 text-center align-items-center">
               <div class="s2-left col-12 col-md-6" data-aos="fade-right">
-                <!-- <img class="img-fluid" src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Tìm hiểu thêm" data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/vie_si_group_logofullbrown.png" /><noscript><img class="img-fluid" src="https://sigroup.vn/wp-content/uploads/2023/10/vie_si_group_logofullbrown.png" alt="Tìm hiểu thêm" /></noscript> -->
+                <!-- <img class="img-fluid" src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Tìm hiểu thêm" data-lazy-src="@/assets/uploads/2023/10/vie_si_group_logofullbrown.png" /><noscript><img class="img-fluid" src="@/assets/uploads/2023/10/vie_si_group_logofullbrown.png" alt="Tìm hiểu thêm" /></noscript> -->
                 <div class="mt-8 text-justify">Bên cạnh việc sở hữu hệ thống hơn sáu văn phòng tại bốn quốc gia và vùng
                   lãnh thổ, đội ngũ chuyên gia và luật sư đầu ngành sở hữu nhiều chứng chỉ và giải thưởng lớn về Di trú,
                   SI Group còn là thành viên danh dự của nhiều Tổ chức và Hiệp hội Di trú. Đặc biệt, mạng lưới quan hệ
@@ -80,8 +80,7 @@
                 <div class="row">
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
-                      <img height="66" width="66"
-                        src="https://sigroup.vn/wp-content/uploads/2023/11/Chuong_trinh_dinh_cu_4290e839ef.png"
+                      <img height="66" width="66" src="@/assets/uploads/2023/11/Chuong_trinh_dinh_cu_4290e839ef.png"
                         alt="100++ ">
                     </div>
                     <div class="s2-right-tt">100++ </div>
@@ -89,21 +88,18 @@
                   </div>
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
-                      <img height="66" width="66"
-                        src="https://sigroup.vn/wp-content/uploads/2023/11/Thanh_pho_noi_bat_bc27b8699c.png" alt="30+">
+                      <img height="66" width="66" src="@/assets/uploads/2023/11/Thanh_pho_noi_bat_bc27b8699c.png"
+                        alt="30+">
                     </div>
                     <div class="s2-right-tt">30+</div>
                     <p>Thành phố nổi bật</p>
                   </div>
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
-                      <img height="66" width="66"
-                        src="https://sigroup.vn/wp-content/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
-                        alt="10,660+"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
+                      <img height="66" width="66" src="@/assets/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
+                        alt="10,660+" data-lazy-src="@/assets/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="https://sigroup.vn/wp-content/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
-                          alt="10,660+" /></noscript>
+                          src="@/assets/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png" alt="10,660+" /></noscript>
                     </div>
                     <div class="s2-right-tt">10,660+</div>
                     <p>Hồ sơ thành công</p>
@@ -111,11 +107,10 @@
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
                       <img height="66" width="66"
-                        src="https://sigroup.vn/wp-content/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
-                        alt="1,200+"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
+                        src="@/assets/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png" alt="1,200+"
+                        data-lazy-src="@/assets/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="https://sigroup.vn/wp-content/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
+                          src="@/assets/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
                           alt="1,200+" /></noscript>
                     </div>
                     <div class="s2-right-tt">1,200+</div>
@@ -123,24 +118,20 @@
                   </div>
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
-                      <img height="66" width="66"
-                        src="https://sigroup.vn/wp-content/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" alt="20+"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png"
-                        data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="https://sigroup.vn/wp-content/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png"
-                          alt="20+" /></noscript>
+                      <img height="66" width="66" src="@/assets/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" alt="20+"
+                        data-lazy-src="@/assets/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" data-ll-status="loaded"
+                        class="entered lazyloaded"><noscript><img height="66" width="66"
+                          src="@/assets/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" alt="20+" /></noscript>
                     </div>
                     <div class="s2-right-tt">20+</div>
                     <p>Năm kinh nghiệm</p>
                   </div>
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
-                      <img height="66" width="66"
-                        src="https://sigroup.vn/wp-content/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png" alt="6+"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
+                      <img height="66" width="66" src="@/assets/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
+                        alt="6+" data-lazy-src="@/assets/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="https://sigroup.vn/wp-content/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
-                          alt="6+" /></noscript>
+                          src="@/assets/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png" alt="6+" /></noscript>
                     </div>
                     <div class="s2-right-tt">6+</div>
                     <p>Dịch vụ di trú độc quyền </p>
@@ -211,18 +202,16 @@
                     <div data-id="15305" class="col-12 col-md-4">
                       <a target="_blank" href="#" title="Quốc tế hóa doanh nghiệp" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                            alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Quốc tế hóa doanh nghiệp"
+                            class="blog-thumbnail img-fluid"
+                            data-lazy-src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"><noscript><img
+                              src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
                               alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Định cư EU"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
-                                  alt="Định cư EU" /></noscript>
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư EU"
+                                data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
+                                  src="@/assets/uploads/2023/10/eu_ead2b9af1e.png" alt="Định cư EU" /></noscript>
                             </div>
                             <div><span>Định cư EU</span></div>
                           </div>
@@ -239,20 +228,18 @@
                       <a target="_blank" href="#"
                         title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
+                            data-lazy-src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"><noscript><img
+                              src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
                               alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Định cư EU"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
-                                  alt="Định cư EU" /></noscript>
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư EU"
+                                data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
+                                  src="@/assets/uploads/2023/10/eu_ead2b9af1e.png" alt="Định cư EU" /></noscript>
                             </div>
                             <div><span>Định cư EU</span></div>
                           </div>
@@ -270,20 +257,18 @@
                       <a target="_blank" href="#"
                         title="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/2_ca0e447c97.png"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2023/11/2_ca0e447c97.png"
+                            data-lazy-src="@/assets/uploads/2023/11/2_ca0e447c97.png"><noscript><img
+                              src="@/assets/uploads/2023/11/2_ca0e447c97.png"
                               alt="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Định cư Úc"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                  alt="Định cư Úc" /></noscript>
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư Úc"
+                                data-lazy-src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
+                                  src="@/assets/uploads/2023/10/au_1dbaf56fd8.png" alt="Định cư Úc" /></noscript>
                             </div>
                             <div><span>Định cư Úc</span></div>
                           </div>
@@ -318,19 +303,17 @@
                       <a target="_blank" href="#" title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group" class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
+                            data-lazy-src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"><noscript><img
+                              src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                               alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Định cư EU"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
-                                  alt="Định cư EU" /></noscript>
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư EU"
+                                data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
+                                  src="@/assets/uploads/2023/10/eu_ead2b9af1e.png" alt="Định cư EU" /></noscript>
                             </div>
                             <div><span>Định cư EU</span></div>
                           </div>
@@ -346,19 +329,18 @@
                       <a target="_blank" href="#" title="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"
+                            data-lazy-src="@/assets/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"><noscript><img
+                              src="@/assets/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"
                               alt="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Định cư Thụy Sĩ"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư Thụy Sĩ"
+                                data-lazy-src="@/assets/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"><noscript><img
+                                  src="@/assets/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"
                                   alt="Định cư Thụy Sĩ" /></noscript>
                             </div>
                             <div><span>Định cư Thụy Sĩ</span></div>
@@ -376,19 +358,17 @@
                       <a target="_blank" href="#" title="Giải pháp đầu tư EB-5 độc quyền cùng SI Group"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"
+                            data-lazy-src="@/assets/uploads/2023/11/2_f164830d12.png"><noscript><img
+                              src="@/assets/uploads/2023/11/2_f164830d12.png"
                               alt="Giải pháp đầu tư EB-5 độc quyền cùng SI Group"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Định cư Mỹ"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
-                                  alt="Định cư Mỹ" /></noscript>
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư Mỹ"
+                                data-lazy-src="@/assets/uploads/2023/10/us_72cc7bdefa.png"><noscript><img
+                                  src="@/assets/uploads/2023/10/us_72cc7bdefa.png" alt="Định cư Mỹ" /></noscript>
                             </div>
                             <div><span>Định cư Mỹ</span></div>
                           </div>
@@ -533,11 +513,11 @@
                             title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                             class="si-event mt-5 px-3" tabindex="0">
                             <div class="img">
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                 class="blog-thumbnail img-fluid"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                                data-lazy-src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
+                                  src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                   alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                   class="blog-thumbnail img-fluid" /></noscript>
                             </div>
@@ -560,11 +540,11 @@
                             title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                             class="si-event mt-5 px-3" tabindex="0">
                             <div class="img">
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                                 class="blog-thumbnail img-fluid"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
+                                data-lazy-src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
+                                  src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
                                   alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà"
                                   class="blog-thumbnail img-fluid" /></noscript>
                             </div>
@@ -588,11 +568,11 @@
                             title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                             class="si-event mt-5 px-3" tabindex="0">
                             <div class="img">
-                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                                 class="blog-thumbnail img-fluid"
-                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
-                                  src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                                data-lazy-src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
+                                  src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                   alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư "
                                   class="blog-thumbnail img-fluid" /></noscript>
                             </div>
@@ -632,11 +612,11 @@
                         title="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"
+                            data-lazy-src="@/assets/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"><noscript><img
+                              src="@/assets/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"
                               alt="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                               class="blog-thumbnail img-fluid" /></noscript>
                         </div>
@@ -654,11 +634,11 @@
                         title="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"
+                            data-lazy-src="@/assets/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"><noscript><img
+                              src="@/assets/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"
                               alt="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                               class="blog-thumbnail img-fluid" /></noscript>
                         </div>
@@ -675,11 +655,11 @@
                       <a target="_blank" href="#"
                         title="SI Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="SI Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"><noscript><img
-                              src="https://sigroup.vn/wp-content/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"
+                            data-lazy-src="@/assets/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"><noscript><img
+                              src="@/assets/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"
                               alt="SI Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                               class="blog-thumbnail img-fluid" /></noscript>
                         </div>
@@ -712,10 +692,10 @@
                   <a target="_blank" href="#" title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                     class="new big h-100 d-block">
                     <div class="img">
-                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5" class="blog-thumbnail"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
+                        data-lazy-src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"><noscript><img
+                          src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"
                           alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -732,11 +712,11 @@
                     title="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                     class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                         class="blog-thumbnail"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-16.jpg"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-16.jpg"
+                        data-lazy-src="@/assets/uploads/2025/10/Anh-size-moi-16.jpg"><noscript><img
+                          src="@/assets/uploads/2025/10/Anh-size-moi-16.jpg"
                           alt="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -749,10 +729,10 @@
                   <a target="_blank" href="#" title="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
                     class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc" class="blog-thumbnail"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/05/Anh-size-moi-12.jpg"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2024/05/Anh-size-moi-12.jpg"
+                        data-lazy-src="@/assets/uploads/2024/05/Anh-size-moi-12.jpg"><noscript><img
+                          src="@/assets/uploads/2024/05/Anh-size-moi-12.jpg"
                           alt="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -764,10 +744,10 @@
                   <a target="_blank" href="#" title="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025"
                     class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025" class="blog-thumbnail"
-                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-6.jpg"><noscript><img
-                          src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-6.jpg"
+                        data-lazy-src="@/assets/uploads/2025/10/Anh-size-moi-6.jpg"><noscript><img
+                          src="@/assets/uploads/2025/10/Anh-size-moi-6.jpg"
                           alt="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -1032,22 +1012,22 @@ export default {
       ],
       awards: [
         {
-          image: "https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg",
+          image: require("@/assets/uploads/2024/05/c3c78b33327a9324ca6b.jpg"),
           type: "GIẢI THƯỞNG",
           title: "DOANH NGHIỆP - DOANH NHÂN XUẤT SẮC",
         },
         {
-          image: "https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png",
+          image: require("@/assets/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"),
           type: "TOP 10",
           title: "THƯƠNG HIỆU MẠNH QUỐC GIA",
         },
         {
-          image: "https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg",
+          image: require("@/assets/uploads/2024/05/b67f418df8c4599a00d5.jpg"),
           type: "GIẢI THƯỞNG",
           title: "SẢN PHẨM DỊCH VỤ TIN DÙNG",
         },
         {
-          image: "https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png",
+          image: require("@/assets/uploads/2025/03/Asia-business-awards.png"),
           type: "TOP 10",
           title: "THƯƠNG HIỆU TÍN NHIỆM HÀNG ĐẦU CHÂU Á",
         },
@@ -1079,9 +1059,9 @@ export default {
           description:
             "Buổi thảo luận giữa Ban lãnh đạo SI Group với chính quyền bang Queensland nhằm tiến tới hợp tác lâu dài để hỗ trợ tạo điều kiện cho các doanh nhân, nhà đầu tư Việt mở rộng cơ hội kinh doanh và sinh sống lâu dài tại bang.",
           bgDesktop:
-            "https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg",
+            require("@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"),
           bgMobile:
-            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
           link: "#",
         },
         {
@@ -1090,9 +1070,9 @@ export default {
           description:
             "Vào ngày 29/03/2025 tại Hà Nội và 05/04/2025 tại TP. Hồ Chí Minh, Techcombank phối hợp cùng SI Group tổ chức hội thảo “Quản lý Gia sản – Quốc tế hóa Doanh nghiệp & Độc quyền Sở hữu Quốc tịch”, thu hút sự tham dự của 30 doanh nhân hàng đầu Việt Nam.",
           bgDesktop:
-            "https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg",
+            require("@/assets/uploads/2025/04/Thumbnail-3-1.jpg"),
           bgMobile:
-            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
           link: "#",
         },
         {
@@ -1101,9 +1081,9 @@ export default {
           description:
             "Buổi training giúp đối tác hiểu sâu hơn các sản phẩm đầu tư độc quyền của SI Group, từ đó nâng cao năng lực tư vấn và tiếp cận đúng đối tượng nhà đầu tư tiềm năng.",
           bgDesktop:
-            "https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg",
+            require("@/assets/uploads/2025/04/Thumbnail-7.jpg"),
           bgMobile:
-            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
           link: "#",
         },
         {
@@ -1112,9 +1092,9 @@ export default {
           description:
             "Những sự kiện này thể hiện vai trò và ảnh hưởng của ông Lesly trong hợp tác quốc tế, đồng thời củng cố cam kết lâu dài của SI Group trong việc đồng hành cùng khách hàng và đối tác.",
           bgDesktop:
-            "https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg",
+            require("@/assets/uploads/2025/03/Thumbnail.jpg"),
           bgMobile:
-            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
           link: "#",
         },
       ],
@@ -1122,7 +1102,12 @@ export default {
   },
 }
 </script>
+
 <style scoped>
+#section-1 .banner-bg {
+  height: 100vh !important;
+}
+
 .si-banners {
   margin: auto;
 }
@@ -1136,6 +1121,10 @@ export default {
   position: relative;
   height: 500px;
   color: white;
+}
+
+#section-1 .banner-slide {
+  height: 100vh !important;
 }
 
 .banner-bg {
@@ -1170,11 +1159,9 @@ export default {
 .si-btn {
   display: inline-block;
   margin-top: 20px;
-  background: #e11d48;
-  color: white;
   padding: 10px 20px;
-  border-radius: 8px;
-  text-decoration: none;
+  text-align: center;
+  height: auto;
 }
 
 .social-links {
@@ -1193,8 +1180,14 @@ export default {
   margin: 0 10px;
 }
 
+.icons {
+  display: flex;
+  gap: 10px;
+}
+
 .icons a img {
   width: 20px;
+
   height: 20px;
 }
 
@@ -1324,46 +1317,46 @@ export default {
 }
 
 .social .Facebook {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-fb.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-fb.png)
 }
 
 .social .Facebook:hover {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-fb-hv.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-fb-hv.png)
 }
 
 .social .Youtube {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-you.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-you.png)
 }
 
 .social .Youtube:hover {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-you-hv.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-you-hv.png)
 }
 
 .social .Twitter {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-twi.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-twi.png)
 }
 
 .social .Twitter:hover {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-twi-hv.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-twi-hv.png)
 }
 
 .social .Telegram {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-tele.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-tele.png)
 }
 
 .social .Telegram:hover {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-tele-hv.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-tele-hv.png)
 }
 
 .social .Linkedin {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-linkedin.png);
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-linkedin.png);
   background-size: cover;
   max-width: 18px;
   max-height: 18px
 }
 
 .social .Zalo {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-zalo-2.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/ic-zalo-2.png)
 }
 
 #section-1 .si-social-bn,
@@ -1444,7 +1437,7 @@ export default {
 }
 
 #section-8 {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/event-now.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/event-now.png)
 }
 
 .home-page .si-event .img {
@@ -1482,19 +1475,19 @@ export default {
 }
 
 .home-page .si-event .info .clock {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-si.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/clock-si.png)
 }
 
 .home-page .si-event:hover .info .clock {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-white.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/clock-white.png)
 }
 
 .home-page .si-event .info .location {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/loca-si.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/loca-si.png)
 }
 
 .home-page .si-event:hover .info .location {
-  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/loca-white.png)
+  background-image: url(@/assets/themes/sigroup/assets/images/loca-white.png)
 }
 
 .home-page .si-event .info::after {
@@ -1604,6 +1597,8 @@ export default {
   #section-1 .banner-item {
     height: calc(100% - 110px)
   }
+
+
 
   #section-7 .si-banners .slick-dots,
   #section-3 .si-banners .slick-dots {

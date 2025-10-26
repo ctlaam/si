@@ -138,12 +138,12 @@
                                             title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                             class="si-event mt-10">
                                             <div class="img">
-                                                <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                                                <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                                     alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
-                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                                                    data-lazy-src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                                     data-ll-status="loaded"><noscript><img
-                                                        src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                                                        src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                                         alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
@@ -175,12 +175,12 @@
                                             title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                                             class="si-event mt-10">
                                             <div class="img">
-                                                <img src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
+                                                <img src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
                                                     alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
-                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
+                                                    data-lazy-src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
                                                     data-ll-status="loaded"><noscript><img
-                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
+                                                        src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
                                                         alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà"
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
@@ -218,12 +218,12 @@
                                             title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                                             class="si-event mt-10">
                                             <div class="img">
-                                                <img src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                                                <img src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                                     alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
-                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                                                    data-lazy-src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                                     data-ll-status="loaded"><noscript><img
-                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                                                        src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                                         alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư "
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
@@ -253,12 +253,12 @@
                                             title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
                                             class="si-event mt-10">
                                             <div class="img">
-                                                <img src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
+                                                <img src="@/assets/uploads/2025/04/Thumbnail-3-1.jpg"
                                                     alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
-                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
+                                                    data-lazy-src="@/assets/uploads/2025/04/Thumbnail-3-1.jpg"
                                                     data-ll-status="loaded"><noscript><img
-                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
+                                                        src="@/assets/uploads/2025/04/Thumbnail-3-1.jpg"
                                                         alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &#038; Độc quyền sở hữu quốc tịch"
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
@@ -289,12 +289,12 @@
                                             title="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                                             class="si-event mt-10">
                                             <div class="img">
-                                                <img src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
+                                                <img src="@/assets/uploads/2025/04/Thumbnail-7.jpg"
                                                     alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
-                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
+                                                    data-lazy-src="@/assets/uploads/2025/04/Thumbnail-7.jpg"
                                                     data-ll-status="loaded"><noscript><img
-                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
+                                                        src="@/assets/uploads/2025/04/Thumbnail-7.jpg"
                                                         alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
@@ -323,12 +323,12 @@
                                             title="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
                                             class="si-event mt-10">
                                             <div class="img">
-                                                <img src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
+                                                <img src="@/assets/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
                                                     alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
-                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
+                                                    data-lazy-src="@/assets/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
                                                     data-ll-status="loaded"><noscript><img
-                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
+                                                        src="@/assets/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
                                                         alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ   "
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
@@ -616,7 +616,7 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
@@ -626,18 +626,18 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
 }
 
 .si-pagi a:hover .si-prev {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev-white.png)
 }
 
 .si-pagi a:hover .si-next {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next-white.png)
 }
 
 @media (max-width: 820px) {

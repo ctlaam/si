@@ -80,18 +80,18 @@
                                     href="#"
                                     title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
+                                        <img src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"
                                             alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
+                                            data-lazy-src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"
                                             data-ll-status="loaded" class="entered lazyloaded"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
+                                                src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"
                                                 alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5" /></noscript>
                                         <div class="d-flex">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                            <img src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 alt="Định cư Mỹ" class="flag entered lazyloaded"
-                                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                data-lazy-src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 data-ll-status="loaded"><noscript><img
-                                                    src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                    src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                     alt="Định cư Mỹ" class="flag" /></noscript>
                                             <span>Định cư Mỹ</span>
                                         </div>
@@ -122,11 +122,11 @@
                                     title="So sánh ba nhóm tổ chức chỉ định trong chương trình Start-up Visa Canada"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-71.jpg"
+                                        <img src="@/assets/uploads/2025/10/Thumbnail-website-1500-x-954px-71.jpg"
                                             alt="So sánh ba nhóm tổ chức chỉ định trong chương trình Start-up Visa Canada"
                                             class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                            <img src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 alt="Định cư Canada">
                                             <span>Định cư Canada</span>
                                         </div>
@@ -147,11 +147,11 @@
                                     title="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-16.jpg"
+                                        <img src="@/assets/uploads/2025/10/Anh-size-moi-16.jpg"
                                             alt="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                                             class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                            <img src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 alt="Định cư Canada">
                                             <span>Định cư Canada</span>
                                         </div>
@@ -171,11 +171,11 @@
                                     title="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/05/Anh-size-moi-12.jpg"
+                                        <img src="@/assets/uploads/2024/05/Anh-size-moi-12.jpg"
                                             alt="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
                                             class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                            <img src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"
                                                 alt="Bất Động Sản Úc">
                                             <span>Bất Động Sản Úc</span>
                                         </div>
@@ -195,11 +195,11 @@
                                     title="Làm sao để có được thư mời chính thức từ tổ chức chỉ định Canada?"
                                     class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-6.jpg"
+                                        <img src="@/assets/uploads/2025/09/Anh-size-moi-6.jpg"
                                             alt="Làm sao để có được thư mời chính thức từ tổ chức chỉ định Canada?"
                                             class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                            <img src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 alt="Định cư Canada">
                                             <span>Định cư Canada</span>
                                         </div>
@@ -219,11 +219,11 @@
                                     href="#"
                                     title="Các tiêu chí để chọn dự án Start-up Visa Canada phù hợp" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-9.jpg"
+                                        <img src="@/assets/uploads/2025/09/Anh-size-moi-9.jpg"
                                             alt="Các tiêu chí để chọn dự án Start-up Visa Canada phù hợp"
                                             class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/ca_7c4fbc564d.png"
+                                            <img src="@/assets/uploads/2023/10/ca_7c4fbc564d.png"
                                                 alt="Định cư Canada">
                                             <span>Định cư Canada</span>
                                         </div>
@@ -242,11 +242,11 @@
                                     href="#"
                                     title="So sánh chương trình đầu tư định cư New Zealand và Úc" class="item mt-5">
                                     <div class="img position-relative">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-10.jpg"
+                                        <img src="@/assets/uploads/2023/10/nz_429b4058cb.png"
                                             alt="So sánh chương trình đầu tư định cư New Zealand và Úc"
                                             class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
-                                            <img src="https://sigroup.vn/wp-content/uploads/2023/10/nz_429b4058cb.png"
+                                            <img src="@/assets/uploads/2025/09/Anh-size-moi-10.jpg"
                                                 alt="Định cư New Zealand">
                                             <span>Định cư New Zealand</span>
                                         </div>
@@ -506,7 +506,7 @@ export default {
 
 .blog-page .feature .time .clock,
 .blog-page .item p .clock {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-surface.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/clock-surface.png)
 }
 
 .blog-page .feature .img {
@@ -568,7 +568,7 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
@@ -578,18 +578,18 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
 }
 
 .si-pagi a:hover .si-prev {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev-white.png)
 }
 
 .si-pagi a:hover .si-next {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next-white.png)
 }
 
 .blog-detail .content .wp-caption {
@@ -812,7 +812,7 @@ export default {
 
 .blog-page .feature .time .clock,
 .blog-page .item p .clock {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-surface.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/clock-surface.png)
 }
 
 .blog-page .feature .img {
@@ -874,7 +874,7 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
@@ -884,18 +884,18 @@ export default {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next.png);
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
 }
 
 .si-pagi a:hover .si-prev {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-prev-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-prev-white.png)
 }
 
 .si-pagi a:hover .si-next {
-    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/si-next-white.png)
+    background-image: url(@/assets/themes/sigroup/assets/images/si-next-white.png)
 }
 
 .blog-detail .content .wp-caption {

@@ -102,7 +102,7 @@
 }
 
 .slick-loading .slick-list {
-    background: #fff url(https://sigroup.vn/wp-content/themes/sigroup/assets/css/ajax-loader.gif) center center no-repeat
+    background: #fff url(@/assets/themes/sigroup/assets/css/ajax-loader.gif) center center no-repeat
 }
 
 @font-face {
@@ -110,8 +110,8 @@
     font-family: 'slick';
     font-weight: 400;
     font-style: normal;
-    src: url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/slick/slick.eot);
-    src: url('https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/slick/slick.eot?#iefix') format('embedded-opentype'),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/slick/slick.woff) format('woff'),url(https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/slick/slick.ttf) format('truetype'),url('https://sigroup.vn/wp-content/themes/sigroup/assets/fonts/slick/slick.svg#slick') format('svg')
+    src: url(@/assets/themes/sigroup/assets/fonts/slick/slick.eot);
+    src: url('@/assets/themes/sigroup/assets/fonts/slick/slick.eot') format('embedded-opentype'),url(@/assets/themes/sigroup/assets/fonts/slick/slick.woff) format('woff'),url(@/assets/themes/sigroup/assets/fonts/slick/slick.ttf) format('truetype'),url('@/assets/themes/sigroup/assets/fonts/slick/slick.svg') format('svg')
 }
 
 .slick-prev,.slick-next {
