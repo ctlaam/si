@@ -17,12 +17,12 @@
                   <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="0"
                     aria-hidden="true" tabindex="-1" style="width: 824px;">
                     <div
-                      style="background-image: url('@/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d.webp');"
+                      style="background-image: url('https://sigroup.vn/wp-content/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d.webp');"
                       class="h-100 w-100 position-absolute home-banners d-none d-md-block">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
                     <div
-                      data-bg="@/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d_mb.webp"
+                      data-bg="https://sigroup.vn/wp-content/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d_mb.webp"
                       style="" class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
@@ -70,8 +70,8 @@
                             <a target="_blank" title="Facebook" href="https://www.facebook.com/SIGroupVietNam"
                               tabindex="-1">
                               <img width="18" height="18"
-                                src="@/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="@/themes/sigroup/assets/images/ic-facebook.png">
+                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
+                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
                             </a>
                             <a target="_blank" title="Zalo" href="https://zalo.me/sigroupvn" class="Zalo"
                               tabindex="-1"></a>
@@ -92,11 +92,11 @@
                   <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="1"
                     aria-hidden="true" tabindex="-1" style="width: 824px;">
                     <div
-                      style="background-image: url('@/uploads/2023/11/usa-9-d130aa010b.webp');"
+                      style="background-image: url('https://sigroup.vn/wp-content/uploads/2023/11/usa-9-d130aa010b.webp');"
                       class="h-100 w-100 position-absolute home-banners d-none d-md-block">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
-                    <div data-bg="@/uploads/2023/11/USA_9_d130aa010b_mb.webp" style=""
+                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/USA_9_d130aa010b_mb.webp" style=""
                       class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
@@ -144,8 +144,8 @@
                             <a target="_blank" title="Facebook" href="https://www.facebook.com/SIGroupVietNam"
                               tabindex="-1">
                               <img width="18" height="18"
-                                src="@/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="@/themes/sigroup/assets/images/ic-facebook.png">
+                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
+                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
                             </a>
                             <a target="_blank" title="Zalo" href="https://zalo.me/sigroupvn" class="Zalo"
                               tabindex="-1"></a>
@@ -165,13 +165,13 @@
                   </div>
                   <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="2"
                     aria-hidden="true" tabindex="-1" style="width: 824px;">
-                    <div data-bg="@/uploads/2023/10/Canada_9_e9399ff1dc-1.jpeg"
-                      style="background-image: url(&quot;@/uploads/2023/10/Canada_9_e9399ff1dc-1.jpeg&quot;);"
+                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Canada_9_e9399ff1dc-1.jpeg"
+                      style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/Canada_9_e9399ff1dc-1.jpeg&quot;);"
                       class="h-100 w-100 position-absolute home-banners d-none d-md-block rocket-lazyload entered lazyloaded exited"
                       data-ll-status="loaded">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
-                    <div data-bg="@/uploads/2023/11/Canada_9_e9399ff1dc_mb.webp" style=""
+                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/Canada_9_e9399ff1dc_mb.webp" style=""
                       class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
@@ -219,8 +219,8 @@
                             <a target="_blank" title="Facebook" href="https://www.facebook.com/SIGroupVietNam"
                               tabindex="-1">
                               <img width="18" height="18"
-                                src="@/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="@/themes/sigroup/assets/images/ic-facebook.png">
+                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
+                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
                             </a>
                             <a target="_blank" title="Zalo" href="https://zalo.me/sigroupvn" class="Zalo"
                               tabindex="-1"></a>
@@ -240,13 +240,13 @@
                   </div>
                   <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="3"
                     aria-hidden="true" tabindex="-1" style="width: 824px;">
-                    <div data-bg="@/uploads/2023/10/Hungaria_e94c77761e.jpeg"
-                      style="background-image: url(&quot;@/uploads/2023/10/Hungaria_e94c77761e.jpeg&quot;);"
+                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Hungaria_e94c77761e.jpeg"
+                      style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/Hungaria_e94c77761e.jpeg&quot;);"
                       class="h-100 w-100 position-absolute home-banners d-none d-md-block rocket-lazyload entered lazyloaded"
                       data-ll-status="loaded">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
-                    <div data-bg="@/uploads/2023/11/Hungaria_e94c77761e_mb.webp" style=""
+                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/Hungaria_e94c77761e_mb.webp" style=""
                       class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
@@ -270,8 +270,8 @@
                             <a target="_blank" title="Facebook" href="https://www.facebook.com/SIGroupVietNam"
                               tabindex="-1">
                               <img width="18" height="18"
-                                src="@/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="@/themes/sigroup/assets/images/ic-facebook.png">
+                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
+                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
                             </a>
                             <a target="_blank" title="Zalo" href="https://zalo.me/sigroupvn" class="Zalo"
                               tabindex="-1"></a>
@@ -292,13 +292,13 @@
                   <div
                     class="h-100 justify-center align-center position-relative slick-slide slick-current slick-active"
                     data-slick-index="4" aria-hidden="false" tabindex="0" style="width: 824px;">
-                    <div data-bg="@/uploads/2023/10/New_Zealand_5_61557c235f.jpeg"
-                      style="background-image: url(&quot;@/uploads/2023/10/New_Zealand_5_61557c235f.jpeg&quot;);"
+                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/New_Zealand_5_61557c235f.jpeg"
+                      style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/New_Zealand_5_61557c235f.jpeg&quot;);"
                       class="h-100 w-100 position-absolute home-banners d-none d-md-block rocket-lazyload entered lazyloaded"
                       data-ll-status="loaded">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
-                    <div data-bg="@/uploads/2023/11/New_Zealand_5_61557c235f_mb.webp"
+                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/New_Zealand_5_61557c235f_mb.webp"
                       style="" class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
                       <div class="bg-overlay position-absolute w-100 h-100"></div>
                     </div>
@@ -322,8 +322,8 @@
                             <a target="_blank" title="Facebook" href="https://www.facebook.com/SIGroupVietNam"
                               tabindex="0">
                               <img width="18" height="18"
-                                src="@/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="@/themes/sigroup/assets/images/ic-facebook.png">
+                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
+                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
                             </a>
                             <a target="_blank" title="Zalo" href="https://zalo.me/sigroupvn" class="Zalo"
                               tabindex="0"></a>
@@ -354,16 +354,16 @@
                   <div class="img">
 
                     <img width="110" height="108"
-                      src="@/uploads/2023/10/map_uc_3757a169f4.png"
-                      alt="@/uploads/2023/10/map_uc_3757a169f4.png">
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_3757a169f4.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_3757a169f4.png">
                     <img width="110" height="108"
-                      alt="@/uploads/2023/10/map_uc_hv_c4171075b7.png"
-                      data-lazy-src="@/uploads/2023/10/map_uc_hv_c4171075b7.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png"
                       class="entered exited"
                       src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20108'%3E%3C/svg%3E"><noscript><img
                         width="110" height="108"
-                        src="@/uploads/2023/10/map_uc_hv_c4171075b7.png"
-                        alt="@/uploads/2023/10/map_uc_hv_c4171075b7.png" /></noscript>
+                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png"
+                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png" /></noscript>
                   </div>
                   <div class="text">Úc</div>
                 </div>
@@ -371,15 +371,15 @@
                   <div class="img">
 
                     <img width="153" height="80"
-                      src="@/uploads/2023/10/map_us_f488d24e6a.png"
-                      alt="@/uploads/2023/10/map_us_f488d24e6a.png">
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_f488d24e6a.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_us_f488d24e6a.png">
                     <img width="153" height="80"
-                      src="@/uploads/2023/10/map_us_hv_8d5441e409.png"
-                      alt="@/uploads/2023/10/map_us_hv_8d5441e409.png"
-                      data-lazy-src="@/uploads/2023/10/map_us_hv_8d5441e409.png"
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
                       data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="153" height="80"
-                        src="@/uploads/2023/10/map_us_hv_8d5441e409.png"
-                        alt="@/uploads/2023/10/map_us_hv_8d5441e409.png" /></noscript>
+                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
+                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png" /></noscript>
                   </div>
                   <div class="text">Mỹ</div>
                 </div>
@@ -387,15 +387,15 @@
                   <div class="img">
 
                     <img width="133" height="101"
-                      src="@/uploads/2023/10/map_canada_df665ba293.png"
-                      alt="@/uploads/2023/10/map_canada_df665ba293.png">
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_df665ba293.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_df665ba293.png">
                     <img width="133" height="101"
-                      src="@/uploads/2023/10/map_canada_hv_05548ba6b5.png"
-                      alt="@/uploads/2023/10/map_canada_hv_05548ba6b5.png"
-                      data-lazy-src="@/uploads/2023/10/map_canada_hv_05548ba6b5.png"
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
                       data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="133" height="101"
-                        src="@/uploads/2023/10/map_canada_hv_05548ba6b5.png"
-                        alt="@/uploads/2023/10/map_canada_hv_05548ba6b5.png" /></noscript>
+                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
+                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png" /></noscript>
                   </div>
                   <div class="text">Canada</div>
                 </div>
@@ -403,15 +403,15 @@
                   <div class="img">
 
                     <img width="121" height="103"
-                      src="@/uploads/2023/10/map_eu_e75ce268d6.png"
-                      alt="@/uploads/2023/10/map_eu_e75ce268d6.png">
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_eu_e75ce268d6.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_eu_e75ce268d6.png">
                     <img width="121" height="103"
-                      src="@/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
-                      alt="@/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
-                      data-lazy-src="@/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
                       data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="121" height="103"
-                        src="@/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
-                        alt="@/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png" /></noscript>
+                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
+                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png" /></noscript>
                   </div>
                   <div class="text">EU</div>
                 </div>
@@ -419,16 +419,16 @@
                   <div class="img">
 
                     <img width="145" height="107"
-                      src="@/uploads/2023/10/map_all_706d39b27f.png"
-                      alt="@/uploads/2023/10/map_all_706d39b27f.png">
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_706d39b27f.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_all_706d39b27f.png">
                     <img width="145" height="107"
-                      alt="@/uploads/2023/10/map_all_hv_8a491f0f61.png"
-                      data-lazy-src="@/uploads/2023/10/map_all_hv_8a491f0f61.png"
+                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
                       class="entered lazyloaded"
-                      src="@/uploads/2023/10/map_all_hv_8a491f0f61.png"
+                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
                       data-ll-status="loaded"><noscript><img width="145" height="107"
-                        src="@/uploads/2023/10/map_all_hv_8a491f0f61.png"
-                        alt="@/uploads/2023/10/map_all_hv_8a491f0f61.png" /></noscript>
+                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
+                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png" /></noscript>
                   </div>
                   <div class="text">Các nước khác</div>
                 </div>
@@ -438,7 +438,7 @@
           <div class="container">
             <div id="section-2" class="row py-10 text-center align-items-center">
               <div class="s2-left col-12 col-md-6" data-aos="fade-right">
-                <!-- <img class="img-fluid" src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Tìm hiểu thêm" data-lazy-src="@/uploads/2023/10/vie_si_group_logofullbrown.png" /><noscript><img class="img-fluid" src="@/uploads/2023/10/vie_si_group_logofullbrown.png" alt="Tìm hiểu thêm" /></noscript> -->
+                <!-- <img class="img-fluid" src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Tìm hiểu thêm" data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/vie_si_group_logofullbrown.png" /><noscript><img class="img-fluid" src="https://sigroup.vn/wp-content/uploads/2023/10/vie_si_group_logofullbrown.png" alt="Tìm hiểu thêm" /></noscript> -->
                 <div class="mt-8 text-justify">Bên cạnh việc sở hữu hệ thống hơn sáu văn phòng tại bốn quốc gia và vùng
                   lãnh thổ, đội ngũ chuyên gia và luật sư đầu ngành sở hữu nhiều chứng chỉ và giải thưởng lớn về Di trú,
                   SI Group còn là thành viên danh dự của nhiều Tổ chức và Hiệp hội Di trú. Đặc biệt, mạng lưới quan hệ
@@ -453,7 +453,7 @@
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
                       <img height="66" width="66"
-                        src="@/uploads/2023/11/Chuong_trinh_dinh_cu_4290e839ef.png"
+                        src="https://sigroup.vn/wp-content/uploads/2023/11/Chuong_trinh_dinh_cu_4290e839ef.png"
                         alt="100++ ">
                     </div>
                     <div class="s2-right-tt">100++ </div>
@@ -462,7 +462,7 @@
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
                       <img height="66" width="66"
-                        src="@/uploads/2023/11/Thanh_pho_noi_bat_bc27b8699c.png" alt="30+">
+                        src="https://sigroup.vn/wp-content/uploads/2023/11/Thanh_pho_noi_bat_bc27b8699c.png" alt="30+">
                     </div>
                     <div class="s2-right-tt">30+</div>
                     <p>Thành phố nổi bật</p>
@@ -470,11 +470,11 @@
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
                       <img height="66" width="66"
-                        src="@/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
+                        src="https://sigroup.vn/wp-content/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
                         alt="10,660+"
-                        data-lazy-src="@/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="@/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
+                          src="https://sigroup.vn/wp-content/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
                           alt="10,660+" /></noscript>
                     </div>
                     <div class="s2-right-tt">10,660+</div>
@@ -483,11 +483,11 @@
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
                       <img height="66" width="66"
-                        src="@/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
+                        src="https://sigroup.vn/wp-content/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
                         alt="1,200+"
-                        data-lazy-src="@/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="@/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
+                          src="https://sigroup.vn/wp-content/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png"
                           alt="1,200+" /></noscript>
                     </div>
                     <div class="s2-right-tt">1,200+</div>
@@ -496,10 +496,10 @@
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
                       <img height="66" width="66"
-                        src="@/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" alt="20+"
-                        data-lazy-src="@/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png"
+                        src="https://sigroup.vn/wp-content/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" alt="20+"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="@/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png"
+                          src="https://sigroup.vn/wp-content/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png"
                           alt="20+" /></noscript>
                     </div>
                     <div class="s2-right-tt">20+</div>
@@ -508,10 +508,10 @@
                   <div class="col-6 col-md-4 my-3">
                     <div class="img">
                       <img height="66" width="66"
-                        src="@/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png" alt="6+"
-                        data-lazy-src="@/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
+                        src="https://sigroup.vn/wp-content/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png" alt="6+"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
                         data-ll-status="loaded" class="entered lazyloaded"><noscript><img height="66" width="66"
-                          src="@/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
+                          src="https://sigroup.vn/wp-content/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
                           alt="6+" /></noscript>
                     </div>
                     <div class="s2-right-tt">6+</div>
@@ -544,24 +544,24 @@
                             role="tabpanel" id="slick-slide10" aria-describedby="slick-slide-control10"
                             style="width: 174px;" data-slick-index="0" aria-hidden="false">
                             <img class="img-fluid entered lazyloaded"
-                              src="@/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
-                              alt="@/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
-                              data-lazy-src="@/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
                               data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="@/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
-                                alt="@/uploads/2024/05/c3c78b33327a9324ca6b.jpg"></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"></noscript>
                             <div class="my-1 so_nam">GIẢI THƯỞNG</div>
                             <div class="noi_nhan_giai">DOANH NGHIỆP - DOANH NHÂN XUẤT SẮC</div>
                           </div>
                           <div class="text-center mt-5 slick-slide slick-active" tabindex="0" role="tabpanel"
                             id="slick-slide11" style="width: 174px;" data-slick-index="1" aria-hidden="false">
                             <img class="img-fluid entered lazyloaded"
-                              src="@/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
-                              alt="@/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
-                              data-lazy-src="@/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
+                              src="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
                               data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="@/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
-                                alt="@/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"></noscript>
                             <div class="my-1 so_nam">TOP 10 </div>
                             <div class="noi_nhan_giai">THƯƠNG HIỆU MẠNH QUỐC GIA </div>
                           </div>
@@ -569,24 +569,24 @@
                             id="slick-slide12" aria-describedby="slick-slide-control11" style="width: 174px;"
                             data-slick-index="2" aria-hidden="false">
                             <img class="img-fluid entered lazyloaded"
-                              src="@/uploads/2024/05/b67f418df8c4599a00d5.jpg"
-                              alt="@/uploads/2024/05/b67f418df8c4599a00d5.jpg"
-                              data-lazy-src="@/uploads/2024/05/b67f418df8c4599a00d5.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
                               data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="@/uploads/2024/05/b67f418df8c4599a00d5.jpg"
-                                alt="@/uploads/2024/05/b67f418df8c4599a00d5.jpg"></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"></noscript>
                             <div class="my-1 so_nam">GIẢI THƯỞNG</div>
                             <div class="noi_nhan_giai">SẢN PHẨM DỊCH VỤ TIN DÙNG</div>
                           </div>
                           <div class="text-center mt-5 slick-slide slick-active" tabindex="0" role="tabpanel"
                             id="slick-slide13" style="width: 174px;" data-slick-index="3" aria-hidden="false">
                             <img class="img-fluid entered lazyloaded"
-                              src="@/uploads/2025/03/Asia-business-awards.png"
-                              alt="@/uploads/2025/03/Asia-business-awards.png"
-                              data-lazy-src="@/uploads/2025/03/Asia-business-awards.png"
+                              src="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
                               data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="@/uploads/2025/03/Asia-business-awards.png"
-                                alt="@/uploads/2025/03/Asia-business-awards.png"></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"></noscript>
                             <div class="my-1 so_nam">TOP 10 </div>
                             <div class="noi_nhan_giai">THƯƠNG HIỆU TÍN NHIỆM HÀNG ĐẦU CHÂU Á</div>
                           </div>
@@ -613,16 +613,16 @@
                       <a target="_blank"
                         href="https://sigroup.vn/su-kien/chu-tich-si-group-gap-go-bo-truong-bo-kinh-te-malta/"
                         title="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" tabindex="-1">
-                        <div data-bg="@/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                              data-lazy-src="@/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/12/235117e390ec20b279fd.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"
                                 alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -643,16 +643,16 @@
                         href="https://sigroup.vn/su-kien/si-group-ky-thoa-thuan-hop-tac-dau-tu-voi-chinh-phu-solomon/"
                         title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                              data-lazy-src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -677,15 +677,15 @@
                         href="https://sigroup.vn/su-kien/bo-ngoai-giao-my-trao-tang-giai-thuong-dong-gop-xuat-sac-cho-pho-chu-tich-hdqt-si-group-ba-nguyen-thi-bich-ha/"
                         title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-1-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-1-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
                                 alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -717,17 +717,17 @@
                         title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                              data-lazy-src="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                 alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư " /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -750,15 +750,15 @@
                         href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
                         title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-3-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-3-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
                                 alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &#038; Độc quyền sở hữu quốc tịch" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -782,17 +782,17 @@
                         href="https://sigroup.vn/su-kien/si-group-to-chuc-buoi-training-chuyen-sau-cac-san-pham-doc-quyen-voi-doi-tac-chien-luoc/"
                         title="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-7.jpg"
-                          style="background-image: url(&quot;@/uploads/2025/04/Thumbnail-7.jpg&quot;);"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
+                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg&quot;);"
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
                           data-ll-status="loaded">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-7.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-7.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
                                 alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -815,18 +815,18 @@
                         title="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                          style="background-image: url(&quot;@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg&quot;);"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
+                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg&quot;);"
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
                           data-ll-status="loaded">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
-                              data-lazy-src="@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
                                 alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ   " /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -849,18 +849,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/su-kien/si-group-ra-mat-du-an-bat-dong-san-double-bay-tai-tp-sydney-uc/"
                         title="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/b694112cf0ae40f019bf.jpg"
-                          style="background-image: url(&quot;@/uploads/2025/04/b694112cf0ae40f019bf.jpg&quot;);"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
+                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg&quot;);"
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
                           data-ll-status="loaded">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)"
-                              data-lazy-src="@/uploads/2025/04/b694112cf0ae40f019bf.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/b694112cf0ae40f019bf.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
                                 alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -883,15 +883,15 @@
                         href="https://sigroup.vn/su-kien/dai-su-el-salvador-den-tham-tru-so-chinh-si-group-trao-doi-ve-ke-hoach-xuc-tien-thuong-mai/"
                         title="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/DSC03933-2.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
-                              data-lazy-src="@/uploads/2025/04/DSC03933-2.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/DSC03933-2.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"
                                 alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &#038; trao đổi về kế hoạch xúc tiến thương mại" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -916,17 +916,17 @@
                         title="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
                         tabindex="0">
                         <div
-                          data-bg="@/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
-                              data-lazy-src="@/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
                                 alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &#038; làm việc đến lao động Việt" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -951,15 +951,15 @@
                         href="https://sigroup.vn/su-kien/pho-tong-giam-doc-si-group-ong-jean-lesly-benoit-gap-go-lam-viec-voi-cac-lanh-dao-cap-cao-cua-chinh-phu-viet-nam/"
                         title="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"
                                 alt="Phó Tổng Giám đốc SI Group &#8211; Ông Jean Lesly Benoit gặp gỡ &#038; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -983,15 +983,15 @@
                         href="https://sigroup.vn/su-kien/si-group-khang-dinh-chat-luong-voi-giai-thuong-san-pham-dich-vu-tin-dung/"
                         title="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/SIGROUP_59.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
-                              data-lazy-src="@/uploads/2025/03/SIGROUP_59.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/SIGROUP_59.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"
                                 alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1014,15 +1014,15 @@
                       <a target="_blank"
                         href="https://sigroup.vn/su-kien/si-group-tu-hao-duoc-ton-vinh-thuong-hieu-manh-quoc-gia/"
                         title="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia" tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/SIGROUP_96.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia"
-                              data-lazy-src="@/uploads/2025/03/SIGROUP_96.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/SIGROUP_96.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"
                                 alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1045,15 +1045,15 @@
                         href="https://sigroup.vn/su-kien/ceo-si-group-ba-le-thi-huy-binh-duoc-vinh-danh-doanh-nghiep-doanh-nhan-xuat-sac/"
                         title="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail-3.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail-3.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail-3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"
                                 alt="CEO SI Group &#8211; Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp &#8211; Doanh nhân xuất sắc" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1077,15 +1077,15 @@
                         href="https://sigroup.vn/su-kien/chu-tich-si-group-tham-du-chuoi-su-kien-truoc-le-nham-chuc-cua-tong-thong-donald-trump/"
                         title="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/Thumbnail-28.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
-                              data-lazy-src="@/uploads/2025/01/Thumbnail-28.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/01/Thumbnail-28.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"
                                 alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1107,16 +1107,16 @@
                       <a target="_blank"
                         href="https://sigroup.vn/su-kien/chu-tich-si-group-gap-go-bo-truong-bo-kinh-te-malta/"
                         title="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" tabindex="-1">
-                        <div data-bg="@/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                              data-lazy-src="@/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/12/235117e390ec20b279fd.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"
                                 alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1137,16 +1137,16 @@
                         href="https://sigroup.vn/su-kien/si-group-ky-thoa-thuan-hop-tac-dau-tu-voi-chinh-phu-solomon/"
                         title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                              data-lazy-src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1171,15 +1171,15 @@
                         href="https://sigroup.vn/su-kien/bo-ngoai-giao-my-trao-tang-giai-thuong-dong-gop-xuat-sac-cho-pho-chu-tich-hdqt-si-group-ba-nguyen-thi-bich-ha/"
                         title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-1-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-1-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
                                 alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1211,17 +1211,17 @@
                         title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                              data-lazy-src="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                 alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư " /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1244,15 +1244,15 @@
                         href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
                         title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-3-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-3-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
                                 alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &#038; Độc quyền sở hữu quốc tịch" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1276,17 +1276,17 @@
                         href="https://sigroup.vn/su-kien/si-group-to-chuc-buoi-training-chuyen-sau-cac-san-pham-doc-quyen-voi-doi-tac-chien-luoc/"
                         title="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-7.jpg"
-                          style="background-image: url(&quot;@/uploads/2025/04/Thumbnail-7.jpg&quot;);"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
+                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg&quot;);"
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
                           data-ll-status="loaded">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-7.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-7.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
                                 alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1309,18 +1309,18 @@
                         title="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                          style="background-image: url(&quot;@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg&quot;);"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
+                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg&quot;);"
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
                           data-ll-status="loaded">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
-                              data-lazy-src="@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
                                 alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ   " /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1343,18 +1343,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/su-kien/si-group-ra-mat-du-an-bat-dong-san-double-bay-tai-tp-sydney-uc/"
                         title="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/b694112cf0ae40f019bf.jpg"
-                          style="background-image: url(&quot;@/uploads/2025/04/b694112cf0ae40f019bf.jpg&quot;);"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
+                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg&quot;);"
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
                           data-ll-status="loaded">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)"
-                              data-lazy-src="@/uploads/2025/04/b694112cf0ae40f019bf.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/b694112cf0ae40f019bf.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
                                 alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1377,15 +1377,15 @@
                         href="https://sigroup.vn/su-kien/dai-su-el-salvador-den-tham-tru-so-chinh-si-group-trao-doi-ve-ke-hoach-xuc-tien-thuong-mai/"
                         title="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/DSC03933-2.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
-                              data-lazy-src="@/uploads/2025/04/DSC03933-2.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/DSC03933-2.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"
                                 alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &#038; trao đổi về kế hoạch xúc tiến thương mại" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1410,17 +1410,17 @@
                         title="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
-                              data-lazy-src="@/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
                                 alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &#038; làm việc đến lao động Việt" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1444,15 +1444,15 @@
                         href="https://sigroup.vn/su-kien/pho-tong-giam-doc-si-group-ong-jean-lesly-benoit-gap-go-lam-viec-voi-cac-lanh-dao-cap-cao-cua-chinh-phu-viet-nam/"
                         title="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"
                                 alt="Phó Tổng Giám đốc SI Group &#8211; Ông Jean Lesly Benoit gặp gỡ &#038; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1476,15 +1476,15 @@
                         href="https://sigroup.vn/su-kien/si-group-khang-dinh-chat-luong-voi-giai-thuong-san-pham-dich-vu-tin-dung/"
                         title="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/SIGROUP_59.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
-                              data-lazy-src="@/uploads/2025/03/SIGROUP_59.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/SIGROUP_59.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"
                                 alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1507,15 +1507,15 @@
                       <a target="_blank"
                         href="https://sigroup.vn/su-kien/si-group-tu-hao-duoc-ton-vinh-thuong-hieu-manh-quoc-gia/"
                         title="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia" tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/SIGROUP_96.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia"
-                              data-lazy-src="@/uploads/2025/03/SIGROUP_96.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/SIGROUP_96.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"
                                 alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1538,15 +1538,15 @@
                         href="https://sigroup.vn/su-kien/ceo-si-group-ba-le-thi-huy-binh-duoc-vinh-danh-doanh-nghiep-doanh-nhan-xuat-sac/"
                         title="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail-3.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail-3.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail-3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"
                                 alt="CEO SI Group &#8211; Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp &#8211; Doanh nhân xuất sắc" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1570,15 +1570,15 @@
                         href="https://sigroup.vn/su-kien/chu-tich-si-group-tham-du-chuoi-su-kien-truoc-le-nham-chuc-cua-tong-thong-donald-trump/"
                         title="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/Thumbnail-28.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
-                              data-lazy-src="@/uploads/2025/01/Thumbnail-28.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/01/Thumbnail-28.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"
                                 alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1600,16 +1600,16 @@
                       <a target="_blank"
                         href="https://sigroup.vn/su-kien/chu-tich-si-group-gap-go-bo-truong-bo-kinh-te-malta/"
                         title="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" tabindex="-1">
-                        <div data-bg="@/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                               alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                              data-lazy-src="@/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/12/235117e390ec20b279fd.jpg"
+                                src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"
                                 alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
@@ -1673,17 +1673,17 @@
                       <a target="_blank" href="https://sigroup.vn/chuong-trinh/quoc-te-hoa-doanh-nghiep/"
                         title="Quốc tế hóa doanh nghiệp" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"><noscript><img
-                              src="@/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
                               alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Định cư EU"
-                                data-lazy-src="@/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
-                                  src="@/uploads/2023/10/eu_ead2b9af1e.png"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
                                   alt="Định cư EU" /></noscript>
                             </div>
                             <div><span>Định cư EU</span></div>
@@ -1702,19 +1702,19 @@
                         href="https://sigroup.vn/chuong-trinh/chuong-trinh-dau-tu-so-huu-quoc-tich-chau-au-chi-trong-120-ngay/"
                         title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"><noscript><img
-                              src="@/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
                               alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Định cư EU"
-                                data-lazy-src="@/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
-                                  src="@/uploads/2023/10/eu_ead2b9af1e.png"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
                                   alt="Định cư EU" /></noscript>
                             </div>
                             <div><span>Định cư EU</span></div>
@@ -1733,19 +1733,19 @@
                       <a target="_blank" href="https://sigroup.vn/chuong-trinh/visa-132a-giai-phap-xuat-nhap-khau/"
                         title="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2023/11/2_ca0e447c97.png"><noscript><img
-                              src="@/uploads/2023/11/2_ca0e447c97.png"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/2_ca0e447c97.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2023/11/2_ca0e447c97.png"
                               alt="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Định cư Úc"
-                                data-lazy-src="@/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
-                                  src="@/uploads/2023/10/au_1dbaf56fd8.png"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
                                   alt="Định cư Úc" /></noscript>
                             </div>
                             <div><span>Định cư Úc</span></div>
@@ -1782,18 +1782,18 @@
                         href="https://sigroup.vn/chuong-trinh/chuong-trinh-dau-tu-so-huu-quoc-tich-malta-giai-phap-doc-quyen-2025/"
                         title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group" class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"><noscript><img
-                              src="@/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                               alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Định cư EU"
-                                data-lazy-src="@/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
-                                  src="@/uploads/2023/10/eu_ead2b9af1e.png"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2023/10/eu_ead2b9af1e.png"
                                   alt="Định cư EU" /></noscript>
                             </div>
                             <div><span>Định cư EU</span></div>
@@ -1811,19 +1811,19 @@
                         href="https://sigroup.vn/chuong-trinh/chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-thuy-si/"
                         title="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"><noscript><img
-                              src="@/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"
                               alt="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Định cư Thụy Sĩ"
-                                data-lazy-src="@/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"><noscript><img
-                                  src="@/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"
                                   alt="Định cư Thụy Sĩ" /></noscript>
                             </div>
                             <div><span>Định cư Thụy Sĩ</span></div>
@@ -1841,18 +1841,18 @@
                       <a target="_blank" href="https://sigroup.vn/chuong-trinh/eb-5-chuong-trinh-dien-dau-tu/"
                         title="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2023/11/2_f164830d12.png"><noscript><img
-                              src="@/uploads/2023/11/2_f164830d12.png"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"
                               alt="Giải pháp đầu tư EB-5 độc quyền cùng SI Group"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Định cư Mỹ"
-                                data-lazy-src="@/uploads/2023/10/us_72cc7bdefa.png"><noscript><img
-                                  src="@/uploads/2023/10/us_72cc7bdefa.png"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
                                   alt="Định cư Mỹ" /></noscript>
                             </div>
                             <div><span>Định cư Mỹ</span></div>
@@ -1889,18 +1889,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-n-q-t-nhan-ita-188a-trong-1-thang/"
                         title="Ông N.Q.T nhận ITA 188A trong 1 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
-                              data-lazy-src="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
-                                alt="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -1923,17 +1923,17 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-anh-l-d-m-nhan-bao-lanh-bang-nam-uc/"
                         title="Chúc mừng gia đình anh L.Đ.M nhận bảo lãnh bang Nam Úc" tabindex="-1">
-                        <div data-bg="@/uploads/2025/09/Khach-hang-thanh-cong.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/09/Khach-hang-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2025/09/Khach-hang-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/09/Khach-hang-thanh-cong.jpg"
-                                alt="@/uploads/2025/09/Khach-hang-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -1957,18 +1957,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-anh-m-n-h-nhan-open-work-permit-thanh-cong-tai-canada/"
                         title="Chúc mừng gia đình anh M.N.H. nhận Open Work Permit thành công tại Canada" tabindex="-1">
-                        <div data-bg="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"
-                              data-lazy-src="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"
-                                alt="@/uploads/2025/09/Khach-hang-thanh-cong-2.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -1993,17 +1993,17 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-v-t-h-nhan-thong-bao-nop-lc-thanh-cong-cho-ca-gia-dinh-4-nguoi/"
                         title="Chúc mừng chị V.T.H. nhận thông báo nộp LC thành công cho cả gia đình 4 người"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/08/Khach-hang-thanh-cong.png" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/08/Khach-hang-thanh-cong.png"
-                              data-lazy-src="@/uploads/2025/08/Khach-hang-thanh-cong.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/08/Khach-hang-thanh-cong.png"
-                                alt="@/uploads/2025/08/Khach-hang-thanh-cong.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2029,16 +2029,16 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-n-t-k-l-chinh-thuc-nhan-thu-bao-lanh-bang-victoria/"
                         title="Chúc mừng khách hàng N.T.K.L. chính thức nhận thư bảo lãnh bang Victoria" tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Thumbnail-V2-42-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Thumbnail-V2-42-1.jpg"
-                              data-lazy-src="@/uploads/2025/06/Thumbnail-V2-42-1.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/06/Thumbnail-V2-42-1.jpg"
-                                alt="@/uploads/2025/06/Thumbnail-V2-42-1.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2063,18 +2063,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/tu-khoi-dau-vung-chac-den-buoc-ngoat-cham-tay-vao-giac-mo-my-cung-visa-eb-3-cua-khach-hang-t-c-h/"
                         title="Từ khởi đầu vững chắc đến bước ngoặt chạm tay vào giấc mơ Mỹ cùng Visa EB-3 của khách hàng T.C.H."
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"
-                              data-lazy-src="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"
-                                alt="@/uploads/2025/06/Khach-hang-thanh-cong-1.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2100,17 +2100,17 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-n-t-t-chinh-thuc-nhan-job-offer-chuong-trinh-visa-eb-3/"
                         title="Chúc mừng chị N.T.T chính thức nhận Job Offer chương trình Visa EB-3&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Khach-hang-thanh-cong.png" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Khach-hang-thanh-cong.png"
-                              data-lazy-src="@/uploads/2025/06/Khach-hang-thanh-cong.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/06/Khach-hang-thanh-cong.png"
-                                alt="@/uploads/2025/06/Khach-hang-thanh-cong.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2137,16 +2137,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-n-q-q-duoc-bang-new-south-wales-cap-visa-888a-sau-hon-2-nam-van-hanh-doanh-nghiep/"
                         title="Chúc mừng anh N.Q.Q được cấp visa 888A sau hơn 2 năm vận hành doanh nghiệp"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Thumbnail-V2-41.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Thumbnail-V2-41.jpg"
-                              data-lazy-src="@/uploads/2025/06/Thumbnail-V2-41.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/06/Thumbnail-V2-41.jpg"
-                                alt="@/uploads/2025/06/Thumbnail-V2-41.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2170,18 +2170,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-l-v-s-nhan-giay-chap-thuan-dinh-cu-hy-lap/"
                         title="Chúc mừng khách hàng L.V.S. nhận giấy chấp thuận định cư Hy Lạp" tabindex="-1">
-                        <div data-bg="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"
-                              data-lazy-src="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"
-                                alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2206,18 +2206,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-v-p-b-t-nhan-chap-thuan-quoc-tich-uc/"
                         title="Chúc mừng khách hàng V.P.B.T. nhận chấp thuận quốc tịch Úc" tabindex="0">
-                        <div data-bg="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
-                              data-lazy-src="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
-                                alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2242,17 +2242,17 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-t-p-p-q-nhan-thong-bao-nop-lc-thanh-cong-voi-thoi-gian-1-thang/"
                         title="Chúc mừng chị T.P.P.Q nhận thông báo nộp LC thành công với thời gian 1 tháng"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/05/Khach-hang-thanh-cong.png" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/05/Khach-hang-thanh-cong.png"
-                              data-lazy-src="@/uploads/2025/05/Khach-hang-thanh-cong.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/05/Khach-hang-thanh-cong.png"
-                                alt="@/uploads/2025/05/Khach-hang-thanh-cong.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2277,18 +2277,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-h-d-nhan-thong-bao-nop-lc-thanh-cong-voi-thoi-gian-than-toc-chua-den-1-thang/"
                         title="Chúc mừng anh N.H.Đ. nhận Thông báo nộp LC thành công với thời gian thần tốc chưa đến 1 tháng&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2312,18 +2312,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/anh-t-h-t-gap-tro-ngai-khi-chon-viec-si-group-da-ho-tro-the-nao-de-anh-som-nhan-thong-bao-nop-lc-thanh-cong/"
                         title="Anh T.H.T. gặp trở ngại khi chọn việc, SI Group đã hỗ trợ thế nào để anh sớm nhận Thông báo nộp LC thành công?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2348,16 +2348,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-v-t-t-v-nhan-chap-thuan-lmia-vi-tri-ke-toan-so-sach-tai-bang-alberta-canada/"
                         title="Chúc mừng chị V.T.T.V. nhận chấp thuận LMIA vị trí Kế toán sổ sách tại bang Alberta, Canada"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-V2-40.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/Thumbnail-V2-40.jpg"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-V2-40.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-V2-40.jpg"
-                                alt="@/uploads/2025/04/Thumbnail-V2-40.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2383,18 +2383,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-p-q-d-nhan-thong-bao-nop-lc-thanh-cong-voi-vi-tri-dieu-duong-tai-nha-o-bang-florida/"
                         title="Chúc mừng anh P.Q.Đ. nhận Thông báo nộp LC thành công với vị trí Điều dưỡng tại nhà ở bang Florida&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2421,18 +2421,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-thu-thach-phai-doi-nghe-chuc-mung-anh-n-d-t-nhan-thong-bao-nop-lc-thanh-cong/"
                         title="Vượt thử thách phải đổi nghề, chúc mừng anh N.Đ.T. nhận Thông báo nộp LC thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2457,18 +2457,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-6-thanh-vien-cua-chi-n-t-k-s-duoc-cap-visa-888a-thanh-cong/"
                         title="Chúc mừng gia đình 6 thành viên của chị N.T.K.S. được cấp Visa 888A thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
-                              data-lazy-src="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
-                                alt="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2494,18 +2494,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-p-a-k-nhan-chap-thuan-quoc-tich-uc-sau-4-nam-duoc-cap-visa-132a/"
                         title="Chúc mừng khách hàng P.A.K. nhận Chấp thuận quốc tịch Úc sau 4 năm được cấp Visa 132A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2530,16 +2530,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-d-v-l-duoc-bang-queensland-bao-lanh-cap-visa-888a-du-van-hanh-doanh-nghiep-chua-den-2-nam/"
                         title="Chúc mừng anh Đ.V.L. được bang Queensland bảo lãnh cấp Visa 888A dù vận hành doanh nghiệp chưa đến 2 năm"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-V2-39.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/Thumbnail-V2-39.jpg"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-V2-39.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-V2-39.jpg"
-                                alt="@/uploads/2025/04/Thumbnail-V2-39.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2565,18 +2565,18 @@
                         title="Vượt các yêu cầu chứng minh phức tạp, chúc mừng chị N.T.T.H. nhận Visa 132A thành công"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2602,18 +2602,18 @@
                         title="Tháng 3/2025, SI Group đón nhận tin vui 18 khách hàng nhận Thông báo nộp LC thành công"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
-                                alt="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2638,18 +2638,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-n-t-h-d-cung-anh-trai-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng chị N.T.H.D. cùng anh trai nộp LC thành công với vị trí Đầu bếp tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2674,18 +2674,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-h-p-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng anh N.H.P. nộp LC thành công với vị trí Đầu bếp tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2711,18 +2711,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/muon-dinh-cu-my-de-tien-cham-soc-con-chi-t-t-h-chon-dien-eb-3-va-buoc-dau-nop-lc-thanh-cong/"
                         title="Muốn định cư Mỹ để tiện chăm sóc con, chị T.T.H. chọn diện EB-3 và bước đầu nộp LC thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2747,18 +2747,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-t-t-h-n-nop-lc-thanh-cong-voi-vi-tri-nhan-vien-phuc-vu/"
                         title="Chúc mừng chị T.T.H.N. nộp LC thành công với vị trí nhân viên phục vụ&nbsp;&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2783,18 +2783,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-l-v-t-nop-lc-thanh-cong-voi-vi-tri-dieu-duong-tai-nha-o-bang-california/"
                         title="Chúc mừng anh L.V.T. nộp LC thành công với vị trí Điều dưỡng tại nhà ở bang California&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2820,18 +2820,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-tro-ngai-phai-doi-viec-chuc-mung-anh-h-m-t-nop-lc-thanh-cong/"
                         title="Vượt trở ngại phải đổi việc, chúc mừng anh H.M.T. nộp LC thành công" tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2856,18 +2856,18 @@
                         title="Nghịch cảnh làm nên nghị lực vượt thử thách, chúc mừng chị L.P.H.P nộp LC thành công"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2895,18 +2895,18 @@
                         title="Chúc mừng anh N.H.S. nộp LC thành công sau nhiều lần đổi nghề &amp; nơi làm việc"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2932,18 +2932,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/con-21-tuoi-van-di-my-dien-eb-3-cung-gia-dinh-chi-n-t-n-k-c-nho-giai-phap-linh-hoat-tu-si-group/"
                         title="Con 21 tuổi vẫn đi Mỹ diện EB-3 cùng gia đình chị N.T.N.K.C nhờ giải pháp linh hoạt từ SI Group&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
-                              data-lazy-src="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
-                                alt="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -2969,18 +2969,18 @@
                         title="Chúc mừng chị L.K.A. được chấp thuận bảo lãnh Visa 482 Úc với vị trí Sales &amp; Marketing Manager&nbsp;"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3006,18 +3006,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-rao-can-tuoi-tac-va-dinh-huong-nghe-nghiep-anh-n-t-m-q-van-nop-lc-thanh-cong/"
                         title="Vượt rào cản tuổi tác và định hướng nghề nghiệp, anh N.T.M.Q. vẫn nộp LC thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3042,18 +3042,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-l-p-t-nop-lc-thanh-cong-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng anh L.P.T. nộp LC thành công vị trí đầu bếp&nbsp; tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3078,18 +3078,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/linh-hoat-chuyen-doi-noi-lam-viec-da-giup-chi-l-h-h-l-nop-lc-thanh-cong-nhu-the-nao/"
                         title="Linh hoạt chuyển đổi nơi làm việc đã giúp chị L.H.H.L. nộp LC thành công như thế nào?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3115,18 +3115,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-k-n-nop-lc-thanh-cong-giua-mua-cao-diem-voi-vi-tri-dau-bep-tai-bang-california/"
                         title="Chúc mừng anh N.K.N. nộp LC thành công giữa mùa cao điểm với vị trí đầu bếp tại bang California"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3151,18 +3151,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-l-x-d-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng chị L.X.D. nộp LC thành công với vị trí đầu bếp tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3187,18 +3187,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-v-h-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-california/"
                         title="Chúc mừng anh N.V.H. nộp LC thành công với vị trí đầu bếp tại bang California"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3223,18 +3223,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-l-p-t-k-nop-lc-thanh-cong-vi-tri-nhan-vien-quay-thuc-an-nhanh-tai-bang-arizona/"
                         title="Chúc mừng chị L.P.T.K nộp LC thành công  vị trí nhân viên quầy thức ăn nhanh tại bang Arizona"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3259,18 +3259,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-m-h-nop-lc-thanh-cong-vi-tri-dau-bep-theo-chuong-trinh-eb-3/"
                         title="Chúc mừng anh N.M.H. nộp LC thành công vị trí đầu bếp theo Chương trình EB-3"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3294,18 +3294,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-v-t-t-nop-lc-thanh-cong-nhan-case-number-va-tiep-tuc-hoan-tat-thu-tuc-cap-visa-eb-3/"
                         title="Chúc mừng chị V.T.T. nộp LC thành công, nhận Case Number và tiếp tục hoàn tất thủ tục cấp Visa EB-3&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3329,18 +3329,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-c-b-t-nhan-skills-assessment-chi-sau-5-tuan-truc-tiep-nop-ho-so-visa-186-len-pr-uc/"
                         title="Chúc mừng chị C.B.T. nhận Skills Assessment chỉ sau 5 tuần, trực tiếp nộp hồ sơ Visa 186 lên PR Úc"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
-                              data-lazy-src="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
-                                alt="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3365,16 +3365,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/gia-dinh-chi-n-t-tro-thanh-thuong-tru-nhan-uc-theo-lo-trinh-visa-482-tss-visa-186/"
                         title="Chúc mừng gia đình chị N.T. trở thành thường trú nhân Úc theo lộ trình Visa 482 (TSS) – Visa 186&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail-V2-37.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/Thumbnail-V2-37.jpg"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail-V2-37.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail-V2-37.jpg"
-                                alt="@/uploads/2025/03/Thumbnail-V2-37.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3398,17 +3398,17 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-v-t-nhan-bao-lanh-bang-nam-uc-visa-888a/"
                         title="Chúc mừng anh N.V.T. nhận bảo lãnh bang Nam Úc, Visa 888A&nbsp;" tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/05820bea268b96d5cf9a.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/05820bea268b96d5cf9a.jpg"
-                              data-lazy-src="@/uploads/2025/03/05820bea268b96d5cf9a.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/05820bea268b96d5cf9a.jpg"
-                                alt="@/uploads/2025/03/05820bea268b96d5cf9a.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3434,16 +3434,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-qua-ba-lan-giai-trinh-si-group-ho-tro-chi-m-h-the-nao-de-nhan-bao-lanh-bang-visa-888a/"
                         title="Vượt qua ba lần giải trình, SI Group hỗ trợ chị M.H. thế nào để nhận bảo lãnh bang Visa 888A?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail-V2-20.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/Thumbnail-V2-20.jpg"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail-V2-20.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail-V2-20.jpg"
-                                alt="@/uploads/2025/03/Thumbnail-V2-20.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3467,18 +3467,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-t-t-l-duoc-cap-visa-eb-3-sau-3-nam-dong-hanh-cung-si-group/"
                         title="Chúc mừng chị T.T.L. được cấp Visa EB-3 sau 3 năm đồng hành cùng SI Group" tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3502,18 +3502,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/si-group-ho-tro-khach-hang-h-the-nao-de-dat-ky-luc-nhan-los-chi-sau-1-thang/"
                         title="SI Group hỗ trợ khách hàng H. thế nào để đạt kỷ lục nhận LOS chỉ sau 1 tháng?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3538,18 +3538,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-d-t-l-nhan-lmia-thanh-cong-chuan-bi-den-canada-lam-viec-va-dinh-cu/"
                         title="Chúc mừng khách hàng D.T.L nhận LMIA thành công, chuẩn bị đến Canada làm việc và định cư"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
-                              data-lazy-src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
-                                alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3575,18 +3575,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/si-group-ho-tro-khach-hang-t-h-van-hanh-dn-xuat-khau-the-nao-de-duoc-bang-bao-lanh-cap-visa-888a/"
                         title="SI Group hỗ trợ khách hàng T.H. vận hành DN xuất khẩu thế nào để được bang bảo lãnh cấp Visa 888A?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
-                              data-lazy-src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
-                                alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3610,18 +3610,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-a-h-chinh-thuc-tro-thanh-cong-dan-montenegro/"
                         title="Chúc mừng khách hàng A.H. chính thức trở thành công dân Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
-                              data-lazy-src="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
-                                alt="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3646,18 +3646,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-anh-p-n-chinh-thuc-tro-thanh-thuong-tru-nhan-uc-theo-dien-visa-888a/"
                         title="Chúc mừng gia đình anh P.N. chính thức trở thành thường trú nhân Úc theo diện Visa 888A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
-                              data-lazy-src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
-                                alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3682,18 +3682,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-qua-yeu-cau-giai-trinh-ho-so-anh-q-duoc-bang-nsw-chap-thuan-bao-lanh-visa-888a/"
                         title="Vượt qua yêu cầu giải trình hồ sơ, anh Q. được bang NSW chấp thuận bảo lãnh Visa 888A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
-                              data-lazy-src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
-                                alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3718,18 +3718,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chung-minh-doanh-thu-de-duoc-cap-visa-888a-gap-kho-khan-si-group-ho-tro-anh-q-the-nao/"
                         title="Chứng minh doanh thu để được cấp Visa 888A gặp khó khăn, SI Group hỗ trợ anh Q. thế nào?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
-                              data-lazy-src="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
-                                alt="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3754,18 +3754,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-h-q-nhan-thu-hau-kiem-nghiem-thu-ket-qua-cap-visa-132a/"
                         title="Chúc mừng khách hàng H.Q. nhận Thư Hậu kiểm nghiệm thu kết quả cấp Visa 132A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
-                              data-lazy-src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
-                                alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3789,18 +3789,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-t-t-nhan-thu-hau-kiem-nghiem-thu-ket-qua-cap-visa-132a-thanh-cong/"
                         title="Chúc mừng khách hàng T.T. nhận Thư Hậu kiểm nghiệm thu kết quả cấp Visa 132A thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
-                              data-lazy-src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
-                                alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3824,18 +3824,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-t-d-nhan-visa-132a-thanh-cong/"
                         title="Chúc mừng khách hàng T.D. nhận Thư Hậu kiểm nghiệm thu kết quả cấp Visa 132A thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
-                              data-lazy-src="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
-                                alt="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3859,16 +3859,16 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-x-q-nhan-bao-lanh-bang-visa-888a/"
                         title="Chúc mừng khách hàng X.Q. nhận bảo lãnh bang Visa 888A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/10/Thumbnail-V2-10.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/10/Thumbnail-V2-10.jpg"
-                              data-lazy-src="@/uploads/2024/10/Thumbnail-V2-10.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2024/10/Thumbnail-V2-10.jpg"
-                                alt="@/uploads/2024/10/Thumbnail-V2-10.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3892,18 +3892,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-khach-hang-a-h-nhan-quyet-dinh-cap-quoc-tich-montenegro/"
                         title="Chúc mừng gia đình khách hàng A.H. nhận Quyết định cấp quốc tịch Montenegro"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
-                              data-lazy-src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
-                                alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3927,18 +3927,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-p-n-nhan-bao-lanh-bang-visa-888a/"
                         title="Chúc mừng khách hàng P.N. nhận bảo lãnh bang Visa 888A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
-                              data-lazy-src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
-                                alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3961,18 +3961,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-h-nhan-bao-lanh-bang-visa-132a/"
                         title="Chúc mừng khách hàng H. nhận bảo lãnh bang Visa 132A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
-                              data-lazy-src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
-                                alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -3996,18 +3996,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-th-h-nhan-duoc-bao-lanh-bang-visa-888a/"
                         title="Chúc mừng khách hàng Th.H. nhận được bảo lãnh bang Visa 888A&nbsp;" tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
-                              data-lazy-src="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
-                                alt="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4030,18 +4030,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-7-thanh-vien-cua-khach-hang-t-d-nhan-visa-132a-thanh-cong/"
                         title="Chúc mừng gia đình 7 thành viên của khách hàng T.Đ. nhận Visa 132A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
-                              data-lazy-src="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
-                                alt="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4064,16 +4064,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-khach-hang-t-l-nhan-visa-eb-3-thanh-cong-truoc-khi-con-buoc-sang-tuoi-21/"
                         title="Chúc mừng gia đình khách hàng T.L. nhận Visa EB-3 thành công trước khi con bước sang tuổi 21"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/Thumbnail-V2-25.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/Thumbnail-V2-25.jpg"
-                              data-lazy-src="@/uploads/2024/07/Thumbnail-V2-25.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2024/07/Thumbnail-V2-25.jpg"
-                                alt="@/uploads/2024/07/Thumbnail-V2-25.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4098,18 +4098,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/thanh-cong-dau-tu-so-huu-ho-chieu-montenegro/"
                         title="13 hộ chiếu Montenegro được cấp trong cuối tháng 7" tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
-                              data-lazy-src="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
-                                alt="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4133,18 +4133,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-3-thanh-vien-cua-khach-hang-x-v-nhan-visa-eb-3-thanh-cong/"
                         title="Chúc mừng gia đình 3 thành viên của khách hàng X.V. nhận Visa EB-3 thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
-                              data-lazy-src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
-                                alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4167,18 +4167,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-khach-hang-p-nhan-5-ho-chieu-montenegro/"
                         title="Chúc mừng gia đình khách hàng P. nhận 5 hộ chiếu Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
-                              data-lazy-src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
-                                alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4202,18 +4202,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-q-nhan-visa-132-doanh-nhan-tai-nang-thanh-cong/"
                         title="Chúc mừng khách hàng Q. nhận Visa 132 Doanh nhân Tài năng thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
-                              data-lazy-src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
-                                alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4238,16 +4238,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-v-t-t-h-nhan-visa-132-doanh-nhan-tai-nang-thanh-cong/"
                         title="Chúc mừng khách hàng V.T.T.H. nhận Visa 132 Doanh nhân Tài năng thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
-                              data-lazy-src="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
-                                alt="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4271,18 +4271,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ky-luc-thanh-cong-nhan-visa-888a-chi-trong-6-thang/"
                         title="Kỷ lục thành công nhận Visa 888A chỉ trong 6 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
-                              data-lazy-src="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
-                                alt="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4306,18 +4306,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-hai-khach-hang-nhan-quyet-dinh-cap-quoc-tich-montenegro-thanh-cong/"
                         title="Chúc mừng hai khách hàng nhận Quyết định cấp quốc tịch Montenegro thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
-                              data-lazy-src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
-                                alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4342,18 +4342,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-hai-gia-dinh-nhap-quoc-tich-montenegro/"
                         title="Chúc mừng hai gia đình 8 thành viên cùng nhận Quyết định cấp quốc tịch Montenegro"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
-                              data-lazy-src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
-                                alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4377,18 +4377,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-t-th-t-nhan-thu-chap-thuan-dau-tu-so-huu-quoc-tich-montenegro/"
                         title="Ông T.Th.T. nhận Thư chấp thuận đầu tư sở hữu quốc tịch Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
-                              data-lazy-src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
-                                alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4412,18 +4412,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/ba-n-p-t-nop-visa-132a-thanh-cong-chi-trong-vong-3-thang-du-con-23-tuoi/"
                         title="Bà N.P.T. nộp Visa 132A thành công chỉ trong vòng 3 tháng dù con 23 tuổi&nbsp;&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
-                                alt="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4448,18 +4448,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-n-h-h-l-vuot-chuong-ngai-ve-so-huu-co-phan-thanh-cong-nhan-visa-132a/"
                         title="Ông N.H.H.L vượt chướng ngại về sở hữu cổ phần, thành công nhận Visa 132A" tabindex="-1">
-                        <div data-bg="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
-                              data-lazy-src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
-                                alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4481,17 +4481,17 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-h-t-n-lay-visa-eb-1c-dua-gia-dinh-sang-my-dinh-cu-trong-vong-12-thang/"
                         title="Ông H.T.N lấy Visa EB-1C đưa gia đình sang Mỹ định cư trong vòng 12 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
-                              data-lazy-src="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
-                                alt="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4514,18 +4514,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-p-nhan-thu-chap-thuan-quoc-tich-montenegro/"
                         title="Chúc mừng khách hàng P. nhận Thư chấp thuận quốc tịch Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
-                              data-lazy-src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
-                                alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4548,18 +4548,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ca-gia-dinh-nhap-cu-canada-chi-trong-7-thang/"
                         title="Cả gia đình nhập cư Canada chỉ trong 7 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
-                              data-lazy-src="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
-                                alt="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4582,18 +4582,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-p-t-h-v-nhan-visa-188a-voi-28-co-phan/"
                         title="Chúc mừng khách hàng P.T.H.V nhận Visa 188A với 28% cổ phần" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
-                              data-lazy-src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
-                                alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4616,18 +4616,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-n-q-t-nhan-ita-188a-trong-1-thang/"
                         title="Ông N.Q.T nhận ITA 188A trong 1 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
-                              data-lazy-src="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
-                                alt="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4650,17 +4650,17 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-anh-l-d-m-nhan-bao-lanh-bang-nam-uc/"
                         title="Chúc mừng gia đình anh L.Đ.M nhận bảo lãnh bang Nam Úc" tabindex="-1">
-                        <div data-bg="@/uploads/2025/09/Khach-hang-thanh-cong.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/09/Khach-hang-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2025/09/Khach-hang-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/09/Khach-hang-thanh-cong.jpg"
-                                alt="@/uploads/2025/09/Khach-hang-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4684,18 +4684,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-anh-m-n-h-nhan-open-work-permit-thanh-cong-tai-canada/"
                         title="Chúc mừng gia đình anh M.N.H. nhận Open Work Permit thành công tại Canada" tabindex="-1">
-                        <div data-bg="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"
-                              data-lazy-src="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/09/Khach-hang-thanh-cong-2.png"
-                                alt="@/uploads/2025/09/Khach-hang-thanh-cong-2.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/09/Khach-hang-thanh-cong-2.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4720,17 +4720,17 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-v-t-h-nhan-thong-bao-nop-lc-thanh-cong-cho-ca-gia-dinh-4-nguoi/"
                         title="Chúc mừng chị V.T.H. nhận thông báo nộp LC thành công cho cả gia đình 4 người"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/08/Khach-hang-thanh-cong.png" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/08/Khach-hang-thanh-cong.png"
-                              data-lazy-src="@/uploads/2025/08/Khach-hang-thanh-cong.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/08/Khach-hang-thanh-cong.png"
-                                alt="@/uploads/2025/08/Khach-hang-thanh-cong.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/08/Khach-hang-thanh-cong.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4756,16 +4756,16 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-n-t-k-l-chinh-thuc-nhan-thu-bao-lanh-bang-victoria/"
                         title="Chúc mừng khách hàng N.T.K.L. chính thức nhận thư bảo lãnh bang Victoria" tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Thumbnail-V2-42-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Thumbnail-V2-42-1.jpg"
-                              data-lazy-src="@/uploads/2025/06/Thumbnail-V2-42-1.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/06/Thumbnail-V2-42-1.jpg"
-                                alt="@/uploads/2025/06/Thumbnail-V2-42-1.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-42-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4790,18 +4790,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/tu-khoi-dau-vung-chac-den-buoc-ngoat-cham-tay-vao-giac-mo-my-cung-visa-eb-3-cua-khach-hang-t-c-h/"
                         title="Từ khởi đầu vững chắc đến bước ngoặt chạm tay vào giấc mơ Mỹ cùng Visa EB-3 của khách hàng T.C.H."
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"
-                              data-lazy-src="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/06/Khach-hang-thanh-cong-1.png"
-                                alt="@/uploads/2025/06/Khach-hang-thanh-cong-1.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong-1.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4827,17 +4827,17 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-n-t-t-chinh-thuc-nhan-job-offer-chuong-trinh-visa-eb-3/"
                         title="Chúc mừng chị N.T.T chính thức nhận Job Offer chương trình Visa EB-3&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Khach-hang-thanh-cong.png" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Khach-hang-thanh-cong.png"
-                              data-lazy-src="@/uploads/2025/06/Khach-hang-thanh-cong.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/06/Khach-hang-thanh-cong.png"
-                                alt="@/uploads/2025/06/Khach-hang-thanh-cong.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Khach-hang-thanh-cong.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4864,16 +4864,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-n-q-q-duoc-bang-new-south-wales-cap-visa-888a-sau-hon-2-nam-van-hanh-doanh-nghiep/"
                         title="Chúc mừng anh N.Q.Q được cấp visa 888A sau hơn 2 năm vận hành doanh nghiệp"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/06/Thumbnail-V2-41.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/06/Thumbnail-V2-41.jpg"
-                              data-lazy-src="@/uploads/2025/06/Thumbnail-V2-41.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/06/Thumbnail-V2-41.jpg"
-                                alt="@/uploads/2025/06/Thumbnail-V2-41.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/06/Thumbnail-V2-41.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4897,18 +4897,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-l-v-s-nhan-giay-chap-thuan-dinh-cu-hy-lap/"
                         title="Chúc mừng khách hàng L.V.S. nhận giấy chấp thuận định cư Hy Lạp" tabindex="-1">
-                        <div data-bg="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"
-                              data-lazy-src="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/05/Khach-hang-thanh-cong-1.png"
-                                alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4933,18 +4933,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-v-p-b-t-nhan-chap-thuan-quoc-tich-uc/"
                         title="Chúc mừng khách hàng V.P.B.T. nhận chấp thuận quốc tịch Úc" tabindex="-1">
-                        <div data-bg="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
-                              data-lazy-src="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
-                                alt="@/uploads/2025/05/Khach-hang-thanh-cong-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -4968,17 +4968,17 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-t-p-p-q-nhan-thong-bao-nop-lc-thanh-cong-voi-thoi-gian-1-thang/"
                         title="Chúc mừng chị T.P.P.Q nhận thông báo nộp LC thành công với thời gian 1 tháng"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/05/Khach-hang-thanh-cong.png" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/05/Khach-hang-thanh-cong.png"
-                              data-lazy-src="@/uploads/2025/05/Khach-hang-thanh-cong.png"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/05/Khach-hang-thanh-cong.png"
-                                alt="@/uploads/2025/05/Khach-hang-thanh-cong.png" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/05/Khach-hang-thanh-cong.png" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5003,18 +5003,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-h-d-nhan-thong-bao-nop-lc-thanh-cong-voi-thoi-gian-than-toc-chua-den-1-thang/"
                         title="Chúc mừng anh N.H.Đ. nhận Thông báo nộp LC thành công với thời gian thần tốc chưa đến 1 tháng&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-49.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5038,18 +5038,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/anh-t-h-t-gap-tro-ngai-khi-chon-viec-si-group-da-ho-tro-the-nao-de-anh-som-nhan-thong-bao-nop-lc-thanh-cong/"
                         title="Anh T.H.T. gặp trở ngại khi chọn việc, SI Group đã hỗ trợ thế nào để anh sớm nhận Thông báo nộp LC thành công?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-48.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5074,16 +5074,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-v-t-t-v-nhan-chap-thuan-lmia-vi-tri-ke-toan-so-sach-tai-bang-alberta-canada/"
                         title="Chúc mừng chị V.T.T.V. nhận chấp thuận LMIA vị trí Kế toán sổ sách tại bang Alberta, Canada"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-V2-40.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/Thumbnail-V2-40.jpg"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-V2-40.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-V2-40.jpg"
-                                alt="@/uploads/2025/04/Thumbnail-V2-40.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-40.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5109,18 +5109,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-p-q-d-nhan-thong-bao-nop-lc-thanh-cong-voi-vi-tri-dieu-duong-tai-nha-o-bang-florida/"
                         title="Chúc mừng anh P.Q.Đ. nhận Thông báo nộp LC thành công với vị trí Điều dưỡng tại nhà ở bang Florida&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-47.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5147,18 +5147,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-thu-thach-phai-doi-nghe-chuc-mung-anh-n-d-t-nhan-thong-bao-nop-lc-thanh-cong/"
                         title="Vượt thử thách phải đổi nghề, chúc mừng anh N.Đ.T. nhận Thông báo nộp LC thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-46.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5183,18 +5183,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-6-thanh-vien-cua-chi-n-t-k-s-duoc-cap-visa-888a-thanh-cong/"
                         title="Chúc mừng gia đình 6 thành viên của chị N.T.K.S. được cấp Visa 888A thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
-                              data-lazy-src="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
-                                alt="@/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-NTKS-duoc-cap-visa-888a.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5220,18 +5220,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-p-a-k-nhan-chap-thuan-quoc-tich-uc-sau-4-nam-duoc-cap-visa-132a/"
                         title="Chúc mừng khách hàng P.A.K. nhận Chấp thuận quốc tịch Úc sau 4 năm được cấp Visa 132A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-45.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5256,16 +5256,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-d-v-l-duoc-bang-queensland-bao-lanh-cap-visa-888a-du-van-hanh-doanh-nghiep-chua-den-2-nam/"
                         title="Chúc mừng anh Đ.V.L. được bang Queensland bảo lãnh cấp Visa 888A dù vận hành doanh nghiệp chưa đến 2 năm"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/Thumbnail-V2-39.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/Thumbnail-V2-39.jpg"
-                              data-lazy-src="@/uploads/2025/04/Thumbnail-V2-39.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/04/Thumbnail-V2-39.jpg"
-                                alt="@/uploads/2025/04/Thumbnail-V2-39.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-V2-39.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5291,18 +5291,18 @@
                         title="Vượt các yêu cầu chứng minh phức tạp, chúc mừng chị N.T.T.H. nhận Visa 132A thành công"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-NTTH-nop-visa-132a-thanh-cong_thumb.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5328,18 +5328,18 @@
                         title="Tháng 3/2025, SI Group đón nhận tin vui 18 khách hàng nhận Thông báo nộp LC thành công"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
-                                alt="@/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/18-khach-hang-nhan-thong-bao-nop-lc-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5364,18 +5364,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-n-t-h-d-cung-anh-trai-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng chị N.T.H.D. cùng anh trai nộp LC thành công với vị trí Đầu bếp tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-44.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5400,18 +5400,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-h-p-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng anh N.H.P. nộp LC thành công với vị trí Đầu bếp tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-42.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5437,18 +5437,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/muon-dinh-cu-my-de-tien-cham-soc-con-chi-t-t-h-chon-dien-eb-3-va-buoc-dau-nop-lc-thanh-cong/"
                         title="Muốn định cư Mỹ để tiện chăm sóc con, chị T.T.H. chọn diện EB-3 và bước đầu nộp LC thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5473,18 +5473,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-t-t-h-n-nop-lc-thanh-cong-voi-vi-tri-nhan-vien-phuc-vu/"
                         title="Chúc mừng chị T.T.H.N. nộp LC thành công với vị trí nhân viên phục vụ&nbsp;&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-40.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5509,18 +5509,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-l-v-t-nop-lc-thanh-cong-voi-vi-tri-dieu-duong-tai-nha-o-bang-california/"
                         title="Chúc mừng anh L.V.T. nộp LC thành công với vị trí Điều dưỡng tại nhà ở bang California&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-39.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5546,18 +5546,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-tro-ngai-phai-doi-viec-chuc-mung-anh-h-m-t-nop-lc-thanh-cong/"
                         title="Vượt trở ngại phải đổi việc, chúc mừng anh H.M.T. nộp LC thành công" tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-38.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5582,18 +5582,18 @@
                         title="Nghịch cảnh làm nên nghị lực vượt thử thách, chúc mừng chị L.P.H.P nộp LC thành công"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-lphp-nop-lc-thanh-cong-thumb.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5621,18 +5621,18 @@
                         title="Chúc mừng anh N.H.S. nộp LC thành công sau nhiều lần đổi nghề &amp; nơi làm việc"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-anh-nhs-nop-lc-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5658,18 +5658,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/con-21-tuoi-van-di-my-dien-eb-3-cung-gia-dinh-chi-n-t-n-k-c-nho-giai-phap-linh-hoat-tu-si-group/"
                         title="Con 21 tuổi vẫn đi Mỹ diện EB-3 cùng gia đình chị N.T.N.K.C nhờ giải pháp linh hoạt từ SI Group&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
-                              data-lazy-src="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
-                                alt="@/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chi-ntnkc-dinh-cu-my-eb3.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5695,18 +5695,18 @@
                         title="Chúc mừng chị L.K.A. được chấp thuận bảo lãnh Visa 482 Úc với vị trí Sales &amp; Marketing Manager&nbsp;"
                         tabindex="-1">
                         <div
-                          data-bg="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
+                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
-                              data-lazy-src="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
-                                alt="@/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/chuc-mung-chi-LKA-nhan-bao-lanh-visa-482-uc.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5732,18 +5732,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-rao-can-tuoi-tac-va-dinh-huong-nghe-nghiep-anh-n-t-m-q-van-nop-lc-thanh-cong/"
                         title="Vượt rào cản tuổi tác và định hướng nghề nghiệp, anh N.T.M.Q. vẫn nộp LC thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-37.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5768,18 +5768,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-l-p-t-nop-lc-thanh-cong-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng anh L.P.T. nộp LC thành công vị trí đầu bếp&nbsp; tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-36.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5804,18 +5804,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/linh-hoat-chuyen-doi-noi-lam-viec-da-giup-chi-l-h-h-l-nop-lc-thanh-cong-nhu-the-nao/"
                         title="Linh hoạt chuyển đổi nơi làm việc đã giúp chị L.H.H.L. nộp LC thành công như thế nào?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-35.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5841,18 +5841,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-k-n-nop-lc-thanh-cong-giua-mua-cao-diem-voi-vi-tri-dau-bep-tai-bang-california/"
                         title="Chúc mừng anh N.K.N. nộp LC thành công giữa mùa cao điểm với vị trí đầu bếp tại bang California"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-33.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5877,18 +5877,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-l-x-d-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-arizona/"
                         title="Chúc mừng chị L.X.D. nộp LC thành công với vị trí đầu bếp tại bang Arizona&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-34.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5913,18 +5913,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-v-h-nop-lc-thanh-cong-voi-vi-tri-dau-bep-tai-bang-california/"
                         title="Chúc mừng anh N.V.H. nộp LC thành công với vị trí đầu bếp tại bang California"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
-                              data-lazy-src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
-                                alt="@/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/04/TEMPLATE-ko-edit-tren-nay-32.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5949,18 +5949,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-l-p-t-k-nop-lc-thanh-cong-vi-tri-nhan-vien-quay-thuc-an-nhanh-tai-bang-arizona/"
                         title="Chúc mừng chị L.P.T.K nộp LC thành công  vị trí nhân viên quầy thức ăn nhanh tại bang Arizona"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-30.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -5985,18 +5985,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-m-h-nop-lc-thanh-cong-vi-tri-dau-bep-theo-chuong-trinh-eb-3/"
                         title="Chúc mừng anh N.M.H. nộp LC thành công vị trí đầu bếp theo Chương trình EB-3"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-26.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6020,18 +6020,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-v-t-t-nop-lc-thanh-cong-nhan-case-number-va-tiep-tuc-hoan-tat-thu-tuc-cap-visa-eb-3/"
                         title="Chúc mừng chị V.T.T. nộp LC thành công, nhận Case Number và tiếp tục hoàn tất thủ tục cấp Visa EB-3&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-24.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6055,18 +6055,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-c-b-t-nhan-skills-assessment-chi-sau-5-tuan-truc-tiep-nop-ho-so-visa-186-len-pr-uc/"
                         title="Chúc mừng chị C.B.T. nhận Skills Assessment chỉ sau 5 tuần, trực tiếp nộp hồ sơ Visa 186 lên PR Úc"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
-                              data-lazy-src="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
-                                alt="@/uploads/2025/03/nhan-skills-assessment-thumb.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/nhan-skills-assessment-thumb.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6091,16 +6091,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/gia-dinh-chi-n-t-tro-thanh-thuong-tru-nhan-uc-theo-lo-trinh-visa-482-tss-visa-186/"
                         title="Chúc mừng gia đình chị N.T. trở thành thường trú nhân Úc theo lộ trình Visa 482 (TSS) – Visa 186&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail-V2-37.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/Thumbnail-V2-37.jpg"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail-V2-37.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail-V2-37.jpg"
-                                alt="@/uploads/2025/03/Thumbnail-V2-37.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-37.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6124,17 +6124,17 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-anh-n-v-t-nhan-bao-lanh-bang-nam-uc-visa-888a/"
                         title="Chúc mừng anh N.V.T. nhận bảo lãnh bang Nam Úc, Visa 888A&nbsp;" tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/05820bea268b96d5cf9a.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/05820bea268b96d5cf9a.jpg"
-                              data-lazy-src="@/uploads/2025/03/05820bea268b96d5cf9a.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/05820bea268b96d5cf9a.jpg"
-                                alt="@/uploads/2025/03/05820bea268b96d5cf9a.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/05820bea268b96d5cf9a.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6160,16 +6160,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-qua-ba-lan-giai-trinh-si-group-ho-tro-chi-m-h-the-nao-de-nhan-bao-lanh-bang-visa-888a/"
                         title="Vượt qua ba lần giải trình, SI Group hỗ trợ chị M.H. thế nào để nhận bảo lãnh bang Visa 888A?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/Thumbnail-V2-20.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/Thumbnail-V2-20.jpg"
-                              data-lazy-src="@/uploads/2025/03/Thumbnail-V2-20.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2025/03/Thumbnail-V2-20.jpg"
-                                alt="@/uploads/2025/03/Thumbnail-V2-20.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-V2-20.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6193,18 +6193,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-chi-t-t-l-duoc-cap-visa-eb-3-sau-3-nam-dong-hanh-cung-si-group/"
                         title="Chúc mừng chị T.T.L. được cấp Visa EB-3 sau 3 năm đồng hành cùng SI Group" tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6228,18 +6228,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/si-group-ho-tro-khach-hang-h-the-nao-de-dat-ky-luc-nhan-los-chi-sau-1-thang/"
                         title="SI Group hỗ trợ khách hàng H. thế nào để đạt kỷ lục nhận LOS chỉ sau 1 tháng?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
-                              data-lazy-src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
-                                alt="@/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/03/TEMPLATE-ko-edit-tren-nay.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6264,18 +6264,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-d-t-l-nhan-lmia-thanh-cong-chuan-bi-den-canada-lam-viec-va-dinh-cu/"
                         title="Chúc mừng khách hàng D.T.L nhận LMIA thành công, chuẩn bị đến Canada làm việc và định cư"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
-                              data-lazy-src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
-                                alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-2.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6301,18 +6301,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/si-group-ho-tro-khach-hang-t-h-van-hanh-dn-xuat-khau-the-nao-de-duoc-bang-bao-lanh-cap-visa-888a/"
                         title="SI Group hỗ trợ khách hàng T.H. vận hành DN xuất khẩu thế nào để được bang bảo lãnh cấp Visa 888A?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
-                              data-lazy-src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
-                                alt="@/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/02/TEMPLATE-ko-edit-tren-nay-3.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6336,18 +6336,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-a-h-chinh-thuc-tro-thanh-cong-dan-montenegro/"
                         title="Chúc mừng khách hàng A.H. chính thức trở thành công dân Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
-                              data-lazy-src="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
-                                alt="@/uploads/2025/01/Khach-hang-thanh-cong-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/01/Khach-hang-thanh-cong-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6372,18 +6372,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-anh-p-n-chinh-thuc-tro-thanh-thuong-tru-nhan-uc-theo-dien-visa-888a/"
                         title="Chúc mừng gia đình anh P.N. chính thức trở thành thường trú nhân Úc theo diện Visa 888A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
-                              data-lazy-src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
-                                alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-4.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6408,18 +6408,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/vuot-qua-yeu-cau-giai-trinh-ho-so-anh-q-duoc-bang-nsw-chap-thuan-bao-lanh-visa-888a/"
                         title="Vượt qua yêu cầu giải trình hồ sơ, anh Q. được bang NSW chấp thuận bảo lãnh Visa 888A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
-                              data-lazy-src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
-                                alt="@/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2025/01/TEMPLATE-ko-edit-tren-nay-5.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6444,18 +6444,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chung-minh-doanh-thu-de-duoc-cap-visa-888a-gap-kho-khan-si-group-ho-tro-anh-q-the-nao/"
                         title="Chứng minh doanh thu để được cấp Visa 888A gặp khó khăn, SI Group hỗ trợ anh Q. thế nào?"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
-                              data-lazy-src="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
-                                alt="@/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/12/TEMPLATE-ko-edit-tren-nay-6.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6480,18 +6480,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-h-q-nhan-thu-hau-kiem-nghiem-thu-ket-qua-cap-visa-132a/"
                         title="Chúc mừng khách hàng H.Q. nhận Thư Hậu kiểm nghiệm thu kết quả cấp Visa 132A"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
-                              data-lazy-src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
-                                alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-7.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6515,18 +6515,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-t-t-nhan-thu-hau-kiem-nghiem-thu-ket-qua-cap-visa-132a-thanh-cong/"
                         title="Chúc mừng khách hàng T.T. nhận Thư Hậu kiểm nghiệm thu kết quả cấp Visa 132A thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
-                              data-lazy-src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
-                                alt="@/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/11/TEMPLATE-ko-edit-tren-nay-8.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6550,18 +6550,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-t-d-nhan-visa-132a-thanh-cong/"
                         title="Chúc mừng khách hàng T.D. nhận Thư Hậu kiểm nghiệm thu kết quả cấp Visa 132A thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
-                              data-lazy-src="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
-                                alt="@/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/10/TEMPLATE-ko-edit-tren-nay-10.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6585,16 +6585,16 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-x-q-nhan-bao-lanh-bang-visa-888a/"
                         title="Chúc mừng khách hàng X.Q. nhận bảo lãnh bang Visa 888A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/10/Thumbnail-V2-10.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/10/Thumbnail-V2-10.jpg"
-                              data-lazy-src="@/uploads/2024/10/Thumbnail-V2-10.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2024/10/Thumbnail-V2-10.jpg"
-                                alt="@/uploads/2024/10/Thumbnail-V2-10.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-V2-10.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6618,18 +6618,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-khach-hang-a-h-nhan-quyet-dinh-cap-quoc-tich-montenegro/"
                         title="Chúc mừng gia đình khách hàng A.H. nhận Quyết định cấp quốc tịch Montenegro"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
-                              data-lazy-src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
-                                alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-11.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6653,18 +6653,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-p-n-nhan-bao-lanh-bang-visa-888a/"
                         title="Chúc mừng khách hàng P.N. nhận bảo lãnh bang Visa 888A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
-                              data-lazy-src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
-                                alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-12.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6687,18 +6687,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-h-nhan-bao-lanh-bang-visa-132a/"
                         title="Chúc mừng khách hàng H. nhận bảo lãnh bang Visa 132A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
-                              data-lazy-src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
-                                alt="@/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/TEMPLATE-ko-edit-tren-nay-13.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6722,18 +6722,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-th-h-nhan-duoc-bao-lanh-bang-visa-888a/"
                         title="Chúc mừng khách hàng Th.H. nhận được bảo lãnh bang Visa 888A&nbsp;" tabindex="-1">
-                        <div data-bg="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
-                              data-lazy-src="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
-                                alt="@/uploads/2024/09/bao-lang-bang-Visa-888A.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/09/bao-lang-bang-Visa-888A.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6756,18 +6756,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-7-thanh-vien-cua-khach-hang-t-d-nhan-visa-132a-thanh-cong/"
                         title="Chúc mừng gia đình 7 thành viên của khách hàng T.Đ. nhận Visa 132A" tabindex="-1">
-                        <div data-bg="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
-                              data-lazy-src="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
-                                alt="@/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/08/TEMPLATE-ko-edit-tren-nay-14.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6790,16 +6790,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-khach-hang-t-l-nhan-visa-eb-3-thanh-cong-truoc-khi-con-buoc-sang-tuoi-21/"
                         title="Chúc mừng gia đình khách hàng T.L. nhận Visa EB-3 thành công trước khi con bước sang tuổi 21"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/Thumbnail-V2-25.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/Thumbnail-V2-25.jpg"
-                              data-lazy-src="@/uploads/2024/07/Thumbnail-V2-25.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2024/07/Thumbnail-V2-25.jpg"
-                                alt="@/uploads/2024/07/Thumbnail-V2-25.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/Thumbnail-V2-25.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6824,18 +6824,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/thanh-cong-dau-tu-so-huu-ho-chieu-montenegro/"
                         title="13 hộ chiếu Montenegro được cấp trong cuối tháng 7" tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
-                              data-lazy-src="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
-                                alt="@/uploads/2024/07/Khach-hang-thanh-cong-3.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/Khach-hang-thanh-cong-3.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6859,18 +6859,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-3-thanh-vien-cua-khach-hang-x-v-nhan-visa-eb-3-thanh-cong/"
                         title="Chúc mừng gia đình 3 thành viên của khách hàng X.V. nhận Visa EB-3 thành công"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
-                              data-lazy-src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
-                                alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-16.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6893,18 +6893,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-gia-dinh-khach-hang-p-nhan-5-ho-chieu-montenegro/"
                         title="Chúc mừng gia đình khách hàng P. nhận 5 hộ chiếu Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
-                              data-lazy-src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
-                                alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-27.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6928,18 +6928,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-q-nhan-visa-132-doanh-nhan-tai-nang-thanh-cong/"
                         title="Chúc mừng khách hàng Q. nhận Visa 132 Doanh nhân Tài năng thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
-                              data-lazy-src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
-                                alt="@/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/07/TEMPLATE-ko-edit-tren-nay-17.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6964,16 +6964,16 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-v-t-t-h-nhan-visa-132-doanh-nhan-tai-nang-thanh-cong/"
                         title="Chúc mừng khách hàng V.T.T.H. nhận Visa 132 Doanh nhân Tài năng thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
-                              data-lazy-src="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"><noscript><img
-                                class="w-100" src="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
-                                alt="@/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" /></noscript>
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"><noscript><img
+                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/06/Gia-dinh-V.T.TH_.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -6997,18 +6997,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ky-luc-thanh-cong-nhan-visa-888a-chi-trong-6-thang/"
                         title="Kỷ lục thành công nhận Visa 888A chỉ trong 6 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
-                              data-lazy-src="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
-                                alt="@/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/04/TEMPLATE-ko-edit-tren-nay-23.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7032,18 +7032,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-hai-khach-hang-nhan-quyet-dinh-cap-quoc-tich-montenegro-thanh-cong/"
                         title="Chúc mừng hai khách hàng nhận Quyết định cấp quốc tịch Montenegro thành công&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
-                              data-lazy-src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
-                                alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-19.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7068,18 +7068,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-hai-gia-dinh-nhap-quoc-tich-montenegro/"
                         title="Chúc mừng hai gia đình 8 thành viên cùng nhận Quyết định cấp quốc tịch Montenegro"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
-                              data-lazy-src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
-                                alt="@/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2024/03/TEMPLATE-ko-edit-tren-nay-20.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7103,18 +7103,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-t-th-t-nhan-thu-chap-thuan-dau-tu-so-huu-quoc-tich-montenegro/"
                         title="Ông T.Th.T. nhận Thư chấp thuận đầu tư sở hữu quốc tịch Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
-                              data-lazy-src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
-                                alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-21.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7138,18 +7138,18 @@
                         href="https://sigroup.vn/khach-hang-thanh-cong/ba-n-p-t-nop-visa-132a-thanh-cong-chi-trong-vong-3-thang-du-con-23-tuoi/"
                         title="Bà N.P.T. nộp Visa 132A thành công chỉ trong vòng 3 tháng dù con 23 tuổi&nbsp;&nbsp;"
                         tabindex="-1">
-                        <div data-bg="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
-                              data-lazy-src="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
-                                alt="@/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/11/ba-NPT-nhan-Visa-132-thanh-cong.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7174,18 +7174,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-n-h-h-l-vuot-chuong-ngai-ve-so-huu-co-phan-thanh-cong-nhan-visa-132a/"
                         title="Ông N.H.H.L vượt chướng ngại về sở hữu cổ phần, thành công nhận Visa 132A" tabindex="-1">
-                        <div data-bg="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
-                              data-lazy-src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
-                                alt="@/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/11/TEMPLATE-ko-edit-tren-nay-28.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7207,17 +7207,17 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-h-t-n-lay-visa-eb-1c-dua-gia-dinh-sang-my-dinh-cu-trong-vong-12-thang/"
                         title="Ông H.T.N lấy Visa EB-1C đưa gia đình sang Mỹ định cư trong vòng 12 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" style=""
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
-                              data-lazy-src="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
-                                alt="@/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/ong-HTN-visa-EB1C-1.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7240,18 +7240,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/chuc-mung-khach-hang-p-nhan-thu-chap-thuan-quoc-tich-montenegro/"
                         title="Chúc mừng khách hàng P. nhận Thư chấp thuận quốc tịch Montenegro" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
-                              data-lazy-src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
-                                alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-22.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7274,18 +7274,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ca-gia-dinh-nhap-cu-canada-chi-trong-7-thang/"
                         title="Cả gia đình nhập cư Canada chỉ trong 7 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
-                              data-lazy-src="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
-                                alt="@/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/nhap-cu-Canada-trong-7-thang.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7308,18 +7308,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-p-t-h-v-nhan-visa-188a-voi-28-co-phan/"
                         title="Chúc mừng khách hàng P.T.H.V nhận Visa 188A với 28% cổ phần" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
-                              data-lazy-src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
-                                alt="@/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/TEMPLATE-ko-edit-tren-nay-29.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7342,18 +7342,18 @@
                       <a target="_blank"
                         href="https://sigroup.vn/khach-hang-thanh-cong/ong-n-q-t-nhan-ita-188a-trong-1-thang/"
                         title="Ông N.Q.T nhận ITA 188A trong 1 tháng" tabindex="-1">
-                        <div data-bg="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                        <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
                           style=""
                           class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
                           <div class="bg-overlay"></div>
                           <div class="d-sm-block d-md-none">
                             <img class="w-100"
-                              src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
-                              data-lazy-src="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"><noscript><img
                                 class="w-100"
-                                src="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
-                                alt="@/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg" /></noscript>
+                                src="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg"
+                                alt="https://sigroup.vn/wp-content/uploads/2023/10/nhan-ita-visa-188-1-thang.jpg" /></noscript>
                           </div>
                           <div class="banner-wrap w-100 h-100 position-relative">
                             <div class="w-100 mb-13">
@@ -7553,11 +7553,11 @@
                             title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                             class="si-event mt-5 px-3" tabindex="0">
                             <div class="img">
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                 class="blog-thumbnail img-fluid"
-                                data-lazy-src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
-                                  src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                   alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                   class="blog-thumbnail img-fluid" /></noscript>
                             </div>
@@ -7581,11 +7581,11 @@
                             title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                             class="si-event mt-5 px-3" tabindex="0">
                             <div class="img">
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
                                 class="blog-thumbnail img-fluid"
-                                data-lazy-src="@/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                  src="@/uploads/2025/04/Thumbnail-1-1.jpg"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
                                   alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà"
                                   class="blog-thumbnail img-fluid" /></noscript>
                             </div>
@@ -7609,11 +7609,11 @@
                             title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                             class="si-event mt-5 px-3" tabindex="0">
                             <div class="img">
-                              <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                 alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                                 class="blog-thumbnail img-fluid"
-                                data-lazy-src="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
-                                  src="@/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                                data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
+                                  src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                   alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư "
                                   class="blog-thumbnail img-fluid" /></noscript>
                             </div>
@@ -7653,11 +7653,11 @@
                         title="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"><noscript><img
-                              src="@/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"
                               alt="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                               class="blog-thumbnail img-fluid" /></noscript>
                         </div>
@@ -7675,11 +7675,11 @@
                         title="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"><noscript><img
-                              src="@/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"
                               alt="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                               class="blog-thumbnail img-fluid" /></noscript>
                         </div>
@@ -7696,11 +7696,11 @@
                         href="https://sigroup.vn/bao-chi/tu-hao-voi-giai-thuong-thuong-hieu-tin-nhiem-hang-dau-chau-a/"
                         title="SI Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="SI Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
-                            data-lazy-src="@/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"><noscript><img
-                              src="@/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"
+                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"><noscript><img
+                              src="https://sigroup.vn/wp-content/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"
                               alt="SI Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                               class="blog-thumbnail img-fluid" /></noscript>
                         </div>
@@ -7734,10 +7734,10 @@
                     title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                     class="new big h-100 d-block">
                     <div class="img">
-                      <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5" class="blog-thumbnail"
-                        data-lazy-src="@/uploads/2025/10/Anh-size-moi-1-4.jpg"><noscript><img
-                          src="@/uploads/2025/10/Anh-size-moi-1-4.jpg"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"><noscript><img
+                          src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
                           alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -7755,11 +7755,11 @@
                     title="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                     class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                         class="blog-thumbnail"
-                        data-lazy-src="@/uploads/2025/10/Anh-size-moi-16.jpg"><noscript><img
-                          src="@/uploads/2025/10/Anh-size-moi-16.jpg"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-16.jpg"><noscript><img
+                          src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-16.jpg"
                           alt="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -7772,10 +7772,10 @@
                   <a target="_blank" href="https://sigroup.vn/tin-tuc/mua-nha-dinh-cu-o-uc/"
                     title="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc" class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc" class="blog-thumbnail"
-                        data-lazy-src="@/uploads/2024/05/Anh-size-moi-12.jpg"><noscript><img
-                          src="@/uploads/2024/05/Anh-size-moi-12.jpg"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/05/Anh-size-moi-12.jpg"><noscript><img
+                          src="https://sigroup.vn/wp-content/uploads/2024/05/Anh-size-moi-12.jpg"
                           alt="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -7787,10 +7787,10 @@
                   <a target="_blank" href="https://sigroup.vn/tin-tuc/dau-tu-bat-dong-san-uc/"
                     title="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025" class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                         alt="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025" class="blog-thumbnail"
-                        data-lazy-src="@/uploads/2025/10/Anh-size-moi-6.jpg"><noscript><img
-                          src="@/uploads/2025/10/Anh-size-moi-6.jpg"
+                        data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-6.jpg"><noscript><img
+                          src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-6.jpg"
                           alt="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025"
                           class="blog-thumbnail" /></noscript>
                     </div>
@@ -8283,60 +8283,60 @@
               <div class="info">
                 <div>
                   <p>
-                    <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                      alt="@/themes/sigroup/assets/images/ic-ft-1.png"
-                      data-lazy-src="@/themes/sigroup/assets/images/ic-ft-1.png"><noscript><img
-                        src="@/themes/sigroup/assets/images/ic-ft-1.png"
-                        alt="@/themes/sigroup/assets/images/ic-ft-1.png"></noscript><span>Tầng
+                    <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"><noscript><img
+                        src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"
+                        alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-1.png"></noscript><span>Tầng
                       44, Bitexco Financial Tower, 02 Hải Triều, Bến Nghé, Quận 1</span>
                   </p>
                 </div>
                 <div>
                   <p>
-                    <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                      alt="@/themes/sigroup/assets/images/ic-ft-2.png"
-                      data-lazy-src="@/themes/sigroup/assets/images/ic-ft-2.png"><noscript><img
-                        src="@/themes/sigroup/assets/images/ic-ft-2.png"
-                        alt="@/themes/sigroup/assets/images/ic-ft-2.png"></noscript><a
+                    <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"><noscript><img
+                        src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"
+                        alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-2.png"></noscript><a
                       href="tel:+84979355355">(+84) 979 355 355</a>
                   </p>
                 </div>
                 <div>
                   <p>
-                    <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                      alt="@/themes/sigroup/assets/images/ic-ft-3.png"
-                      data-lazy-src="@/themes/sigroup/assets/images/ic-ft-3.png"><noscript><img
-                        src="@/themes/sigroup/assets/images/ic-ft-3.png"
-                        alt="@/themes/sigroup/assets/images/ic-ft-3.png"></noscript><a
+                    <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"><noscript><img
+                        src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"
+                        alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-3.png"></noscript><a
                       href="mailto:info@si.im">info@si.im</a>
                   </p>
                 </div>
                 <div>
                   <p>
-                    <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                      alt="@/themes/sigroup/assets/images/ic-ft-4.png"
-                      data-lazy-src="@/themes/sigroup/assets/images/ic-ft-4.png"><noscript><img
-                        src="@/themes/sigroup/assets/images/ic-ft-4.png"
-                        alt="@/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Suite
+                    <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"><noscript><img
+                        src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
+                        alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Suite
                       417, 480 Collins Street, Melbourne, VIC 3000</span>
                   </p>
                 </div>
                 <div>
                   <p>
-                    <img src="@/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                      alt="@/themes/sigroup/assets/images/ic-ft-4.png"
-                      data-lazy-src="@/themes/sigroup/assets/images/ic-ft-4.png"><noscript><img
-                        src="@/themes/sigroup/assets/images/ic-ft-4.png"
-                        alt="@/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Tầng
+                    <img src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
+                      data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"><noscript><img
+                        src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
+                        alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>Tầng
                       19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</span>
                   </p>
                 </div>
                 <div>
                   <p>
-                    <img src="@/themes/sigroup/assets/images/ic-ft-4.png" alt=""
-                      data-lazy-src="@/themes/sigroup/assets/images/ic-ft-4.png"><noscript><img
-                        src="@/themes/sigroup/assets/images/ic-ft-4.png"
-                        alt="@/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>700
+                    <img src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png" alt=""
+                      data-lazy-src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"><noscript><img
+                        src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"
+                        alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-ft-4.png"></noscript><span>700
                       12th Street, N.W., Suite 700, Washington, DC, US 20005</span>
                   </p>
                 </div>
@@ -8563,46 +8563,46 @@ export default {
 }
 
 .social .Facebook {
-  background-image: url(@/themes/sigroup/assets/images/ic-fb.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-fb.png)
 }
 
 .social .Facebook:hover {
-  background-image: url(@/themes/sigroup/assets/images/ic-fb-hv.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-fb-hv.png)
 }
 
 .social .Youtube {
-  background-image: url(@/themes/sigroup/assets/images/ic-you.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-you.png)
 }
 
 .social .Youtube:hover {
-  background-image: url(@/themes/sigroup/assets/images/ic-you-hv.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-you-hv.png)
 }
 
 .social .Twitter {
-  background-image: url(@/themes/sigroup/assets/images/ic-twi.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-twi.png)
 }
 
 .social .Twitter:hover {
-  background-image: url(@/themes/sigroup/assets/images/ic-twi-hv.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-twi-hv.png)
 }
 
 .social .Telegram {
-  background-image: url(@/themes/sigroup/assets/images/ic-tele.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-tele.png)
 }
 
 .social .Telegram:hover {
-  background-image: url(@/themes/sigroup/assets/images/ic-tele-hv.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-tele-hv.png)
 }
 
 .social .Linkedin {
-  background-image: url(@/themes/sigroup/assets/images/ic-linkedin.png);
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-linkedin.png);
   background-size: cover;
   max-width: 18px;
   max-height: 18px
 }
 
 .social .Zalo {
-  background-image: url(@/themes/sigroup/assets/images/ic-zalo-2.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-zalo-2.png)
 }
 
 #section-1 .si-social-bn,
@@ -8683,7 +8683,7 @@ export default {
 }
 
 #section-8 {
-  background-image: url(@/themes/sigroup/assets/images/event-now.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/event-now.png)
 }
 
 .home-page .si-event .img {
@@ -8721,19 +8721,19 @@ export default {
 }
 
 .home-page .si-event .info .clock {
-  background-image: url(@/themes/sigroup/assets/images/clock-si.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-si.png)
 }
 
 .home-page .si-event:hover .info .clock {
-  background-image: url(@/themes/sigroup/assets/images/clock-white.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/clock-white.png)
 }
 
 .home-page .si-event .info .location {
-  background-image: url(@/themes/sigroup/assets/images/loca-si.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/loca-si.png)
 }
 
 .home-page .si-event:hover .info .location {
-  background-image: url(@/themes/sigroup/assets/images/loca-white.png)
+  background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/loca-white.png)
 }
 
 .home-page .si-event .info::after {

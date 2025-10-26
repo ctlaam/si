@@ -491,3 +491,39 @@
         </div>
     </div>
 </template>
+<style scoped>
+.si-nav.mobile {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background: #fff;
+    z-index: 1000;
+    transition: all 0.3s;
+}
+
+.si-nav.mobile.active {
+    display: block;
+}
+
+.menu-mobile {
+    cursor: pointer;
+}
+</style>
+
+<script>
+export default {
+    mounted() {
+        document.querySelector('.menu-mobile').addEventListener('click', function () {
+            document.querySelector('.si-nav.mobile').classList.toggle('active');
+        });
+
+        // Thêm sự kiện cho nút đóng (nếu cần)
+        document.querySelector('.si-nav-close').addEventListener('click', function () {
+            document.querySelector('.si-nav.mobile').classList.remove('active');
+        });
+    }
+}
+</script>
