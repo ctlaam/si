@@ -2,20 +2,25 @@
     <div id="main">
         <div data-include="header">
             <header class="main-header header-down">
-                <div class="header-top border-0" style="position: fixed; width: 100vw; backdrop-filter: blur(10px);">
+                <div class="header-top border-0" style="position: fixed; width: 100vw; backdrop-filter: blur(10px)">
                     <div class="auto-container">
                         <div class="inner clearfix">
                             <div class="top-left clearfix">
                                 <ul class="top-info clearfix">
-                                    <li><i class="icon fa fa-map-marker-alt"></i>Tầng 44 Bitexco Financial Tower 02 Hải
-                                        Triều, Bến Nghé, Quận 1, Hồ Chí Minh.&nbsp;</li>
+                                    <li>
+                                        <i class="icon fa fa-map-marker-alt"></i>Tầng 44 Bitexco
+                                        Financial Tower 02 Hải Triều, Bến Nghé, Quận 1, Hồ Chí
+                                        Minh.&nbsp;
+                                    </li>
                                     <li>Tầng 19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</li>
                                 </ul>
                             </div>
                             <div class="top-right clearfix">
                                 <ul class="top-info clearfix">
                                     <li><a href="tel:(+84)76 9998686">(+84)76 9998686</a></li>
-                                    <li><a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a></li>
+                                    <li>
+                                        <a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -25,21 +30,29 @@
                     <div class="auto-container">
                         <div class="main-box d-flex justify-content-between align-items-center flex-wrap">
                             <div class="links-box clearfix">
-                                <div class="nav-toggler"><button class="hidden-bar-opener"> <span class="hamburger"
-                                            data-bs-toggle="collapse" data-bs-target="#menu" data-toggle="collapse"
-                                            data-target="#menu"> <span class="top-bun"></span> <span
-                                                class="meat"></span> <span class="bottom-bun"></span> </span> </button>
+                                <div class="nav-toggler">
+                                    <button class="hidden-bar-opener">
+                                        <span class="hamburger" data-bs-toggle="collapse" data-bs-target="#menu"
+                                            data-toggle="collapse" data-target="#menu">
+                                            <span class="top-bun"></span> <span class="meat"></span>
+                                            <span class="bottom-bun"></span>
+                                        </span>
+                                    </button>
                                 </div>
                             </div>
                             <div class="logo-box">
-                                <div class="logo"><a href="/" title="Delici - Restaurants HTML Template"><img
-                                            src="/assets/images/logo.png" alt=""
-                                            title="Delici - Restaurants HTML Template"></a></div>
+                                <div class="logo">
+                                    <a href="/" title="Delici - Restaurants HTML Template"><img
+                                            src="https://tsi.com.vn/assets/images/logo.png" alt=""
+                                            title="Delici - Restaurants HTML Template" /></a>
+                                </div>
                             </div>
-                            <div class="link link-btn"><a href="/page/contact.html"
-                                    class="theme-btn btn-style-one clearfix"> <span class="btn-wrap"> <span
-                                            class="text-one">Liên hệ</span><span class="text-two">Liên
-                                            hệ</span></span></a></div>
+                            <div class="link link-btn">
+                                <a href="/page/contact.html" class="theme-btn btn-style-one clearfix">
+                                    <span class="btn-wrap">
+                                        <span class="text-one">Liên hệ</span><span class="text-two">Liên
+                                            hệ</span></span></a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -47,10 +60,14 @@
             <div class="menu-backdrop"></div>
             <section id="menu" class="hidden-bar collapse">
                 <div class="inner-box">
-                    <div class="cross-icon hidden-bar-closer"><span class="fa fa-close" data-bs-toggle="collapse"
-                            data-bs-target="#menu" data-toggle="collapse" data-target="#menu"></span></div>
-                    <div class="logo-box"><a href="/" title="TSI"><img src="/assets/images/logo.png" alt=""
-                                title="TSI"></a></div>
+                    <div class="cross-icon hidden-bar-closer">
+                        <span class="fa fa-close" data-bs-toggle="collapse" data-bs-target="#menu"
+                            data-toggle="collapse" data-target="#menu"></span>
+                    </div>
+                    <div class="logo-box">
+                        <a href="/" title="TSI"><img src="https://tsi.com.vn/assets/images/logo.png" alt=""
+                                title="TSI" /></a>
+                    </div>
                     <div class="side-menu">
                         <ul class="navigation clearfix">
                             <li><a href="/">Trang chủ</a></li>
@@ -60,32 +77,48 @@
                         </ul>
                     </div>
                     <ul class="info">
-                        <li>Tầng 44 Bitexco Financial Tower 02 Hải Triều, Bến Nghé, Quận 1, Hồ Chí Minh</li>
+                        <li>
+                            Tầng 44 Bitexco Financial Tower 02 Hải Triều, Bến Nghé, Quận 1, Hồ
+                            Chí Minh
+                        </li>
                         <li>Tầng 19, Capital Place, 29 Liễu Giai, Ba Đình, Hà Nội</li>
-                        <li><a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a></li>
+                        <li>
+                            <a href="mailto:Paul.nguyen@tsi.com.vn">Paul.nguyen@tsi.com.vn</a>
+                        </li>
                     </ul>
                     <div class="separator"><span></span></div>
                     <div class="booking-info">
-                        <div class="bk-no"><a href="tel:(+84)76 9998686">(+84)76 9998686</a></div>
+                        <div class="bk-no">
+                            <a href="tel:(+84)76 9998686">(+84)76 9998686</a>
+                        </div>
                     </div>
                 </div>
             </section>
         </div>
         <section class="banner-section">
             <div class="banner-container">
-                <div class="swiper-wrapper" style="background: url('https://i.imgur.com/7nyKJuX.jpeg') center/cover;">
+                <div class="swiper-wrapper" :style="{ background: `url(${require('@/assets/ig/7nyKJuX.jpeg')}) center/cover no-repeat` }">
+  
+
                     <div class="auto-container center-container container">
                         <div class="content-box">
                             <div class="content">
                                 <div class="inner text-center w-100">
-                                    <h2 style="font-size: 50px;"><span>TRADING SOLUTION<br>INTERNATIONAL</span></h2>
-                                    <br>
-                                    <h4 class="text">Thành lập từ 2003,<span style="color: #f1d1a9;"> TSI</span> chuyên
-                                        <span style="color: #f1d1a9;">nhập khẩu</span> các sản phẩm nông nghiệp chất
-                                        lượng cao <span style="color: #f1d1a9;">xuất xứ từ Úc </span>và nhiều quốc gia
-                                        khác (Mỹ, Canada, Châu Âu) phân phối đến thị trường Việt Nam cùng các quốc gia
-                                        trong khu vực và <span style="color: #f1d1a9;">tư vấn thành lập pháp nhân và
-                                            giấy phép, kinh doanh xuất nhập khẩu quốc tế<br><br></span></h4>
+                                    <h2 style="font-size: 50px">
+                                        <span>TRADING SOLUTION<br />INTERNATIONAL</span>
+                                    </h2>
+                                    <br />
+                                    <h4 class="text">
+                                        Thành lập từ 2003,<span style="color: #f1d1a9"> TSI</span>
+                                        chuyên <span style="color: #f1d1a9">nhập khẩu</span> các sản
+                                        phẩm nông nghiệp chất lượng cao
+                                        <span style="color: #f1d1a9">xuất xứ từ Úc </span>và nhiều
+                                        quốc gia khác (Mỹ, Canada, Châu Âu) phân phối đến thị trường
+                                        Việt Nam cùng các quốc gia trong khu vực và
+                                        <span style="color: #f1d1a9">tư vấn thành lập pháp nhân và giấy phép, kinh doanh
+                                            xuất
+                                            nhập khẩu quốc tế<br /><br /></span>
+                                    </h4>
                                 </div>
                             </div>
                         </div>
@@ -96,22 +129,26 @@
         <section class="fluid-section alternate">
             <div class="outer-container">
                 <div class="row clearfix">
-                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12"
-                        style="background: url('https://i.imgur.com/lvJR7G6.jpeg') center/cover;"></div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12" :style="{ background: `url(${require('@/assets/ig/lvJR7G6.jpeg')}) center/cover no-repeat` }"></div>
                     <div class="content-col col-xl-6 col-lg-6 col-md-12 col-sm-12">
                         <div class="inner clearfix">
                             <div class="content-box">
                                 <div class="title-box centered">
                                     <div class="subtitle"></div>
-                                    <div class="text" style="text-align: left;">
-                                        <h2>TRUSTWORTHY <br>SUPERIOR <br>INTEGRITY&nbsp;&nbsp;</h2>
-                                        <br><br><span class="lead">TSI tập trung vào việc nâng cao chất lượng sản phẩm
-                                            thông qua việc kiểm soát chất lượng sản phẩm, quản lý chuỗi cung ứng. Bắt
-                                            đầu từ việc xây dựng mối liên hệ hợp tác trực tiếp với các nông trại và ngư
-                                            trường, TSI sẽ trực tiếp đưa sản phẩm tươi nguyên và chất lượng nhất từ khắp
-                                            nơi trên Thế giới đến người tiêu dùng Việt Nam và các thị trường quốc tế
-                                            khác.<br><br>Từ 2023, doanh nghiệp cũng mở rộng dịch vụ tư vấn thành lập
-                                            doanh nghiệp và giấy phép xuất nhập khẩu quốc tế.</span>
+                                    <div class="text" style="text-align: left">
+                                        <h2>
+                                            TRUSTWORTHY <br />SUPERIOR <br />INTEGRITY&nbsp;&nbsp;
+                                        </h2>
+                                        <br /><br /><span class="lead">TSI tập trung vào việc nâng cao chất lượng sản
+                                            phẩm thông
+                                            qua việc kiểm soát chất lượng sản phẩm, quản lý chuỗi cung
+                                            ứng. Bắt đầu từ việc xây dựng mối liên hệ hợp tác trực tiếp
+                                            với các nông trại và ngư trường, TSI sẽ trực tiếp đưa sản
+                                            phẩm tươi nguyên và chất lượng nhất từ khắp nơi trên Thế
+                                            giới đến người tiêu dùng Việt Nam và các thị trường quốc tế
+                                            khác.<br /><br />Từ 2023, doanh nghiệp cũng mở rộng dịch vụ
+                                            tư vấn thành lập doanh nghiệp và giấy phép xuất nhập khẩu
+                                            quốc tế.</span>
                                     </div>
                                 </div>
                             </div>
@@ -124,14 +161,16 @@
                             <div class="content-box">
                                 <div class="title-box centered">
                                     <div class="subtitle"></div>
-                                    <div class="text" style="text-align: right;">
-                                        <h2>BÀO NGƯ ÚC ĐƯỢC GIỚI THƯỢNG LƯU <br>SĂN LÙNG</h2>
-                                        <br><br><span class="lead"><span class="lead">Bào ngư viền xanh Australia (Úc)
-                                                được mệnh danh là loại bào ngư ngon nhất và đắt đỏ bậc nhất thế giới.
-                                                Không chỉ bởi sản lượng khan hiếm, giá trị bào ngư còn phản ánh qua quy
-                                                trình khai thác đảm bảo chất lượng và chất lượng của dòng sản phẩm. Bào
-                                                ngư trở thành món quà quý giá từ đại dương và được giới thượng lưu săn
-                                                lùng.&nbsp;<br></span></span><span class="lead"><br><br></span>
+                                    <div class="text" style="text-align: right">
+                                        <h2>BÀO NGƯ ÚC ĐƯỢC GIỚI THƯỢNG LƯU <br />SĂN LÙNG</h2>
+                                        <br /><br /><span class="lead"><span class="lead">Bào ngư viền xanh Australia
+                                                (Úc) được mệnh danh là loại
+                                                bào ngư ngon nhất và đắt đỏ bậc nhất thế giới. Không chỉ
+                                                bởi sản lượng khan hiếm, giá trị bào ngư còn phản ánh qua
+                                                quy trình khai thác đảm bảo chất lượng và chất lượng của
+                                                dòng sản phẩm. Bào ngư trở thành món quà quý giá từ đại
+                                                dương và được giới thượng lưu săn lùng.&nbsp;<br /></span></span><span
+                                            class="lead"><br /><br /></span>
                                     </div>
                                     <a href="#https://tsi.com.vn/less/post/bao-ngu-vien-xanh-uc-yumbah"
                                         class="btn btn-outline-light">Xem thêm</a>
@@ -139,9 +178,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12"
-                        style="background: url('https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Different-Design-With-Center-Header/images/background/image-6.jpg') center/cover;">
-                    </div>
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12" style="
+            background: url('https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Different-Design-With-Center-Header/images/background/image-6.jpg')
+              center/cover;
+          "></div>
                 </div>
             </div>
         </section>
@@ -154,26 +194,31 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/pWxmKAL.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/pWxmKAL.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BÒ ÚC</h5>
                                     </div>
                                     <div class="price"></div>
                                 </div>
-                                <div class="text desc"><span
-                                        data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;gồm bò Angus, Hereford, Wagyu, bò Brahman và bò Droughtmaster ....[xem thêm] &quot;}"
-                                        data-sheets-userformat="{&quot;2&quot;:37633,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;Josefin Sans&quot;,&quot;18&quot;:1}">Thịt
-                                        bò Angus, Hereford, Wagyu, Brahman và Droughtmaster&nbsp;</span></div>
+                                <div class="text desc">
+                                    <span
+                                        data-sheets-value='{"1":2,"2":"gồm bò Angus, Hereford, Wagyu, bò Brahman và bò Droughtmaster ....[xem thêm] "}'
+                                        data-sheets-userformat='{"2":37633,"3":{"1":0},"11":4,"12":0,"15":"Josefin Sans","18":1}'>Thịt
+                                        bò Angus, Hereford, Wagyu, Brahman và
+                                        Droughtmaster&nbsp;</span>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/8yqfc1v.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/8yqfc1v.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BÒ MỸ</h5>
@@ -187,8 +232,9 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/sIU2Hhe.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/sIU2Hhe.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BÒ NEW ZEALAND</h5>
@@ -201,16 +247,19 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/6V0ZObS.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/6V0ZObS.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>HEO ĐỨC</h5>
                                     </div>
                                     <div class="price"></div>
                                 </div>
-                                <div class="text desc"><span>Thịt heo đông lạnh Đức cao cấp </span><span>Deutsche
-                                        Schweinefleisch </span><span> </span></div>
+                                <div class="text desc">
+                                    <span>Thịt heo đông lạnh Đức cao cấp </span><span>Deutsche Schweinefleisch
+                                    </span><span> </span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -224,26 +273,31 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/pWxmKAL.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/pWxmKAL.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BÒ ÚC</h5>
                                     </div>
                                     <div class="price"></div>
                                 </div>
-                                <div class="text desc"><span
-                                        data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;gồm bò Angus, Hereford, Wagyu, bò Brahman và bò Droughtmaster ....[xem thêm] &quot;}"
-                                        data-sheets-userformat="{&quot;2&quot;:37633,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;Josefin Sans&quot;,&quot;18&quot;:1}">Thịt
-                                        bò Angus, Hereford, Wagyu, Brahman và Droughtmaster</span></div>
+                                <div class="text desc">
+                                    <span
+                                        data-sheets-value='{"1":2,"2":"gồm bò Angus, Hereford, Wagyu, bò Brahman và bò Droughtmaster ....[xem thêm] "}'
+                                        data-sheets-userformat='{"2":37633,"3":{"1":0},"11":4,"12":0,"15":"Josefin Sans","18":1}'>Thịt
+                                        bò Angus, Hereford, Wagyu, Brahman và
+                                        Droughtmaster</span>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/8yqfc1v.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/8yqfc1v.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BÒ MỸ</h5>
@@ -257,8 +311,9 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/sIU2Hhe.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/sIU2Hhe.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BÒ NEW ZEALAND</h5>
@@ -279,12 +334,16 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/hv0Lobz.jpeg" alt="" width="178"
-                                        height="178" class="img-fluid"
-                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/hv0Lobz.jpeg" alt="" width="178" height="178"
+                                        class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
-                                        <h5>BÀO NGƯ VIỀN XANH CÒN NGUYÊN VỎ ĐÔNG LẠNH&nbsp; (gREENLIP ABALONE)</h5>
+                                        <h5>
+                                            BÀO NGƯ VIỀN XANH CÒN NGUYÊN VỎ ĐÔNG LẠNH&nbsp; (gREENLIP
+                                            ABALONE)
+                                        </h5>
                                     </div>
                                 </div>
                             </div>
@@ -293,42 +352,50 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/0UN0zD5.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/0UN0zD5.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>THỊT BÀO NGƯ TÁCH VỎ ĐÔNG LẠNH (IQF)</h5>
                                     </div>
                                     <div class="price"></div>
                                 </div>
-                                <div class="text desc">Thịt bào ngư tách vỏ được đóng gói theo từng túi.</div>
+                                <div class="text desc">
+                                    Thịt bào ngư tách vỏ được đóng gói theo từng túi.
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/F5B1RPY.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/F5B1RPY.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BÀO NGƯ ĐÓNG HỘP</h5>
                                     </div>
                                 </div>
-                                <div class="text desc"><span
-                                        data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;\bBÀO NGƯ ĐÓNG HỘP\nBào ngư được vận chuyển tươi sống đến các nhà máy sản xuất và chế biến. Các xưởng chế biến đảm bảo yêu cầu về an toàn thực phẩm, sử dụng công nghệ tiên tiến để đảm bảo giữ hương vị tươi ngon. Đồng thời, ít chất hóa học và chất bảo quản nhằm..... Quy trình khép kín đáp ứng tiêu chuẩn sản xuất để đóng thành lon theo tiêu chuẩn của [bộ ...] của Úc&quot;}"
-                                        data-sheets-userformat="{&quot;2&quot;:6723,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:16777215},&quot;9&quot;:0,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;15&quot;:&quot;Josefin Sans&quot;}">Bào
-                                        ngư được vận chuyển tươi sống đến các nhà máy sản xuất và chế biến. Sau đó,
-                                        xưởng sẽ dùng công nghệ tiên tiến và khép kín để chế biến đảm bảo giữ hương vị
-                                        tươi ngon và được đóng thành lon để tiện sử dụng.&nbsp;</span></div>
+                                <div class="text desc">
+                                    <span
+                                        data-sheets-value='{"1":2,"2":"\bBÀO NGƯ ĐÓNG HỘP\nBào ngư được vận chuyển tươi sống đến các nhà máy sản xuất và chế biến. Các xưởng chế biến đảm bảo yêu cầu về an toàn thực phẩm, sử dụng công nghệ tiên tiến để đảm bảo giữ hương vị tươi ngon. Đồng thời, ít chất hóa học và chất bảo quản nhằm..... Quy trình khép kín đáp ứng tiêu chuẩn sản xuất để đóng thành lon theo tiêu chuẩn của [bộ ...] của Úc"}'
+                                        data-sheets-userformat='{"2":6723,"3":{"1":0},"4":{"1":2,"2":16777215},"9":0,"12":0,"14":{"1":2,"2":0},"15":"Josefin Sans"}'>Bào
+                                        ngư được vận chuyển tươi sống đến các nhà máy sản xuất và
+                                        chế biến. Sau đó, xưởng sẽ dùng công nghệ tiên tiến và khép
+                                        kín để chế biến đảm bảo giữ hương vị tươi ngon và được đóng
+                                        thành lon để tiện sử dụng.&nbsp;</span>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/1hiZono.png" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/1hiZono.png" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>bÀO NGƯ BÍCH HỔ (JADE TIGER ABALONE)</h5>
@@ -350,18 +417,21 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/iJRVFKk.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/iJRVFKk.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>rƯỢU VANG ÚC</h5>
                                     </div>
                                 </div>
-                                <div class="text desc"><span
-                                        data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rượu vang: Úc là một trong những nhà sản xuất rượu vang hàng đầu thế giới, và nổi tiếng với các loại rượu vang cao cấp như Shiraz, Cabernet Sauvignon và Chardonnay.&quot;}"
-                                        data-sheets-userformat="{&quot;2&quot;:4609,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;15&quot;:&quot;Josefin Sans&quot;}">Úc
-                                        là một trong những nhà sản xuất rượu vang hàng đầu thế giới, và nổi tiếng với
-                                        các loại rượu vang cao cấp như Shiraz, Cabernet Sauvignon và Chardonnay.</span>
+                                <div class="text desc">
+                                    <span
+                                        data-sheets-value='{"1":2,"2":"Rượu vang: Úc là một trong những nhà sản xuất rượu vang hàng đầu thế giới, và nổi tiếng với các loại rượu vang cao cấp như Shiraz, Cabernet Sauvignon và Chardonnay."}'
+                                        data-sheets-userformat='{"2":4609,"3":{"1":0},"12":0,"15":"Josefin Sans"}'>Úc là
+                                        một trong những nhà sản xuất rượu vang hàng đầu thế
+                                        giới, và nổi tiếng với các loại rượu vang cao cấp như Shiraz,
+                                        Cabernet Sauvignon và Chardonnay.</span>
                                 </div>
                             </div>
                         </div>
@@ -369,30 +439,36 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/ccODGTM.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/ccODGTM.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>RƯỢU MẠNH</h5>
                                     </div>
                                 </div>
-                                <div class="text desc">Sản phẩm bao gồm các loại whisky, rượu mạnh, rượu brandy và rượu
-                                    rum.&nbsp;</div>
+                                <div class="text desc">
+                                    Sản phẩm bao gồm các loại whisky, rượu mạnh, rượu brandy và rượu
+                                    rum.&nbsp;
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/AOFx4D9.png" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/AOFx4D9.png" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>BIA</h5>
                                     </div>
                                 </div>
-                                <div class="text desc">TSI nhập khẩu các dòng bia có xuất xứ từ Úc - một nhà máy sản
-                                    xuất bia lớn, với nhiều loại bia khác nhau như: Lager, Ale, Stout và Pilsner,v.v
+                                <div class="text desc">
+                                    TSI nhập khẩu các dòng bia có xuất xứ từ Úc - một nhà máy sản
+                                    xuất bia lớn, với nhiều loại bia khác nhau như: Lager, Ale,
+                                    Stout và Pilsner,v.v
                                 </div>
                             </div>
                         </div>
@@ -400,14 +476,16 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/6MBh71j.png" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/6MBh71j.png" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>NƯỚC ÉP TRÁI CÂY</h5>
                                     </div>
                                 </div>
-                                <div class="text desc">Nước ép trái cây Emma &amp; Tom's, Capi, Remedy Drinks.&nbsp;
+                                <div class="text desc">
+                                    Nước ép trái cây Emma &amp; Tom's, Capi, Remedy Drinks.&nbsp;
                                 </div>
                             </div>
                         </div>
@@ -415,8 +493,9 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/5rHVZEq.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/5rHVZEq.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>nHO KHÔ NGUYÊN CÀNH</h5>
@@ -429,19 +508,22 @@
                     <div class="menu-col col-lg-6 col-md-12 col-sm-12">
                         <div class="dish-block">
                             <div class="inner-box">
-                                <div class="dish-image"><img src="https://i.imgur.com/RSC9Rka.jpeg" alt=""
-                                        class="img-fluid" onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="dish-image">
+                                    <img src="@/assets/ig/RSC9Rka.jpeg" alt="" class="img-fluid" />
+                                </div>
                                 <div class="title clearfix">
                                     <div class="ttl clearfix">
                                         <h5>CÁC LOẠI HẠT</h5>
                                     </div>
                                 </div>
-                                <div class="text desc"><span
-                                        data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Rượu vang: Úc là một trong những nhà sản xuất rượu vang hàng đầu thế giới, và nổi tiếng với các loại rượu vang cao cấp như Shiraz, Cabernet Sauvignon và Chardonnay.&quot;}"
-                                        data-sheets-userformat="{&quot;2&quot;:4609,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0,&quot;15&quot;:&quot;Josefin Sans&quot;}">Hạt
-                                        chia (The Chia Co, Morlife, Changing Habits), Hạt lanh (Linwoods, Brookfarm,
-                                        Power Super Foods), Hạt bí (Blue Dinosaur, East Bali Cashews, The Protein Bread
-                                        Co),v.v.<br><br></span></div>
+                                <div class="text desc">
+                                    <span
+                                        data-sheets-value='{"1":2,"2":"Rượu vang: Úc là một trong những nhà sản xuất rượu vang hàng đầu thế giới, và nổi tiếng với các loại rượu vang cao cấp như Shiraz, Cabernet Sauvignon và Chardonnay."}'
+                                        data-sheets-userformat='{"2":4609,"3":{"1":0},"12":0,"15":"Josefin Sans"}'>Hạt
+                                        chia (The Chia Co, Morlife, Changing Habits), Hạt lanh
+                                        (Linwoods, Brookfarm, Power Super Foods), Hạt bí (Blue
+                                        Dinosaur, East Bali Cashews, The Protein Bread Co),v.v.<br /><br /></span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -456,16 +538,18 @@
                     </div>
                 </div>
                 <ul>
-                    <li class="text desc" style="text-align: center;">&nbsp; &nbsp;TSI tư vấn thành lập pháp nhân, các
-                        loại hình khai hải quan, quy trình hồ sơ phù hợp cho các doanh nghiệp kinh doanh xuất nhập khẩu.
-                        Đồng thời, chúng tôi cũng hỗ trợ các dịch vụ khác liên quan kinh doanh và vận hành doanh nghiệp
-                        xuất nhập khẩu (tìm nhà cung cấp, nhà phân phối, tính thuế xuất nhập khẩu, áp mã hàng hóa, các
-                        chính sách liên quan đến thuế như hoàn thuế nhập khẩu… và đặc biệt là các hình thức thanh toán
-                        quốc tế khác nhau).</li>
+                    <li class="text desc" style="text-align: center">
+                        &nbsp; &nbsp;TSI tư vấn thành lập pháp nhân, các loại hình khai hải
+                        quan, quy trình hồ sơ phù hợp cho các doanh nghiệp kinh doanh xuất
+                        nhập khẩu. Đồng thời, chúng tôi cũng hỗ trợ các dịch vụ khác liên quan
+                        kinh doanh và vận hành doanh nghiệp xuất nhập khẩu (tìm nhà cung cấp,
+                        nhà phân phối, tính thuế xuất nhập khẩu, áp mã hàng hóa, các chính
+                        sách liên quan đến thuế như hoàn thuế nhập khẩu… và đặc biệt là các
+                        hình thức thanh toán quốc tế khác nhau).
+                    </li>
                 </ul>
-                <br><img src="https://i.imgur.com/Whcpewi.jpeg" class="img-fluid" alt=""
-                    style="display: block; margin-left: auto; margin-right: auto;"
-                    onerror="this.src='/assets/images/_sys/no-photo.png'">
+                <br /><img src="@/assets/ig/Whcpewi.jpeg" class="img-fluid" alt=""
+                    style="display: block; margin-left: auto; margin-right: auto" />
             </div>
         </section>
         <section class="news-section">
@@ -477,25 +561,39 @@
                             <div class="row clearfix">
                                 <div class="s-col col-lg-4 col-md-6 col-sm-12">
                                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms"
-                                        style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                                        style="
+                    visibility: visible;
+                    animation-duration: 1500ms;
+                    animation-delay: 0ms;
+                    animation-name: fadeInLeft;
+                  ">
                                         <div class="s-block">
                                             <div class="inner">
-                                                <div class="icon-box"><img src="https://i.imgur.com/rg0yohO.png" alt=""
-                                                        title="" class="img-fluid"
-                                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
-                                                <div class="text">Fribin là một nhà cung cấp thịt tươi sống uy tín đến
-                                                    từ Tây Ban Nha. Fribin sở hữu và quản lý mạng lưới các nông trại và
-                                                    đối tác chăn nuôi trong nước hoặc khu vực lân cận. Fribin có thể cam
-                                                    kết đảm bảo chất lượng của sản phẩm thông qua việc tuân thủ các tiêu
-                                                    chuẩn an toàn thực phẩm, quy trình kiểm soát chất lượng và quản lý
-                                                    chuỗi cung ứng.<br><br><br></div>
+                                                <div class="icon-box">
+                                                    <img src="@/assets/ig/rg0yohO.png" alt="" title=""
+                                                        class="img-fluid" />
+                                                </div>
+                                                <div class="text">
+                                                    Fribin là một nhà cung cấp thịt tươi sống uy tín đến từ
+                                                    Tây Ban Nha. Fribin sở hữu và quản lý mạng lưới các nông
+                                                    trại và đối tác chăn nuôi trong nước hoặc khu vực lân
+                                                    cận. Fribin có thể cam kết đảm bảo chất lượng của sản
+                                                    phẩm thông qua việc tuân thủ các tiêu chuẩn an toàn thực
+                                                    phẩm, quy trình kiểm soát chất lượng và quản lý chuỗi
+                                                    cung ứng.<br /><br /><br />
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="s-col last col-lg-4 col-md-6 col-sm-12">
                                     <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms"
-                                        style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                                        style="
+                    visibility: visible;
+                    animation-duration: 1500ms;
+                    animation-delay: 0ms;
+                    animation-name: fadeInRight;
+                  ">
                                         <div class="s-block alternate">
                                             <div class="inner">
                                                 <div class="icon-box"></div>
@@ -506,16 +604,24 @@
                                 </div>
                                 <div class="s-col col-lg-4 col-md-6 col-sm-12">
                                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms"
-                                        style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                                        style="
+                    visibility: visible;
+                    animation-duration: 1500ms;
+                    animation-delay: 0ms;
+                    animation-name: fadeInLeft;
+                  ">
                                         <div class="s-block alternate">
                                             <div class="inner">
-                                                <div class="icon-box"><img src="https://i.imgur.com/kJL6eJZ.png" alt=""
-                                                        title="" class="img-fluid"
-                                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
-                                                <div class="text"><span>Tönnies được thành lập vào năm 1971 bởi Clemens
-                                                        Tönnies và hiện nay là một trong những tập đoàn thực phẩm lớn
-                                                        nhất tại Đức. Công ty có trụ sở chính tại Rheda-Wiedenbrück,
-                                                        miền Tây Bắc Đức.</span></div>
+                                                <div class="icon-box">
+                                                    <img src="@/assets/ig/kJL6eJZ.png" alt="" title=""
+                                                        class="img-fluid" />
+                                                </div>
+                                                <div class="text">
+                                                    <span>Tönnies được thành lập vào năm 1971 bởi Clemens
+                                                        Tönnies và hiện nay là một trong những tập đoàn thực
+                                                        phẩm lớn nhất tại Đức. Công ty có trụ sở chính tại
+                                                        Rheda-Wiedenbrück, miền Tây Bắc Đức.</span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -526,58 +632,84 @@
                             <div class="row clearfix">
                                 <div class="s-col last col-lg-4 col-md-6 col-sm-12">
                                     <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms"
-                                        style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                                        style="
+                    visibility: visible;
+                    animation-duration: 1500ms;
+                    animation-delay: 0ms;
+                    animation-name: fadeInRight;
+                  ">
                                         <div class="s-block">
                                             <div class="inner">
-                                                <div class="icon-box"><img src="https://i.imgur.com/351cmVc.png" alt=""
-                                                        title="" class="img-fluid" width="200" height="200"
-                                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
-                                                <div class="text">Được thành lập vào năm 1935, Tyson Foods là một trong
-                                                    những tập đoàn thực phẩm lớn nhất thế giới. Suốt hơn 85 năm, Công ty
-                                                    đã mở rộng và có mặt trong hơn 100 quốc gia và vùng lãnh thổ, đồng
-                                                    thời xuất khẩu sản phẩm thịt đến nhiều thị trường quốc tế. Tyson
-                                                    Foods cam kết đảm bảo chất lượng và an toàn thực phẩm và cũng đặt
-                                                    mục tiêu thực hiện hoạt động kinh doanh một cách bền vững và có
-                                                    trách nhiệm xã hội. Công ty hướng tới giảm thiểu tác động môi
-                                                    trường, nâng cao khâu chăm sóc động vật và hỗ trợ cộng đồng trong
-                                                    các hoạt động xã hội.</div>
+                                                <div class="icon-box">
+                                                    <img src="@/assets/ig/351cmVc.png" alt="" title="" class="img-fluid"
+                                                        width="200" height="200" />
+                                                </div>
+                                                <div class="text">
+                                                    Được thành lập vào năm 1935, Tyson Foods là một trong
+                                                    những tập đoàn thực phẩm lớn nhất thế giới. Suốt hơn 85
+                                                    năm, Công ty đã mở rộng và có mặt trong hơn 100 quốc gia
+                                                    và vùng lãnh thổ, đồng thời xuất khẩu sản phẩm thịt đến
+                                                    nhiều thị trường quốc tế. Tyson Foods cam kết đảm bảo
+                                                    chất lượng và an toàn thực phẩm và cũng đặt mục tiêu
+                                                    thực hiện hoạt động kinh doanh một cách bền vững và có
+                                                    trách nhiệm xã hội. Công ty hướng tới giảm thiểu tác
+                                                    động môi trường, nâng cao khâu chăm sóc động vật và hỗ
+                                                    trợ cộng đồng trong các hoạt động xã hội.
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="s-col col-lg-4 col-md-6 col-sm-12">
                                     <div class="inner wow fadeInLeft" data-wow-duration="1500ms" data-wow-delay="0ms"
-                                        style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                                        style="
+                    visibility: visible;
+                    animation-duration: 1500ms;
+                    animation-delay: 0ms;
+                    animation-name: fadeInLeft;
+                  ">
                                         <div class="s-block">
                                             <div class="inner">
-                                                <div class="icon-box"><img src="https://i.imgur.com/1Ds2xMn.png" alt=""
-                                                        title="" class="img-fluid" width="200" height="200"
-                                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
-                                                <div class="text">Là một doanh nghiệp hàng đầu trong lĩnh vực chế biến
-                                                    thịt tươi sống tại Đức. Với hơn 50 năm kinh nghiệm, Wesfleisch đã
-                                                    xây dựng một tên tuổi vững chắc và đạt được sự tin cậy từ khách hàng
-                                                    và đối tác trong ngành với các chứng nhận như ISO 22000 và HACCP,
-                                                    v.v<br><br><br></div>
+                                                <div class="icon-box">
+                                                    <img src="@/assets/ig/1Ds2xMn.png" alt="" title="" class="img-fluid"
+                                                        width="200" height="200" />
+                                                </div>
+                                                <div class="text">
+                                                    Là một doanh nghiệp hàng đầu trong lĩnh vực chế biến
+                                                    thịt tươi sống tại Đức. Với hơn 50 năm kinh nghiệm,
+                                                    Wesfleisch đã xây dựng một tên tuổi vững chắc và đạt
+                                                    được sự tin cậy từ khách hàng và đối tác trong ngành với
+                                                    các chứng nhận như ISO 22000 và HACCP, v.v<br /><br /><br />
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="s-col last col-lg-4 col-md-6 col-sm-12">
                                     <div class="inner wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="0ms"
-                                        style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                                        style="
+                    visibility: visible;
+                    animation-duration: 1500ms;
+                    animation-delay: 0ms;
+                    animation-name: fadeInRight;
+                  ">
                                         <div class="s-block alternate">
                                             <div class="inner">
-                                                <div class="icon-box"><img src="https://i.imgur.com/uRVHWiE.png" alt=""
-                                                        title="" class="img-fluid"
-                                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
-                                                <div class="text">Bên cạnh sở hữu và quản lý các trang trại hàu hiện
-                                                    đại, Yumbah còn nổi tiếng với sản phẩm bào ngư viền xanh - &nbsp;sản
-                                                    phẩm bào ngư ngon nhất Thế giới. Sự uy tín của Yumbah thể hiện qua
-                                                    sự cẩn thận và kỹ lưỡng trong phương pháp nuôi trồng. Yumbah là đối
-                                                    tác đáng tin cậy với hàng loạt chứng nhận: Export Registered (Chứng
-                                                    nhận xuất xứ), HACCP, SQF, ATT (Doanh nghiệp uy tín tại Úc), Known
-                                                    Consignor (Nhà bán hàng được xác nhận), ASC Certified Farms (Nông
-                                                    trại đạt chuẩn ASC), v.v</div>
+                                                <div class="icon-box">
+                                                    <img src="@/assets/ig/uRVHWiE.png" alt="" title=""
+                                                        class="img-fluid" />
+                                                </div>
+                                                <div class="text">
+                                                    Bên cạnh sở hữu và quản lý các trang trại hàu hiện đại,
+                                                    Yumbah còn nổi tiếng với sản phẩm bào ngư viền xanh -
+                                                    &nbsp;sản phẩm bào ngư ngon nhất Thế giới. Sự uy tín của
+                                                    Yumbah thể hiện qua sự cẩn thận và kỹ lưỡng trong phương
+                                                    pháp nuôi trồng. Yumbah là đối tác đáng tin cậy với hàng
+                                                    loạt chứng nhận: Export Registered (Chứng nhận xuất xứ),
+                                                    HACCP, SQF, ATT (Doanh nghiệp uy tín tại Úc), Known
+                                                    Consignor (Nhà bán hàng được xác nhận), ASC Certified
+                                                    Farms (Nông trại đạt chuẩn ASC), v.v
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -591,8 +723,9 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box wow fadeInUp">
                             <div class="image-box">
-                                <div class="image"><img src="https://i.imgur.com/WIwHb8Y.jpeg" alt=""
-                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="image">
+                                    <img src="@/assets/ig/WIwHb8Y.jpeg" alt="" />
+                                </div>
                                 <div class="over-content">
                                     <div class="cat">Halloween</div>
                                     <h4>Bí ẩn đêm Halloween, đẳng cấp từ biển cả!</h4>
@@ -603,11 +736,15 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box wow fadeInUp">
                             <div class="image-box">
-                                <div class="image"><img src="https://i.imgur.com/nLHpnuo.jpeg" alt=""
-                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="image">
+                                    <img src="@/assets/ig/nLHpnuo.jpeg" alt="" />
+                                </div>
                                 <div class="over-content">
                                     <div class="cat"></div>
-                                    <h4>Vì sao bào ngư viền xanh Úc đắt đỏ và được giới thượng lưu săn lùng</h4>
+                                    <h4>
+                                        Vì sao bào ngư viền xanh Úc đắt đỏ và được giới thượng lưu săn
+                                        lùng
+                                    </h4>
                                 </div>
                             </div>
                         </div>
@@ -615,8 +752,9 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box wow fadeInUp">
                             <div class="image-box">
-                                <div class="image"><img src="https://i.imgur.com/DRI4MrZ.jpeg" alt=""
-                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="image">
+                                    <img src="@/assets/ig/DRI4MrZ.jpeg" alt="" />
+                                </div>
                                 <div class="over-content">
                                     <div class="cat"></div>
                                     <h4>Bào ngư Úc: Phân loại, cách chọn và hướng dẫn chế biến</h4>
@@ -627,11 +765,15 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box wow fadeInUp">
                             <div class="image-box">
-                                <div class="image"><img src="https://i.imgur.com/GG2CyxX.jpeg" alt=""
-                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="image">
+                                    <img src="@/assets/ig/GG2CyxX.jpeg" alt="" />
+                                </div>
                                 <div class="over-content">
                                     <div class="cat"></div>
-                                    <h4>Vì sao Bào Ngư Viền xanh được mệnh danh là "thần dược" của biển sâu</h4>
+                                    <h4>
+                                        Vì sao Bào Ngư Viền xanh được mệnh danh là "thần dược" của
+                                        biển sâu
+                                    </h4>
                                 </div>
                             </div>
                         </div>
@@ -639,8 +781,9 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box wow fadeInUp">
                             <div class="image-box">
-                                <div class="image"><img src="https://i.imgur.com/7XBoa4H.jpeg" alt=""
-                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="image">
+                                    <img src="@/assets/ig/7XBoa4H.jpeg" alt="" />
+                                </div>
                                 <div class="over-content">
                                     <div class="cat"></div>
                                     <h4>Bào ngư viền xanh thương hiệu Yumbah</h4>
@@ -651,8 +794,9 @@
                     <div class="news-block col-lg-4 col-md-6 col-sm-12">
                         <div class="inner-box wow fadeInUp">
                             <div class="image-box">
-                                <div class="image"><img src="https://i.imgur.com/V4zpin8.png" alt=""
-                                        onerror="this.src='/assets/images/_sys/no-photo.png'"></div>
+                                <div class="image">
+                                    <img src="@/assets/ig/V4zpin8.png" alt="" />
+                                </div>
                                 <div class="over-content">
                                     <div class="cat"></div>
                                     <h4>Hướng dẫn cách chế biến Bào ngư viền xanh Úc</h4>
@@ -663,11 +807,124 @@
                 </div>
             </div>
         </section>
-       
+        <div data-include="footer">
+            <footer class="main-footer">
+                <div class="image-layer" :style="{ background: `url(${require('@/assets/ig/WqRof9g.jpeg')}) center/cover no-repeat` }"></div>
+                <div class="upper-section">
+                    <div class="auto-container">
+                        <div class="row clearfix">
+                            <div class="footer-col info-col col-lg-6 col-md-12 col-sm-12">
+                                <div class="inner wow fadeInUp">
+                                    <div class="content">
+                                        <div class="logo">
+                                            <span style="color: #ffffff"><a href="/" title="TSI"
+                                                    style="color: #ffffff"><img
+                                                        src="https://tsi.com.vn/assets/images/logo.png" alt=""
+                                                        title="TSI" /></a></span>
+                                        </div>
+                                        <div class="info">
+                                            <ul>
+                                                <li>
+                                                    <span style="color: #ffffff">Tầng 44 Bitexco Financial Tower, 02 Hải
+                                                        Triều, Bến
+                                                        Nghé, Quận 1, Hồ Chí Minh</span>
+                                                </li>
+                                                <li>
+                                                    <span style="color: #ffffff">Tầng 19, Capital Place, 29 Liễu Giai,
+                                                        Ba Đình, Hà
+                                                        Nội</span>
+                                                </li>
+                                                <li>
+                                                    <span style="color: #ffffff"><a href="mailto:Paul.nguyen@tsi.com.vn"
+                                                            style="color: #ffffff">Paul.nguyen@tsi.com.vn</a></span>
+                                                </li>
+                                                <li>
+                                                    <span style="color: #ffffff"><a href="tel:(+84) 76 9998686"
+                                                            style="color: #ffffff">Thông tin liên hệ: (+84) 76
+                                                            9998686</a></span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="separator">
+                                            <span style="color: #ffffff"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="footer-col links-col col-lg-3 col-md-6 col-sm-12">
+                                <div class="inner wow fadeInLeft">
+                                    <ul class="links">
+                                        <li>
+                                            <span style="color: #ffffff"><a href="/page/distribution.html"
+                                                    style="color: #ffffff">Chính sách</a></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="footer-col links-col last col-lg-3 col-md-6 col-sm-12">
+                                <div class="inner wow fadeInRight">
+                                    <ul class="links">
+                                        <li>
+                                            <span style="color: #ffffff"><a href="/page/about.html"
+                                                    style="color: #ffffff">Giới thiệu</a></span>
+                                        </li>
+                                        <li>
+                                            <span style="color: #ffffff"><a href="/page/contact.html"
+                                                    style="color: #ffffff">Liên hệ</a></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
     </div>
 </template>
+<script>
+export default {
+    layout: 'none'
+}
+</script>
+<style>
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.text,
+.signature,
+.count-box {
+    color: #fff !important;
+}
 
-<style scoped>
+.content-box .content .inner {
+    width: 600px;
+}
+
+.swiper-wrapper {
+    height: 100vh;
+}
+
+.main-header {
+    position: absolute;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.collapse.show {
+    opacity: 1;
+    visibility: visible;
+    -ms-transform: translateX(0px);
+    transform: translateX(0px);
+}
+
 /* Delici - Restaurants HTML Template */
 
 /*** 
@@ -4600,6 +4857,301 @@ body.visible-sidebar {
     color: var(--text-color);
 }
 
+/*** 
+
+====================================================================
+  Main Footer
+====================================================================
+
+***/
+
+.main-footer {
+    position: relative;
+    padding-top: var(--padding-top-100);
+    padding-bottom: var(--padding-bottom-70);
+    background: var(--black-color);
+}
+
+.main-footer .image-layer {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.40;
+}
+
+.main-footer .upper-section {
+    position: relative;
+    text-align: center;
+    margin-bottom: var(--margin-bottom-70);
+}
+
+.main-footer .footer-col {
+    position: relative;
+    text-align: center;
+}
+
+.main-footer .links-col {
+    position: relative;
+}
+
+.main-footer .links-col.last {
+    order: 12;
+}
+
+.main-footer .links-col ul li {
+    position: relative;
+    margin-bottom: var(--margin-bottom-20);
+}
+
+.main-footer .links-col ul li:last-child {
+    margin-bottom: 0;
+}
+
+.main-footer .links-col ul li a {
+    position: relative;
+    display: inline-block;
+    color: var(--color-one);
+    line-height: 1.5em;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: var(--font-12);
+    letter-spacing: 0.30em;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.main-footer .links-col ul li a:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -7px;
+    display: block;
+    height: 5px;
+    border-top: 1px solid var(--white-color);
+    border-bottom: 1px solid var(--white-color);
+    transform: scaleX(0);
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.main-footer .links-col ul li a:hover {
+    color: var(--main-color);
+}
+
+.main-footer .links-col ul li a:hover:before {
+    border-color: var(--main-color);
+    transform: scaleX(1);
+}
+
+.main-footer .info-col {
+    position: relative;
+    color: var(--color-one);
+    order: 4;
+}
+
+.main-footer .links-col .inner {
+    position: relative;
+    text-align: center;
+    padding-top: var(--padding-top-150);
+    padding-bottom: var(--padding-bottom-150);
+    min-height: 100%;
+}
+
+.main-footer .info-col .inner {
+    position: relative;
+    max-width: 1440px;
+    padding-left: var(--padding-left-30);
+    padding-right: var(--padding-right-30);
+    margin: 0 auto;
+    padding-top: var(--padding-top-100);
+    padding-bottom: var(--padding-bottom-90);
+    /*background:var(--color-five) url(https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Different-Design-With-Center-Header/images/background/pattern-4.png) center top repeat;*/
+}
+
+.main-footer .info-col .content {
+    position: relative;
+    max-width: 460px;
+    margin: 0 auto;
+}
+
+.main-footer .info-col .inner:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 15px;
+    height: 100%;
+    /*background: url(https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Different-Design-With-Center-Header/images/background/pattern-9.svg) center repeat;*/
+}
+
+.main-footer .info-col .inner:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 15px;
+    height: 100%;
+    /*background: url(https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Different-Design-With-Center-Header/images/background/pattern-9.svg) center repeat;*/
+}
+
+.main-footer .info-col .logo {
+    position: relative;
+    margin-bottom: var(--margin-bottom-40);
+}
+
+.main-footer .info-col .info li {
+    position: relative;
+    line-height: 1.5em;
+    margin-bottom: var(--margin-bottom-5);
+}
+
+.main-footer .info-col .info li:last-child {
+    margin-bottom: 0;
+}
+
+.main-footer .info-col .info li a {
+    color: var(--color-one);
+}
+
+.main-footer .info-col .info li a:hover {
+    color: var(--main-color);
+}
+
+.main-footer .info-col .separator {
+    position: relative;
+    text-align: center;
+    margin-top: var(--margin-top-30);
+    margin-bottom: var(--margin-bottom-20);
+}
+
+.main-footer .info-col .separator span {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 1px;
+    height: 8px;
+    width: 8px;
+    border: 1px solid var(--main-color);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.main-footer .info-col .newsletter {
+    position: relative;
+}
+
+.main-footer .info-col .newsletter h3 {
+    margin-bottom: 0;
+}
+
+.main-footer .info-col .newsletter .text {
+    line-height: 1.5em;
+    font-size: var(--font-14);
+}
+
+.main-footer .info-col .newsletter .text span {
+    color: var(--text-color);
+}
+
+.main-footer .info-col .newsletter-form {
+    position: relative;
+    margin-top: var(--margin-top-30);
+}
+
+.main-footer .info-col .newsletter-form .form-group {
+    position: relative;
+    margin-bottom: 0;
+}
+
+.main-footer .info-col .newsletter-form .alt-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    margin-top: -15px;
+    line-height: 30px;
+    font-size: var(--font-14);
+    color: var(--white-color);
+    font-weight: 400;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.main-footer .info-col .newsletter-form .form-group input[type="text"],
+.main-footer .info-col .newsletter-form input[type="email"],
+.main-footer .info-col .newsletter-form input[type="password"] {
+    position: relative;
+    display: block;
+    height: 56px;
+    width: 100%;
+    font-size: var(--font-16);
+    color: var(--color-one);
+    line-height: 34px;
+    font-weight: 400;
+    padding: 10px 20px 10px 40px;
+    background-color: var(--color-six);
+    border: 1px solid var(--white-color-opacity-five);
+    border-radius: 0px;
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.main-footer .info-col .newsletter-form .form-group input[type="text"]:focus,
+.main-footer .info-col .newsletter-form input[type="email"]:focus,
+.main-footer .info-col .newsletter-form input[type="password"]:focus {
+    border-color: var(--main-color);
+}
+
+.main-footer .info-col .newsletter-form button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 180px;
+    height: 56px;
+    line-height: 30px;
+}
+
+.btn-style-one .btn-title {
+    line-height: 22px;
+}
+
+.main-footer .footer-bottom {
+    position: relative;
+    text-align: center;
+}
+
+.main-footer .copyright {
+    position: relative;
+    color: var(--color-one);
+    line-height: 1.5em;
+}
+
+.main-footer .copyright a {
+    text-decoration: underline;
+    color: var(--main-color);
+}
+
+/*** 
+
+====================================================================
+  Inner Banner Section
+====================================================================
+
+***/
 
 .inner-banner {
     position: relative;
@@ -7541,5 +8093,2149 @@ html:not(.body-menu-opened) .hamburger .bottom-bun {
     100% {
         width: 100%;
     }
+}
+
+/* Delici - Restaurants HTML Template */
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Forum&display=swap');
+
+/*
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Forum', cursive;
+*/
+
+
+/*** 
+
+====================================================================
+    Root Code Variables
+====================================================================
+
+ ***/
+
+:root {
+
+    /* #f25630 in decimal RGB */
+    --main-color: rgb(228, 197, 144);
+
+    /* #ffffff in decimal RGB */
+    --white-color: rgb(255, 255, 255);
+
+    /* #a7a7a7 in decimal RGB */
+    --color-one: rgb(167, 167, 167);
+
+    /* #0e0d0b in decimal RGB */
+    --color-two: rgb(14, 13, 11);
+
+    /* #595653 in decimal RGB */
+    --color-three: rgb(89, 86, 83);
+
+    /* #171819 in decimal RGB */
+    --color-four: rgb(23, 24, 25);
+
+    /* #0e0d0c in decimal RGB */
+    --color-five: rgb(14, 13, 12);
+
+    /* #1a1b1c in decimal RGB */
+    --color-six: rgb(26, 27, 28);
+
+    /* #151616 in decimal RGB */
+    --color-seven: rgb(21, 22, 22);
+
+    /* #121111 in decimal RGB */
+    --color-eight: rgb(18, 17, 17);
+
+    /* #ffffff in decimal RGBA */
+    --white-color-opacity: rgba(255, 255, 255, 0.80);
+
+    /* #ffffff in decimal RGBA Two */
+    --white-color-opacity-two: rgba(255, 255, 255, 0.60);
+
+    /* #ffffff in decimal RGBA Three */
+    --white-color-opacity-three: rgba(255, 255, 255, 0.40);
+
+    /* #ffffff in decimal RGBA Four */
+    --white-color-opacity-four: rgba(255, 255, 255, 0.20);
+
+    /* #ffffff in decimal RGBA Five */
+    --white-color-opacity-five: rgba(255, 255, 255, 0.10);
+
+    /* #000000 in decimal RGB */
+    --black-color: rgb(0, 0, 0);
+
+    /* #000000 in decimal RGBA one */
+    --black-color-opacity: rgba(0, 0, 0, 0.80);
+
+    /* #000000 in decimal RGBA two */
+    --black-color-opacity-two: rgba(0, 0, 0, 0.60);
+
+    /* #000000 in decimal RGBA Three */
+    --black-color-opacity-three: rgba(0, 0, 0, 0.40);
+
+    /* #000000 in decimal RGBA Four */
+    --black-color-opacity-four: rgba(0, 0, 0, 0.20);
+
+    /* #000000 in decimal RGBA Five */
+    --black-color-opacity-five: rgba(0, 0, 0, 0.10);
+
+    /* #ffffff in decimal RGB */
+    --text-color: rgb(255, 255, 255);
+
+    /* #010101 Heading Color in decimal RGB */
+    --heading-color: rgb(255, 255, 255);
+
+    /* #171819 Body Bg Color in decimal RGB */
+    --body-bg-color: rgb(13, 24, 25);
+
+    /* Fonts Variable */
+    --font-family-DMsans: 'DM Sans', sans-serif;
+
+    --font-family-Forum: 'Forum', cursive;
+
+    /* Heading Fonts */
+
+    --font-8: 8px;
+    --font-10: 10px;
+    --font-12: 12px;
+    --font-13: 13px;
+    --font-14: 14px;
+    --font-15: 15px;
+    --font-16: 16px;
+    --font-18: 18px;
+    --font-20: 20px;
+    --font-21: 21px;
+    --font-22: 22px;
+    --font-24: 24px;
+    --font-25: 25px;
+    --font-26: 26px;
+    --font-28: 28px;
+    --font-30: 30px;
+    --font-32: 32px;
+    --font-34: 34px;
+    --font-35: 35px;
+    --font-36: 36px;
+    --font-38: 38px;
+    --font-40: 40px;
+    --font-42: 42px;
+    --font-44: 44px;
+    --font-48: 48px;
+    --font-50: 50px;
+    --font-52: 52px;
+    --font-54: 54px;
+    --font-56: 56px;
+    --font-58: 58px;
+    --font-60: 60px;
+    --font-62: 62px;
+    --font-64: 64px;
+    --font-66: 66px;
+    --font-68: 68px;
+    --font-70: 70px;
+    --font-72: 72px;
+    --font-74: 74px;
+    --font-76: 76px;
+    --font-78: 78px;
+    --font-80: 80px;
+    --font-90: 90px;
+    --font-100: 100px;
+    --font-110: 110px;
+    --font-120: 120px;
+    --font-140: 140px;
+    --font-150: 150px;
+    --font-200: 200px;
+
+    --margin-zero: 0px;
+
+    /* Margin Left Variables */
+    --margin-left-5: 5px;
+    --margin-left-10: 10px;
+    --margin-left-15: 15px;
+    --margin-left-20: 20px;
+    --margin-left-25: 25px;
+    --margin-left-30: 30px;
+    --margin-left-35: 35px;
+    --margin-left-40: 40px;
+    --margin-left-45: 45px;
+    --margin-left-50: 50px;
+    --margin-left-55: 55px;
+    --margin-left-60: 60px;
+    --margin-left-65: 65px;
+    --margin-left-70: 70px;
+    --margin-left-75: 75px;
+    --margin-left-80: 80px;
+    --margin-left-85: 85px;
+    --margin-left-90: 90px;
+    --margin-left-95: 95px;
+    --margin-left-100: 100px;
+    --margin-left-120: 120px;
+    --margin-left-130: 130px;
+    --margin-left-140: 140px;
+    --margin-left-150: 150px;
+    --margin-left-180: 180px;
+    --margin-left-200: 200px;
+    --margin-left-250: 250px;
+    --margin-left-300: 300px;
+
+    /* Margin Top Variables */
+    --margin-top-5: 5px;
+    --margin-top-10: 10px;
+    --margin-top-15: 15px;
+    --margin-top-18: 18px;
+    --margin-top-20: 20px;
+    --margin-top-25: 25px;
+    --margin-top-30: 30px;
+    --margin-top-35: 35px;
+    --margin-top-40: 40px;
+    --margin-top-45: 45px;
+    --margin-top-50: 50px;
+    --margin-top-55: 55px;
+    --margin-top-60: 60px;
+    --margin-top-65: 65px;
+    --margin-top-70: 70px;
+    --margin-top-75: 75px;
+    --margin-top-80: 80px;
+    --margin-top-85: 85px;
+    --margin-top-90: 90px;
+    --margin-top-95: 95px;
+    --margin-top-100: 100px;
+    --margin-top-110: 110px;
+    --margin-top-120: 120px;
+    --margin-top-130: 130px;
+    --margin-top-140: 140px;
+    --margin-top-150: 150px;
+    --margin-top-160: 160px;
+    --margin-top-200: 200px;
+
+    /* Margin Right Variables */
+    --margin-right-5: 5px;
+    --margin-right-10: 10px;
+    --margin-right-15: 15px;
+    --margin-right-20: 20px;
+    --margin-right-25: 25px;
+    --margin-right-30: 30px;
+    --margin-right-35: 35px;
+    --margin-right-40: 40px;
+    --margin-right-45: 45px;
+    --margin-right-50: 50px;
+    --margin-right-55: 55px;
+    --margin-right-60: 60px;
+    --margin-right-65: 65px;
+    --margin-right-70: 70px;
+    --margin-right-75: 75px;
+    --margin-right-80: 80px;
+    --margin-right-85: 85px;
+    --margin-right-90: 90px;
+    --margin-right-95: 95px;
+    --margin-right-100: 100px;
+    --margin-right-130: 130px;
+    --margin-right-140: 140px;
+
+    /* Margin Bottom Variables */
+    --margin-bottom-5: 5px;
+    --margin-bottom-7: 7px;
+    --margin-bottom-10: 10px;
+    --margin-bottom-12: 12px;
+    --margin-bottom-15: 15px;
+    --margin-bottom-20: 20px;
+    --margin-bottom-25: 25px;
+    --margin-bottom-30: 30px;
+    --margin-bottom-35: 35px;
+    --margin-bottom-40: 40px;
+    --margin-bottom-45: 45px;
+    --margin-bottom-50: 50px;
+    --margin-bottom-55: 55px;
+    --margin-bottom-60: 60px;
+    --margin-bottom-65: 65px;
+    --margin-bottom-70: 70px;
+    --margin-bottom-75: 75px;
+    --margin-bottom-80: 80px;
+    --margin-bottom-85: 85px;
+    --margin-bottom-90: 90px;
+    --margin-bottom-95: 95px;
+    --margin-bottom-100: 100px;
+    --margin-bottom-150: 150px;
+    --margin-bottom-160: 160px;
+    --margin-bottom-200: 200px;
+
+
+    --padding-zero: 0px;
+
+    /* Padding Left Variables */
+    --padding-left-0: 0px;
+    --padding-left-5: 5px;
+    --padding-left-10: 10px;
+    --padding-left-15: 15px;
+    --padding-left-20: 20px;
+    --padding-left-25: 25px;
+    --padding-left-30: 30px;
+    --padding-left-35: 35px;
+    --padding-left-40: 40px;
+    --padding-left-45: 45px;
+    --padding-left-50: 50px;
+    --padding-left-55: 55px;
+    --padding-left-60: 60px;
+    --padding-left-65: 65px;
+    --padding-left-70: 70px;
+    --padding-left-75: 75px;
+    --padding-left-80: 80px;
+    --padding-left-85: 85px;
+    --padding-left-90: 90px;
+    --padding-left-95: 95px;
+    --padding-left-100: 100px;
+    --padding-left-105: 105px;
+    --padding-left-110: 110px;
+    --padding-left-120: 120px;
+    --padding-left-130: 130px;
+    --padding-left-140: 140px;
+    --padding-left-150: 150px;
+    --padding-left-160: 160px;
+    --padding-left-170: 170px;
+    --padding-left-180: 180px;
+    --padding-left-190: 190px;
+    --padding-left-200: 200px;
+    --padding-left-210: 210px;
+    --padding-left-220: 220px;
+
+    /* Padding Top Variables */
+    --padding-top-0: 0px;
+    --padding-top-5: 5px;
+    --padding-top-10: 10px;
+    --padding-top-12: 12px;
+    --padding-top-15: 15px;
+    --padding-top-20: 20px;
+    --padding-top-25: 25px;
+    --padding-top-30: 30px;
+    --padding-top-35: 35px;
+    --padding-top-38: 38px;
+    --padding-top-40: 40px;
+    --padding-top-45: 45px;
+    --padding-top-50: 50px;
+    --padding-top-55: 55px;
+    --padding-top-60: 60px;
+    --padding-top-65: 65px;
+    --padding-top-70: 70px;
+    --padding-top-75: 75px;
+    --padding-top-80: 80px;
+    --padding-top-85: 85px;
+    --padding-top-90: 90px;
+    --padding-top-95: 95px;
+    --padding-top-100: 100px;
+    --padding-top-110: 110px;
+    --padding-top-120: 120px;
+    --padding-top-130: 130px;
+    --padding-top-140: 140px;
+    --padding-top-150: 150px;
+    --padding-top-160: 160px;
+    --padding-top-170: 170px;
+    --padding-top-180: 180px;
+    --padding-top-200: 200px;
+    --padding-top-210: 210px;
+    --padding-top-220: 220px;
+    --padding-top-225: 225px;
+    --padding-top-230: 230px;
+    --padding-top-240: 240px;
+    --padding-top-250: 250px;
+    --padding-top-300: 300px;
+
+    /* Padding Right Variables */
+    --padding-right-0: 0px;
+    --padding-right-5: 5px;
+    --padding-right-10: 10px;
+    --padding-right-15: 15px;
+    --padding-right-20: 20px;
+    --padding-right-25: 25px;
+    --padding-right-30: 30px;
+    --padding-right-35: 35px;
+    --padding-right-40: 40px;
+    --padding-right-45: 45px;
+    --padding-right-50: 50px;
+    --padding-right-55: 55px;
+    --padding-right-60: 60px;
+    --padding-right-65: 65px;
+    --padding-right-70: 70px;
+    --padding-right-75: 75px;
+    --padding-right-80: 80px;
+    --padding-right-85: 85px;
+    --padding-right-90: 90px;
+    --padding-right-95: 95px;
+    --padding-right-100: 100px;
+    --padding-right-110: 110px;
+    --padding-right-120: 120px;
+    --padding-right-150: 150px;
+    --padding-right-160: 160px;
+    --padding-right-170: 170px;
+    --padding-right-200: 200px;
+    --padding-right-250: 250px;
+
+    /* Padding Bottom Variables */
+    --padding-bottom-0: 0px;
+    --padding-bottom-5: 5px;
+    --padding-bottom-10: 10px;
+    --padding-bottom-15: 15px;
+    --padding-bottom-20: 20px;
+    --padding-bottom-25: 25px;
+    --padding-bottom-30: 30px;
+    --padding-bottom-35: 35px;
+    --padding-bottom-38: 38px;
+    --padding-bottom-40: 40px;
+    --padding-bottom-45: 45px;
+    --padding-bottom-50: 50px;
+    --padding-bottom-55: 55px;
+    --padding-bottom-60: 60px;
+    --padding-bottom-65: 65px;
+    --padding-bottom-70: 70px;
+    --padding-bottom-75: 75px;
+    --padding-bottom-80: 80px;
+    --padding-bottom-85: 85px;
+    --padding-bottom-90: 90px;
+    --padding-bottom-95: 95px;
+    --padding-bottom-100: 100px;
+    --padding-bottom-110: 110px;
+    --padding-bottom-120: 120px;
+    --padding-bottom-130: 130px;
+    --padding-bottom-140: 140px;
+    --padding-bottom-150: 150px;
+    --padding-bottom-160: 160px;
+    --padding-bottom-170: 170px;
+    --padding-bottom-180: 180px;
+    --padding-bottom-200: 200px;
+    --padding-bottom-210: 210px;
+    --padding-bottom-220: 220px;
+    --padding-bottom-225: 225px;
+    --padding-bottom-230: 230px;
+    --padding-bottom-240: 240px;
+    --padding-bottom-250: 250px;
+    --padding-bottom-300: 300px;
+    --padding-bottom-340: 340px;
+
+}
+
+/*** 
+
+====================================================================
+    Reset
+====================================================================
+
+ ***/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    outline: none;
+    font-size: 100%;
+    line-height: inherit;
+}
+
+/*** 
+
+====================================================================
+    Global Settings
+====================================================================
+
+ ***/
+
+body {
+    font-family: var(--font-family-DMsans);
+    font-size: var(--font-16);
+    color: var(--text-color);
+    background: var(--body-bg-color);
+    line-height: 1.85em;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+}
+
+a {
+    position: relative;
+    text-decoration: none;
+    cursor: pointer;
+    color: var(--main-color);
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+section {
+    background-color: var(--body-bg-color);
+}
+
+button,
+a:hover,
+a:focus,
+a:visited {
+    text-decoration: none;
+    outline: none !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin: 0px 0px;
+    background: none;
+    line-height: 1.20em;
+    color: var(--heading-color);
+    font-family: var(--font-family-Forum);
+}
+
+.theme_color {
+    color: var(--main-color);
+}
+
+a:hover,
+a:focus,
+a:visited,
+a:active,
+button:active {
+    text-decoration: none;
+    outline: none;
+}
+
+h1 {
+    font-size: var(--font-120);
+}
+
+h2 {
+    font-size: var(--font-60);
+}
+
+h3 {
+    font-size: var(--font-35);
+}
+
+h4 {
+    font-size: var(--font-25);
+}
+
+h5 {
+    font-size: var(--font-21);
+}
+
+h6 {
+    font-size: var(--font-16);
+}
+
+input,
+select,
+button {
+    font-family: var(--font-family-DMsans);
+}
+
+textarea {
+    overflow: hidden;
+    resize: none;
+}
+
+button {
+    outline: none !important;
+    cursor: pointer;
+}
+
+p {
+    line-height: 1.6em;
+}
+
+.text {
+    line-height: 1.6em;
+}
+
+::-webkit-input-placeholder {
+    color: inherit;
+}
+
+::-moz-input-placeholder {
+    color: inherit;
+}
+
+::-ms-input-placeholder {
+    color: inherit;
+}
+
+.page-wrapper {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    min-width: 300px;
+    overflow: hidden;
+}
+
+.auto-container {
+    position: static;
+    max-width: 1200px;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+
+ul,
+li {
+    list-style: none;
+    padding: var(--padding-zero);
+    margin: var(--margin-zero);
+}
+
+figure {
+    margin-bottom: var(--margin-zero);
+}
+
+.theme-btn {
+    display: inline-block;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.theme-btn i {
+    position: relative;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 3px;
+}
+
+.centered {
+    text-align: center !important;
+}
+
+/* Btn Style One */
+
+.btn-style-one {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--black-color);
+    letter-spacing: 3px;
+    font-weight: 700;
+    padding: 11px 45px;
+    font-size: var(--font-12);
+    background: var(--main-color);
+    border: 2px solid var(--main-color);
+    border-radius: 0px;
+    overflow: hidden;
+    transition: all 0.3s ease 0s;
+}
+
+.btn-style-one:before {
+    -webkit-transition-duration: 800ms;
+    transition-duration: 800ms;
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    content: "";
+    top: -200%;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    border-radius: 50%;
+    z-index: 1;
+    background: var(--color-two);
+}
+
+.btn-style-one:hover:before {
+    top: 0%;
+}
+
+.btn-style-one .btn-wrap {
+    position: relative;
+    z-index: 1;
+    float: left;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.btn-style-one .btn-wrap .text-one {
+    position: relative;
+    display: block;
+    color: var(--black-color);
+    transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+.btn-style-one:hover .btn-wrap .text-one:first-child {
+    -webkit-transform: translateY(-150%);
+    -ms-transform: translateY(-150%);
+    transform: translateY(-150%);
+}
+
+.btn-style-one .btn-wrap .text-two {
+    position: absolute;
+    top: 100%;
+    display: block;
+    color: var(--white-color);
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.btn-style-one:hover .btn-wrap .text-two {
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.btn-style-one:hover .btn-wrap .text-two {
+    color: var(--white-color);
+}
+
+.btn-style-one:hover {}
+
+.btn-style-one:hover:before {
+    top: -40%;
+}
+
+/* Btn Style Two */
+
+.btn-style-two {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--main-color);
+    letter-spacing: 3px;
+    font-weight: 700;
+    padding: 11px 45px;
+    font-size: var(--font-12);
+    border: 2px solid var(--main-color);
+    border-radius: 0px;
+    overflow: hidden;
+    transition: all 0.3s ease 0s;
+}
+
+.btn-style-two:before {
+    -webkit-transition-duration: 800ms;
+    transition-duration: 800ms;
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    content: "";
+    top: -200%;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    border-radius: 50%;
+    z-index: 1;
+    background: var(--main-color);
+}
+
+.btn-style-two:hover:before {
+    top: 0%;
+}
+
+.btn-style-two .btn-wrap {
+    position: relative;
+    z-index: 1;
+    float: left;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.btn-style-two .btn-wrap .text-one {
+    position: relative;
+    display: block;
+    color: var(--main-color);
+    transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+.btn-style-two:hover .btn-wrap .text-one:first-child {
+    -webkit-transform: translateY(-150%);
+    -ms-transform: translateY(-150%);
+    transform: translateY(-150%);
+}
+
+.btn-style-two .btn-wrap .text-two {
+    position: absolute;
+    top: 100%;
+    display: block;
+    color: var(--color-two);
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.btn-style-two:hover .btn-wrap .text-two {
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.btn-style-two:hover .btn-wrap .text-two {
+    color: var(--color-two);
+}
+
+.btn-style-two:hover {}
+
+.btn-style-two:hover:before {
+    top: -40%;
+}
+
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    float: left;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.fa {
+    line-height: inherit;
+}
+
+/*** 
+
+====================================================================
+    Scroll To Top style
+====================================================================
+
+***/
+
+.scroll-to-top {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 50px;
+    height: 50px;
+    color: var(--color-two);
+    font-size: var(--font-20);
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid var(--main-color);
+    z-index: 100;
+    cursor: pointer;
+    background: var(--main-color);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    display: none;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.scroll-to-top:hover {
+    background: var(--white-color);
+    color: var(--main-color);
+    box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+/* Default Form Style */
+
+.default-form {
+    position: relative;
+}
+
+.default-form .row {
+    margin: 0 -15px;
+}
+
+.default-form .form-group {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.default-form .field-inner {
+    position: relative;
+    display: block;
+}
+
+.default-form .field-inner .alt-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    margin-top: -15px;
+    line-height: 30px;
+    font-size: var(--font-12);
+    color: var(--white-color);
+    font-weight: 400;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.default-form .field-inner .arrow-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    margin-top: -15px;
+    line-height: 30px;
+    font-size: var(--font-12);
+    color: var(--white-color);
+    font-weight: 400;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.default-form .form-group .field-label {
+    position: relative;
+    display: block;
+    color: var(--text-color);
+    font-size: var(--font-14);
+    line-height: 24px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: var(--margin-bottom-10);
+}
+
+.default-form .form-group .e-label {
+    position: relative;
+}
+
+.default-form .form-group input[type="text"],
+.default-form .form-group input[type="email"],
+.default-form .form-group input[type="password"],
+.default-form .form-group input[type="tel"],
+.default-form .form-group input[type="url"],
+.default-form .form-group input[type="file"],
+.default-form .form-group input[type="number"],
+.default-form .form-group textarea,
+.default-form .form-group select {
+    position: relative;
+    display: block;
+    height: 56px;
+    width: 100%;
+    font-size: var(--font-16);
+    color: var(--text-color);
+    line-height: 34px;
+    font-weight: 400;
+    padding: 10px 20px;
+    background-color: var(--color-six);
+    border: 1px solid var(--white-color-opacity-five);
+    border-radius: 0px;
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.default-form .form-group input[type="text"].l-icon,
+.default-form .form-group input[type="email"].l-icon,
+.default-form .form-group input[type="password"].l-icon,
+.default-form .form-group input[type="tel"].l-icon,
+.default-form .form-group input[type="url"].l-icon,
+.default-form .form-group input[type="file"].l-icon,
+.default-form .form-group input[type="number"].l-icon,
+.default-form .form-group textarea.l-icon,
+.default-form .form-group select.l-icon {
+    padding-left: 40px;
+}
+
+.default-form .form-group textarea {
+    height: 130px;
+    resize: none;
+}
+
+.contact-form .form-group input[type="submit"],
+.contact-form .form-group button {
+    display: inline-block;
+}
+
+.default-form .form-group input[type="text"]:focus,
+.default-form .form-group input[type="email"]:focus,
+.default-form .form-group input[type="password"]:focus,
+.default-form .form-group input[type="tel"]:focus,
+.default-form .form-group input[type="url"]:focus,
+.default-form .form-group input[type="file"]:focus,
+.default-form .form-group input[type="number"]:focus,
+.default-form .form-group textarea:focus,
+.default-form .form-group select:focus {
+    border-color: var(--main-color);
+}
+
+.default-form .form-group select {
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    background-image: ;
+    background-position: right center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.default-form .form-group select option {
+    padding-left: 20px;
+    text-indent: 20px;
+    cursor: pointer;
+}
+
+.default-form .form-group .datepicker {
+    cursor: pointer;
+}
+
+.default-form ::-webkit-input-placeholder {
+    color: var(--text-color);
+}
+
+.default-form ::-moz-input-placeholder {
+    color: var(--text-color);
+}
+
+.default-form ::-ms-input-placeholder {
+    color: var(--text-color);
+}
+
+.default-form label.error {
+    color: var(--main-color);
+    ;
+    font-size: var(--font-14);
+    text-transform: capitalize;
+    text-align: left;
+    display: block;
+    font-weight: 400;
+    padding-top: var(--padding-top-10);
+    line-height: 24px;
+    margin-bottom: var(--margin-zero);
+}
+
+@media only screen and (max-width: 7000px) {
+    .page-wrapper {
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 1599px) {
+    .main-header .header-upper .links-box {
+        /*margin-left: 80px;*/
+    }
+
+    .banner-section .slide-item h1,
+    h1,
+    .inner-banner .inner h1 {
+        font-size: 80px;
+    }
+}
+
+@media only screen and (max-width: 1499px) {
+
+    .main-header .header-upper .links-box,
+    .main-menu .navigation>li,
+    .main-header .header-upper .links-box .link {
+        /*margin-left: 30px;*/
+    }
+
+    h2,
+    .featured-section .text-col h2 {
+        font-size: 50px;
+    }
+
+    .testimonials-section .testi-top .quote-text {
+        font-size: 44px;
+    }
+
+    .inner-banner {
+        padding-top: 250px;
+        padding-bottom: 100px;
+    }
+
+    body .left-bg,
+    body .right-bg,
+    body .bottom-image,
+    body .right-bg-2 {
+        display: none;
+    }
+
+    .menu-section .left-bg,
+    .menu-section .right-bg {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1339px) {
+    .main-header .header-upper .links-box .link .theme-btn .btn-title {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .chef-section .image-col {
+        padding: 0 30px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .header-top .top-info li {
+        margin-right: 30px;
+    }
+
+    .header-top .top-info li:after {
+        display: none;
+    }
+
+    .main-header .nav-outer,
+    .main-header .info-toggler {
+        display: none;
+    }
+
+    .main-header .nav-toggler {
+        display: block;
+    }
+
+    .banner-section .slide-item h1,
+    h1,
+    .inner-banner .inner h1 {
+        font-size: 60px;
+    }
+
+    .main-header .main-box .logo-box {
+        margin-left: 0px;
+    }
+
+    h2,
+    .intro-section .content-box h3,
+    .featured-section .text-col h2 {
+        font-size: 44px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    h4 {
+        font-size: 22px;
+    }
+
+    .testimonials-section .testi-top .quote-text {
+        font-size: 36px;
+    }
+
+    .banner-section .slide-item .content-box {
+        height: 780px;
+    }
+
+    .banner-section .book-btn {
+        right: 15px;
+        bottom: 15px;
+        transform: scale(0.70);
+    }
+
+    .we-offer-section .row {
+        margin: 0 -20px;
+    }
+
+    .we-offer-section .row .offer-block {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .we-offer-section .row .offer-block:nth-child(2) {
+        margin-top: 0;
+    }
+
+    .we-offer-section .title-box {
+        margin-bottom: 40px;
+    }
+
+    .story-section .text-col .inner {
+        padding-right: 0;
+    }
+
+    .special-dish .content-col .inner {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        padding-left: 70px;
+    }
+
+    .story-section {
+        padding-top: 100px;
+    }
+
+    .story-section .image-col .round-stamp {
+        right: 0;
+    }
+
+    .menu-tabs .menu-col .inner {
+        padding-right: 30px;
+    }
+
+    .menu-tabs .menu-col:nth-child(2) .inner {
+        padding-left: 30px;
+    }
+
+    .reserve-section .reserv-col .inner {
+        padding: 40px 20px 30px;
+    }
+
+    .reserve-section .info-col .inner {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .team-section .row .team-block,
+    .news-section .row .news-block {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .team-section .row,
+    .news-section .row {
+        margin: 0 -15px;
+    }
+
+    .inner-banner {
+        padding-top: 200px;
+        padding-bottom: 70px;
+    }
+
+    .about-section .row .about-block {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .about-section .row {
+        margin: 0 -10px;
+    }
+
+    .fluid-section .content-col .inner {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    .why-block-two.m-top {
+        padding-top: 0;
+    }
+
+    .about-section .title-box {
+        margin-bottom: 50px;
+    }
+
+    .menu-one .menu-col .inner {
+        padding-left: 0;
+    }
+
+    .menu-one.alternate .menu-col .inner {
+        padding-right: 0;
+    }
+
+    .featured-section .text-col .inner {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+
+    .featured-section .text-col .booking-info .bk-no {
+        font-size: 26px;
+    }
+
+    .menu-two .menu-col .inner {
+        padding-right: 30px;
+    }
+
+    .menu-two .menu-col:nth-child(2) .inner {
+        padding-left: 30px;
+    }
+
+    .story-section {
+        padding-bottom: 120px;
+    }
+
+
+    .reservation-contactform .title-box .text.desc {
+        padding: 0 100px;
+    }
+
+    .online-reservation .title-box .text.desc {
+        padding: 0 100px;
+    }
+
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    .main-menu .navigation>li>ul,
+    .main-menu .navigation>li>ul>li>ul {
+        display: block !important;
+        visibility: hidden;
+        opacity: 0;
+    }
+
+    .reservation-contactform .title-box .text.desc {
+        padding: 0 50px;
+    }
+
+}
+
+@media only screen and (max-width: 991px) {
+    .header-top .top-left {
+        display: none;
+    }
+
+    .header-top .top-right {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-top .top-right ul li,
+    .header-top .top-right ul li:last-child {
+        display: inline-block;
+        float: none;
+        display: inline-block;
+        margin: 0 15px;
+    }
+
+    .main-header .header-upper .links-box {}
+
+    .main-header .header-upper .links-box .link {
+        margin-left: 20px;
+    }
+
+    .main-header .main-box .logo-box .logo img {
+        height: 50px;
+    }
+
+    .banner-section .slide-item h1,
+    h1,
+    .inner-banner .inner h1 {
+        font-size: 54px;
+    }
+
+    h2,
+    .intro-section .content-box h3,
+    .featured-section .text-col h2,
+    .chef-selection .title-box h3 {
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .testimonials-section .testi-top .quote-text {
+        font-size: 30px;
+    }
+
+    .banner-section .slide-item .content-box {
+        height: 700px;
+    }
+
+    body .left-bot-bg,
+    body .right-top-bg {
+        display: none;
+    }
+
+    .we-offer-section {
+        padding-top: 70px;
+        padding-bottom: 20px;
+    }
+
+    .story-section {
+        padding-top: 70px;
+    }
+
+    .story-section .image-col .images .image:nth-child(2) {
+        bottom: -130px;
+    }
+
+    .story-section .text-col {
+        margin-bottom: 80px;
+    }
+
+    .special-dish .content-col .inner {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        max-width: none;
+    }
+
+    .special-dish .image-col .image-layer {
+        display: none;
+    }
+
+    .special-dish .image-col .image {
+        display: block;
+    }
+
+    .menu-section,
+    .special-offer .outer-container {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .menu-tabs .menu-col .inner {
+        padding-right: 0;
+    }
+
+    .menu-tabs .menu-col:nth-child(2) .inner {
+        padding-left: 0;
+    }
+
+    .testimonials-section {
+        padding-top: 70px;
+    }
+
+    .why-us {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+
+    .team-section {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+
+    .intro-section {
+        padding-top: 70px;
+        padding-bottom: 20px;
+    }
+
+    .main-footer {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .main-footer .info-col {
+        order: 0;
+        margin-bottom: 50px;
+    }
+
+    .main-footer .info-col .inner {
+        padding-top: 50px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+
+    .main-footer .links-col {
+        margin-bottom: 50px;
+    }
+
+    .main-footer .links-col .inner {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .main-footer .links-col.last {
+        order: 7;
+    }
+
+    .main-footer .upper-section {
+        margin-bottom: 20px;
+    }
+
+    .special-offer {
+        margin-bottom: 70px;
+    }
+
+    .about-section {
+        padding-top: 70px;
+        padding-bottom: 20px;
+    }
+
+    .fluid-section .content-col .inner {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        max-width: none;
+    }
+
+    .fluid-section .image-col .image-layer {
+        display: none;
+    }
+
+    .fluid-section .image-col .image {
+        display: block;
+    }
+
+    .fluid-section.alternate .content-col {
+        order: 12;
+    }
+
+    .fluid-section.alternate .image-col {
+        order: 0;
+    }
+
+    .services-section .s-col {
+        padding-top: 0;
+    }
+
+    .services-section .s-col.last {
+        order: 7;
+    }
+
+    .services-section .image-col {
+        order: 12;
+    }
+
+    .services-section .s-col .s-block,
+    .services-section .s-col .s-block:last-child,
+    .services-section .image-col {
+        margin-bottom: 70px;
+    }
+
+    .services-section {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    .services-section .title-box {
+        margin-bottom: 50px;
+    }
+
+    .testimonials-two {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .why-us-two {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+
+    .image-gallery {
+        padding-bottom: 70px;
+    }
+
+    .menu-one {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+
+    .menu-one.alternate .text-col {
+        order: 12;
+    }
+
+    .menu-one.alternate .image-col {
+        order: 0;
+    }
+
+    .special-offer-two {
+        padding-bottom: 25px;
+    }
+
+    .chef-selection .content-col .inner {
+        max-width: none;
+        padding-top: 70px;
+        padding-bottom: 70px;
+        padding-left: 70px;
+    }
+
+    .chef-selection .image-col .image-layer {
+        display: none;
+    }
+
+    .chef-selection .image-col .image {
+        display: block;
+    }
+
+    .menu-two {
+        padding-top: 70px;
+        padding-bottom: 15px;
+    }
+
+    .menu-two .menu-col .inner,
+    .menu-two .menu-col:nth-child(2) .inner {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .featured-section {
+        padding-bottom: 30px;
+    }
+
+    .featured-section.alternate .text-col {
+        order: 0;
+    }
+
+    .featured-section.alternate .image-col {
+        order: 12;
+    }
+
+    .featured-section .text-col .inner {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .featured-section .text-col .content {
+        display: block;
+        max-width: none;
+    }
+
+    .featured-section .text-col .content-inner {
+        display: block;
+        max-width: 400px;
+    }
+
+    .online-reservation,
+    .reserve-section.style-two {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .reserve-section.style-two .info-col .inner {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .online-reservation .reservation-form form {
+        padding-right: 0;
+    }
+
+    .online-reservation .reservation-form form button {
+        position: relative;
+        top: 0;
+        width: 100%;
+        margin-top: 0px;
+        text-align: center;
+    }
+
+    .online-reservation .reservation-form form button .btn-wrap {
+        width: 100%;
+    }
+
+    .online-reservation .powered-by {
+        padding-top: 20px;
+    }
+
+    .story-section {
+        padding-bottom: 210px;
+    }
+
+    .featured-section .text-col .inner,
+    .featured-section.alternate .text-col .inner {
+        left: 0;
+        right: 0;
+        width: 100%;
+        display: block;
+    }
+
+    .map-location-section .reserv-col .inner {
+        padding-right: 0px;
+        margin-bottom: 50px;
+    }
+
+    .contact-page .loc-block {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .contact-page .loc-block img {
+        text-align: center;
+        width: 100%;
+    }
+
+    .chef-section .image-col {
+        padding: 0 30px;
+    }
+
+    .chef-section .image-col .image img {
+        width: 100%;
+    }
+
+    .chef-section .content-col .inner {
+        padding-top: var(--padding-top-80);
+    }
+
+    .intro-section.quote {
+        padding-top: var(--padding-top-100);
+        padding-bottom: var(--padding-bottom-100);
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .main-header .link.link-btn {
+        display: none;
+    }
+
+    .main-header .main-box {
+        flex-direction: row-reverse;
+    }
+
+    .banner-section .swiper-button-prev,
+    .banner-section .swiper-button-next {
+        display: none;
+    }
+
+    .banner-section .slide-item h1,
+    h1,
+    .inner-banner .inner h1 {
+        font-size: 48px;
+    }
+
+    h2,
+    .intro-section .content-box h3,
+    .featured-section .text-col h2,
+    .chef-selection .title-box h3 {
+        font-size: 36px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+
+    .testimonials-section .testi-top .quote-text {
+        font-size: 26px;
+    }
+
+    .special-dish .content-col .badge-icon,
+    .chef-selection .content-col .badge-icon {
+        position: relative;
+        left: 0;
+        top: 0;
+        display: block;
+        margin-bottom: 20px;
+        -webkit-animation: none;
+        animation: none;
+    }
+
+    .special-dish .content-col .inner,
+    .chef-selection .content-col .inner {
+        padding-left: 20px;
+    }
+
+    .chef-selection .content-col .inner {
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+    }
+
+    .menu-tabs .buttons .tab-buttons .tab-btn {
+        margin: 0 22px;
+        font-size: 16px;
+    }
+
+    .menu-tabs .buttons .tab-buttons .tab-btn:after {
+        margin-left: 22px;
+    }
+
+    .special-offer .offer-block-two.margin-top {
+        margin-top: 0;
+    }
+
+    .featured-links .link-block.alternate .text-block {
+        position: relative;
+        height: 370px;
+    }
+
+    .featured-links .link-block .text-block {
+        height: 250px;
+    }
+
+    .featured-links .link-block .image-box .image-layer {
+        display: none;
+    }
+
+    .featured-links .link-block .image-box .image {
+        display: block;
+    }
+
+    .featured-links .link-block .image-box {
+        height: auto;
+    }
+
+    .featured-links .link-block.alternate .text-block .bl-inner {
+        background: rgba(0, 0, 0, 0.70);
+    }
+
+    .team-block .inner-box {
+        text-align: center;
+    }
+
+    .intro-section .fact-counter {
+        text-align: center;
+    }
+
+    .intro-section .fact-counter .fact-count,
+    .intro-section .fact-counter .fact-title {
+        float: none;
+        display: block;
+        margin-left: 0;
+    }
+
+    .image-gallery .owl-theme .owl-nav .owl-prev,
+    .image-gallery .owl-theme .owl-nav .owl-next {
+        transform: scale(0.70);
+    }
+
+    .about-block .video-box {
+        margin-top: 50px;
+    }
+
+    .about-section .info-block .inner-box {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .about-section .row .about-block {
+        text-align: center;
+    }
+
+    .hidden-bar .side-menu {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .online-reservation .powered-by {
+        padding-top: 20px;
+    }
+
+    .reserve-section .info-col .discount-info .num {
+        font-size: 60px;
+    }
+
+    .reserve-section .info-col .discount-info {
+        padding-top: 70px;
+    }
+
+    .main-header .header-upper .links-box {
+        margin-left: 0px;
+    }
+
+    .featured-links .row .link-block.alternate {
+        order: 12;
+    }
+
+
+    .c-page-form-box {
+        padding: 20px;
+    }
+
+    .inner-box.cp-seprator:before {
+        content: '';
+        position: absolute;
+        right: 50%;
+        top: 0%;
+        margin-top: -4px;
+        height: 8px;
+        width: 8px;
+        border: 1px solid var(--main-color);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+
+    .inner-box.cp-seprator:after {
+        content: '';
+        position: absolute;
+        left: 50%;
+        top: 100%;
+        margin-top: -4px;
+        height: 8px;
+        width: 8px;
+        border: 1px solid var(--main-color);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+
+    .contact-page .loc-block {
+        text-align: center;
+    }
+
+    .contact-page .loc-block img {
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .chef-section .image-col {
+        padding: 0 30px;
+    }
+
+    .chef-section .content-col .title-box .text {
+        padding-right: var(--padding-right-0);
+    }
+
+    .intro-section .separator {
+        margin-top: var(--margin-top-20);
+        margin-bottom: var(--margin-bottom-20);
+    }
+
+}
+
+@media only screen and (max-width: 599px) {
+    .main-header .header-upper .links-box .link:first-child {
+        display: none;
+    }
+
+    .banner-section .slide-item .text {
+        font-size: 18px;
+    }
+
+    .special-dish .content-col .inner {
+        text-align: center;
+    }
+
+    .menu-tabs .buttons .tab-buttons .tab-btn {
+        margin: 0 15px;
+    }
+
+    .menu-tabs .buttons .tab-buttons .tab-btn:after {
+        display: none;
+    }
+
+    .news-block .over-content {
+        text-align: center;
+    }
+
+    .reserve-section .info-col .booking-info .bk-no,
+    .hidden-bar .booking-info .bk-no,
+    .info-bar .booking-info .bk-no,
+    .featured-section .text-col .booking-info .bk-no {
+        font-size: 24px;
+        line-height: 1.4em;
+    }
+
+    .banner-section .slide-item h1,
+    h1,
+    .intro-section .fact-counter .count-box,
+    .inner-banner .inner h1,
+    .about-section .fact-counter .fact-count {
+        font-size: 40px;
+    }
+
+    h2,
+    .intro-section .content-box h3,
+    .hidden-bar h2,
+    .info-bar h2,
+    .featured-section .text-col h2,
+    .chef-selection .title-box h3 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    .testimonials-section .testi-top .quote-text {
+        font-size: 22px;
+    }
+
+    .main-footer .info-col .newsletter-form .form-group input[type="text"],
+    .main-footer .info-col .newsletter-form input[type="email"],
+    .main-footer .info-col .newsletter-form input[type="password"] {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .main-footer .info-col .newsletter-form button {
+        position: relative;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .main-footer .info-col .newsletter-form .alt-icon {
+        display: none;
+    }
+
+    .services-section .s-col .s-block,
+    .services-section .s-col .s-block:last-child,
+    .services-section .image-col {
+        margin-bottom: 50px;
+    }
+
+    .services-section .s-block .inner,
+    .services-section .s-block.alternate .inner {
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    .services-section .s-block .icon-box,
+    .services-section .s-block.alternate .icon-box {
+        position: relative;
+        left: 0;
+        top: 0;
+        margin: 0 auto 20px;
+    }
+
+    .services-section {
+        padding-bottom: 20px;
+    }
+
+    .testimonials-two .testi-block .text {
+        font-size: 18px;
+    }
+
+    .testimonials-two .testi-block .inner-box {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .header-top {
+        display: none;
+    }
+
+    .main-header .header-upper {
+        top: 0;
+    }
+
+    .fixed-header.header-down {
+        top: 0;
+    }
+
+    .fixed-header.header-up {
+        top: -132px;
+    }
+
+    .banner-section .slide-item .content-box {
+        padding-top: 130px;
+        height: 600px;
+    }
+
+    .reservation-contactform .title-box .text.desc {
+        padding: 0 15px;
+    }
+
+    .online-reservation .title-box .text.desc {
+        padding: 0 20px;
+    }
+
+}
+
+@media only screen and (max-width: 479px) {
+
+    .banner-section .slide-item h1,
+    h1,
+    .intro-section .fact-counter .count-box,
+    .inner-banner .inner h1,
+    .about-section .fact-counter .fact-count {
+        font-size: 34px;
+    }
+
+    .banner-section .slide-item .content-box {
+        height: 600px;
+    }
+
+    .menu-tabs .buttons .tab-buttons .tab-btn {
+        display: block;
+        margin: 0 0 20px;
+    }
+
+    .menu-tabs .buttons .tab-buttons .tab-btn:last-child {
+        margin-bottom: 0;
+    }
+
+    .menu-tabs .buttons .tab-buttons .tab-btn:before {
+        left: 50%;
+        margin-left: -50px;
+        width: 100px;
+    }
+
+    .inner-banner {
+        padding-top: 150px;
+    }
+
+    h2,
+    .intro-section .content-box h3,
+    .hidden-bar h2,
+    .info-bar h2,
+    .featured-section .text-col h2,
+    .chef-selection .title-box h3 {
+        font-size: 28px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .banner-section .slide-item .text {
+        font-size: 16px;
+    }
+
+    .testimonials-section .testi-top .quote-text {
+        font-size: 20px;
+    }
+
+    .banner-section .book-btn {
+        transform: scale(0.60);
+    }
+
+    .menu-one .menu-col .dish-block .title::before,
+    .menu-two .dish-block .title::before {
+        display: none;
+    }
+
+    .menu-two .dish-block .inner-box {
+        padding-top: var(--padding-zero);
+    }
+
+    .story-section .image-col .images .image:nth-child(2) {
+        width: 150px;
+        bottom: -120px !important;
+    }
+
+    .story-section .image-col .images {
+        padding-left: 50px;
+    }
+
+    .story-section .text-col {
+        margin-bottom: 120px;
+    }
+
+    .story-section {
+        padding-bottom: 180px;
+    }
+
+    .menu-tabs .dish-block .title::before {
+        display: none;
+    }
+
+    .menu-tabs .dish-block .title .ttl {
+        width: 100%;
+        padding-right: 0px;
+    }
+
+    .menu-tabs .dish-block .title .ttl .s-info {
+        width: 80px;
+        display: block;
+        margin-left: 0px;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .menu-tabs .dish-block .inner-box {
+        padding-top: 0px;
+    }
+
+    .menu-tabs .dish-block .title .price,
+    .menu-two .dish-block .title .price {
+        position: relative;
+        right: 0px;
+        float: left;
+        margin-top: 10px;
+        padding-left: var(--padding-zero);
+    }
+
+    .menu-two .dish-block .title .ttl {
+        width: 100%;
+        padding-right: 0px;
+    }
+
+    .menu-two .dish-block .title .ttl .s-info {
+        left: -10px;
+        width: 75px;
+        display: block;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 399px) {
+
+    .menu-two .dish-block .title .ttl a {
+        width: 150px;
+    }
+
 }
 </style>

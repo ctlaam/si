@@ -15,36 +15,15 @@
             </a>
             <div class="position-relative">
                 <div class="si-top d-flex align-items-center justify-content-end">
-                    <div>
-                        <label for="lang_choice_1"><select name="lang_choice_1" id="lang_choice_1"
-                                class="pll-switcher-select">
-                                <option value="https://sigroup.vn/solution-international-group/" lang="vi"
-                                    selected="selected"
-                                    data-lang="{&quot;id&quot;:0,&quot;name&quot;:&quot;vi&quot;,&quot;slug&quot;:&quot;vi&quot;,&quot;dir&quot;:0}">
-                                    vi</option>
-                                <option value="https://sigroup.vn/en/about-us/" lang="en-US"
-                                    data-lang="{&quot;id&quot;:0,&quot;name&quot;:&quot;en&quot;,&quot;slug&quot;:&quot;en&quot;,&quot;dir&quot;:0}">
-                                    en</option>
-                                <option value="https://sigroup.vn/zh/%e5%85%b3%e4%ba%8e-si-group/" lang="zh-CN"
-                                    data-lang="{&quot;id&quot;:0,&quot;name&quot;:&quot;zh&quot;,&quot;slug&quot;:&quot;zh&quot;,&quot;dir&quot;:0}">
-                                    zh</option>
 
-                            </select>
-                            <script type="text/javascript"
-                                src="data:text/javascript;base64,CgkJCQkJZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoICJsYW5nX2Nob2ljZV8xIiApLmFkZEV2ZW50TGlzdGVuZXIoICJjaGFuZ2UiLCBmdW5jdGlvbiAoIGV2ZW50ICkgeyBsb2NhdGlvbi5ocmVmID0gZXZlbnQuY3VycmVudFRhcmdldC52YWx1ZTsgfSApCgkJCQk="
-                                data-rocket-status="executed">
-					document.getElementById( "lang_choice_1" ).addEventListener( "change", function ( event ) { location.href = event.currentTarget.value; } )
-				</script>
-                        </label>
-                    </div>
                     <div class="call d-flex align-items-center">
                         <a href="tel:+84979355355">(+84) 979 355 355</a>
                     </div>
-                    <div>
+                    <!-- <div>
                         <img class="search-top" width="24"
                             src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-seach.png"
                             alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-seach.png">
-                    </div>
+                    </div> -->
                     <div class="px-3 menu-mobile">
                         <img width="30" height="21"
                             src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/menu-icon.png"
@@ -54,7 +33,7 @@
                 <div class="si-nav d-none d-md-flex justify-content-end">
                     <div class="menu-main-container">
                         <ul id="menu-main" class="menu-main list-unstyled">
-                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" aria-current="page"><span>Về
+                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" ><span>Về
                                         SI Group</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="/ve-chung-toi#gia-tri-cot-loi"><span>Giá trị cốt
@@ -246,10 +225,10 @@
                                                 cầu</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a target="_blank" rel="nofollow"
+                            <li class="menu-item"><a 
                                     href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
                             </li>
-                            <li class="menu-item"><a target="_blank" rel="nofollow" href=""><span>Xuất nhập
+                            <li class="menu-item"><a href="/tsi" rel="nofollow"><span>Xuất nhập
                                         khẩu</span></a></li>
                             <li class="menu-item"><a href="/Events"><span>Sự
                                         Kiện</span></a></li>
@@ -457,11 +436,10 @@
                                                 cầu</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a target="_blank" rel="nofollow"
+                            <li class="menu-item"><a 
                                     href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
                             </li>
-                            <li class="menu-item"><a target="_blank" rel="nofollow"
-                                    href="https://tsi.com.vn/"><span>Xuất nhập khẩu</span></a></li>
+                            <li class="menu-item"><a  href="/tsi"><span>Xuất nhập khẩu</span></a></li>
                             <li class="menu-item"><a href="https://sigroup.vn/su-kien-si-group/"><span>Sự
                                         Kiện</span></a></li>
                             <li class="menu-item"><a href="https://sigroup.vn/tin-tuc-si-group/"><span>Tin
