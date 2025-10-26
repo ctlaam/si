@@ -1,5 +1,6 @@
 export default {
   ssr: false,
+
   head: {
     title: 'Slick Test',
     meta: [
@@ -17,8 +18,7 @@ export default {
     ]
   },
 
-  css: ['@/assets/css/index.css'],
   plugins: [
-    { src: '~/plugins/slick.client.js', mode: 'client' } // 👈 thêm dòng này
+    { src: '~/plugins/vue-slick-carousel.client.js', mode: 'client' }
   ]
-};
+}

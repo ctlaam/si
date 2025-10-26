@@ -264,8 +264,7 @@
                     <span class="si-nav-close"></span>
                     <div class="menu-main-container">
                         <ul id="menu-main-1" class="menu-main list-unstyled">
-                            <li class="menu-item current-menu-item"><a
-                                    href="https://sigroup.vn/solution-international-group/" aria-current="page"><span>Về
+                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" aria-current="page"><span>Về
                                         SI Group</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="/ve-chung-toi#gia-tri-cot-loi"><span>Giá trị cốt
@@ -283,7 +282,7 @@
                                                 thành công</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="https://sigroup.vn/chuong-trinh-dinh-cu/"><span>Chương trình
+                            <li class="menu-item"><a href="/SettlementProgram"><span>Chương trình
                                         định cư</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="https://sigroup.vn/quoc-gia/dinh-cu-my/"><span>Định
@@ -460,13 +459,13 @@
                             <li class="menu-item"><a target="_blank" rel="nofollow"
                                     href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
                             </li>
-                            <li class="menu-item"><a target="_blank" rel="nofollow"
-                                    href="https://tsi.com.vn/"><span>Xuất nhập khẩu</span></a></li>
-                            <li class="menu-item"><a href="https://sigroup.vn/su-kien-si-group/"><span>Sự
+                            <li class="menu-item"><a target="_blank" rel="nofollow" href=""><span>Xuất nhập
+                                        khẩu</span></a></li>
+                            <li class="menu-item"><a href="/Events"><span>Sự
                                         Kiện</span></a></li>
-                            <li class="menu-item"><a href="https://sigroup.vn/tin-tuc-si-group/"><span>Tin
+                            <li class="menu-item"><a href="/News"><span>Tin
                                         Tức</span></a></li>
-                            <li class="menu-item"><a href="https://sigroup.vn/lien-he-si-group/"><span>Liên
+                            <li class="menu-item"><a href="/Contacts"><span>Liên
                                         Hệ</span></a></li>
                         </ul>
                     </div>
