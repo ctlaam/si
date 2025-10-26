@@ -2,7 +2,7 @@
     <div class="si-header">
         <div class="container d-flex align-items-center justify-content-between">
             <div class="background w-100 h-100 position-absolute"></div>
-            <a class="logo position-relative" href="#">
+            <a class="logo position-relative" href="/">
                 <img class="d-none d-md-block py-3" width="131" height="101"
                     src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/si_logofullgold.png" alt="SI Group">
                 <img class="d-md-none entered lazyloaded" width="58" height="40"
@@ -33,7 +33,7 @@
                 <div class="si-nav d-none d-md-flex justify-content-end">
                     <div class="menu-main-container">
                         <ul id="menu-main" class="menu-main list-unstyled">
-                            <li class="menu-item current-menu-item"><a href="#"><span>Về
+                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" aria-current="page"><span>Về
                                         SI Group</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="#"><span>Giá trị cốt
@@ -50,7 +50,7 @@
                                                 thành công</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="#"><span>Chương trình
+                            <li class="menu-item"><a href="/SettlementProgram"><span>Chương trình
                                         định cư</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="#"><span>Định
@@ -177,13 +177,13 @@
                             </li>
                             <li class="menu-item"><a href="#"><span>Bất động sản</span></a>
                             </li>
-                            <li class="menu-item"><a href="#" rel="nofollow"><span>Xuất nhập
+                            <li class="menu-item"><a href="/TSI" rel="nofollow"><span>Xuất nhập
                                         khẩu</span></a></li>
-                            <li class="menu-item"><a href="#"><span>Sự
+                            <li class="menu-item"><a href="/Events"><span>Sự
                                         Kiện</span></a></li>
-                            <li class="menu-item"><a href="#"><span>Tin
+                            <li class="menu-item"><a href="/News"><span>Tin
                                         Tức</span></a></li>
-                            <li class="menu-item"><a href="#"><span>Liên
+                            <li class="menu-item"><a href="/Contacts"><span>Liên
                                         Hệ</span></a></li>
                         </ul>
                     </div>
@@ -192,7 +192,7 @@
                     <span class="si-nav-close"></span>
                     <div class="menu-main-container">
                         <ul id="menu-main-1" class="menu-main list-unstyled">
-                            <li class="menu-item current-menu-item"><a href="#" aria-current="page"><span>Về
+                            <li class="menu-item current-menu-item"><a href="/AboutSiGroup" aria-current="page"><span>Về
                                         SI Group</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="#"><span>Giá trị cốt
@@ -209,7 +209,7 @@
                                                 thành công</span></a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item"><a href="#"><span>Chương trình
+                            <li class="menu-item"><a href="/SettlementProgram"><span>Chương trình
                                         định cư</span></a>
                                 <ul class="sub-menu">
                                     <li class="menu-item"><a href="#"><span>Định
@@ -337,12 +337,12 @@
                             <li class="menu-item"><a href="#"><span>Bất động sản</span></a>
                             </li>
 
-                            <li class="menu-item"><a href="#"><span>Xuất nhập khẩu</span></a></li>
-                            <li class="menu-item"><a href="#"><span>Sự
+                            <li class="menu-item"><a href="/TSI"><span>Xuất nhập khẩu</span></a></li>
+                            <li class="menu-item"><a href="/Events"><span>Sự
                                         Kiện</span></a></li>
-                            <li class="menu-item"><a href="#"><span>Tin
+                            <li class="menu-item"><a href="/News"><span>Tin
                                         Tức</span></a></li>
-                            <li class="menu-item"><a href="#"><span>Liên
+                            <li class="menu-item"><a href="/Contacts"><span>Liên
                                         Hệ</span></a></li>
                         </ul>
                     </div>
