@@ -35,7 +35,7 @@ export default {
       // taiwind 
       {
         rel: 'stylesheet',
-        href: 'https://cdn.jsdelivr.net/npm/taiwind@1.0.0/dist/taiwind.min.css'
+        href: 'https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4'
       }
     ],
     script: [

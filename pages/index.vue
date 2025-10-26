@@ -13,7 +13,7 @@
           <div id="section-1" class="mx-auto">
             <div class="home-banner slick-initialized slick-slider">
               <div class="country-banners">
-                <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="4000"
+                <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="false" :autoplaySpeed="4000"
                   :slidesToShow="1" :slidesToScroll="1">
                   <div v-for="(item, index) in banners" :key="index" class="banner-slide">
                     <div class="banner-bg d-none d-md-block" :style="{ backgroundImage: `url(${item.bgDesktop})` }">
@@ -47,10 +47,10 @@
                       <div class="social-links">
                         <div>Social media</div>
                         <div class="line"></div>
-                        <div class="icons">
-                          <a href="#"><img src="/images/facebook.png" alt="Facebook" /></a>
-                          <a href="#"><img src="/images/zalo.png" alt="Zalo" /></a>
-                          <a href="#"><img src="/images/linkedin.png" alt="LinkedIn" /></a>
+                        <div class="icons gap-x-3">
+                          <a href="#"><img src="@/assets/images/facebook.png" alt="Facebook" /></a>
+                          <a href="#"><img src="@/assets/images/zalo.png" alt="Zalo" /></a>
+                          <a href="#"><img src="@/assets/images/linkedin.png" alt="LinkedIn" /></a>
                         </div>
                       </div>
                     </div>
@@ -1122,7 +1122,12 @@ export default {
   },
 }
 </script>
+
 <style scoped>
+#section-1 .banner-bg {
+  height: 100vh !important;
+}
+
 .si-banners {
   margin: auto;
 }
@@ -1131,13 +1136,15 @@ export default {
   position: relative;
   overflow: hidden;
 }
-
 .banner-slide {
   position: relative;
   height: 500px;
   color: white;
 }
 
+#section-1 .banner-slide{
+  height: 100vh !important;
+}
 .banner-bg {
   background-size: cover;
   background-position: center;
@@ -1170,11 +1177,9 @@ export default {
 .si-btn {
   display: inline-block;
   margin-top: 20px;
-  background: #e11d48;
-  color: white;
   padding: 10px 20px;
-  border-radius: 8px;
-  text-decoration: none;
+  text-align: center;
+  height: auto;
 }
 
 .social-links {
@@ -1193,8 +1198,13 @@ export default {
   margin: 0 10px;
 }
 
+.icons {
+  display: flex;
+  gap: 10px;
+}
 .icons a img {
   width: 20px;
+  
   height: 20px;
 }
 
@@ -1604,6 +1614,8 @@ export default {
   #section-1 .banner-item {
     height: calc(100% - 110px)
   }
+
+
 
   #section-7 .si-banners .slick-dots,
   #section-3 .si-banners .slick-dots {
