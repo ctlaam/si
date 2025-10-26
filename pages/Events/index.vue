@@ -26,329 +26,107 @@
                         <div class="row">
                             <div class="col-12">
                                 <h1 class="text-center si-title">Sự kiện nổi bật</h1>
-                                <div class="banner-events">
-                                    <div class="si-banners slick-initialized slick-slider slick-dotted">
-                                        <div class="slick-list draggable">
-                                            <div class="slick-track"
-                                                style="opacity: 1; width: 3612px; transform: translate3d(-516px, 0px, 0px);">
-                                                <div class="slick-slide slick-cloned" style="width: 516px;"
-                                                    tabindex="-1" role="tabpanel" id=""
-                                                    aria-describedby="slick-slide-control02" data-slick-index="-1"
-                                                    aria-hidden="true">
-                                                    <a target="_blank"
-                                                        href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
-                                                        title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                                                        tabindex="-1">
-                                                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                            style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg&quot;);"
-                                                            class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded"
-                                                            data-ll-status="loaded">
-                                                            <div class="bg-overlay"></div>
-                                                            <div class="d-sm-block d-md-none">
-                                                                <img class="w-100 entered lazyloaded"
-                                                                    src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                    data-ll-status="loaded"><noscript><img class="w-100"
-                                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg" /></noscript>
-                                                            </div>
-                                                            <div class="banner-wrap w-100 h-100 position-relative">
-                                                                <div class="w-100 mb-13">
-                                                                    <h2>Hội thảo Quản lý Gia sản – Quốc tế hoá doanh
-                                                                        nghiệp &amp; Độc quyền sở hữu quốc tịch</h2>
-                                                                    <div class="mt-3 mb-2">
-                                                                        <span>Vào ngày 29/03/2025 tại Hà Nội và
-                                                                            05/04/2025 tại TP. Hồ Chí Minh, Techcombank
-                                                                            phối hợp cùng SI Group tổ chức thành công
-                                                                            hội thảo “Quản lý Gia sản – Quốc tế hóa
-                                                                            Doanh nghiệp &amp; Độc quyền Sở hữu Quốc
-                                                                            tịch”, thu hút sự tham dự của 30 doanh nhân,
-                                                                            nhà đầu tư sở hữu doanh nghiệp có doanh thu
-                                                                            top đầu Việt Nam.</span>
-                                                                    </div>
-                                                                </div>
+                                <div class="si-banners">
+                                    <div class="banner-events">
+                                        <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="false"
+                                            :autoplaySpeed="2000" :slidesToShow="1" :slidesToScroll="1">
+                                            <!-- Slide 1 -->
+                                            <a target="_blank"
+                                                href="https://sigroup.vn/su-kien/si-group-ky-thoa-thuan-hop-tac-dau-tu-voi-chinh-phu-solomon/"
+                                                title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ">
+                                                <div class="justify-center align-items-center position-relative bg-banner vh-80"
+                                                    :style="{
+                                                        background: `url(${require('@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg')}) center/cover no-repeat`
+                                                    }">
+                                                    <div class="bg-overlay"></div>
+                                                    <div class="banner-wrap w-100 h-100 position-relative">
+                                                        <div class="w-100 mb-13">
+                                                            <h2>
+                                                                SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư
+                                                                Solomon, thúc
+                                                                đẩy phát triển Đặc khu Kinh tế SEZ
+                                                            </h2>
+                                                            <div class="mt-3 mb-2">
+                                                                <span>
+                                                                    Lễ ký kết hợp tác chiến lược giữa SI Group và Chính
+                                                                    phủ
+                                                                    Solomon Islands đánh dấu cột mốc lần đầu tiên
+                                                                    một doanh nghiệp Việt giữ vai trò cố vấn chiến lược
+                                                                    và
+                                                                    nhà đầu tư ưu tiên trong quá trình phát triển
+                                                                    Đặc khu Kinh tế SEZ quốc tế.
+                                                                </span>
                                                             </div>
                                                         </div>
-                                                    </a>
+                                                    </div>
                                                 </div>
-                                                <div class="slick-slide slick-current slick-active"
-                                                    style="width: 516px;" tabindex="0" role="tabpanel"
-                                                    id="slick-slide00" aria-describedby="slick-slide-control00"
-                                                    data-slick-index="0" aria-hidden="false">
-                                                    <a target="_blank"
-                                                        href="https://sigroup.vn/su-kien/si-group-ky-thoa-thuan-hop-tac-dau-tu-voi-chinh-phu-solomon/"
-                                                        title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                                                        tabindex="0">
-                                                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                            style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg&quot;);"
-                                                            class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded"
-                                                            data-ll-status="loaded">
-                                                            <div class="bg-overlay"></div>
-                                                            <div class="d-sm-block d-md-none">
-                                                                <img class="w-100 entered lazyloaded"
-                                                                    src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                    data-ll-status="loaded"><noscript><img class="w-100"
-                                                                        src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" /></noscript>
-                                                            </div>
-                                                            <div class="banner-wrap w-100 h-100 position-relative">
-                                                                <div class="w-100 mb-13">
-                                                                    <h2>SI Group ký kết hợp tác chiến lược tại sự kiện
-                                                                        đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh
-                                                                        tế SEZ</h2>
-                                                                    <div class="mt-3 mb-2">
-                                                                        <span>Lễ ký kết hợp tác chiến lược giữa SI Group
-                                                                            và Chính phủ Solomon Islands đánh dấu cột
-                                                                            mốc lần đầu tiên một doanh nghiệp Việt giữ
-                                                                            vai trò cố vấn chiến lược và nhà đầu tư ưu
-                                                                            tiên trong quá trình phát triển Đặc khu Kinh
-                                                                            tế SEZ quốc tế. Sự kiện mở ra chương mới
-                                                                            trong hợp tác thể chế, thu hút đầu tư và
-                                                                            kiến tạo mô hình phát triển bền vững cho
-                                                                            quốc đảo Nam Thái Bình Dương.</span>
-                                                                    </div>
-                                                                </div>
+                                            </a>
+
+
+                                            <!-- Slide 2 -->
+                                            <a target="_blank"
+                                                href="https://sigroup.vn/su-kien/bo-ngoai-giao-my-trao-tang-giai-thuong-dong-gop-xuat-sac-cho-pho-chu-tich-hdqt-si-group-ba-nguyen-thi-bich-ha/"
+                                                title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà">
+                                                <div class="justify-center align-items-center position-relative bg-banner vh-80"
+                                                    :style="{
+                                                        background: `url(${require('@/assets/uploads/2025/04/Thumbnail-1-1.jpg')}) center/cover no-repeat`
+                                                    }">
+                                                    <div class="bg-overlay"></div>
+                                                    <div class="banner-wrap w-100 h-100 position-relative">
+                                                        <div class="w-100 mb-13">
+                                                            <h2>Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc
+                                                                cho
+                                                                Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà</h2>
+                                                            <div class="mt-3 mb-2">
+                                                                <span>
+                                                                    Nhằm ghi nhận những đóng góp quan trọng trong việc
+                                                                    thúc
+                                                                    đẩy quá trình ký kết Hiệp định Thương mại
+                                                                    Song phương Việt Nam – Hoa Kỳ vào năm 2000, bà
+                                                                    Nguyễn
+                                                                    Thị Bích Hà, hiện giữ vị trí Phó Chủ tịch Hội
+                                                                    đồng Quản trị Tập đoàn SI Group, đã vinh dự được
+                                                                    trao
+                                                                    tặng giải thưởng “2002 Foreign Service National
+                                                                    of the Year Award”.
+                                                                </span>
                                                             </div>
                                                         </div>
-                                                    </a>
+                                                    </div>
                                                 </div>
-                                                <div class="slick-slide" style="width: 516px;" tabindex="-1"
-                                                    role="tabpanel" id="slick-slide01"
-                                                    aria-describedby="slick-slide-control01" data-slick-index="1"
-                                                    aria-hidden="true">
-                                                    <a target="_blank"
-                                                        href="https://sigroup.vn/su-kien/bo-ngoai-giao-my-trao-tang-giai-thuong-dong-gop-xuat-sac-cho-pho-chu-tich-hdqt-si-group-ba-nguyen-thi-bich-ha/"
-                                                        title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                                                        tabindex="-1">
-                                                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                            style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg&quot;);"
-                                                            class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded"
-                                                            data-ll-status="loaded">
-                                                            <div class="bg-overlay"></div>
-                                                            <div class="d-sm-block d-md-none">
-                                                                <img class="w-100 entered lazyloaded"
-                                                                    src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                                    data-ll-status="loaded"><noscript><img class="w-100"
-                                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg" /></noscript>
-                                                            </div>
-                                                            <div class="banner-wrap w-100 h-100 position-relative">
-                                                                <div class="w-100 mb-13">
-                                                                    <h2>Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp
-                                                                        xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà
-                                                                        Nguyễn Thị Bích Hà</h2>
-                                                                    <div class="mt-3 mb-2">
-                                                                        <span>Nhằm ghi nhận những đóng góp quan trọng
-                                                                            trong việc thúc đẩy quá trình ký kết Hiệp
-                                                                            định Thương mại Song phương Việt Nam – Hoa
-                                                                            Kỳ vào năm 2000, bà Nguyễn Thị Bích Hà, hiện
-                                                                            giữ vị trí Phó Chủ tịch Hội đồng Quản trị
-                                                                            Tập đoàn SI Group, đã vinh dự được trao tặng
-                                                                            giải thưởng “2002 Foreign Service National
-                                                                            of the Year Award” vì thành tích xuất sắc.
+                                            </a>
 
-
-
-
-
-                                                                        </span>
-                                                                    </div>
-                                                                </div>
+                                            <!-- Slide 3 -->
+                                            <a target="_blank"
+                                                href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
+                                                title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp & Độc quyền sở hữu quốc tịch">
+                                                <div class="justify-center align-items-center position-relative bg-banner vh-80"
+                                                    :style="{
+                                                        background: `url(${require('@/assets/uploads/2025/04/Thumbnail-3-1.jpg')}) center/cover no-repeat`
+                                                    }">
+                                                    <div class="bg-overlay"></div>
+                                                    <div class="banner-wrap w-100 h-100 position-relative">
+                                                        <div class="w-100 mb-13">
+                                                            <h2>Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &
+                                                                Độc
+                                                                quyền sở hữu quốc tịch</h2>
+                                                            <div class="mt-3 mb-2">
+                                                                <span>
+                                                                    Vào ngày 29/03/2025 tại Hà Nội và 05/04/2025 tại TP.
+                                                                    Hồ
+                                                                    Chí Minh, Techcombank phối hợp cùng SI Group
+                                                                    tổ chức thành công hội thảo “Quản lý Gia sản – Quốc
+                                                                    tế
+                                                                    hóa Doanh nghiệp & Độc quyền Sở hữu Quốc tịch”.
+                                                                </span>
                                                             </div>
                                                         </div>
-                                                    </a>
+                                                    </div>
                                                 </div>
-                                                <div class="slick-slide" style="width: 516px;" tabindex="-1"
-                                                    role="tabpanel" id="slick-slide02"
-                                                    aria-describedby="slick-slide-control02" data-slick-index="2"
-                                                    aria-hidden="true">
-                                                    <a target="_blank"
-                                                        href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
-                                                        title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                                                        tabindex="-1">
-                                                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                            style=""
-                                                            class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                                                            <div class="bg-overlay"></div>
-                                                            <div class="d-sm-block d-md-none">
-                                                                <img class="w-100"
-                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
-                                                                        class="w-100"
-                                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg" /></noscript>
-                                                            </div>
-                                                            <div class="banner-wrap w-100 h-100 position-relative">
-                                                                <div class="w-100 mb-13">
-                                                                    <h2>Hội thảo Quản lý Gia sản – Quốc tế hoá doanh
-                                                                        nghiệp &amp; Độc quyền sở hữu quốc tịch</h2>
-                                                                    <div class="mt-3 mb-2">
-                                                                        <span>Vào ngày 29/03/2025 tại Hà Nội và
-                                                                            05/04/2025 tại TP. Hồ Chí Minh, Techcombank
-                                                                            phối hợp cùng SI Group tổ chức thành công
-                                                                            hội thảo “Quản lý Gia sản – Quốc tế hóa
-                                                                            Doanh nghiệp &amp; Độc quyền Sở hữu Quốc
-                                                                            tịch”, thu hút sự tham dự của 30 doanh nhân,
-                                                                            nhà đầu tư sở hữu doanh nghiệp có doanh thu
-                                                                            top đầu Việt Nam.</span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="slick-slide slick-cloned" style="width: 516px;"
-                                                    tabindex="-1" role="tabpanel" id=""
-                                                    aria-describedby="slick-slide-control00" data-slick-index="3"
-                                                    aria-hidden="true">
-                                                    <a target="_blank"
-                                                        href="https://sigroup.vn/su-kien/si-group-ky-thoa-thuan-hop-tac-dau-tu-voi-chinh-phu-solomon/"
-                                                        title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                                                        tabindex="-1">
-                                                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                            style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg&quot;);"
-                                                            class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded"
-                                                            data-ll-status="loaded">
-                                                            <div class="bg-overlay"></div>
-                                                            <div class="d-sm-block d-md-none">
-                                                                <img class="w-100 entered lazyloaded"
-                                                                    src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                    data-ll-status="loaded"><noscript><img class="w-100"
-                                                                        src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" /></noscript>
-                                                            </div>
-                                                            <div class="banner-wrap w-100 h-100 position-relative">
-                                                                <div class="w-100 mb-13">
-                                                                    <h2>SI Group ký kết hợp tác chiến lược tại sự kiện
-                                                                        đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh
-                                                                        tế SEZ</h2>
-                                                                    <div class="mt-3 mb-2">
-                                                                        <span>Lễ ký kết hợp tác chiến lược giữa SI Group
-                                                                            và Chính phủ Solomon Islands đánh dấu cột
-                                                                            mốc lần đầu tiên một doanh nghiệp Việt giữ
-                                                                            vai trò cố vấn chiến lược và nhà đầu tư ưu
-                                                                            tiên trong quá trình phát triển Đặc khu Kinh
-                                                                            tế SEZ quốc tế. Sự kiện mở ra chương mới
-                                                                            trong hợp tác thể chế, thu hút đầu tư và
-                                                                            kiến tạo mô hình phát triển bền vững cho
-                                                                            quốc đảo Nam Thái Bình Dương.</span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="slick-slide slick-cloned" style="width: 516px;"
-                                                    tabindex="-1" role="tabpanel" id=""
-                                                    aria-describedby="slick-slide-control01" data-slick-index="4"
-                                                    aria-hidden="true">
-                                                    <a target="_blank"
-                                                        href="https://sigroup.vn/su-kien/bo-ngoai-giao-my-trao-tang-giai-thuong-dong-gop-xuat-sac-cho-pho-chu-tich-hdqt-si-group-ba-nguyen-thi-bich-ha/"
-                                                        title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                                                        tabindex="-1">
-                                                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                            style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg&quot;);"
-                                                            class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded"
-                                                            data-ll-status="loaded">
-                                                            <div class="bg-overlay"></div>
-                                                            <div class="d-sm-block d-md-none">
-                                                                <img class="w-100"
-                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                                                        class="w-100"
-                                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg" /></noscript>
-                                                            </div>
-                                                            <div class="banner-wrap w-100 h-100 position-relative">
-                                                                <div class="w-100 mb-13">
-                                                                    <h2>Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp
-                                                                        xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà
-                                                                        Nguyễn Thị Bích Hà</h2>
-                                                                    <div class="mt-3 mb-2">
-                                                                        <span>Nhằm ghi nhận những đóng góp quan trọng
-                                                                            trong việc thúc đẩy quá trình ký kết Hiệp
-                                                                            định Thương mại Song phương Việt Nam – Hoa
-                                                                            Kỳ vào năm 2000, bà Nguyễn Thị Bích Hà, hiện
-                                                                            giữ vị trí Phó Chủ tịch Hội đồng Quản trị
-                                                                            Tập đoàn SI Group, đã vinh dự được trao tặng
-                                                                            giải thưởng “2002 Foreign Service National
-                                                                            of the Year Award” vì thành tích xuất sắc.
-
-
-
-
-
-                                                                        </span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                                <div class="slick-slide slick-cloned" style="width: 516px;"
-                                                    tabindex="-1" role="tabpanel" id=""
-                                                    aria-describedby="slick-slide-control02" data-slick-index="5"
-                                                    aria-hidden="true">
-                                                    <a target="_blank"
-                                                        href="https://sigroup.vn/su-kien/hoi-thao-quan-ly-gia-san-quoc-te-hoa-doanh-nghiep-doc-quyen-so-huu-quoc-tich/"
-                                                        title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                                                        tabindex="-1">
-                                                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                            style=""
-                                                            class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                                                            <div class="bg-overlay"></div>
-                                                            <div class="d-sm-block d-md-none">
-                                                                <img class="w-100"
-                                                                    src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
-                                                                        class="w-100"
-                                                                        src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg" /></noscript>
-                                                            </div>
-                                                            <div class="banner-wrap w-100 h-100 position-relative">
-                                                                <div class="w-100 mb-13">
-                                                                    <h2>Hội thảo Quản lý Gia sản – Quốc tế hoá doanh
-                                                                        nghiệp &amp; Độc quyền sở hữu quốc tịch</h2>
-                                                                    <div class="mt-3 mb-2">
-                                                                        <span>Vào ngày 29/03/2025 tại Hà Nội và
-                                                                            05/04/2025 tại TP. Hồ Chí Minh, Techcombank
-                                                                            phối hợp cùng SI Group tổ chức thành công
-                                                                            hội thảo “Quản lý Gia sản – Quốc tế hóa
-                                                                            Doanh nghiệp &amp; Độc quyền Sở hữu Quốc
-                                                                            tịch”, thu hút sự tham dự của 30 doanh nhân,
-                                                                            nhà đầu tư sở hữu doanh nghiệp có doanh thu
-                                                                            top đầu Việt Nam.</span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <ul class="slick-dots" style="" role="tablist">
-                                            <li class="slick-active" role="presentation"><button type="button"
-                                                    role="tab" id="slick-slide-control00" aria-controls="slick-slide00"
-                                                    aria-label="1 of 3" tabindex="0" aria-selected="true">1</button>
-                                            </li>
-                                            <li role="presentation"><button type="button" role="tab"
-                                                    id="slick-slide-control01" aria-controls="slick-slide01"
-                                                    aria-label="2 of 3" tabindex="-1">2</button></li>
-                                            <li role="presentation"><button type="button" role="tab"
-                                                    id="slick-slide-control02" aria-controls="slick-slide02"
-                                                    aria-label="3 of 3" tabindex="-1">3</button></li>
-                                        </ul>
+                                            </a>
+                                        </SlickCarousel>
                                     </div>
+
                                 </div>
                             </div>
                             <div class="col-12">
@@ -1057,10 +835,6 @@ export default {
 </script>
 
 <style scoped>
-.event-page .banner-events {
-    height: 686px
-}
-
 .event-detail h1 {
     font-size: var(--size-20);
     font-family: var(--font-black);
@@ -1075,7 +849,7 @@ export default {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: auto!important;
+    width: auto !important;
     height: auto
 }
 
@@ -1146,12 +920,12 @@ export default {
 
 @media (max-width: 820px) {
     .event-page .banner-events {
-        height:auto
+        height: auto
     }
 
-    .event-page .si-banners .bg-banner {
-        background: none!important
-    }
+    /* .event-page .si-banners .bg-banner {
+        background: none !important
+    } */
 
     .event-page .si-banners .slick-dots {
         bottom: auto;
@@ -1162,5 +936,4 @@ export default {
         height: auto
     }
 }
-
 </style>
