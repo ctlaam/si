@@ -511,7 +511,8 @@ export default {
           bgDesktop: '2023/11/Hinh-2-VP.jpg',
           bgMobile: '2023/11/Hinh-2-VP.jpg',
           alt: 'Hình 2 - Văn phòng SI Group'
-        }
+        },
+      
       ]
     };
   },
