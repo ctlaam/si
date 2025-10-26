@@ -43,7 +43,7 @@
                           style="width: 476px;" tabindex="0" role="tabpanel" id="slick-slide00"
                           aria-describedby="slick-slide-control00">
                           <div
-                            style="background-image:url(@/assets/uploads/2023/11/Hinh-2-VP.jpg);"
+                            :style="{ backgroundImage: `url(${require('@/assets/uploads/2023/11/Hinh-2-VP.jpg')})` }"
                             class="bg-banner vh-80">
                             <img class="d-block d-md-none"
                               src="@/assets/uploads/2023/11/Hinh-2-VP.jpg"
@@ -458,64 +458,64 @@ export default {
     return {
       activePopup: null,
       logos: [
-        "@/assets/uploads/2024/09/US-Citizenship-and-Immigration-Services.png",
-        "@/assets/uploads/2024/09/Western-Australia.png",
-        "@/assets/uploads/2024/09/Gov-of-Canada.png",
-        "@/assets/uploads/2023/10/16_LIVE_IN_MELBOURNE_9e45d747dc.png",
-        "@/assets/uploads/2023/10/17_SOUTH_AUSTRALIA_GOVERNMENT_ff9d1ea1b0.png",
-        "@/assets/uploads/2024/09/Queensland.png",
-        "@/assets/uploads/2024/09/NSW.png",
-        "@/assets/uploads/2023/10/18_US_DEPARTMENT_OF_STATE_260b357a29.png",
-        "@/assets/uploads/2023/10/19_USCIS_3e9a9f02de.png",
-        "@/assets/uploads/2024/09/US-Department-of-state.png",
-        "@/assets/uploads/2024/09/Hungary.png",
-        "@/assets/uploads/2024/09/Switzerland.png",
-        "@/assets/uploads/2024/09/Slovenia.png",
-        "@/assets/uploads/2024/09/Bahamas.png",
-        "@/assets/uploads/2024/09/Cyprus.png",
-        "@/assets/uploads/2024/09/Haiti.png",
-        "@/assets/uploads/2023/12/21.-DARWIN-INNOVATION-HUB.png",
-        "@/assets/uploads/2023/12/22.-PORT-HEDLAND.png",
-        "@/assets/uploads/2023/12/23.-MY-AUSTRALIAN-PROPERTY.png",
-        "@/assets/uploads/2025/03/Gov-of-Malta.png",
-        "@/assets/uploads/2025/03/Gov-of-Solomon-Island.png",
+        require("@/assets/uploads/2024/09/US-Citizenship-and-Immigration-Services.png"),
+        require("@/assets/uploads/2024/09/Western-Australia.png"),
+        require("@/assets/uploads/2024/09/Gov-of-Canada.png"),
+        require("@/assets/uploads/2023/10/16_LIVE_IN_MELBOURNE_9e45d747dc.png"),
+        require("@/assets/uploads/2023/10/17_SOUTH_AUSTRALIA_GOVERNMENT_ff9d1ea1b0.png"),
+        require("@/assets/uploads/2024/09/Queensland.png"),
+        require("@/assets/uploads/2024/09/NSW.png"),
+        require("@/assets/uploads/2023/10/18_US_DEPARTMENT_OF_STATE_260b357a29.png"),
+        require("@/assets/uploads/2023/10/19_USCIS_3e9a9f02de.png"),
+        require("@/assets/uploads/2024/09/US-Department-of-state.png"),
+        require("@/assets/uploads/2024/09/Hungary.png"),
+        require("@/assets/uploads/2024/09/Switzerland.png"),
+        require("@/assets/uploads/2024/09/Slovenia.png"),
+        require("@/assets/uploads/2024/09/Bahamas.png"),
+        require("@/assets/uploads/2024/09/Cyprus.png"),
+        require("@/assets/uploads/2024/09/Haiti.png"),
+        require("@/assets/uploads/2023/12/21.-DARWIN-INNOVATION-HUB.png"),
+        require("@/assets/uploads/2023/12/22.-PORT-HEDLAND.png"),
+        require("@/assets/uploads/2023/12/23.-MY-AUSTRALIAN-PROPERTY.png"),
+        require("@/assets/uploads/2025/03/Gov-of-Malta.png"),
+        require("@/assets/uploads/2025/03/Gov-of-Solomon-Island.png"),
       ],
       banners: [
-        "@/assets/uploads/2025/03/Top-10-Thuong-hieu-manh-QG-1.png",
-        "@/assets/uploads/2025/03/Thuong-hieu-manh-quoc-gia-1-1.png",
-        "@/assets/uploads/2025/03/SP-DV-Tin-dung.png",
-        "@/assets/uploads/2025/03/DN-DN-xuat-sac.png",
-        "@/assets/uploads/2025/03/Asia-business-awards-1-1.png",
+        require("@/assets/uploads/2025/03/Top-10-Thuong-hieu-manh-QG-1.png"),
+        require("@/assets/uploads/2025/03/Thuong-hieu-manh-quoc-gia-1-1.png"),
+        require("@/assets/uploads/2025/03/SP-DV-Tin-dung.png"),
+        require("@/assets/uploads/2025/03/DN-DN-xuat-sac.png"),
+        require("@/assets/uploads/2025/03/Asia-business-awards-1-1.png"),
       ],
       bodList: [
         {
           name: "Ông PHAN NHẬT MINH",
           position: "Chủ tịch HĐQT",
-          img: "@/assets/uploads/2024/08/Anh-Minh-1.png",
+          img: require("@/assets/uploads/2024/08/Anh-Minh-1.png"),
           bio: `<p>Tốt nghiệp đại học San Francisco chuyên ngành quản trị hệ thống thông tin, ...</p>`
         },
         {
           name: "Bà NGUYỄN THỊ BÍCH HÀ",
           position: "Phó Chủ tịch HĐQT",
-          img: "@/assets/uploads/2024/08/Co-Ha.png",
+          img: require("@/assets/uploads/2024/08/Co-Ha.png"),
           bio: `<p>Bà Hà Nguyễn là cố vấn kinh tế cho Đại sứ quán Hoa Kỳ ...</p>`
         },
         {
           name: "Bà LÊ THỊ HUY BÌNH",
           position: "Tổng Giám đốc",
-          img: "@/assets/uploads/2024/08/Chi-Binh-2.png",
+          img: require("@/assets/uploads/2024/08/Chi-Binh-2.png"),
           bio: `<p>Bà Bình có hơn 15 năm kinh nghiệm trong lĩnh vực du lịch, truyền thông...</p>`
         },
         {
           name: "Ông JEAN LESLY BENOIT",
           position: "Phó Tổng Giám đốc",
-          img: "@/assets/uploads/2024/10/Ong-Lesly.png",
+          img: require("@/assets/uploads/2024/10/Ong-Lesly.png"),
           bio: `<p>Ông Benoit là nhà ngoại giao và điều hành cấp cao...</p>`
         },
         {
           name: "Ông GREG MCKEAN",
           position: "Phó TGĐ Phát triển kinh doanh khu vực Châu Á TBD",
-          img: "@/assets/uploads/2025/08/Ong-Greg-2-1.png",
+          img: require("@/assets/uploads/2025/08/Ong-Greg-2-1.png"),
           bio: `<p>Ông Greg McKean là cựu Giám đốc Di trú bang Queensland...</p>`
         }
       ],
@@ -545,7 +545,12 @@ export default {
   }
 }
 </script>
+<style>
+.si-banners .slick-dots {
+  bottom: -71px !important;
+}
 
+</style>
 <style scoped>
 .about-us .open-letter {
   flex-wrap: wrap;
@@ -675,7 +680,9 @@ export default {
   display: flex;
   flex-wrap: wrap
 }
-
+.slick-dots {
+    bottom: -71px !important;
+}
 .about-us .si-scale .company .img {
   height: auto;
   width: 16.66%;
@@ -1258,7 +1265,8 @@ export default {
   }
 
   .si-scale .si-banners .slick-dots {
-    position: relative
+    position: relative;
+    bottom: -71px !important;
   }
 
   .hinh-anh-quy-mo {
