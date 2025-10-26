@@ -175,12 +175,7 @@
                 <div class="col-12">
                   <div class="slides-bod">
                     <SlickCarousel :arrows="true" :dots="false" :infinite="true" :autoplay="true" :autoplaySpeed="2500"
-                      :slidesToShow="5" :slidesToScroll="1" :responsive="[
-                        { breakpoint: 1200, settings: { slidesToShow: 4 } },
-                        { breakpoint: 992, settings: { slidesToShow: 3 } },
-                        { breakpoint: 768, settings: { slidesToShow: 2 } },
-                        { breakpoint: 576, settings: { slidesToShow: 1 } }
-                      ]">
+                      :slidesToShow="5" :slidesToScroll="1" :responsive="responsiveSettings">
                       <div v-for="(member, index) in bodList" :key="index" class="it-bod text-center my-3"
                         @click="openPopup(index)">
                         <img :src="member.img" :alt="member.name" class="img-fluid rounded shadow-sm" />
@@ -414,7 +409,8 @@
                 <h2 class="text-center si-title">CHỨNG NHẬN &amp; GIẢI THƯỞNG </h2>
                 <div class="si-banners">
                   <SlickCarousel :arrows="false" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="2000"
-                    :slidesToShow="4" :slidesToScroll="1" class="d-flex align-items-center justify-content-center">
+                    :slidesToShow="4" :slidesToScroll="1" :responsive="responsiveSettings"
+                    class="d-flex align-items-center justify-content-center">
                     <div v-for="(img, index) in banners" :key="index" class="it p-2">
                       <img :src="img" class="w-100 h-auto" :alt="`banner-${index}`" />
                     </div>
@@ -440,8 +436,8 @@
           </div>
         </div>
       </main>
-  
-     
+
+
       <div class="popup-form">
         <div class="position-relative">
           <div class="close-popup"></div>

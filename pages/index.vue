@@ -12,407 +12,55 @@
         <article id="post-2" class="single-content post-2 page type-page status-publish has-post-thumbnail hentry">
           <div id="section-1" class="mx-auto">
             <div class="home-banner slick-initialized slick-slider">
-              <div class="slick-list draggable">
-                <div class="slick-track" style="opacity: 1; width: 4120px; transform: translate3d(-3296px, 0px, 0px);">
-                  <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="0"
-                    aria-hidden="true" tabindex="-1" style="width: 824px;">
-                    <div
-                      style="background-image: url('https://sigroup.vn/wp-content/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d.webp');"
-                      class="h-100 w-100 position-absolute home-banners d-none d-md-block">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
+              <div class="country-banners">
+                <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="4000"
+                  :slidesToShow="1" :slidesToScroll="1">
+                  <div v-for="(item, index) in banners" :key="index" class="banner-slide">
+                    <div class="banner-bg d-none d-md-block" :style="{ backgroundImage: `url(${item.bgDesktop})` }">
+                      <div class="bg-overlay"></div>
                     </div>
-                    <div
-                      data-bg="https://sigroup.vn/wp-content/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d_mb.webp"
-                      style="" class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
+
+                    <div class="banner-bg d-block d-md-none" :style="{ backgroundImage: `url(${item.bgMobile})` }">
+                      <div class="bg-overlay"></div>
                     </div>
-                    <div class="w-100 position-relative banner-item">
-                      <div class="w-100 h-100 position-relative">
-                        <div class="info">
-                          <div>Úc</div>
-                          <div class="mt-3">
-                            <figure class="table">
-                              <table>
-                                <tbody>
-                                  <tr>
-                                    <td>Tỷ lệ dân nhập cư:</td>
-                                    <td>29.2%</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Hạn ngạch&nbsp; 2025:</td>
-                                    <td>185,000</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Xếp hạng hộ chiếu:</td>
-                                    <td>Top 7/199 thế giới</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Đi lại tự do:</td>
-                                    <td>173 nước</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Xếp hạng giáo dục:</td>
-                                    <td>Top 8/85</td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </figure>
-                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
-                            </div>
-                          </div>
-                          <a style="margin-left: 0;" class="si-btn" href="#" tabindex="-1">Tìm hiểu thêm</a>
+
+                    <div class="banner-content">
+                      <div class="info">
+                        <h2>{{ item.title }}</h2>
+
+                        <div class="mt-3" v-if="item.stats">
+                          <table>
+                            <tbody>
+                              <tr v-for="(value, label) in item.stats" :key="label">
+                                <td>{{ label }}:</td>
+                                <td>{{ value }}</td>
+                              </tr>
+                            </tbody>
+                          </table>
                         </div>
-                        <div class="si-social-bn position-absolute d-none d-md-flex">
-                          <div>Social media</div>
-                          <div class="line"></div>
-                          <div class="social">
-                            <a target="_blank" title="Facebook" href="#" tabindex="-1">
-                              <img width="18" height="18"
-                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
-                            </a>
-                            <a target="_blank" title="Zalo" href="#" class="Zalo" tabindex="-1"></a>
-                            <a target="_blank" title="Linkedin" href="#" class="Linkedin" tabindex="-1"></a>
-                          </div>
-                        </div>
-                        <div class="si-btn-bn position-absolute d-none d-md-flex">
-                          <div class="si-prev">
-                            QUAY LẠI </div>
-                          <div class="line"></div>
-                          <div class="si-next">
-                            TIẾP TỤC </div>
+
+                        <p v-else>{{ item.description }}</p>
+
+                        <a class="si-btn" href="#">Tìm hiểu thêm</a>
+                      </div>
+
+                      <div class="social-links">
+                        <div>Social media</div>
+                        <div class="line"></div>
+                        <div class="icons">
+                          <a href="#"><img src="/images/facebook.png" alt="Facebook" /></a>
+                          <a href="#"><img src="/images/zalo.png" alt="Zalo" /></a>
+                          <a href="#"><img src="/images/linkedin.png" alt="LinkedIn" /></a>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="1"
-                    aria-hidden="true" tabindex="-1" style="width: 824px;">
-                    <div
-                      style="background-image: url('https://sigroup.vn/wp-content/uploads/2023/11/usa-9-d130aa010b.webp');"
-                      class="h-100 w-100 position-absolute home-banners d-none d-md-block">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/USA_9_d130aa010b_mb.webp" style=""
-                      class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div class="w-100 position-relative banner-item">
-                      <div class="w-100 h-100 position-relative">
-                        <div class="info">
-                          <div>Mỹ</div>
-                          <div class="mt-3">
-                            <figure class="table">
-                              <table>
-                                <tbody>
-                                  <tr>
-                                    <td>Tỷ lệ dân nhập cư:</td>
-                                    <td>13.6%</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Hạn ngạch&nbsp; 2025:</td>
-                                    <td>366,000</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Xếp hạng hộ chiếu:</td>
-                                    <td>Top 8/199 thế giới</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Đi lại tự do:</td>
-                                    <td>172 nước</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Xếp hạng giáo dục:</td>
-                                    <td>Top 1/85</td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </figure>
-                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
-                            </div>
-                          </div>
-                          <a style="margin-left: 0;" class="si-btn" href="#" tabindex="-1">Tìm hiểu thêm</a>
-                        </div>
-                        <div class="si-social-bn position-absolute d-none d-md-flex">
-                          <div>Social media</div>
-                          <div class="line"></div>
-                          <div class="social">
-                            <a target="_blank" title="Facebook" href="#" tabindex="-1">
-                              <img width="18" height="18"
-                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
-                            </a>
-                            <a target="_blank" title="Zalo" href="#" class="Zalo" tabindex="-1"></a>
-                            <a target="_blank" title="Linkedin" href="#" class="Linkedin" tabindex="-1"></a>
-                          </div>
-                        </div>
-                        <div class="si-btn-bn position-absolute d-none d-md-flex">
-                          <div class="si-prev">
-                            QUAY LẠI </div>
-                          <div class="line"></div>
-                          <div class="si-next">
-                            TIẾP TỤC </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="2"
-                    aria-hidden="true" tabindex="-1" style="width: 824px;">
-                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Canada_9_e9399ff1dc-1.jpeg"
-                      style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/Canada_9_e9399ff1dc-1.jpeg&quot;);"
-                      class="h-100 w-100 position-absolute home-banners d-none d-md-block rocket-lazyload entered lazyloaded exited"
-                      data-ll-status="loaded">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/Canada_9_e9399ff1dc_mb.webp" style=""
-                      class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div class="w-100 position-relative banner-item">
-                      <div class="w-100 h-100 position-relative">
-                        <div class="info">
-                          <div>Canada</div>
-                          <div class="mt-3">
-                            <figure class="table">
-                              <table>
-                                <tbody>
-                                  <tr>
-                                    <td>Tỷ lệ dân nhập cư:</td>
-                                    <td>23%</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Hạn ngạch&nbsp; 2025:</td>
-                                    <td>395,000</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Xếp hạng hộ chiếu:</td>
-                                    <td>Top 7/199 thế giới</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Đi lại tự do:</td>
-                                    <td>173 nước</td>
-                                  </tr>
-                                  <tr>
-                                    <td>Xếp hạng giáo dục:</td>
-                                    <td>Top 4/85</td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </figure>
-                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
-                            </div>
-                          </div>
-                          <a style="margin-left: 0;" class="si-btn" href="#" tabindex="-1">Tìm hiểu thêm</a>
-                        </div>
-                        <div class="si-social-bn position-absolute d-none d-md-flex">
-                          <div>Social media</div>
-                          <div class="line"></div>
-                          <div class="social">
-                            <a target="_blank" title="Facebook" href="#" tabindex="-1">
-                              <img width="18" height="18"
-                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
-                            </a>
-                            <a target="_blank" title="Zalo" href="#" class="Zalo" tabindex="-1"></a>
-                            <a target="_blank" title="Linkedin" href="#" class="Linkedin" tabindex="-1"></a>
-                          </div>
-                        </div>
-                        <div class="si-btn-bn position-absolute d-none d-md-flex">
-                          <div class="si-prev">
-                            QUAY LẠI </div>
-                          <div class="line"></div>
-                          <div class="si-next">
-                            TIẾP TỤC </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="h-100 justify-center align-center position-relative slick-slide" data-slick-index="3"
-                    aria-hidden="true" tabindex="-1" style="width: 824px;">
-                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Hungaria_e94c77761e.jpeg"
-                      style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/Hungaria_e94c77761e.jpeg&quot;);"
-                      class="h-100 w-100 position-absolute home-banners d-none d-md-block rocket-lazyload entered lazyloaded"
-                      data-ll-status="loaded">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/Hungaria_e94c77761e_mb.webp" style=""
-                      class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div class="w-100 position-relative banner-item">
-                      <div class="w-100 h-100 position-relative">
-                        <div class="info">
-                          <div>EU</div>
-                          <div class="mt-3">
-                            <p>Các chương trình định cư/lấy thường trú nhân phổ biến tại:<br>
-                              Hungary, Malta, Tây Ban Nha và các quốc gia EU khác.</p>
-                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
-                            </div>
-                          </div>
-                          <a style="margin-left: 0;" class="si-btn" href="#" tabindex="-1">Tìm hiểu thêm</a>
-                        </div>
-                        <div class="si-social-bn position-absolute d-none d-md-flex">
-                          <div>Social media</div>
-                          <div class="line"></div>
-                          <div class="social">
-                            <a target="_blank" title="Facebook" href="#" tabindex="-1">
-                              <img width="18" height="18"
-                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
-                            </a>
-                            <a target="_blank" title="Zalo" href="#" class="Zalo" tabindex="-1"></a>
-                            <a target="_blank" title="Linkedin" href="#" class="Linkedin" tabindex="-1"></a>
-                          </div>
-                        </div>
-                        <div class="si-btn-bn position-absolute d-none d-md-flex">
-                          <div class="si-prev">
-                            QUAY LẠI </div>
-                          <div class="line"></div>
-                          <div class="si-next">
-                            TIẾP TỤC </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div
-                    class="h-100 justify-center align-center position-relative slick-slide slick-current slick-active"
-                    data-slick-index="4" aria-hidden="false" tabindex="0" style="width: 824px;">
-                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/New_Zealand_5_61557c235f.jpeg"
-                      style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/New_Zealand_5_61557c235f.jpeg&quot;);"
-                      class="h-100 w-100 position-absolute home-banners d-none d-md-block rocket-lazyload entered lazyloaded"
-                      data-ll-status="loaded">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div data-bg="https://sigroup.vn/wp-content/uploads/2023/11/New_Zealand_5_61557c235f_mb.webp"
-                      style="" class="h-100 w-100 position-absolute home-banners d-block d-md-none rocket-lazyload">
-                      <div class="bg-overlay position-absolute w-100 h-100"></div>
-                    </div>
-                    <div class="w-100 position-relative banner-item">
-                      <div class="w-100 h-100 position-relative">
-                        <div class="info">
-                          <div>Các nước khác</div>
-                          <div class="mt-3">
-                            <p>Các chương trình định cư/lấy thường trú nhân phổ biến tại: St kitts &amp; Nevis, Đảo Síp,
-                              New Zealand, Saint Lucia và các quốc gia khác.</p>
-                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
-                            </div>
-                          </div>
-                          <a style="margin-left: 0;" class="si-btn" href="#" tabindex="0">Tìm hiểu thêm</a>
-                        </div>
-                        <div class="si-social-bn position-absolute d-none d-md-flex">
-                          <div>Social media</div>
-                          <div class="line"></div>
-                          <div class="social">
-                            <a target="_blank" title="Facebook" href="#" tabindex="0">
-                              <img width="18" height="18"
-                                src="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png"
-                                alt="https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-facebook.png">
-                            </a>
-                            <a target="_blank" title="Zalo" href="#" class="Zalo" tabindex="0"></a>
-                            <a target="_blank" title="Linkedin" href="#" class="Linkedin" tabindex="0"></a>
-                          </div>
-                        </div>
-                        <div class="si-btn-bn position-absolute d-none d-md-flex">
-                          <div class="si-prev">
-                            QUAY LẠI </div>
-                          <div class="line"></div>
-                          <div class="si-next">
-                            TIẾP TỤC </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                </SlickCarousel>
               </div>
 
 
 
 
-            </div>
-            <div class="home-dots">
-              <div>
-                <div class="it">
-                  <div class="img">
-
-                    <img width="110" height="108"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_3757a169f4.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_3757a169f4.png">
-                    <img width="110" height="108"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png"
-                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png"
-                      class="entered exited"
-                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%20108'%3E%3C/svg%3E"><noscript><img
-                        width="110" height="108"
-                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_uc_hv_c4171075b7.png" /></noscript>
-                  </div>
-                  <div class="text">Úc</div>
-                </div>
-                <div class="it">
-                  <div class="img">
-
-                    <img width="153" height="80"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_f488d24e6a.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_us_f488d24e6a.png">
-                    <img width="153" height="80"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
-                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
-                      data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="153" height="80"
-                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_us_hv_8d5441e409.png" /></noscript>
-                  </div>
-                  <div class="text">Mỹ</div>
-                </div>
-                <div class="it">
-                  <div class="img">
-
-                    <img width="133" height="101"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_df665ba293.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_df665ba293.png">
-                    <img width="133" height="101"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
-                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
-                      data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="133" height="101"
-                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_canada_hv_05548ba6b5.png" /></noscript>
-                  </div>
-                  <div class="text">Canada</div>
-                </div>
-                <div class="it">
-                  <div class="img">
-
-                    <img width="121" height="103"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_eu_e75ce268d6.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_eu_e75ce268d6.png">
-                    <img width="121" height="103"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
-                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
-                      data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="121" height="103"
-                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_chau_au_hv_c79d2e6f75.png" /></noscript>
-                  </div>
-                  <div class="text">EU</div>
-                </div>
-                <div class="it active">
-                  <div class="img">
-
-                    <img width="145" height="107"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_706d39b27f.png"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_all_706d39b27f.png">
-                    <img width="145" height="107"
-                      alt="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
-                      data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
-                      class="entered lazyloaded"
-                      src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
-                      data-ll-status="loaded"><noscript><img width="145" height="107"
-                        src="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png"
-                        alt="https://sigroup.vn/wp-content/uploads/2023/10/map_all_hv_8a491f0f61.png" /></noscript>
-                  </div>
-                  <div class="text">Các nước khác</div>
-                </div>
-              </div>
             </div>
           </div>
           <div class="container">
@@ -512,1105 +160,47 @@
                 </div>
                 <div class="row justify-center">
                   <div class="col-12">
-                    <div class="slide-giai_thuong slick-initialized slick-slider slick-dotted">
-
-
-
-
-                      <div class="slick-list draggable">
-                        <div class="slick-track"
-                          style="opacity: 1; width: 696px; transform: translate3d(0px, 0px, 0px);">
-                          <div class="text-center mt-5 slick-slide slick-current slick-active" tabindex="0"
-                            role="tabpanel" id="slick-slide10" aria-describedby="slick-slide-control10"
-                            style="width: 174px;" data-slick-index="0" aria-hidden="false">
-                            <img class="img-fluid entered lazyloaded"
-                              src="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
-                              alt="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
-                              data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"
-                                alt="https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg"></noscript>
-                            <div class="my-1 so_nam">GIẢI THƯỞNG</div>
-                            <div class="noi_nhan_giai">DOANH NGHIỆP - DOANH NHÂN XUẤT SẮC</div>
-                          </div>
-                          <div class="text-center mt-5 slick-slide slick-active" tabindex="0" role="tabpanel"
-                            id="slick-slide11" style="width: 174px;" data-slick-index="1" aria-hidden="false">
-                            <img class="img-fluid entered lazyloaded"
-                              src="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
-                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
-                              data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"
-                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png"></noscript>
-                            <div class="my-1 so_nam">TOP 10 </div>
-                            <div class="noi_nhan_giai">THƯƠNG HIỆU MẠNH QUỐC GIA </div>
-                          </div>
-                          <div class="text-center mt-5 slick-slide slick-active" tabindex="0" role="tabpanel"
-                            id="slick-slide12" aria-describedby="slick-slide-control11" style="width: 174px;"
-                            data-slick-index="2" aria-hidden="false">
-                            <img class="img-fluid entered lazyloaded"
-                              src="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
-                              alt="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
-                              data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"
-                                alt="https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg"></noscript>
-                            <div class="my-1 so_nam">GIẢI THƯỞNG</div>
-                            <div class="noi_nhan_giai">SẢN PHẨM DỊCH VỤ TIN DÙNG</div>
-                          </div>
-                          <div class="text-center mt-5 slick-slide slick-active" tabindex="0" role="tabpanel"
-                            id="slick-slide13" style="width: 174px;" data-slick-index="3" aria-hidden="false">
-                            <img class="img-fluid entered lazyloaded"
-                              src="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
-                              alt="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
-                              data-ll-status="loaded"><noscript><img class="img-fluid"
-                                src="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"
-                                alt="https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png"></noscript>
-                            <div class="my-1 so_nam">TOP 10 </div>
-                            <div class="noi_nhan_giai">THƯƠNG HIỆU TÍN NHIỆM HÀNG ĐẦU CHÂU Á</div>
-                          </div>
+                    <div class="awards-carousel">
+                      <SlickCarousel :arrows="false" :dots="true" :infinite="true" :autoplay="true"
+                        :autoplaySpeed="2000" :slidesToShow="4" :slidesToScroll="1" :responsive="responsiveSettings">
+                        <div v-for="(award, index) in awards" :key="index" class="text-center mt-5">
+                          <img class="img-fluid" :src="award.image" :alt="award.title" />
+                          <div class="my-1 so_nam">{{ award.type }}</div>
+                          <div class="noi_nhan_giai">{{ award.title }}</div>
                         </div>
-                      </div>
-                      <ul class="slick-dots" role="tablist">
-                        <li class="slick-active" role="presentation"><button type="button" role="tab"
-                            id="slick-slide-control10" aria-controls="slick-slide10" aria-label="1 of 1" tabindex="0"
-                            aria-selected="true">1</button></li>
-                      </ul>
+                      </SlickCarousel>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div id="section-3">
-              <div class="si-banners mx-auto mb-0 slick-initialized slick-slider slick-dotted"><button
-                  class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button>
-                <div class="slick-list draggable">
-                  <div class="slick-track"
-                    style="opacity: 1; width: 25544px; transform: translate3d(-8240px, 0px, 0px); transition: transform 500ms;">
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="-1"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#" title="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"
-                                alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta</div>
-                              <div class="mt-3 mb-2">
-                                <span>Chủ tịch Phan Nhật Minh vừa có cơ hội đặc biệt gặp gỡ ông Silvio Schembri, Bộ
-                                  trưởng Bộ Kinh tế, Doanh nghiệp và Dự án Chiến lược của Malta.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="0" aria-hidden="true"
-                      role="tabpanel" id="slick-slide20" aria-describedby="slick-slide-control20">
-                      <a target="_blank" href="#"
-                        title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon,
-                                thúc đẩy phát triển Đặc khu Kinh tế SEZ</div>
-                              <div class="mt-3 mb-2">
-                                <span>Lễ ký kết hợp tác chiến lược giữa SI Group và Chính phủ Solomon Islands đánh dấu
-                                  cột mốc lần đầu tiên một doanh nghiệp Việt giữ vai trò cố vấn chiến lược và nhà đầu tư
-                                  ưu tiên trong quá trình phát triển Đặc khu Kinh tế SEZ quốc tế. Sự kiện mở ra chương
-                                  mới trong hợp tác thể chế, thu hút đầu tư và kiến tạo mô hình phát triển bền vững cho
-                                  quốc đảo Nam Thái Bình Dương.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="1" aria-hidden="true"
-                      role="tabpanel" id="slick-slide21" aria-describedby="slick-slide-control21">
-                      <a target="_blank" href="#"
-                        title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho
-                                Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà</div>
-                              <div class="mt-3 mb-2">
-                                <span>Nhằm ghi nhận những đóng góp quan trọng trong việc thúc đẩy quá trình ký kết Hiệp
-                                  định Thương mại Song phương Việt Nam – Hoa Kỳ vào năm 2000, bà Nguyễn Thị Bích Hà,
-                                  hiện giữ vị trí Phó Chủ tịch Hội đồng Quản trị Tập đoàn SI Group, đã vinh dự được trao
-                                  tặng giải thưởng “2002 Foreign Service National of the Year Award” vì thành tích xuất
-                                  sắc.
+            <section id="section-3">
+              <div class="si-banners mx-auto mb-0">
+                <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="4000"
+                  :slidesToShow="1" :slidesToScroll="1" :responsive="responsiveSettings">
+                  <div v-for="(banner, index) in banners2" :key="index" class="banner-slide position-relative">
+                    <a :href="banner.link" target="_blank" :title="banner.title">
+                      <div class="bg-banner vh-80 position-relative">
+                        <!-- Ảnh desktop -->
+                        <img class="w-100 d-none d-md-block" :src="banner.bgDesktop" :alt="banner.title" />
+                        <!-- Ảnh mobile -->
+                        <img class="w-100 d-block d-md-none" :src="banner.bgMobile || banner.bgDesktop"
+                          :alt="banner.title" />
 
+                        <div class="bg-overlay"></div>
 
-
-
-
-                                </span>
-                              </div>
-                            </div>
+                        <div class="banner-wrap position-absolute top-0 left-0 w-100 h-100 d-flex align-items-center">
+                          <div class="text-content px-4">
+                            <h3 class="si-banners-tt">{{ banner.title }}</h3>
+                            <p class="mt-3">{{ banner.description }}</p>
                           </div>
                         </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="2" aria-hidden="true"
-                      role="tabpanel" id="slick-slide22" aria-describedby="slick-slide-control22">
-                      <a target="_blank" href="#"
-                        title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                        tabindex="-1">
-                        <div
-                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
-                          style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
-                                alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư " /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về
-                                chiến lược hợp tác đầu tư&nbsp;</div>
-                              <div class="mt-3 mb-2">
-                                <span>Buổi thảo luận giữa Ban lãnh đạo SI Group với chính quyền bang Queensland nhằm
-                                  tiến tới hợp tác lâu dài để hỗ trợ tạo điều kiện cho các doanh nhân, nhà đầu tư Việt
-                                  mở rộng cơ hội kinh doanh và sinh sống lâu dài tại bang.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="3" aria-hidden="true"
-                      role="tabpanel" id="slick-slide23" aria-describedby="slick-slide-control23">
-                      <a target="_blank" href="#"
-                        title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &#038; Độc quyền sở hữu quốc tịch" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc
-                                quyền sở hữu quốc tịch</div>
-                              <div class="mt-3 mb-2">
-                                <span>Vào ngày 29/03/2025 tại Hà Nội và 05/04/2025 tại TP. Hồ Chí Minh, Techcombank phối
-                                  hợp cùng SI Group tổ chức thành công hội thảo “Quản lý Gia sản – Quốc tế hóa Doanh
-                                  nghiệp &amp; Độc quyền Sở hữu Quốc tịch”, thu hút sự tham dự của 30 doanh nhân, nhà
-                                  đầu tư sở hữu doanh nghiệp có doanh thu top đầu Việt Nam.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="4" aria-hidden="true"
-                      role="tabpanel" id="slick-slide24" aria-describedby="slick-slide-control24">
-                      <a target="_blank" href="#"
-                        title="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
-                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg&quot;);"
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
-                          data-ll-status="loaded">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
-                                alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group tổ chức buổi training chuyên sâu các sản phẩm độc
-                                quyền với đối tác chiến lược</div>
-                              <div class="mt-3 mb-2">
-                                <span>Buổi training giúp đối tác hiểu sâu các sản phẩm đầu tư độc quyền của SI Group, từ
-                                  đó nâng cao năng lực tư vấn và tiếp cận đúng đối tượng nhà đầu tư tiềm năng.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="5" aria-hidden="true"
-                      role="tabpanel" id="slick-slide25" aria-describedby="slick-slide-control25">
-                      <a target="_blank" href="#"
-                        title="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
-                        tabindex="-1">
-                        <div
-                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg&quot;);"
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
-                          data-ll-status="loaded">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                                alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ   " /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch
-                                hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;</div>
-                              <div class="mt-3 mb-2">
-                                <span>Vừa qua, Ban lãnh đạo SI Group đã đến Bahamas gặp gỡ trực tiếp và trao đổi với Thủ
-                                  tướng và Bộ trưởng Ngoại giao của quốc gia này về kế hoạch hợp tác đầu tư phát triển
-                                  vào Đặc Khu Kinh tế SEZ, khẳng định vai trò cầu nối giữa Bahams với giới đầu tư toàn
-                                  cầu.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="6" aria-hidden="true"
-                      role="tabpanel" id="slick-slide26" aria-describedby="slick-slide-control26">
-                      <a target="_blank" href="#"
-                        title="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
-                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg&quot;);"
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
-                          data-ll-status="loaded">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
-                                alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney
-                                (Úc)</div>
-                              <div class="mt-3 mb-2">
-                                <span>Sở hữu vị trí trung tâm đắc địa, môi trường sống cao cấp và tiềm năng tăng trưởng
-                                  bền vững, dự án Double Bay hứa hẹn sẽ là một trong những khu vực thu hút sự quan tâm
-                                  mạnh mẽ từ giới đầu tư quốc tế.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="7" aria-hidden="true"
-                      role="tabpanel" id="slick-slide27" aria-describedby="slick-slide-control27">
-                      <a target="_blank" href="#"
-                        title="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"
-                                alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &#038; trao đổi về kế hoạch xúc tiến thương mại" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao
-                                đổi về kế hoạch xúc tiến thương mại</div>
-                              <div class="mt-3 mb-2">
-                                <span>Trong chuyến thăm và gặp gỡ Ban lãnh đạo SI Group, Đại sứ El Salvador chia sẻ Việt
-                                  Nam là cầu nối hợp tác giữa quốc gia này với khu vực Đông Nam Á, trong đó Tập đoàn
-                                  đóng vai trò quan trọng trong chiến lược hợp tác, mở rộng mối quan hệ quốc tế nhằm
-                                  thúc đẩy kinh tế phát triển. </span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="0" style="width: 824px;" data-slick-index="8" aria-hidden="true"
-                      role="tabpanel" id="slick-slide28" aria-describedby="slick-slide-control28">
-                      <a target="_blank" href="#"
-                        title="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
-                        tabindex="0">
-                        <div
-                          data-bg="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
-                          style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
-                                alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &#038; làm việc đến lao động Việt" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ
-                                môi trường sống &amp; làm việc đến lao động Việt</div>
-                              <div class="mt-3 mb-2">
-                                <span>Sau buổi gặp gỡ và làm việc với chính quyền bang Tây Úc, Thị trưởng thành phố Port
-                                  Hedland – ông Peter Carter – đã đến thăm Trụ sở chính của SI Group. Trong chuyến thăm,
-                                  ông đã giới thiệu về môi trường sống và làm việc tại Port Hedland dành cho lao động
-                                  Việt Nam, đồng thời mở ra cơ hội kết nối việc làm.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-current slick-active" tabindex="-1" style="width: 824px;"
-                      data-slick-index="9" aria-hidden="false" role="tabpanel" id="slick-slide29"
-                      aria-describedby="slick-slide-control29">
-                      <a target="_blank" href="#"
-                        title="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"
-                                alt="Phó Tổng Giám đốc SI Group &#8211; Ông Jean Lesly Benoit gặp gỡ &#038; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp;
-                                làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam</div>
-                              <div class="mt-3 mb-2">
-                                <span>Những sự kiện này thể hiện rõ vai trò và ảnh hưởng của ông Lesly trong các hoạt
-                                  động hợp tác quốc tế với Chính phủ Việt Nam, đồng thời củng cố cam kết lâu dài của SI
-                                  Group trong việc đồng hành cùng khách hàng và đối tác nhằm xây dựng và mở rộng các mối
-                                  quan hệ chiến lược bền vững.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="10"
-                      aria-hidden="true" role="tabpanel" id="slick-slide210" aria-describedby="slick-slide-control210">
-                      <a target="_blank" href="#"
-                        title="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"
-                                alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch
-                                vụ tin dùng</div>
-                              <div class="mt-3 mb-2">
-                                <span>Trải qua hơn 25 năm xây dựng và phát triển, đồng hành cùng hàng triệu gia đình
-                                  Việt trên hành trình hiện thực hóa giấc mơ di trú, SI Group vinh dự được trao tặng
-                                  Giải thưởng Sản phẩm – Dịch vụ tin dùng, như một sự ghi nhận cho uy tín và chất lượng
-                                  dịch vụ mà tập đoàn đã không ngừng nỗ lực mang đến.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="11"
-                      aria-hidden="true" role="tabpanel" id="slick-slide211" aria-describedby="slick-slide-control211">
-                      <a target="_blank" href="#" title="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"
-                                alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia</div>
-                              <div class="mt-3 mb-2">
-                                <span>Với hành trình hơn 25 năm hình thành và phát triển, SI Group đã từng bước gây dựng
-                                  thành công hệ sinh thái toàn diện trong lĩnh vực di trú – an cư toàn cầu và đầu tư
-                                  kinh doanh quốc tế, đồng thời vinh dự được xướng tên trong danh hiệu Thương hiệu Mạnh
-                                  Quốc gia.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="12"
-                      aria-hidden="true" role="tabpanel" id="slick-slide212" aria-describedby="slick-slide-control212">
-                      <a target="_blank" href="#"
-                        title="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"
-                                alt="CEO SI Group &#8211; Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp &#8211; Doanh nhân xuất sắc" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp –
-                                Doanh nhân xuất sắc</div>
-                              <div class="mt-3 mb-2">
-                                <span>Tại Lễ công bố Doanh nghiệp – Doanh nhân xuất sắc vừa diễn ra tại Nhà hát Quân đội
-                                  (TP.HCM), CEO SI Group – bà Lê Thị Huy Bình đã vinh dự được xướng tên trong hạng mục
-                                  Doanh nhân xuất sắc, ghi dấu ấn nhờ những đóng góp nổi bật và tích cực vào sự phát
-                                  triển của nền kinh tế Việt Nam.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="13"
-                      aria-hidden="true" role="tabpanel" id="slick-slide213" aria-describedby="slick-slide-control213">
-                      <a target="_blank" href="#"
-                        title="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"
-                                alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ
-                                Donald Trump</div>
-                              <div class="mt-3 mb-2">
-                                <span>Chủ tịch SI GROUP, ông Phan Nhật Minh, đã tham gia một loạt sự kiện quan trọng tại
-                                  Washington, D.C., nằm trong khuôn khổ các hoạt động tiền lễ nhậm chức của Tổng thống
-                                  thứ 47 Hoa Kỳ, Donald Trump.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide" tabindex="-1" style="width: 824px;" data-slick-index="14"
-                      aria-hidden="true" role="tabpanel" id="slick-slide214" aria-describedby="slick-slide-control214">
-                      <a target="_blank" href="#" title="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"
-                                alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta</div>
-                              <div class="mt-3 mb-2">
-                                <span>Chủ tịch Phan Nhật Minh vừa có cơ hội đặc biệt gặp gỡ ông Silvio Schembri, Bộ
-                                  trưởng Bộ Kinh tế, Doanh nghiệp và Dự án Chiến lược của Malta.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="15"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon,
-                                thúc đẩy phát triển Đặc khu Kinh tế SEZ</div>
-                              <div class="mt-3 mb-2">
-                                <span>Lễ ký kết hợp tác chiến lược giữa SI Group và Chính phủ Solomon Islands đánh dấu
-                                  cột mốc lần đầu tiên một doanh nghiệp Việt giữ vai trò cố vấn chiến lược và nhà đầu tư
-                                  ưu tiên trong quá trình phát triển Đặc khu Kinh tế SEZ quốc tế. Sự kiện mở ra chương
-                                  mới trong hợp tác thể chế, thu hút đầu tư và kiến tạo mô hình phát triển bền vững cho
-                                  quốc đảo Nam Thái Bình Dương.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="16"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-1-1.jpg"
-                                alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho
-                                Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà</div>
-                              <div class="mt-3 mb-2">
-                                <span>Nhằm ghi nhận những đóng góp quan trọng trong việc thúc đẩy quá trình ký kết Hiệp
-                                  định Thương mại Song phương Việt Nam – Hoa Kỳ vào năm 2000, bà Nguyễn Thị Bích Hà,
-                                  hiện giữ vị trí Phó Chủ tịch Hội đồng Quản trị Tập đoàn SI Group, đã vinh dự được trao
-                                  tặng giải thưởng “2002 Foreign Service National of the Year Award” vì thành tích xuất
-                                  sắc.
-
-
-
-
-
-                                </span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="17"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                        tabindex="-1">
-                        <div
-                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
-                          style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
-                                alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư " /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về
-                                chiến lược hợp tác đầu tư&nbsp;</div>
-                              <div class="mt-3 mb-2">
-                                <span>Buổi thảo luận giữa Ban lãnh đạo SI Group với chính quyền bang Queensland nhằm
-                                  tiến tới hợp tác lâu dài để hỗ trợ tạo điều kiện cho các doanh nhân, nhà đầu tư Việt
-                                  mở rộng cơ hội kinh doanh và sinh sống lâu dài tại bang.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="18"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg"
-                                alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &#038; Độc quyền sở hữu quốc tịch" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc
-                                quyền sở hữu quốc tịch</div>
-                              <div class="mt-3 mb-2">
-                                <span>Vào ngày 29/03/2025 tại Hà Nội và 05/04/2025 tại TP. Hồ Chí Minh, Techcombank phối
-                                  hợp cùng SI Group tổ chức thành công hội thảo “Quản lý Gia sản – Quốc tế hóa Doanh
-                                  nghiệp &amp; Độc quyền Sở hữu Quốc tịch”, thu hút sự tham dự của 30 doanh nhân, nhà
-                                  đầu tư sở hữu doanh nghiệp có doanh thu top đầu Việt Nam.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="19"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
-                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg&quot;);"
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
-                          data-ll-status="loaded">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg"
-                                alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group tổ chức buổi training chuyên sâu các sản phẩm độc
-                                quyền với đối tác chiến lược</div>
-                              <div class="mt-3 mb-2">
-                                <span>Buổi training giúp đối tác hiểu sâu các sản phẩm đầu tư độc quyền của SI Group, từ
-                                  đó nâng cao năng lực tư vấn và tiếp cận đúng đối tượng nhà đầu tư tiềm năng.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="20"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
-                        tabindex="-1">
-                        <div
-                          data-bg="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg&quot;);"
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
-                          data-ll-status="loaded">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                                alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ   " /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch
-                                hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;</div>
-                              <div class="mt-3 mb-2">
-                                <span>Vừa qua, Ban lãnh đạo SI Group đã đến Bahamas gặp gỡ trực tiếp và trao đổi với Thủ
-                                  tướng và Bộ trưởng Ngoại giao của quốc gia này về kế hoạch hợp tác đầu tư phát triển
-                                  vào Đặc Khu Kinh tế SEZ, khẳng định vai trò cầu nối giữa Bahams với giới đầu tư toàn
-                                  cầu.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="21"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
-                          style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg&quot;);"
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload entered lazyloaded exited"
-                          data-ll-status="loaded">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/04/b694112cf0ae40f019bf.jpg"
-                                alt="SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney (Úc)" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group ra mắt dự án bất động sản Double Bay tại TP Sydney
-                                (Úc)</div>
-                              <div class="mt-3 mb-2">
-                                <span>Sở hữu vị trí trung tâm đắc địa, môi trường sống cao cấp và tiềm năng tăng trưởng
-                                  bền vững, dự án Double Bay hứa hẹn sẽ là một trong những khu vực thu hút sự quan tâm
-                                  mạnh mẽ từ giới đầu tư quốc tế.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="22"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao đổi về kế hoạch xúc tiến thương mại"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/04/DSC03933-2.jpg"
-                                alt="Đại sứ El Salvador đến thăm Trụ sở chính SI Group &#038; trao đổi về kế hoạch xúc tiến thương mại" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Đại sứ El Salvador đến thăm Trụ sở chính SI Group &amp; trao
-                                đổi về kế hoạch xúc tiến thương mại</div>
-                              <div class="mt-3 mb-2">
-                                <span>Trong chuyến thăm và gặp gỡ Ban lãnh đạo SI Group, Đại sứ El Salvador chia sẻ Việt
-                                  Nam là cầu nối hợp tác giữa quốc gia này với khu vực Đông Nam Á, trong đó Tập đoàn
-                                  đóng vai trò quan trọng trong chiến lược hợp tác, mở rộng mối quan hệ quốc tế nhằm
-                                  thúc đẩy kinh tế phát triển. </span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="23"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
-                        tabindex="-1">
-                        <div
-                          data-bg="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
-                          style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &amp; làm việc đến lao động Việt"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2025/03/visa-nha-dau-tu-trong-yeu-SIV-2-2.jpg"
-                                alt="Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ môi trường sống &#038; làm việc đến lao động Việt" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Thị trưởng Port Hedland thăm Trụ sở chính SI Group và chia sẻ
-                                môi trường sống &amp; làm việc đến lao động Việt</div>
-                              <div class="mt-3 mb-2">
-                                <span>Sau buổi gặp gỡ và làm việc với chính quyền bang Tây Úc, Thị trưởng thành phố Port
-                                  Hedland – ông Peter Carter – đã đến thăm Trụ sở chính của SI Group. Trong chuyến thăm,
-                                  ông đã giới thiệu về môi trường sống và làm việc tại Port Hedland dành cho lao động
-                                  Việt Nam, đồng thời mở ra cơ hội kết nối việc làm.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="24"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg"
-                                alt="Phó Tổng Giám đốc SI Group &#8211; Ông Jean Lesly Benoit gặp gỡ &#038; làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ &amp;
-                                làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam</div>
-                              <div class="mt-3 mb-2">
-                                <span>Những sự kiện này thể hiện rõ vai trò và ảnh hưởng của ông Lesly trong các hoạt
-                                  động hợp tác quốc tế với Chính phủ Việt Nam, đồng thời củng cố cam kết lâu dài của SI
-                                  Group trong việc đồng hành cùng khách hàng và đối tác nhằm xây dựng và mở rộng các mối
-                                  quan hệ chiến lược bền vững.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="25"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_59.jpg"
-                                alt="SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch vụ tin dùng" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group khẳng định chất lượng với Giải thưởng Sản phẩm – Dịch
-                                vụ tin dùng</div>
-                              <div class="mt-3 mb-2">
-                                <span>Trải qua hơn 25 năm xây dựng và phát triển, đồng hành cùng hàng triệu gia đình
-                                  Việt trên hành trình hiện thực hóa giấc mơ di trú, SI Group vinh dự được trao tặng
-                                  Giải thưởng Sản phẩm – Dịch vụ tin dùng, như một sự ghi nhận cho uy tín và chất lượng
-                                  dịch vụ mà tập đoàn đã không ngừng nỗ lực mang đến.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="26"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#" title="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/SIGROUP_96.jpg"
-                                alt="SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">SI Group tự hào được tôn vinh Thương hiệu Mạnh Quốc gia</div>
-                              <div class="mt-3 mb-2">
-                                <span>Với hành trình hơn 25 năm hình thành và phát triển, SI Group đã từng bước gây dựng
-                                  thành công hệ sinh thái toàn diện trong lĩnh vực di trú – an cư toàn cầu và đầu tư
-                                  kinh doanh quốc tế, đồng thời vinh dự được xướng tên trong danh hiệu Thương hiệu Mạnh
-                                  Quốc gia.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="27"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp – Doanh nhân xuất sắc"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail-3.jpg"
-                                alt="CEO SI Group &#8211; Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp &#8211; Doanh nhân xuất sắc" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">CEO SI Group – Bà Lê Thị Huy Bình được vinh danh Doanh nghiệp –
-                                Doanh nhân xuất sắc</div>
-                              <div class="mt-3 mb-2">
-                                <span>Tại Lễ công bố Doanh nghiệp – Doanh nhân xuất sắc vừa diễn ra tại Nhà hát Quân đội
-                                  (TP.HCM), CEO SI Group – bà Lê Thị Huy Bình đã vinh dự được xướng tên trong hạng mục
-                                  Doanh nhân xuất sắc, ghi dấu ấn nhờ những đóng góp nổi bật và tích cực vào sự phát
-                                  triển của nền kinh tế Việt Nam.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="28"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#"
-                        title="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"><noscript><img
-                                class="w-100" src="https://sigroup.vn/wp-content/uploads/2025/01/Thumbnail-28.jpg"
-                                alt="Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ Donald Trump" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Chủ tịch SI Group dự sự kiện tiền nhậm chức của Tổng thống Mỹ
-                                Donald Trump</div>
-                              <div class="mt-3 mb-2">
-                                <span>Chủ tịch SI GROUP, ông Phan Nhật Minh, đã tham gia một loạt sự kiện quan trọng tại
-                                  Washington, D.C., nằm trong khuôn khổ các hoạt động tiền lễ nhậm chức của Tổng thống
-                                  thứ 47 Hoa Kỳ, Donald Trump.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="slick-slide slick-cloned" tabindex="-1" style="width: 824px;" data-slick-index="29"
-                      id="" aria-hidden="true">
-                      <a target="_blank" href="#" title="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                        tabindex="-1">
-                        <div data-bg="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg" style=""
-                          class="justify-center align-items-center position-relative bg-banner vh-80 rocket-lazyload">
-                          <div class="bg-overlay"></div>
-                          <div class="d-sm-block d-md-none">
-                            <img class="w-100"
-                              src="https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                              alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta"
-                              data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"><noscript><img
-                                class="w-100"
-                                src="https://sigroup.vn/wp-content/uploads/2024/12/235117e390ec20b279fd.jpg"
-                                alt="Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta" /></noscript>
-                          </div>
-                          <div class="banner-wrap w-100 h-100 position-relative">
-                            <div class="w-100 mb-13">
-                              <div class="si-banners-tt">Chủ tịch SI Group gặp gỡ Bộ trưởng Bộ Kinh tế Malta</div>
-                              <div class="mt-3 mb-2">
-                                <span>Chủ tịch Phan Nhật Minh vừa có cơ hội đặc biệt gặp gỡ ông Silvio Schembri, Bộ
-                                  trưởng Bộ Kinh tế, Doanh nghiệp và Dự án Chiến lược của Malta.</span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
+                      </div>
+                    </a>
                   </div>
-                </div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button>
-                <ul class="slick-dots" style="" role="tablist">
-                  <li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control20"
-                      aria-controls="slick-slide20" aria-label="1 of 15" tabindex="-1">1</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control21"
-                      aria-controls="slick-slide21" aria-label="2 of 15" tabindex="-1">2</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control22"
-                      aria-controls="slick-slide22" aria-label="3 of 15" tabindex="-1">3</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control23"
-                      aria-controls="slick-slide23" aria-label="4 of 15" tabindex="-1">4</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control24"
-                      aria-controls="slick-slide24" aria-label="5 of 15" tabindex="-1">5</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control25"
-                      aria-controls="slick-slide25" aria-label="6 of 15" tabindex="-1">6</button></li>
-                  <li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control26"
-                      aria-controls="slick-slide26" aria-label="7 of 15" tabindex="-1">7</button></li>
-                  <li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control27"
-                      aria-controls="slick-slide27" aria-label="8 of 15" tabindex="-1">8</button></li>
-                  <li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control28"
-                      aria-controls="slick-slide28" aria-label="9 of 15" tabindex="0" aria-selected="true">9</button>
-                  </li>
-                  <li role="presentation" class="slick-active"><button type="button" role="tab"
-                      id="slick-slide-control29" aria-controls="slick-slide29" aria-label="10 of 15"
-                      tabindex="-1">10</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control210"
-                      aria-controls="slick-slide210" aria-label="11 of 15" tabindex="-1">11</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control211"
-                      aria-controls="slick-slide211" aria-label="12 of 15" tabindex="-1">12</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control212"
-                      aria-controls="slick-slide212" aria-label="13 of 15" tabindex="-1">13</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control213"
-                      aria-controls="slick-slide213" aria-label="14 of 15" tabindex="-1">14</button></li>
-                  <li role="presentation"><button type="button" role="tab" id="slick-slide-control214"
-                      aria-controls="slick-slide214" aria-label="15 of 15" tabindex="-1">15</button></li>
-                </ul>
+                </SlickCarousel>
               </div>
-            </div>
+            </section>
             <div class="container">
               <div data-aos="fade-up" class="mt-5 row">
                 <div class="col-12">
@@ -1823,7 +413,7 @@
                 </div>
               </div>
             </div>
-            <div id="section-7 transform lg:!translate-x-[3%] container">
+            <div id="section-7 transform container">
               <div class="si-banners">
                 <div class="banner-events">
                   <SlickCarousel :="true" :dots="true" :infinite="true" :autoplay="false" :autoplaySpeed="2000"
@@ -2385,10 +975,229 @@ import "@/assets/css/sig-core.css"
 export default {
   components: {
 
-  }
+  },
+  data() {
+    return {
+      banners: [
+        {
+          title: "Úc",
+          bgDesktop: require("@/assets/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d.webp"),
+          bgMobile: require("@/assets/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d_mb.webp"),
+          stats: {
+            "Tỷ lệ dân nhập cư": "29.2%",
+            "Hạn ngạch 2025": "185,000",
+            "Xếp hạng hộ chiếu": "Top 7/199 thế giới",
+            "Đi lại tự do": "173 nước",
+            "Xếp hạng giáo dục": "Top 8/85",
+          },
+        },
+        {
+          title: "Mỹ",
+          bgDesktop: require("@/assets/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d.webp"),
+          bgMobile: require("@/assets/uploads/2023/11/caleb_Jmuy_B_Lib_Ro_unsplash_0e97325b0d.webp"),
+          stats: {
+            "Tỷ lệ dân nhập cư": "13.6%",
+            "Hạn ngạch 2025": "366,000",
+            "Xếp hạng hộ chiếu": "Top 8/199 thế giới",
+            "Đi lại tự do": "172 nước",
+            "Xếp hạng giáo dục": "Top 1/85",
+          },
+        },
+        {
+          title: "Canada",
+          bgDesktop: require("@/assets/uploads/2023/10/Canada_9_e9399ff1dc-1.jpeg"),
+          bgMobile: require("@/assets/uploads/2023/11/Canada_9_e9399ff1dc_mb.webp"),
+          stats: {
+            "Tỷ lệ dân nhập cư": "23%",
+            "Hạn ngạch 2025": "395,000",
+            "Xếp hạng hộ chiếu": "Top 7/199 thế giới",
+            "Đi lại tự do": "173 nước",
+            "Xếp hạng giáo dục": "Top 4/85",
+          },
+        },
+        {
+          title: "EU",
+          bgDesktop: require("@/assets/uploads/2023/10/Hungaria_e94c77761e.jpeg"),
+          bgMobile: require("@/assets/uploads/2023/11/Hungaria_e94c77761e_mb.webp"),
+          description:
+            "Các chương trình định cư/lấy thường trú nhân phổ biến tại Hungary, Malta, Tây Ban Nha và các quốc gia EU khác.",
+        },
+        {
+          title: "Các nước khác",
+          bgDesktop: require("@/assets/uploads/2023/10/New_Zealand_5_61557c235f.jpeg"),
+          bgMobile: require("@/assets/uploads/2023/11/New_Zealand_5_61557c235f_mb.webp"),
+          description:
+            "Các chương trình định cư/lấy thường trú nhân phổ biến tại St Kitts & Nevis, Đảo Síp, New Zealand, Saint Lucia và các quốc gia khác.",
+        },
+      ],
+      awards: [
+        {
+          image: "https://sigroup.vn/wp-content/uploads/2024/05/c3c78b33327a9324ca6b.jpg",
+          type: "GIẢI THƯỞNG",
+          title: "DOANH NGHIỆP - DOANH NHÂN XUẤT SẮC",
+        },
+        {
+          image: "https://sigroup.vn/wp-content/uploads/2025/03/Thuong-hieu-manh-quoc-gia.png",
+          type: "TOP 10",
+          title: "THƯƠNG HIỆU MẠNH QUỐC GIA",
+        },
+        {
+          image: "https://sigroup.vn/wp-content/uploads/2024/05/b67f418df8c4599a00d5.jpg",
+          type: "GIẢI THƯỞNG",
+          title: "SẢN PHẨM DỊCH VỤ TIN DÙNG",
+        },
+        {
+          image: "https://sigroup.vn/wp-content/uploads/2025/03/Asia-business-awards.png",
+          type: "TOP 10",
+          title: "THƯƠNG HIỆU TÍN NHIỆM HÀNG ĐẦU CHÂU Á",
+        },
+      ],
+      responsiveSettings: [
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+          },
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 2,
+          },
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+          },
+        },
+      ],
+      banners2: [
+        {
+          title:
+            "Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư",
+          description:
+            "Buổi thảo luận giữa Ban lãnh đạo SI Group với chính quyền bang Queensland nhằm tiến tới hợp tác lâu dài để hỗ trợ tạo điều kiện cho các doanh nhân, nhà đầu tư Việt mở rộng cơ hội kinh doanh và sinh sống lâu dài tại bang.",
+          bgDesktop:
+            "https://sigroup.vn/wp-content/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg",
+          bgMobile:
+            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+          link: "#",
+        },
+        {
+          title:
+            "Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp & Độc quyền sở hữu quốc tịch",
+          description:
+            "Vào ngày 29/03/2025 tại Hà Nội và 05/04/2025 tại TP. Hồ Chí Minh, Techcombank phối hợp cùng SI Group tổ chức hội thảo “Quản lý Gia sản – Quốc tế hóa Doanh nghiệp & Độc quyền Sở hữu Quốc tịch”, thu hút sự tham dự của 30 doanh nhân hàng đầu Việt Nam.",
+          bgDesktop:
+            "https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-3-1.jpg",
+          bgMobile:
+            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+          link: "#",
+        },
+        {
+          title:
+            "SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược",
+          description:
+            "Buổi training giúp đối tác hiểu sâu hơn các sản phẩm đầu tư độc quyền của SI Group, từ đó nâng cao năng lực tư vấn và tiếp cận đúng đối tượng nhà đầu tư tiềm năng.",
+          bgDesktop:
+            "https://sigroup.vn/wp-content/uploads/2025/04/Thumbnail-7.jpg",
+          bgMobile:
+            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+          link: "#",
+        },
+        {
+          title:
+            "Phó Tổng Giám đốc SI Group – Ông Jean Lesly Benoit gặp gỡ & làm việc với các lãnh đạo cấp cao của Chính phủ Việt Nam",
+          description:
+            "Những sự kiện này thể hiện vai trò và ảnh hưởng của ông Lesly trong hợp tác quốc tế, đồng thời củng cố cam kết lâu dài của SI Group trong việc đồng hành cùng khách hàng và đối tác.",
+          bgDesktop:
+            "https://sigroup.vn/wp-content/uploads/2025/03/Thumbnail.jpg",
+          bgMobile:
+            "https://sigroup.vn/wp-content/uploads/2025/06/su-kien-dau-tu-solomon.jpg",
+          link: "#",
+        },
+      ],
+    };
+  },
 }
 </script>
 <style scoped>
+.si-banners {
+  margin: auto;
+}
+
+.country-banners {
+  position: relative;
+  overflow: hidden;
+}
+
+.banner-slide {
+  position: relative;
+  height: 500px;
+  color: white;
+}
+
+.banner-bg {
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.bg-overlay {
+  background: rgba(0, 0, 0, 0.4);
+  height: 100%;
+  width: 100%;
+}
+
+.banner-content {
+  position: relative;
+  z-index: 2;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.info h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.si-btn {
+  display: inline-block;
+  margin-top: 20px;
+  background: #e11d48;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.social-links {
+  position: absolute;
+  bottom: 30px;
+  left: 80px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.line {
+  width: 50px;
+  height: 2px;
+  background: white;
+  margin: 0 10px;
+}
+
+.icons a img {
+  width: 20px;
+  height: 20px;
+}
+
 #section-1 {
   max-width: 1420px
 }
