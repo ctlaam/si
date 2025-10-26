@@ -438,14 +438,9 @@
                             <li class="menu-item"><a 
                                     href="https://web.facebook.com/rsibatdongsanquocte"><span>Bất động sản</span></a>
                             </li>
-<<<<<<< HEAD
-                            <li class="menu-item"><a target="_blank" rel="nofollow" href=""><span>Xuất nhập
-                                        khẩu</span></a></li>
-                            <li class="menu-item"><a href="/Events"><span>Sự
-=======
+
                             <li class="menu-item"><a  href="/tsi"><span>Xuất nhập khẩu</span></a></li>
                             <li class="menu-item"><a href="https://sigroup.vn/su-kien-si-group/"><span>Sự
->>>>>>> c6c3d46ca30d7a0d6db09aefde730c9bc03e4325
                                         Kiện</span></a></li>
                             <li class="menu-item"><a href="/News"><span>Tin
                                         Tức</span></a></li>

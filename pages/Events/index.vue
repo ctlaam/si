@@ -645,15 +645,10 @@ export default {
         height: auto
     }
 
-<<<<<<< HEAD
-    /* .event-page .si-banners .bg-banner {
-        background: none !important
-    } */
-=======
+
     .event-page .si-banners .bg-banner {
         background: none !important
     }
->>>>>>> c6c3d46ca30d7a0d6db09aefde730c9bc03e4325
 
     .event-page .si-banners .slick-dots {
         bottom: auto;
