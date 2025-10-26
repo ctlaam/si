@@ -22,6 +22,7 @@
               </div>
             </div>
           </div>
+<<<<<<< HEAD
           <div class="container my-10 py-5">
             <div class="row">
               <div class="col-12">
@@ -679,9 +680,19 @@
                 </ul>
               </div>
             </div>
+=======
+        </main>
+      
+       
+        <div class="popup-form">
+          <div class="position-relative">
+            <div class="close-popup"></div>
+            <div class="content-popup">Đăng ký thông tin thành công!</div>
+>>>>>>> c6c3d46ca30d7a0d6db09aefde730c9bc03e4325
           </div>
           <div class="copyright">© 2022 SI GROUP. All Rights Reserved By SI GROUP</div>
         </div>
+<<<<<<< HEAD
       </footer>
       <div class="popup-form">
         <div class="position-relative">
@@ -788,6 +799,19 @@ export default {
     },
     closePopup() {
       this.activePopup = null;
+=======
+      </div><!-- #site-inner -->
+    </div>
+  </template>
+  
+  <script>
+  
+  import "@/assets/css/slick.css"
+import "@/assets/css/sig-core.css"
+  export default {
+    components: {
+      
+>>>>>>> c6c3d46ca30d7a0d6db09aefde730c9bc03e4325
     }
   }
 }

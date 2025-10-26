@@ -17,6 +17,8 @@
     "vue-slick-carousel": "^1.0.6"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^1.0.0"
+    "@nuxtjs/tailwindcss": "^1.0.0",
+    "sass": "^1.93.2",
+    "sass-loader": "^10.5.2"
   }
 }
