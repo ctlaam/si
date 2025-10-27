@@ -4,7 +4,7 @@ export default {
     htmlAttrs: {
       'data-theme': 'light', // Thêm data-theme="light" vào thẻ <html>
     },
-    title: 'HOÀNG HÀ Group',
+    title: 'Định cư Canada: Cập nhật mới nhất 2024 - Hoàng Hà Group',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
