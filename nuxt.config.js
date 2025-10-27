@@ -63,6 +63,12 @@ export default {
 
   plugins: [
     { src: '~/plugins/vue-slick-carousel.client.js', mode: 'client' }
-  ]
+  ],
+
+  // 👇 Thêm đoạn này
+  server: {
+    port: 3003, // thay đổi port ở đây
+    host: '0.0.0.0', // cho phép truy cập từ bên ngoài server (nếu cần)
+  },
 
 }
