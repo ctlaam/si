@@ -33,7 +33,7 @@
                                             <!-- Slide 1 -->
                                             <a target="_blank"
                                                 href="#"
-                                                title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ">
+                                                title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ">
                                                 <div class="justify-center align-items-center position-relative bg-banner vh-80"
                                                     :style="{
                                                         background: `url(${require('@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg')}) center/cover no-repeat`
@@ -42,13 +42,13 @@
                                                     <div class="banner-wrap w-100 h-100 position-relative">
                                                         <div class="w-100 mb-13">
                                                             <h2>
-                                                                SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư
+                                                                HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư
                                                                 Solomon, thúc
                                                                 đẩy phát triển Đặc khu Kinh tế SEZ
                                                             </h2>
                                                             <div class="mt-3 mb-2">
                                                                 <span>
-                                                                    Lễ ký kết hợp tác chiến lược giữa SI Group và Chính
+                                                                    Lễ ký kết hợp tác chiến lược giữa HOÀNG HÀ Group và Chính
                                                                     phủ
                                                                     Solomon Islands đánh dấu cột mốc lần đầu tiên
                                                                     một doanh nghiệp Việt giữ vai trò cố vấn chiến lược
@@ -66,7 +66,7 @@
                                             <!-- Slide 2 -->
                                             <a target="_blank"
                                                 href="#"
-                                                title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà">
+                                                title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà">
                                                 <div class="justify-center align-items-center position-relative bg-banner vh-80"
                                                     :style="{
                                                         background: `url(${require('@/assets/uploads/2025/04/Thumbnail-1-1.jpg')}) center/cover no-repeat`
@@ -76,7 +76,7 @@
                                                         <div class="w-100 mb-13">
                                                             <h2>Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc
                                                                 cho
-                                                                Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà</h2>
+                                                                Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà</h2>
                                                             <div class="mt-3 mb-2">
                                                                 <span>
                                                                     Nhằm ghi nhận những đóng góp quan trọng trong việc
@@ -85,7 +85,7 @@
                                                                     Song phương Việt Nam – Hoa Kỳ vào năm 2000, bà
                                                                     Nguyễn
                                                                     Thị Bích Hà, hiện giữ vị trí Phó Chủ tịch Hội
-                                                                    đồng Quản trị Tập đoàn SI Group, đã vinh dự được
+                                                                    đồng Quản trị Tập đoàn HOÀNG HÀ Group, đã vinh dự được
                                                                     trao
                                                                     tặng giải thưởng “2002 Foreign Service National
                                                                     of the Year Award”.
@@ -114,7 +114,7 @@
                                                                 <span>
                                                                     Vào ngày 29/03/2025 tại Hà Nội và 05/04/2025 tại TP.
                                                                     Hồ
-                                                                    Chí Minh, Techcombank phối hợp cùng SI Group
+                                                                    Chí Minh, Techcombank phối hợp cùng HOÀNG HÀ Group
                                                                     tổ chức thành công hội thảo “Quản lý Gia sản – Quốc
                                                                     tế
                                                                     hóa Doanh nghiệp & Độc quyền Sở hữu Quốc tịch”.
@@ -135,20 +135,20 @@
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
                                             href="#"
-                                            title="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
+                                            title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                             class="si-event mt-10">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                    alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
+                                                    alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
                                                     data-lazy-src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                                     data-ll-status="loaded"><noscript><img
                                                         src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                                        alt="SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
+                                                        alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
                                             <div class="info">
-                                                <h2 class="my-3">SI Group ký kết hợp tác chiến lược tại sự kiện đầu tư
+                                                <h2 class="my-3">HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư
                                                     Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ</h2>
                                                 <div class="d-flex align-items-center">
                                                     <div class="d-flex align-items-center">
@@ -159,7 +159,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="py-3 si-4-line">
-                                                    <p>Lễ ký kết hợp tác chiến lược giữa SI Group và Chính phủ Solomon
+                                                    <p>Lễ ký kết hợp tác chiến lược giữa HOÀNG HÀ Group và Chính phủ Solomon
                                                         Islands đánh dấu cột mốc lần đầu tiên một doanh nghiệp Việt giữ
                                                         vai trò cố vấn chiến lược và nhà đầu tư ưu tiên trong quá trình
                                                         phát triển Đặc khu Kinh tế SEZ quốc tế. Sự kiện mở ra chương mới
@@ -172,21 +172,21 @@
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
                                             href="#"
-                                            title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
+                                            title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
                                             class="si-event mt-10">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                    alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà"
+                                                    alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
                                                     data-lazy-src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
                                                     data-ll-status="loaded"><noscript><img
                                                         src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
-                                                        alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT SI Group &#8211; Bà Nguyễn Thị Bích Hà"
+                                                        alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group &#8211; Bà Nguyễn Thị Bích Hà"
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
                                             <div class="info">
                                                 <h2 class="my-3">Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất
-                                                    sắc cho Phó Chủ tịch HĐQT SI Group – Bà Nguyễn Thị Bích Hà</h2>
+                                                    sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà</h2>
                                                 <div class="d-flex align-items-center">
                                                     <div class="d-flex align-items-center">
                                                         <span class="clock"></span><span></span>
@@ -199,7 +199,7 @@
                                                     <p>Nhằm ghi nhận những đóng góp quan trọng trong việc thúc đẩy quá
                                                         trình ký kết Hiệp định Thương mại Song phương Việt Nam – Hoa Kỳ
                                                         vào năm 2000, bà Nguyễn Thị Bích Hà, hiện giữ vị trí Phó Chủ
-                                                        tịch Hội đồng Quản trị Tập đoàn SI Group, đã vinh dự được trao
+                                                        tịch Hội đồng Quản trị Tập đoàn HOÀNG HÀ Group, đã vinh dự được trao
                                                         tặng giải thưởng “2002 Foreign Service National of the Year
                                                         Award” vì thành tích xuất sắc.
 
@@ -215,20 +215,20 @@
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
                                             href="#"
-                                            title="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
+                                            title="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                                             class="si-event mt-10">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
-                                                    alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
+                                                    alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
                                                     data-lazy-src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                                     data-ll-status="loaded"><noscript><img
                                                         src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
-                                                        alt="Lãnh đạo SI Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư "
+                                                        alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư "
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
                                             <div class="info">
-                                                <h2 class="my-3">Lãnh đạo SI Group thảo luận với chính quyền bang
+                                                <h2 class="my-3">Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang
                                                     Queensland về chiến lược hợp tác đầu tư&nbsp;</h2>
                                                 <div class="d-flex align-items-center">
                                                     <div class="d-flex align-items-center">
@@ -239,7 +239,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="py-3 si-4-line">
-                                                    <p>Buổi thảo luận giữa Ban lãnh đạo SI Group với chính quyền bang
+                                                    <p>Buổi thảo luận giữa Ban lãnh đạo HOÀNG HÀ Group với chính quyền bang
                                                         Queensland nhằm tiến tới hợp tác lâu dài để hỗ trợ tạo điều kiện
                                                         cho các doanh nhân, nhà đầu tư Việt mở rộng cơ hội kinh doanh và
                                                         sinh sống lâu dài tại bang.</p>
@@ -275,7 +275,7 @@
                                                 </div>
                                                 <div class="py-3 si-4-line">
                                                     <p>Vào ngày 29/03/2025 tại Hà Nội và 05/04/2025 tại TP. Hồ Chí Minh,
-                                                        Techcombank phối hợp cùng SI Group tổ chức thành công hội thảo
+                                                        Techcombank phối hợp cùng HOÀNG HÀ Group tổ chức thành công hội thảo
                                                         “Quản lý Gia sản – Quốc tế hóa Doanh nghiệp &amp; Độc quyền Sở
                                                         hữu Quốc tịch”, thu hút sự tham dự của 30 doanh nhân, nhà đầu tư
                                                         sở hữu doanh nghiệp có doanh thu top đầu Việt Nam.</p>
@@ -286,20 +286,20 @@
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
                                             href="#"
-                                            title="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
+                                            title="HOÀNG HÀ Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                                             class="si-event mt-10">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/Thumbnail-7.jpg"
-                                                    alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
+                                                    alt="HOÀNG HÀ Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
                                                     data-lazy-src="@/assets/uploads/2025/04/Thumbnail-7.jpg"
                                                     data-ll-status="loaded"><noscript><img
                                                         src="@/assets/uploads/2025/04/Thumbnail-7.jpg"
-                                                        alt="SI Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
+                                                        alt="HOÀNG HÀ Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
                                             <div class="info">
-                                                <h2 class="my-3">SI Group tổ chức buổi training chuyên sâu các sản phẩm
+                                                <h2 class="my-3">HOÀNG HÀ Group tổ chức buổi training chuyên sâu các sản phẩm
                                                     độc quyền với đối tác chiến lược</h2>
                                                 <div class="d-flex align-items-center">
                                                     <div class="d-flex align-items-center">
@@ -311,7 +311,7 @@
                                                 </div>
                                                 <div class="py-3 si-4-line">
                                                     <p>Buổi training giúp đối tác hiểu sâu các sản phẩm đầu tư độc quyền
-                                                        của SI Group, từ đó nâng cao năng lực tư vấn và tiếp cận đúng
+                                                        của HOÀNG HÀ Group, từ đó nâng cao năng lực tư vấn và tiếp cận đúng
                                                         đối tượng nhà đầu tư tiềm năng.</p>
                                                 </div>
                                             </div>
@@ -320,20 +320,20 @@
                                     <div class="col-12 col-md-6">
                                         <a target="_blank"
                                             href="#"
-                                            title="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
+                                            title="Ban lãnh đạo HOÀNG HÀ Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
                                             class="si-event mt-10">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                                                    alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
+                                                    alt="Ban lãnh đạo HOÀNG HÀ Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
                                                     class="blog-thumbnail img-fluid entered lazyloaded"
                                                     data-lazy-src="@/assets/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
                                                     data-ll-status="loaded"><noscript><img
                                                         src="@/assets/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
-                                                        alt="Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ   "
+                                                        alt="Ban lãnh đạo HOÀNG HÀ Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ   "
                                                         class="blog-thumbnail img-fluid" /></noscript>
                                             </div>
                                             <div class="info">
-                                                <h2 class="my-3">Ban lãnh đạo SI Group và Thủ tướng Bahamas trao đổi kế
+                                                <h2 class="my-3">Ban lãnh đạo HOÀNG HÀ Group và Thủ tướng Bahamas trao đổi kế
                                                     hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;</h2>
                                                 <div class="d-flex align-items-center">
                                                     <div class="d-flex align-items-center">
@@ -344,7 +344,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="py-3 si-4-line">
-                                                    <p>Vừa qua, Ban lãnh đạo SI Group đã đến Bahamas gặp gỡ trực tiếp và
+                                                    <p>Vừa qua, Ban lãnh đạo HOÀNG HÀ Group đã đến Bahamas gặp gỡ trực tiếp và
                                                         trao đổi với Thủ tướng và Bộ trưởng Ngoại giao của quốc gia này
                                                         về kế hoạch hợp tác đầu tư phát triển vào Đặc Khu Kinh tế SEZ,
                                                         khẳng định vai trò cầu nối giữa Bahams với giới đầu tư toàn cầu.
@@ -382,13 +382,13 @@
                                 <div class="col-12 col-md-6 info-contact">
                                     <div class="si-form-tt">Liên Hệ Tư Vấn</div>
                                     <div class="mt-4">
-                                        Điều làm nên khác biệt của SI Group chính là từng giải pháp được cá nhân hóa phù
+                                        Điều làm nên khác biệt của HOÀNG HÀ Group chính là từng giải pháp được cá nhân hóa phù
                                         hợp với nhu cầu, điều kiện riêng biệt của từng Quý khách hàng. Chúng tôi cung
                                         cấp giải pháp tối ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ
                                         thành công và thời gian hoàn thành cho từng dịch vụ.<br>Để được tư vấn chính
                                         xác, nhanh chóng và bảo mật, Quý khách liên hệ trực tiếp Hotline <a
                                             href="#">(+84) 979 355 355</a> hoặc để lại thông tin. Đội ngũ
-                                        với hơn 20 năm kinh nghiệm của SI Group luôn sẵn sàng để kết nối và tư vấn miễn
+                                        với hơn 20 năm kinh nghiệm của HOÀNG HÀ Group luôn sẵn sàng để kết nối và tư vấn miễn
                                         phí. </div>
                                 </div>
                                 <div class="col-12 col-md-6">

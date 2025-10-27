@@ -7,14 +7,14 @@
             <div class="container">
               <div class="row">
                 <div class="col-12">
-                  <h1>SI GROUP</h1>
+                  <h1>HOÀNG HÀ Group</h1>
                   <div class="bg-breadcrumbs mt-4">
                     <nav
                       style="--bs-breadcrumb-divider: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&quot;);"
                       aria-label="breadcrumb">
                       <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="#" title="Trang chủ">Trang chủ</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Về SI Group</li>
+                        <li class="breadcrumb-item active" aria-current="page">Về HOÀNG HÀ Group</li>
                       </ol>
                     </nav>
                   </div>
@@ -28,7 +28,7 @@
                 <h1 class="text-center si-title"></h1>
                 <div class="excerpt my-6">
                   <p><span style="font-weight: 300;">Thành lập năm 2001 với tiền thân là công ty ESPECO (H.K) Limited.,
-                      có trụ sở tại Đặc khu kinh tế Hồng Kông, SI Group tự hào là đơn vị dẫn đầu trong lĩnh vực cung cấp
+                      có trụ sở tại Đặc khu kinh tế Hồng Kông, HOÀNG HÀ Group tự hào là đơn vị dẫn đầu trong lĩnh vực cung cấp
                       Giải pháp Di trú – An cư (sau di trú); Giải pháp kinh doanh thương mại quốc tế; Đầu tư bất động
                       sản quốc tế; </span><span style="font-weight: 300;">và Du lịch Nhà hàng Khách sạn, Khu nghỉ dưỡng
                       cao cấp.&nbsp;</span></p>
@@ -140,11 +140,11 @@
                 <div class="si-line my-10"></div>
               </div>
               <div class="col-12">
-                <h2 class="text-center si-title">SI GROUP TRÊN TOÀN CẦU</h2>
-                <img src="@/assets/uploads/2024/11/World-Map-VN-2.png" alt="SI GROUP TRÊN TOÀN CẦU"
+                <h2 class="text-center si-title">HOÀNG HÀ Group TRÊN TOÀN CẦU</h2>
+                <img src="@/assets/uploads/2024/11/World-Map-VN-2.png" alt="HOÀNG HÀ Group TRÊN TOÀN CẦU"
                   data-lazy-src="@/assets/uploads/2024/11/World-Map-VN-2.png" data-ll-status="loaded"
                   class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/11/World-Map-VN-2.png"
-                    alt="SI GROUP TRÊN TOÀN CẦU"></noscript>
+                    alt="HOÀNG HÀ Group TRÊN TOÀN CẦU"></noscript>
               </div>
             </div>
           </div>
@@ -278,17 +278,17 @@
                             và hợp tác kinh tế quốc tế, bà Lê Thị Huy Bình đã tích lũy được nhiều kinh nghiệm và kỹ năng
                             quý báu trong quản lý điều hành.&nbsp;</span></p>
                         <p><span style="font-weight: 400;">Cùng với ông Phan Nhật Minh, bà Bình tiếp tục phát huy năng
-                            lực của mình trong vai trò điều hành tại SI Group, nơi bà đóng góp vào việc phát triển kinh
+                            lực của mình trong vai trò điều hành tại HOÀNG HÀ Group, nơi bà đóng góp vào việc phát triển kinh
                             doanh và định hình chiến lược của công ty.</span></p>
                         <p><span style="font-weight: 400;">Chia sẻ về triết lý sống và làm việc của mình, cũng chính là
-                            tôn chỉ khi kinh doanh của SI Group, bà Bình khẳng định sự</span><b> “Chuyên nghiệp – Thấu
+                            tôn chỉ khi kinh doanh của HOÀNG HÀ Group, bà Bình khẳng định sự</span><b> “Chuyên nghiệp – Thấu
                             đáo – Toàn diện”</b><span style="font-weight: 400;"> chính là kim chỉ nam cho mọi hoạt động
                             của doanh nghiệp ở mọi cấp độ</span></p>
                         <p><span style="font-weight: 400;">Từ khi tái cấu trúc năm 2019, bà Bình đã xây dựng thành công
                             hệ sinh thái SI xoay quanh các lĩnh vực: </span><span style="font-weight: 400;">Di trú – an
                             cư toàn cầu; Bất động sản quốc tế; Kinh doanh Xuất nhập khẩu &amp; Đầu tư tài chính</span>
                         </p>
-                        <p><span style="font-weight: 400;">Năm 2024, SI Group ghi dấu ấn với hàng loạt giải thưởng trong
+                        <p><span style="font-weight: 400;">Năm 2024, HOÀNG HÀ Group ghi dấu ấn với hàng loạt giải thưởng trong
                             nước và quốc tế:</span></p>
                         <ul>
                           <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Thương hiệu Tín
@@ -510,7 +510,7 @@ export default {
         {
           bgDesktop: '2023/11/Hinh-2-VP.jpg',
           bgMobile: '2023/11/Hinh-2-VP.jpg',
-          alt: 'Hình 2 - Văn phòng SI Group'
+          alt: 'Hình 2 - Văn phòng HOÀNG HÀ Group'
         },
       
       ]

@@ -1651,6 +1651,7 @@ body {
   }
   .si-footer .menu-chuong-trinh-container ul li {
     width: 50%;
+    padding-right: 15px;
   }
   .si-banners {
     max-width: 1420px;
@@ -2469,15 +2470,15 @@ body {
     align-items: center;
     justify-content: center;
   }
-  .si-nav.mobile .si-nav-close::after {
-    content: "";
-    width: 16px;
-    height: 16px;
-    background-image: url(https://sigroup.vn/wp-content/cache/min/1/wp-content/themes/sigroup/assets/images/close.png);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+  // .si-nav.mobile .si-nav-close::after {
+  //   content: "";
+  //   width: 16px;
+  //   height: 16px;
+  //   background-image: url(https://sigroup.vn/wp-content/cache/min/1/wp-content/themes/sigroup/assets/images/close.png);
+  //   background-position: center center;
+  //   background-repeat: no-repeat;
+  //   background-size: cover;
+  // }
   .si-nav.mobile .menu-main > li:hover .sub-menu,
   .si-nav.mobile .menu-main .sub-menu::after,
   .si-nav.mobile .menu-main > li > a::after {
@@ -2772,4 +2773,9 @@ body {
       max-width: 1240px !important;
     }
   }
+}
+
+html,
+* {
+  font-family: "Lexend Deca", sans-serif !important;
 }

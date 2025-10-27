@@ -61,10 +61,10 @@
                             </div>
                             <div data-id="690" class="col-12 col-md-4 mt-10">
                                 <a target="_blank" href="#"
-                                    title="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="item mt-5">
+                                    title="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="@/assets/uploads/2023/11/2_f164830d12.png"
-                                            alt="Giải pháp đầu tư EB-5 độc quyền cùng SI Group" class="blog-thumbnail">
+                                            alt="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group" class="blog-thumbnail">
                                         <div class="d-flex flag-detail">
                                             <img src="@/assets/uploads/2023/10/us_72cc7bdefa.png"
                                                 alt="Định cư Mỹ"
@@ -78,8 +78,8 @@
                                     <p class="py-3 d-flex align-items-center">
                                         <span class="clock"></span><span>11/04/2024</span>
                                     </p>
-                                    <h2>Giải pháp đầu tư EB-5 độc quyền cùng SI Group</h2>
-                                    <div class="py-2 si-3-line">Điều làm nên khác biệt khi đầu tư EB-5 cùng SI Group là
+                                    <h2>Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group</h2>
+                                    <div class="py-2 si-3-line">Điều làm nên khác biệt khi đầu tư EB-5 cùng HOÀNG HÀ Group là
                                         các cam kết được thể hiện rõ trong hợp đồng với nhà đầu tư về tiến độ và kết quả
                                         nhận được.</div>
                                 </a>
@@ -426,15 +426,15 @@
                             <div data-id="14698" class="col-12 col-md-4 mt-10">
                                 <a target="_blank"
                                     href="#"
-                                    title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group" class="item mt-5">
+                                    title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group" class="item mt-5">
                                     <div class="img position-relative">
                                         <img src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
-                                            alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group"
+                                            alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group"
                                             class="blog-thumbnail entered lazyloaded"
                                             data-lazy-src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                                             data-ll-status="loaded"><noscript><img
                                                 src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
-                                                alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group"
+                                                alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group"
                                                 class="blog-thumbnail" /></noscript>
                                         <div class="d-flex flag-detail">
                                             <img src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"
@@ -449,8 +449,8 @@
                                     <p class="py-3 d-flex align-items-center">
                                         <span class="clock"></span><span>25/02/2025</span>
                                     </p>
-                                    <h2>Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng SI Group</h2>
-                                    <div class="py-2 si-3-line">Đầu tư sở hữu Quốc tịch Malta cùng SI Group, nhà đầu tư
+                                    <h2>Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group</h2>
+                                    <div class="py-2 si-3-line">Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group, nhà đầu tư
                                         được đảm bảo sở hữu Quốc tịch Malta chỉ sau 12 tháng với tỷ lệ thành công gần
                                         như tuyệt đối. </div>
                                 </a>

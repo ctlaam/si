@@ -8,7 +8,7 @@
                             <div class="col-12 col-md-6 info-contact">
                                 <div class="si-form-tt">Liên Hệ Tư Vấn</div>
                                 <div class="mt-5">
-                                    Điều làm nên khác biệt của SI Group chính là từng giải pháp được cá nhân hóa phù hợp
+                                    Điều làm nên khác biệt của HOÀNG HÀ Group chính là từng giải pháp được cá nhân hóa phù hợp
                                     với nhu cầu, điều kiện riêng biệt của từng Quý khách hàng. Chúng tôi cung cấp giải
                                     pháp tối ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ thành công và
                                     thời gian hoàn thành cho từng dịch vụ.<br>Để được tư vấn chính xác, nhanh chóng và

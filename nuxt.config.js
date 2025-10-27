@@ -1,10 +1,10 @@
 export default {
   ssr: false,
-  head: {    
+  head: {
     htmlAttrs: {
       'data-theme': 'light', // Thêm data-theme="light" vào thẻ <html>
     },
-    title: 'SI Group',
+    title: 'HOÀNG HÀ Group',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' }
@@ -34,6 +34,10 @@ export default {
         rel: 'stylesheet',
         href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css'
       },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;500;600;700&display=swap',
+      },
 
     ],
     script: [
@@ -60,5 +64,5 @@ export default {
   plugins: [
     { src: '~/plugins/vue-slick-carousel.client.js', mode: 'client' }
   ]
-  
+
 }
