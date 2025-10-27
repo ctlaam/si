@@ -156,10 +156,7 @@
                             </div>
                             <div class="col-12">
                                 <div class="mt-5">
-                                    <iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31355.762447137946!2d106.68483889114974!3d10.775245758253924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f9fbe8b6dcb%3A0xad0dafc146a62287!2sSI%20GROUP%20JSC!5e0!3m2!1sen!2s!4v1693896106355!5m2!1sen!2s"
-                                        width="100%" height="450" style="border: 0" loading="lazy"
-                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                   
                                 </div>
                             </div>
                         </div>
