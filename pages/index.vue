@@ -69,7 +69,8 @@
                 <!-- <img class="img-fluid" src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Tìm hiểu thêm" data-lazy-src="@/assets/uploads/2023/10/vie_si_group_logofullbrown.png" /><noscript><img class="img-fluid" src="@/assets/uploads/2023/10/vie_si_group_logofullbrown.png" alt="Tìm hiểu thêm" /></noscript> -->
                 <div class="mt-8 text-justify">Bên cạnh việc sở hữu hệ thống hơn sáu văn phòng tại bốn quốc gia và vùng
                   lãnh thổ, đội ngũ chuyên gia và luật sư đầu ngành sở hữu nhiều chứng chỉ và giải thưởng lớn về Di trú,
-                  HOÀNG HÀ Group còn là thành viên danh dự của nhiều Tổ chức và Hiệp hội Di trú. Đặc biệt, mạng lưới quan hệ
+                  HOÀNG HÀ Group còn là thành viên danh dự của nhiều Tổ chức và Hiệp hội Di trú. Đặc biệt, mạng lưới
+                  quan hệ
                   với Chính phủ và quan chức cấp cao của nhiều quốc gia điểm đến, sự hợp tác vững mạnh với nhiều đối tác
                   chiến lược và ngân hàng, Tập đoàn chúng tôi tự tin đồng hành cùng các cá nhân và gia đình vượt qua
                   những rào cản phức tạp của các thủ tục pháp lý quốc tế trong lĩnh vực Di trú - An cư - Đầu tư tài
@@ -202,14 +203,14 @@
                     <div data-id="15305" class="col-12 col-md-4">
                       <a target="_blank" href="#" title="Quốc tế hóa doanh nghiệp" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Quốc tế hóa doanh nghiệp"
-                            class="blog-thumbnail img-fluid"
+                          <img src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
+                            alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"><noscript><img
                               src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
                               alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư EU"
+                              <img src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg" alt="Định cư EU"
                                 data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
                                   src="@/assets/uploads/2023/10/eu_ead2b9af1e.png" alt="Định cư EU" /></noscript>
                             </div>
@@ -218,7 +219,8 @@
                         </div>
                         <h2 class="pt-3">Quốc tế hóa doanh nghiệp</h2>
                         <div class="py-2 si-3-line">
-                          <p class="item-short-content">Quốc tế hóa doanh nghiệp là giải pháp độc quyền do HOÀNG HÀ Group cung
+                          <p class="item-short-content">Quốc tế hóa doanh nghiệp là giải pháp độc quyền do HOÀNG HÀ
+                            Group cung
                             cấp, dành riêng cho các nhà đầu tư và chủ doanh nghiệp Việt Nam mong muốn hưởng lợi ích kép
                             từ việc mở rộng quy mô kinh doanh vươn tầm thế giới. </p>
                         </div>
@@ -228,7 +230,7 @@
                       <a target="_blank" href="#"
                         title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
                             alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                             class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"><noscript><img
@@ -237,7 +239,8 @@
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư EU"
+                              <img src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
+                                alt="Định cư EU"
                                 data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
                                   src="@/assets/uploads/2023/10/eu_ead2b9af1e.png" alt="Định cư EU" /></noscript>
                             </div>
@@ -257,7 +260,7 @@
                       <a target="_blank" href="#"
                         title="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A" class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2023/11/2_ca0e447c97.png"
                             alt="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A"
                             class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2023/11/2_ca0e447c97.png"><noscript><img
@@ -266,7 +269,7 @@
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư Úc"
+                              <img src="@/assets/uploads/2023/11/2_ca0e447c97.png" alt="Định cư Úc"
                                 data-lazy-src="@/assets/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
                                   src="@/assets/uploads/2023/10/au_1dbaf56fd8.png" alt="Định cư Úc" /></noscript>
                             </div>
@@ -303,15 +306,17 @@
                       <a target="_blank" href="#" title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                            alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group" class="blog-thumbnail img-fluid"
+                          <img src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
+                            alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group"
+                            class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"><noscript><img
                               src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                               alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group"
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư EU"
+                              <img src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
+                                alt="Định cư EU"
                                 data-lazy-src="@/assets/uploads/2023/10/eu_ead2b9af1e.png"><noscript><img
                                   src="@/assets/uploads/2023/10/eu_ead2b9af1e.png" alt="Định cư EU" /></noscript>
                             </div>
@@ -320,7 +325,8 @@
                         </div>
                         <h2 class="pt-3">Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group</h2>
                         <div class="py-2 si-3-line">
-                          <p class="item-short-content">Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group, nhà đầu tư được đảm
+                          <p class="item-short-content">Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group, nhà đầu tư
+                            được đảm
                             bảo sở hữu Quốc tịch Malta chỉ sau 12 tháng với tỷ lệ thành công gần như tuyệt đối. </p>
                         </div>
                       </a>
@@ -329,7 +335,8 @@
                       <a target="_blank" href="#" title="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img
+                            src="@/assets/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"
                             alt="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
                             class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"><noscript><img
@@ -338,7 +345,9 @@
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư Thụy Sĩ"
+                              <img
+                                src="@/assets/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"
+                                alt="Định cư Thụy Sĩ"
                                 data-lazy-src="@/assets/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"><noscript><img
                                   src="@/assets/uploads/2024/09/switzerlan-national-flag-photo-4k-swiss-flag-waving-3d.jpg"
                                   alt="Định cư Thụy Sĩ" /></noscript>
@@ -358,7 +367,7 @@
                       <a target="_blank" href="#" title="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2023/11/2_f164830d12.png"
                             alt="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group" class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2023/11/2_f164830d12.png"><noscript><img
                               src="@/assets/uploads/2023/11/2_f164830d12.png"
@@ -366,7 +375,7 @@
                               class="blog-thumbnail img-fluid" /></noscript>
                           <div class="flag">
                             <div>
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Định cư Mỹ"
+                              <img src="@/assets/uploads/2023/11/2_f164830d12.png" alt="Định cư Mỹ"
                                 data-lazy-src="@/assets/uploads/2023/10/us_72cc7bdefa.png"><noscript><img
                                   src="@/assets/uploads/2023/10/us_72cc7bdefa.png" alt="Định cư Mỹ" /></noscript>
                             </div>
@@ -375,7 +384,8 @@
                         </div>
                         <h2 class="pt-3">Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group</h2>
                         <div class="py-2 si-3-line">
-                          <p class="item-short-content">Điều làm nên khác biệt khi đầu tư EB-5 cùng HOÀNG HÀ Group là các cam
+                          <p class="item-short-content">Điều làm nên khác biệt khi đầu tư EB-5 cùng HOÀNG HÀ Group là
+                            các cam
                             kết được thể hiện rõ trong hợp đồng với nhà đầu tư về tiến độ và kết quả nhận được.</p>
                         </div>
                       </a>
@@ -501,101 +511,82 @@
                 </div>
                 <div class="col-12" data-aos="fade-up">
                   <div class="wrap-evt-home slick-initialized slick-slider slick-dotted">
-
-
-
-                    <div class="slick-list draggable">
-                      <div class="slick-track" style="opacity: 1; width: 801px; transform: translate3d(0px, 0px, 0px);">
-                        <div class="evt-home slick-slide slick-current slick-active" tabindex="0" role="tabpanel"
-                          id="slick-slide40" aria-describedby="slick-slide-control40" style="width: 267px;"
-                          data-slick-index="0" aria-hidden="false">
-                          <a target="_blank" href="#"
-                            title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                            class="si-event mt-5 px-3" tabindex="0">
-                            <div class="img">
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                                class="blog-thumbnail img-fluid"
-                                data-lazy-src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
-                                  src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                  alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                                  class="blog-thumbnail img-fluid" /></noscript>
-                            </div>
-                            <div class="info">
-                              <h4 class="mb-2">HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy
-                                phát triển Đặc khu Kinh tế SEZ</h4>
-                              <p class="d-flex align-items-center mb-1">
-                                <span class="clock"></span><span>30/05/2025</span>
-                              </p>
-                              <p class="d-flex align-items-center mb-1">
-                                <span class="location"></span><span>Hà Nội</span>
-                              </p>
-                            </div>
-                          </a>
+                    <SlickCarousel :="true" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="2000"
+                      :slidesToShow="3" :slidesToScroll="1">
+                      <a target="_blank" href="#"
+                        title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
+                        class="si-event mt-5 px-3" tabindex="0">
+                        <div class="img">
+                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                            alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
+                            class="blog-thumbnail img-fluid"
+                            data-lazy-src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"><noscript><img
+                              src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                              alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
+                              class="blog-thumbnail img-fluid" /></noscript>
                         </div>
-                        <div class="evt-home slick-slide slick-active" tabindex="0" role="tabpanel" id="slick-slide41"
-                          aria-describedby="slick-slide-control41" style="width: 267px;" data-slick-index="1"
-                          aria-hidden="false">
-                          <a target="_blank" href="#"
-                            title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
-                            class="si-event mt-5 px-3" tabindex="0">
-                            <div class="img">
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
-                                class="blog-thumbnail img-fluid"
-                                data-lazy-src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
-                                  src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
-                                  alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group &#8211; Bà Nguyễn Thị Bích Hà"
-                                  class="blog-thumbnail img-fluid" /></noscript>
-                            </div>
-                            <div class="info">
-                              <h4 class="mb-2">Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ
-                                tịch
-                                HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà</h4>
-                              <p class="d-flex align-items-center mb-1">
-                                <span class="clock"></span><span></span>
-                              </p>
-                              <p class="d-flex align-items-center mb-1">
-                                <span class="location"></span><span></span>
-                              </p>
-                            </div>
-                          </a>
+                        <div class="info">
+                          <h4 class="mb-2">HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon,
+                            thúc đẩy
+                            phát triển Đặc khu Kinh tế SEZ</h4>
+                          <p class="d-flex align-items-center mb-1">
+                            <span class="clock"></span><span>30/05/2025</span>
+                          </p>
+                          <p class="d-flex align-items-center mb-1">
+                            <span class="location"></span><span>Hà Nội</span>
+                          </p>
                         </div>
-                        <div class="evt-home slick-slide slick-active" tabindex="0" role="tabpanel" id="slick-slide42"
-                          aria-describedby="slick-slide-control42" style="width: 267px;" data-slick-index="2"
-                          aria-hidden="false">
-                          <a target="_blank" href="#"
-                            title="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                            class="si-event mt-5 px-3" tabindex="0">
-                            <div class="img">
-                              <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
-                                alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                                class="blog-thumbnail img-fluid"
-                                data-lazy-src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
-                                  src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
-                                  alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư "
-                                  class="blog-thumbnail img-fluid" /></noscript>
-                            </div>
-                            <div class="info">
-                              <h4 class="mb-2">Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến
-                                lược
-                                hợp tác đầu tư&nbsp;</h4>
-                              <p class="d-flex align-items-center mb-1">
-                                <span class="clock"></span><span></span>
-                              </p>
-                              <p class="d-flex align-items-center mb-1">
-                                <span class="location"></span><span></span>
-                              </p>
-                            </div>
-                          </a>
+                      </a>
+                      <a target="_blank" href="#"
+                        title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
+                        class="si-event mt-5 px-3" tabindex="0">
+                        <div class="img">
+                          <img src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
+                            alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
+                            class="blog-thumbnail img-fluid"
+                            data-lazy-src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"><noscript><img
+                              src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
+                              alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group &#8211; Bà Nguyễn Thị Bích Hà"
+                              class="blog-thumbnail img-fluid" /></noscript>
                         </div>
-                      </div>
-                    </div>
-                    <ul class="slick-dots" role="tablist">
-                      <li class="slick-active" role="presentation"><button type="button" role="tab"
-                          id="slick-slide-control40" aria-controls="slick-slide40" aria-label="1 of 1" tabindex="0"
-                          aria-selected="true">1</button></li>
-                    </ul>
+                        <div class="info">
+                          <h4 class="mb-2">Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ
+                            tịch
+                            HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà</h4>
+                          <p class="d-flex align-items-center mb-1">
+                            <span class="clock"></span><span></span>
+                          </p>
+                          <p class="d-flex align-items-center mb-1">
+                            <span class="location"></span><span></span>
+                          </p>
+                        </div>
+                      </a>
+                      <a target="_blank" href="#"
+                        title="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
+                        class="si-event mt-5 px-3" tabindex="0">
+                        <div class="img">
+                          <img src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                            alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
+                            class="blog-thumbnail img-fluid"
+                            data-lazy-src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"><noscript><img
+                              src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
+                              alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư "
+                              class="blog-thumbnail img-fluid" /></noscript>
+                        </div>
+                        <div class="info">
+                          <h4 class="mb-2">Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về
+                            chiến
+                            lược
+                            hợp tác đầu tư&nbsp;</h4>
+                          <p class="d-flex align-items-center mb-1">
+                            <span class="clock"></span><span></span>
+                          </p>
+                          <p class="d-flex align-items-center mb-1">
+                            <span class="location"></span><span></span>
+                          </p>
+                        </div>
+                      </a>
+                    </SlickCarousel>
                   </div>
                 </div>
               </div>
@@ -612,7 +603,7 @@
                         title="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"
                             alt="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"><noscript><img
@@ -624,7 +615,8 @@
                           Châu
                           Á</h2>
                         <div class="py-2 si-3-line">
-                          <p class="item-short-content">HOÀNG HÀ Group đã xây dựng hệ sinh thái an cư toàn cầu, đánh dấu năm
+                          <p class="item-short-content">HOÀNG HÀ Group đã xây dựng hệ sinh thái an cư toàn cầu, đánh dấu
+                            năm
                             thứ 25 hoạt động và phát triển.</p>
                         </div>
                       </a>
@@ -634,7 +626,7 @@
                         title="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                         class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"
                             alt="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"><noscript><img
@@ -645,7 +637,8 @@
                         <h2 class="pt-3">Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á
                         </h2>
                         <div class="py-2 si-3-line">
-                          <p class="item-short-content">HOÀNG HÀ Group vinh dự nằm trong Top 10 Thương hiệu Tín nhiệm hàng
+                          <p class="item-short-content">HOÀNG HÀ Group vinh dự nằm trong Top 10 Thương hiệu Tín nhiệm
+                            hàng
                             đầu
                             Châu Á và Nhà lãnh đạo xuất sắc Châu Á.</p>
                         </div>
@@ -653,9 +646,10 @@
                     </div>
                     <div data-id="8445" class="col-12 col-md-4">
                       <a target="_blank" href="#"
-                        title="HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á" class="item mt-5">
+                        title="HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
+                        class="item mt-5">
                         <div class="img position-relative">
-                          <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                          <img src="@/assets/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"
                             alt="HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"><noscript><img
@@ -663,9 +657,11 @@
                               alt="HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                               class="blog-thumbnail img-fluid" /></noscript>
                         </div>
-                        <h2 class="pt-3">HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á</h2>
+                        <h2 class="pt-3">HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á
+                        </h2>
                         <div class="py-2 si-3-line">
-                          <p class="item-short-content">Đánh dấu năm thứ 25 hoạt động và phát triển, HOÀNG HÀ Group tự hào
+                          <p class="item-short-content">Đánh dấu năm thứ 25 hoạt động và phát triển, HOÀNG HÀ Group tự
+                            hào
                             với
                             Thương hiệu Tín nhiệm hàng đầu Châu Á và Thương hiệu Mạnh Quốc gia.</p>
                         </div>
@@ -692,7 +688,7 @@
                   <a target="_blank" href="#" title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                     class="new big h-100 d-block">
                     <div class="img">
-                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"
                         alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5" class="blog-thumbnail"
                         data-lazy-src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"><noscript><img
                           src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"
@@ -712,7 +708,7 @@
                     title="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                     class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2025/10/Anh-size-moi-16.jpg"
                         alt="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
                         class="blog-thumbnail"
                         data-lazy-src="@/assets/uploads/2025/10/Anh-size-moi-16.jpg"><noscript><img
@@ -729,7 +725,7 @@
                   <a target="_blank" href="#" title="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
                     class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2024/05/Anh-size-moi-12.jpg"
                         alt="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc" class="blog-thumbnail"
                         data-lazy-src="@/assets/uploads/2024/05/Anh-size-moi-12.jpg"><noscript><img
                           src="@/assets/uploads/2024/05/Anh-size-moi-12.jpg"
@@ -744,7 +740,7 @@
                   <a target="_blank" href="#" title="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025"
                     class="new d-flex w-100">
                     <div class="img ratio ratio-16x9">
-                      <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
+                      <img src="@/assets/uploads/2025/10/Anh-size-moi-6.jpg"
                         alt="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025" class="blog-thumbnail"
                         data-lazy-src="@/assets/uploads/2025/10/Anh-size-moi-6.jpg"><noscript><img
                           src="@/assets/uploads/2025/10/Anh-size-moi-6.jpg"
@@ -1061,7 +1057,7 @@ export default {
           bgDesktop:
             require("@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"),
           bgMobile:
-            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
+            require("@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"),
           link: "#",
         },
         {
@@ -1072,7 +1068,7 @@ export default {
           bgDesktop:
             require("@/assets/uploads/2025/04/Thumbnail-3-1.jpg"),
           bgMobile:
-            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
+            require("@/assets/uploads/2025/04/Thumbnail-3-1.jpg"),
           link: "#",
         },
         {
@@ -1083,7 +1079,7 @@ export default {
           bgDesktop:
             require("@/assets/uploads/2025/04/Thumbnail-7.jpg"),
           bgMobile:
-            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
+            require("@/assets/uploads/2025/04/Thumbnail-7.jpg"),
           link: "#",
         },
         {
@@ -1094,7 +1090,7 @@ export default {
           bgDesktop:
             require("@/assets/uploads/2025/03/Thumbnail.jpg"),
           bgMobile:
-            require("@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"),
+            require("@/assets/uploads/2025/03/Thumbnail.jpg"),
           link: "#",
         },
       ],
