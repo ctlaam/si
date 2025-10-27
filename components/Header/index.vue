@@ -16,7 +16,7 @@
       <div class="position-relative">
         <div class="si-top d-flex align-items-center justify-content-end">
           <div class="call d-flex align-items-center">
-            <nuxt-link to="#">(+84) 979 355 355</nuxt-link>
+            <nuxt-link to="#">+6666</nuxt-link>
           </div>
           <div class="px-3 menu-mobile">
             <img width="30" height="21" src="@/assets/themes/sigroup/assets/images/menu-icon.png" alt="Menu Icon" />

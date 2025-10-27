@@ -387,7 +387,7 @@
                                         cấp giải pháp tối ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ
                                         thành công và thời gian hoàn thành cho từng dịch vụ.<br>Để được tư vấn chính
                                         xác, nhanh chóng và bảo mật, Quý khách liên hệ trực tiếp Hotline <a
-                                            href="#">(+84) 979 355 355</a> hoặc để lại thông tin. Đội ngũ
+                                            href="#">+6666</a> hoặc để lại thông tin. Đội ngũ
                                         với hơn 20 năm kinh nghiệm của HOÀNG HÀ Group luôn sẵn sàng để kết nối và tư vấn miễn
                                         phí. </div>
                                 </div>
