@@ -2,7 +2,7 @@
     <main class="main-wrapper">
         <div class="country-detail">
             <div class="d-flex si-breadcrumbs"
-                style="background-image:url('https://sigroup.vn/wp-content/uploads/2023/10/Image_Benefit_190d3073c1.png');">
+                style="background-image:url('https://sigroup.vn/wp-content/uploads/2023/10/QUOC_GIA_My_a7b89e2416.png');">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
@@ -13,7 +13,7 @@
                                         <li class="breadcrumb-item"><a href="/" title="Trang chủ">Trang chủ</a></li>
                                         <li class="breadcrumb-item"><a href="/quoc-gia" title="Quốc gia">Quốc gia</a>
                                         </li>
-                                        <li class="breadcrumb-item active" aria-current="page">Định cư Úc</li>
+                                        <li class="breadcrumb-item active" aria-current="page">Định cư Mỹ</li>
                                     </ol>
                                 </nav>
                             </div>
@@ -24,35 +24,36 @@
             <div class="my-5 py-5 container">
                 <div class="row">
                     <div class="col-12">
-                        <h1 class="si-title">Định cư Úc</h1>
+                        <h1 class="si-title">Định cư Mỹ</h1>
                         <div class="mt-10 banner-events">
-                            <div class="mx-auto mb-0 si-banners slick-initialized slick-slider">
-
-
-
+                            <div class="mx-auto mb-0 si-banners slick-initialized slick-slider slick-dotted"><button
+                                    class="slick-prev slick-arrow" aria-label="Previous" type="button"
+                                    style="">Previous</button>
                                 <div class="slick-list draggable">
                                     <div class="slick-track"
-                                        style="opacity: 1; width: 4872px; transform: translate3d(-696px, 0px, 0px);">
-                                        <div class="slick-slide slick-cloned" style="width: 696px;"
-                                            data-slick-index="-1" id="" aria-hidden="true" tabindex="-1">
-                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Australia_3_ec13ac6406.jpeg"
-                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/Australia_3_ec13ac6406.jpeg&quot;);"
+                                        style="opacity: 1; width: 6552px; transform: translate3d(-936px, 0px, 0px);">
+                                        <div class="slick-slide slick-cloned" data-slick-index="-1" id=""
+                                            aria-hidden="true" tabindex="-1" style="width: 936px;">
+                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/USA_9_d130aa010b.jpeg"
+                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/USA_9_d130aa010b.jpeg&quot;);"
                                                 class="position-relative justify-center align-items-center bg-banner vh-80 rocket-lazyload entered lazyloaded"
                                                 data-ll-status="loaded">
-                                                <div class="bg-overlay"></div>
+                                                
                                                 <div class="position-relative w-100 h-100 banner-wrap">
                                                     <div class="mb-13 w-100">
                                                         <div class="flag">
                                                             <div>
-                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
-                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png" /></noscript>
+                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-ll-status="loaded"
+                                                                    class="entered lazyloaded"><noscript><img
+                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png" /></noscript>
                                                             </div>
                                                             <div>
                                                                 <div>
-                                                                    <div>Định cư Úc</div>
+                                                                    <div>Định cư Mỹ</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -60,26 +61,27 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="slick-slide slick-current slick-active" style="width: 696px;"
-                                            data-slick-index="0" aria-hidden="false" tabindex="0">
-                                            <div style="background-image:url(https://sigroup.vn/wp-content/uploads/2023/10/Australia_2_a71912cbd4.jpeg);"
+                                        <div class="slick-slide slick-current slick-active" data-slick-index="0"
+                                            aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide00"
+                                            aria-describedby="slick-slide-control00" style="width: 936px;">
+                                            <div style="background-image:url(https://sigroup.vn/wp-content/uploads/2023/10/USA_8_be502cfb4f.jpeg);"
                                                 class="position-relative justify-center align-items-center bg-banner vh-80">
-                                                <div class="bg-overlay"></div>
+                                                
                                                 <div class="position-relative w-100 h-100 banner-wrap">
                                                     <div class="mb-13 w-100">
                                                         <div class="flag">
                                                             <div>
-                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
                                                                     data-ll-status="loaded"
                                                                     class="entered lazyloaded"><noscript><img
-                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png" /></noscript>
+                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png" /></noscript>
                                                             </div>
                                                             <div>
                                                                 <div>
-                                                                    <div>Định cư Úc</div>
+                                                                    <div>Định cư Mỹ</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -87,28 +89,59 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="slick-slide" style="width: 696px;" data-slick-index="1"
-                                            aria-hidden="true" tabindex="-1">
-                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Australia_4_5d61611c97.jpeg"
-                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/Australia_4_5d61611c97.jpeg&quot;);"
+                                        <div class="slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1"
+                                            role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01"
+                                            style="width: 936px;">
+                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/USA_7_8b74bd272b.jpeg"
+                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/USA_7_8b74bd272b.jpeg&quot;);"
+                                                class="position-relative justify-center align-items-center bg-banner vh-80 rocket-lazyload entered lazyloaded"
+                                                data-ll-status="entered">
+                                                
+                                                <div class="position-relative w-100 h-100 banner-wrap">
+                                                    <div class="mb-13 w-100">
+                                                        <div class="flag">
+                                                            <div>
+                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-ll-status="loaded"
+                                                                    class="entered lazyloaded"><noscript><img
+                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png" /></noscript>
+                                                            </div>
+                                                            <div>
+                                                                <div>
+                                                                    <div>Định cư Mỹ</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1"
+                                            role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02"
+                                            style="width: 936px;">
+                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/USA_9_d130aa010b.jpeg"
+                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/USA_9_d130aa010b.jpeg&quot;);"
                                                 class="position-relative justify-center align-items-center bg-banner vh-80 rocket-lazyload entered lazyloaded"
                                                 data-ll-status="loaded">
-                                                <div class="bg-overlay"></div>
+                                                
                                                 <div class="position-relative w-100 h-100 banner-wrap">
                                                     <div class="mb-13 w-100">
                                                         <div class="flag">
                                                             <div>
-                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
                                                                     data-ll-status="loaded"
                                                                     class="entered lazyloaded"><noscript><img
-                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png" /></noscript>
+                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png" /></noscript>
                                                             </div>
                                                             <div>
                                                                 <div>
-                                                                    <div>Định cư Úc</div>
+                                                                    <div>Định cư Mỹ</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -116,52 +149,26 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="slick-slide" style="width: 696px;" data-slick-index="2"
-                                            aria-hidden="true" tabindex="-1">
-                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Australia_3_ec13ac6406.jpeg"
-                                                style=""
-                                                class="position-relative justify-center align-items-center bg-banner vh-80 rocket-lazyload">
-                                                <div class="bg-overlay"></div>
-                                                <div class="position-relative w-100 h-100 banner-wrap">
-                                                    <div class="mb-13 w-100">
-                                                        <div class="flag">
-                                                            <div>
-                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
-                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png" /></noscript>
-                                                            </div>
-                                                            <div>
-                                                                <div>
-                                                                    <div>Định cư Úc</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="slick-slide slick-cloned" style="width: 696px;" data-slick-index="3"
-                                            id="" aria-hidden="true" tabindex="-1">
-                                            <div style="background-image:url(https://sigroup.vn/wp-content/uploads/2023/10/Australia_2_a71912cbd4.jpeg);"
+                                        <div class="slick-slide slick-cloned" data-slick-index="3" id=""
+                                            aria-hidden="true" tabindex="-1" style="width: 936px;">
+                                            <div style="background-image:url(https://sigroup.vn/wp-content/uploads/2023/10/USA_8_be502cfb4f.jpeg);"
                                                 class="position-relative justify-center align-items-center bg-banner vh-80">
-                                                <div class="bg-overlay"></div>
+                                                
                                                 <div class="position-relative w-100 h-100 banner-wrap">
                                                     <div class="mb-13 w-100">
                                                         <div class="flag">
                                                             <div>
-                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
+                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
                                                                     data-ll-status="loaded"
                                                                     class="entered lazyloaded"><noscript><img
-                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png" /></noscript>
+                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png" /></noscript>
                                                             </div>
                                                             <div>
                                                                 <div>
-                                                                    <div>Định cư Úc</div>
+                                                                    <div>Định cư Mỹ</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -169,52 +176,57 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="slick-slide slick-cloned" style="width: 696px;" data-slick-index="4"
-                                            id="" aria-hidden="true" tabindex="-1">
-                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Australia_4_5d61611c97.jpeg"
-                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/Australia_4_5d61611c97.jpeg&quot;);"
+                                        <div class="slick-slide slick-cloned" data-slick-index="4" id=""
+                                            aria-hidden="true" tabindex="-1" style="width: 936px;">
+                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/USA_7_8b74bd272b.jpeg"
+                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/USA_7_8b74bd272b.jpeg&quot;);"
+                                                class="position-relative justify-center align-items-center bg-banner vh-80 rocket-lazyload entered lazyloaded"
+                                                data-ll-status="entered">
+                                                
+                                                <div class="position-relative w-100 h-100 banner-wrap">
+                                                    <div class="mb-13 w-100">
+                                                        <div class="flag">
+                                                            <div>
+                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-ll-status="loaded"
+                                                                    class="entered lazyloaded"><noscript><img
+                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png" /></noscript>
+                                                            </div>
+                                                            <div>
+                                                                <div>
+                                                                    <div>Định cư Mỹ</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="slick-slide slick-cloned" data-slick-index="5" id=""
+                                            aria-hidden="true" tabindex="-1" style="width: 936px;">
+                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/USA_9_d130aa010b.jpeg"
+                                                style="background-image: url(&quot;https://sigroup.vn/wp-content/uploads/2023/10/USA_9_d130aa010b.jpeg&quot;);"
                                                 class="position-relative justify-center align-items-center bg-banner vh-80 rocket-lazyload entered lazyloaded"
                                                 data-ll-status="loaded">
-                                                <div class="bg-overlay"></div>
+                                                
                                                 <div class="position-relative w-100 h-100 banner-wrap">
                                                     <div class="mb-13 w-100">
                                                         <div class="flag">
                                                             <div>
-                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
-                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png" /></noscript>
+                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                    data-ll-status="loaded"
+                                                                    class="entered lazyloaded"><noscript><img
+                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png"
+                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/us_72cc7bdefa.png" /></noscript>
                                                             </div>
                                                             <div>
                                                                 <div>
-                                                                    <div>Định cư Úc</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="slick-slide slick-cloned" style="width: 696px;" data-slick-index="5"
-                                            id="" aria-hidden="true" tabindex="-1">
-                                            <div data-bg="https://sigroup.vn/wp-content/uploads/2023/10/Australia_3_ec13ac6406.jpeg"
-                                                style=""
-                                                class="position-relative justify-center align-items-center bg-banner vh-80 rocket-lazyload">
-                                                <div class="bg-overlay"></div>
-                                                <div class="position-relative w-100 h-100 banner-wrap">
-                                                    <div class="mb-13 w-100">
-                                                        <div class="flag">
-                                                            <div>
-                                                                <img src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"><noscript><img
-                                                                        src="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png"
-                                                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/au_1dbaf56fd8.png" /></noscript>
-                                                            </div>
-                                                            <div>
-                                                                <div>
-                                                                    <div>Định cư Úc</div>
+                                                                    <div>Định cư Mỹ</div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -224,23 +236,38 @@
                                         </div>
                                     </div>
                                 </div>
+
+
+                                <button class="slick-next slick-arrow" aria-label="Next" type="button"
+                                    style="">Next</button>
+                                <ul class="slick-dots" style="" role="tablist">
+                                    <li class="slick-active" role="presentation"><button type="button" role="tab"
+                                            id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 3"
+                                            tabindex="0" aria-selected="true">1</button></li>
+                                    <li role="presentation"><button type="button" role="tab" id="slick-slide-control01"
+                                            aria-controls="slick-slide01" aria-label="2 of 3" tabindex="-1">2</button>
+                                    </li>
+                                    <li role="presentation"><button type="button" role="tab" id="slick-slide-control02"
+                                            aria-controls="slick-slide02" aria-label="3 of 3" tabindex="-1">3</button>
+                                    </li>
+                                </ul>
                             </div>
-                            <div class="excerpt">Với quyền lực hộ chiếu bậc nhất thế giới cùng diện tích đất rộng lớn,
-                                Úc luôn là địa điểm an cư, lập nghiệp hàng đầu cho nhiều nhà đầu tư, hộ gia đình hay các
-                                cá nhân khác nhau. Chính phủ Úc cũng luôn “mở rộng cửa” chào đón cư dân quốc tế cùng đa
-                                dạng các chương trình nhập cư định cư Úc.</div>
+                            <div class="excerpt">Với sức mạnh visa top đầu, cùng ngôn ngữ chính là tiếng Anh, Mỹ trở
+                                thành “điểm đến” không thể bỏ qua. Với sự đa dạng văn hóa và xã hội, Mỹ luôn là địa điểm
+                                nhập cư nổi tiếng. Chính phủ Mỹ cũng đang hỗ trợ hết mình công dân toàn cầu với nhiều
+                                chính sách khác nhau.</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
-                                    src="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15.png"
-                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15.png"><noscript><img
-                                        class="img-fluid"
-                                        src="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15.png"
-                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15.png" /></noscript>
+                                <img class="img-fluid entered lazyloaded"
+                                    src="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15-1.png"
+                                    alt="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15-1.png"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15-1.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
+                                        src="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15-1.png"
+                                        alt="https://sigroup.vn/wp-content/uploads/2023/10/I_Quyen_luc_ho_chieu_b862f7be15-1.png" /></noscript>
                             </div>
                             <div>Quyền lực hộ chiếu: Top 5 thế giới, được đi 173 nước (passport index 09/2023)</div>
                         </div>
@@ -248,199 +275,201 @@
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/C_Don_vi_tien_te_032f3679bd.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/C_Don_vi_tien_te_032f3679bd.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/C_Don_vi_tien_te_032f3679bd.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/C_Don_vi_tien_te_032f3679bd.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/C_Don_vi_tien_te_032f3679bd.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/C_Don_vi_tien_te_032f3679bd.png" /></noscript>
                             </div>
-                            <div>Đơn vị tiền tệ: AUD (Đô la Úc)</div>
+                            <div>Đơn vị tiền tệ: USD</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/F_Mat_do_dan_so_e37ecb5913.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/F_Mat_do_dan_so_e37ecb5913.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/F_Mat_do_dan_so_e37ecb5913.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/F_Mat_do_dan_so_e37ecb5913.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/F_Mat_do_dan_so_e37ecb5913.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/F_Mat_do_dan_so_e37ecb5913.png" /></noscript>
                             </div>
-                            <div>Mật độ dân số: 3 người/km2 (2023)</div>
+                            <div>Mật độ dân số: 37 người/km2 (2023)</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/M_Thoi_gian_bay_tu_VN_424a42ef1c.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/M_Thoi_gian_bay_tu_VN_424a42ef1c.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/M_Thoi_gian_bay_tu_VN_424a42ef1c.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/M_Thoi_gian_bay_tu_VN_424a42ef1c.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/M_Thoi_gian_bay_tu_VN_424a42ef1c.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/M_Thoi_gian_bay_tu_VN_424a42ef1c.png" /></noscript>
                             </div>
-                            <div>Thời gian bay từ Việt Nam: 11 giờ - 15 giờ</div>
+                            <div>Thời gian bay từ Việt Nam: 16 giờ - 21 giờ</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/A_Dien_tich_quoc_gia_42b865c0af.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/A_Dien_tich_quoc_gia_42b865c0af.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/A_Dien_tich_quoc_gia_42b865c0af.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/A_Dien_tich_quoc_gia_42b865c0af.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/A_Dien_tich_quoc_gia_42b865c0af.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/A_Dien_tich_quoc_gia_42b865c0af.png" /></noscript>
                             </div>
-                            <div>Xếp hạng tổng diện tích quốc gia: Top 6 (7,596,666 km2)</div>
+                            <div>Xếp hạng tổng diện tích quốc gia: Top 4 (9,372,610 km2)</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/O_Xep_hang_tong_tai_san_quoc_gia_16c0a5be3b.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/O_Xep_hang_tong_tai_san_quoc_gia_16c0a5be3b.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/O_Xep_hang_tong_tai_san_quoc_gia_16c0a5be3b.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/O_Xep_hang_tong_tai_san_quoc_gia_16c0a5be3b.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/O_Xep_hang_tong_tai_san_quoc_gia_16c0a5be3b.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/O_Xep_hang_tong_tai_san_quoc_gia_16c0a5be3b.png" /></noscript>
                             </div>
-                            <div>Xếp hạng tổng tài sản quốc gia: Top 14 ($1,787.948B)</div>
+                            <div>Xếp hạng tổng tài sản quốc gia: Top 1 ($26,185.210B) (2023)</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/H_Phuc_loi_xa_hoi_9bdf9ca256.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/H_Phuc_loi_xa_hoi_9bdf9ca256.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/H_Phuc_loi_xa_hoi_9bdf9ca256.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/H_Phuc_loi_xa_hoi_9bdf9ca256.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/H_Phuc_loi_xa_hoi_9bdf9ca256.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/H_Phuc_loi_xa_hoi_9bdf9ca256.png" /></noscript>
                             </div>
-                            <div>Xếp hạng chính sách phúc lợi xã hội: Top 12 (87.83 điểm)</div>
+                            <div>Xếp hạng chính sách phúc lợi xã hội: Top 25 (84,65 điểm)</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/B_Do_giau_co_d89069878c.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/B_Do_giau_co_d89069878c.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/B_Do_giau_co_d89069878c.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/B_Do_giau_co_d89069878c.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/B_Do_giau_co_d89069878c.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/B_Do_giau_co_d89069878c.png" /></noscript>
                             </div>
-                            <div>Xếp hạng độ giàu có quốc gia: Top 10 ($64,964.282)</div>
+                            <div>Xếp hạng mức độ giàu có: Top 7 ($80,034.581) (2023)</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/D_Giao_duc_6920d1125c.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/D_Giao_duc_6920d1125c.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/D_Giao_duc_6920d1125c.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/D_Giao_duc_6920d1125c.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/D_Giao_duc_6920d1125c.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/D_Giao_duc_6920d1125c.png" /></noscript>
                             </div>
-                            <div>Xếp hạng giáo dục: 9/78</div>
+                            <div>Xếp hạng giáo dục: Top 1/78</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/P_Y_te_73afed5fd1.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/P_Y_te_73afed5fd1.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/P_Y_te_73afed5fd1.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/P_Y_te_73afed5fd1.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/P_Y_te_73afed5fd1.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/P_Y_te_73afed5fd1.png" /></noscript>
                             </div>
-                            <div>Xếp hạng y tế: Top 21 thế giới</div>
+                            <div>Xếp hạng y tế: Top 30 thế giới</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/K_So_dan_nhap_cu_7329a66158.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/K_So_dan_nhap_cu_7329a66158.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/K_So_dan_nhap_cu_7329a66158.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/K_So_dan_nhap_cu_7329a66158.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/K_So_dan_nhap_cu_7329a66158.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/K_So_dan_nhap_cu_7329a66158.png" /></noscript>
                             </div>
-                            <div>Tỷ lệ dân nhập cư: 29.2% dân số - Lớn thứ 8 thế giới (2021)</div>
+                            <div>Tỷ lệ dân nhập cư: 13.6% dân số (2021)</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/G_Muc_do_an_toan_and_hoa_nhap_xa_hoi_a1a56b8651.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/G_Muc_do_an_toan_and_hoa_nhap_xa_hoi_a1a56b8651.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/G_Muc_do_an_toan_and_hoa_nhap_xa_hoi_a1a56b8651.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/G_Muc_do_an_toan_and_hoa_nhap_xa_hoi_a1a56b8651.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/G_Muc_do_an_toan_and_hoa_nhap_xa_hoi_a1a56b8651.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/G_Muc_do_an_toan_and_hoa_nhap_xa_hoi_a1a56b8651.png" /></noscript>
                             </div>
-                            <div>Mức độ an toàn và hoà nhập xã hội: 23/163</div>
+                            <div>Mức độ an toàn và hoà nhập xã hội : Top 59/163</div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/Han_ngach_1e42bedc66.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/Han_ngach_1e42bedc66.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/Han_ngach_1e42bedc66.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/Han_ngach_1e42bedc66.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/Han_ngach_1e42bedc66.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/Han_ngach_1e42bedc66.png" /></noscript>
                             </div>
-                            <div> Hạn ngạch 2023: 190,000</div>
+                            <div>Hạn ngạch 2023: 226,000 đối với diện gia đình bảo trợ. 140,000 đối với diện việc làm
+                            </div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/J_Sinh_hoat_phi_551a98a660.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/J_Sinh_hoat_phi_551a98a660.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/J_Sinh_hoat_phi_551a98a660.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/J_Sinh_hoat_phi_551a98a660.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/J_Sinh_hoat_phi_551a98a660.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/J_Sinh_hoat_phi_551a98a660.png" /></noscript>
                             </div>
-                            <div>Sinh hoạt phí: Top 13/75. Khoảng 7,092 AUD/tháng cho gia đình (4 người) và 3,850
-                                AUD/tháng cho cá nhân</div>
+                            <div>Sinh hoạt phí: Top 8/74. Khoảng $5,799 USD/ tháng cho gia đình (4 người). $3,468 USD/
+                                tháng cho cá nhân </div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="d-flex align-items-center w-100 it-program">
                             <div>
-                                <img class="img-fluid"
+                                <img class="img-fluid entered lazyloaded"
                                     src="https://sigroup.vn/wp-content/uploads/2023/10/E_Khi_hau_b498f3ce95.png"
                                     alt="https://sigroup.vn/wp-content/uploads/2023/10/E_Khi_hau_b498f3ce95.png"
-                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/E_Khi_hau_b498f3ce95.png"><noscript><img
-                                        class="img-fluid"
+                                    data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/E_Khi_hau_b498f3ce95.png"
+                                    data-ll-status="loaded"><noscript><img class="img-fluid"
                                         src="https://sigroup.vn/wp-content/uploads/2023/10/E_Khi_hau_b498f3ce95.png"
                                         alt="https://sigroup.vn/wp-content/uploads/2023/10/E_Khi_hau_b498f3ce95.png" /></noscript>
                             </div>
-                            <div>Khí hậu: Nhiệt đới (phía Bắc), Ôn đới (phía Nam) Nhiệt độ cao nhất: 50ºC Nhiệt độ thấp
-                                nhất: 8ºC Nhiệt độ trung bình: 16 - 26ºC (mùa hè), 6 - 14ºC (mùa đông)</div>
+                            <div>Khí hậu: Ôn đới ở đa số vùng, nhiệt đới ở số vùng phía Nam. Nhiệt độ cao nhất: 40ºC.
+                                Nhiệt độ thấp nhất: -50ºC. Nhiệt độ trung bình: -6-20ºC (mùa đông) và 25-40ºC (mùa hè)
+                            </div>
                         </div>
                     </div>
                     <div class="col-12">
@@ -449,46 +478,60 @@
                 </div>
             </div>
             <div class="mx-auto my-5 why g-0 row"
-                style="background-image:url('https://sigroup.vn/wp-content/uploads/2023/10/Image_Benefit_190d3073c1.png');">
+                style="background-image:url('https://sigroup.vn/wp-content/uploads/2023/10/QUOC_GIA_My_a7b89e2416.png');">
                 <div class="col-12 col-md-4">
                     <div class="it">
-                        <h2>Lợi ích của thẻ thường trú nhân - hộ chiếu Úc</h2>
+                        <h2>Lợi ích của thẻ thường trú nhân - hộ chiếu Mỹ</h2>
                         <div>
                             <ul>
-                                <li>Vợ/chồng, con cái cùng đi cùng hồ sơ</li>
-                                <li>Miễn học phí cấp phổ thông</li>
-                                <li>Học phí đại học tương đương bản xứ – thấp hơn 30% so với sinh viên quốc tế</li>
-                                <li>Miễn thị thực nhập cảnh Úc</li>
+                                <li>Nộp đơn xin nhập quốc tịch Mỹ</li>
+                                <li>Được bảo lãnh thân nhân</li>
+                                <li>Ra vào Mỹ không giới hạn số lần và không cần visa</li>
+                                <li>Miễn học phí trường công từ tiểu học đến trung học, học phí đại học và cao học bằng
+                                    1/3 so với du học sinh</li>
+                                <li>Sinh viên được Chính phủ Mỹ cho mượn tiền không lãi (hoặc lãi rất thấp) dài hạn để
+                                    đóng học phí</li>
+                                <li>Xin hưởng tiền An Sinh Xã Hội (Social Security), tiền Phụ Cấp Bệnh tật SSI
+                                    (Supplemental Security Income) và tiền trợ cấp chăm sóc Y tế (Medicare), …nếu hội đủ
+                                    điều kiện</li>
                             </ul>
+                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
                     <div class="it">
-                        <h2>Vì sao lựa chọn đầu tư - kinh doanh &amp; định cư Úc?</h2>
+                        <h2>Vì sao lựa chọn đầu tư - kinh doanh &amp; định cư Mỹ?</h2>
                         <div>
                             <ul>
-                                <li>Nền kinh tế tăng trưởng liên tục</li>
-                                <li>Thủ tục thành lập doanh nghiệp nhanh chóng</li>
-                                <li>Thuế doanh nghiệp ưu đãi</li>
-                                <li>Doanh nhân quốc tế được chào đón để <span style="color: #ffffff;"><a
-                                            style="color: #ffffff;" href="https://sigroup.vn/tin-tuc/dinh-cu-uc/"
-                                            target="_blank" rel="noopener">định cư Úc</a></span></li>
+                                <li>Nền kinh tế lớn – cường quốc số 1 thế giới</li>
+                                <li>Nhiều chính sách ưu đãi cho các doanh nghiệp nước ngoài đến <span
+                                        style="color: #ffffff;"><a style="color: #ffffff;"
+                                            href="https://sigroup.vn/tin-tuc/dinh-cu-my/" target="_blank"
+                                            rel="noopener">định cư Mỹ</a></span></li>
+                                <li>Thủ tục xét duyệt nhanh chóng</li>
+                                <li>Được hoàn trả 100% khoản đầu tư nếu nhà đầu tư nhận được thẻ Thường Trú Nhân</li>
+                                <li>Dễ dàng mở rộng kinh doanh, hợp tác quốc tế</li>
                             </ul>
+                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
                     <div class="it">
-                        <h2>Vì sao lựa chọn làm việc tại Úc?</h2>
+                        <h2>Vì sao lựa chọn làm việc tại Mỹ?</h2>
                         <div>
                             <ul>
-                                <li>Thị trường lao động đa văn hóa</li>
-                                <li>Luật lao động rõ ràng</li>
-                                <li>Phúc lợi tốt dành cho bà mẹ và trẻ em (Tài trợ khi sinh con, thời gian nghỉ sinh
-                                    hưởng nguyên lương cho cả vợ và chồng …)</li>
-                                <li>Dễ dàng chuyển tiếp làm việc tại các quốc gia phát triển khác</li>
+                                <li>Thị trường lao động sôi động, đa dạng văn hoá</li>
+                                <li>Phúc lợi tốt cho học sinh, sinh viên (được miễn giảm học phí)</li>
+                                <li>Được bảo vệ khi ở nước ngoài</li>
+                                <li>Được hưởng trợ cấp xã hội, hỗ trợ y tế</li>
+                                <li>Không bị ảnh hưởng bởi các điều luật nhập cư được ban hành sau đó</li>
                             </ul>
+                            <div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;">&nbsp;
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -496,88 +539,35 @@
             <div class="mt-10 container si-blog">
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="text-center si-title">ĐỊNH CƯ DIỆN ĐẦU TƯ - KINH DOANH</h2>
+                        <h2 class="text-center si-title">ĐỊNH CƯ MỸ DIỆN ĐẦU TƯ KINH DOANH</h2>
                     </div>
                     <div class="col-12">
                         <div id="program-81" class="row">
-                            <div data-id="12720" class="col-12 col-md-4">
-                                <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-doi-moi-quoc-gia-national-innovation-visa/"
-                                    title="Visa Đổi mới Quốc gia (National Innovation Visa)" class="mt-5 item">
+                            <div data-id="690" class="col-12 col-md-4">
+                                <a target="_blank" href="https://sigroup.vn/chuong-trinh/eb-5-chuong-trinh-dien-dau-tu/"
+                                    title="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ GROUP" class="mt-5 item">
                                     <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
-                                            alt="Visa Đổi mới Quốc gia (National Innovation Visa)"
+                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"
+                                            alt="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ GROUP"
                                             class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2024/12/visa-doi-moi-quoc-gia_thumb.jpg"
-                                                alt="Visa Đổi mới Quốc gia (National Innovation Visa)"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2023/11/2_f164830d12.png"
+                                                alt="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ GROUP"
                                                 class="blog-thumbnail img-fluid" /></noscript>
                                     </div>
                                     <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>11/04/2025</span>
+                                        <span class="clock"></span><span>11/04/2024</span>
                                     </p>
-                                    <h2>Visa Đổi mới Quốc gia (National Innovation Visa)</h2>
+                                    <h2>Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ GROUP</h2>
                                     <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Với thời gian xử lý hồ sơ dưới 1 năm, National
-                                            Innovation Visa (Thị thực Đổi mới Quốc gia) giúp chủ doanh nghiệp và nhà đầu
-                                            tư sáng tạo cùng gia đình sớm trở thành thường trú nhân Úc.</p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div data-id="653" class="col-12 col-md-4">
-                                <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-888-dinh-cu-uc-dien-dau-tu-doi-moi-kinh-doanh/"
-                                    title="Visa 888 – Định cư Úc diện Đầu tư Đổi mới Kinh doanh" class="mt-5 item">
-                                    <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/36_0e2106c199.jpg"
-                                            alt="Visa 888 – Định cư Úc diện Đầu tư Đổi mới Kinh doanh"
-                                            class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/36_0e2106c199.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2023/11/36_0e2106c199.jpg"
-                                                alt="Visa 888 &#8211; Định cư Úc diện Đầu tư Đổi mới Kinh doanh"
-                                                class="blog-thumbnail img-fluid" /></noscript>
-                                    </div>
-                                    <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>05/11/2023</span>
-                                    </p>
-                                    <h2>Visa 888 – Định cư Úc diện Đầu tư Đổi mới Kinh doanh</h2>
-                                    <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Visa 888 là visa thường trú Úc diện đầu tư kinh
-                                            doanh, nối tiếp bởi Visa 188 cho phép nhà đầu tư và gia đình gồm vợ/chồng và
-                                            con cái đến Úc sinh sống, học tập và làm việc vô thời hạn.</p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div data-id="596" class="col-12 col-md-4">
-                                <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-188c-dinh-cu-uc-dien-nha-dau-tu-trong-yeu/"
-                                    title="Visa 188C Úc – Chương trình diện Nhà đầu tư trọng yếu" class="mt-5 item">
-                                    <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/josh_withers_T0_Y_Npth_Wv_Q_unsplash_5a669f48cb.jpg"
-                                            alt="Visa 188C Úc – Chương trình diện Nhà đầu tư trọng yếu"
-                                            class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/josh_withers_T0_Y_Npth_Wv_Q_unsplash_5a669f48cb.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2023/11/josh_withers_T0_Y_Npth_Wv_Q_unsplash_5a669f48cb.jpg"
-                                                alt="Visa 188C Úc &#8211; Chương trình diện Nhà đầu tư trọng yếu"
-                                                class="blog-thumbnail img-fluid" /></noscript>
-                                    </div>
-                                    <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>05/11/2023</span>
-                                    </p>
-                                    <h2>Visa 188C Úc – Chương trình diện Nhà đầu tư trọng yếu</h2>
-                                    <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Visa 188C là visa đầu tư trọng yếu cho phép nhà
-                                            đầu tư nước ngoài và gia đình đến Úc định cư tối đa 5 năm với điều kiện đầu
-                                            tư ít nhất 5 triệu AUD và duy trì hoạt động đầu tư này.</p>
+                                        <p class="item-short-content">Điều làm nên khác biệt khi đầu tư EB-5 cùng SI
+                                            Group là các cam kết được thể hiện rõ trong hợp đồng với nhà đầu tư về tiến
+                                            độ và kết quả nhận được.</p>
                                     </div>
                                 </a>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="text-center col-12">
-                                <a rel="nofollow" data-country="43" data-id="81" class="mt-4 si-btn country-more">Tải
-                                    thêm</a>
-                            </div>
                             <div class="col-12">
                                 <div class="my-10 si-line"></div>
                             </div>
@@ -586,130 +576,93 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <h2 class="text-center si-title">ĐỊNH CƯ DIỆN LAO ĐỘNG - TAY NGHỀ</h2>
+                        <h2 class="text-center si-title">ĐỊNH CƯ MỸ DIỆN LAO ĐỘNG TAY NGHỀ</h2>
                     </div>
                     <div class="col-12">
                         <div id="program-82" class="row">
-                            <div data-id="13119" class="col-12 col-md-4">
+                            <div data-id="695" class="col-12 col-md-4">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-tay-nghe-theo-nhu-cau-skills-in-demand-visa/"
-                                    title="Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu"
+                                    href="https://sigroup.vn/chuong-trinh/visa-eb-3-dien-tay-nghe-lao-dong/"
+                                    title="Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia"
                                     class="mt-5 item">
                                     <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
-                                            alt="Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu"
+                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/114_8ce002d724.jpg"
+                                            alt="Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia"
                                             class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2024/12/Skills-in-Demand-Visa-thumb-3.jpg"
-                                                alt="Tìm hiểu Skills in Demand Visa (SID) &#8211; Visa Tay nghề theo Nhu cầu"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/114_8ce002d724.jpg"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2023/11/114_8ce002d724.jpg"
+                                                alt="Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia"
                                                 class="blog-thumbnail img-fluid" /></noscript>
                                     </div>
                                     <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>12/04/2025</span>
+                                        <span class="clock"></span><span>13/03/2025</span>
                                     </p>
-                                    <h2>Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu</h2>
+                                    <h2>Visa EB-3 định cư Mỹ diện lao động phổ thông, lành nghề và chuyên gia</h2>
                                     <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Skills in Demand Visa mở ra cơ hội đến Úc làm việc
-                                            và định cư sớm hơn cho lao động tay nghề nước ngoài với thời gian xử lý hồ
-                                            sơ chỉ trong 1 tháng. </p>
+                                        <p class="item-short-content">Visa EB-3 là chương trình định cư Mỹ diện tay nghề
+                                            dành cho lao động phổ thông, lao động lành nghề và chuyên gia tại Mỹ. Định
+                                            cư Mỹ diện EB-3 mang đến cơ hội nhận Thẻ xanh Mỹ cho người lao động nước
+                                            ngoài và gia đình, bao gồm vợ hoặc chồng và con cái dưới 21 tuổi còn độc
+                                            thân. </p>
                                     </div>
                                 </a>
                             </div>
-                            <div data-id="804" class="col-12 col-md-4">
+                            <div data-id="1953" class="col-12 col-md-4">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-494-dama-dinh-cu-uc-dien-tay-nghe-tam-tru-vung-chi-dinh/"
-                                    title="Visa 494 DAMA – Định cư Úc diện tay nghề tạm trú vùng chỉ định"
-                                    class="mt-5 item">
+                                    href="https://sigroup.vn/chuong-trinh/visa-eb-2-visa-tai-nang-dac-biet/"
+                                    title="Visa định cư Mỹ EB-2 diện tài năng đặc biệt" class="mt-5 item">
                                     <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/1_fa6c3528f8.jpg"
-                                            alt="Visa 494 DAMA – Định cư Úc diện tay nghề tạm trú vùng chỉ định"
+                                        <img src="https://sigroup.vn/wp-content/uploads/2023/12/visa-EB-2-tai-nang-dac-biet.jpg"
+                                            alt="Visa định cư Mỹ EB-2 diện tài năng đặc biệt"
                                             class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/1_fa6c3528f8.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2023/11/1_fa6c3528f8.jpg"
-                                                alt="Visa 494 DAMA &#8211; Định cư Úc diện tay nghề tạm trú vùng chỉ định"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/12/visa-EB-2-tai-nang-dac-biet.jpg"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2023/12/visa-EB-2-tai-nang-dac-biet.jpg"
+                                                alt="Visa định cư Mỹ EB-2 diện tài năng đặc biệt"
                                                 class="blog-thumbnail img-fluid" /></noscript>
                                     </div>
                                     <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>11/03/2025</span>
+                                        <span class="clock"></span><span>14/12/2023</span>
                                     </p>
-                                    <h2>Visa 494 DAMA – Định cư Úc diện tay nghề tạm trú vùng chỉ định</h2>
+                                    <h2>Visa định cư Mỹ EB-2 diện tài năng đặc biệt</h2>
                                     <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Chương trình visa 494 DAMA cấp quyền tạm trú 5 năm
-                                            dành cho người lao động có tay nghề cao sang làm việc cho các doanh nghiệp
-                                            tại Úc (thuộc vùng chỉ định của Chính phủ Úc). Sau 3 năm sở hữu thị thực,
-                                            người lao động có cơ hội trở thành thường trú nhân Úc.&nbsp;
+                                        <p class="item-short-content">Định cư Mỹ EB-2 là chương trình visa dành cho các
+                                            chuyên gia nước ngoài có bằng cấp cao như Thạc sĩ, Tiến sĩ hoặc tương đương
+                                            hoặc có năng lực đặc biệt trong các lĩnh vực đang thiếu hụt lao động trầm
+                                            trọng tại Mỹ đến quốc gia này làm việc và nhận Thẻ xanh Mỹ cho cả gia đình.
                                         </p>
                                     </div>
                                 </a>
                             </div>
-                            <div data-id="828" class="col-12 col-md-4">
+                            <div data-id="794" class="col-12 col-md-4">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/visa-482-dinh-cu-uc-dien-tay-nghe-tam-tru/"
-                                    title="Visa 482 – Định cư Úc diện tay nghề tạm trú" class="mt-5 item">
+                                    href="https://sigroup.vn/chuong-trinh/visa-eb-1c-chuong-trinh-dinh-cu-my-danh-cho-nhan-su-cap-cao/"
+                                    title="Visa định cư Mỹ EB-1C dành cho nhân sự cấp cao" class="mt-5 item">
                                     <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/visa_482_lao_dong_tay_nghe_ngan_han_tam_thoi_e86a8e8d56.jpg"
-                                            alt="Visa 482 – Định cư Úc diện tay nghề tạm trú"
+                                        <img src="https://sigroup.vn/wp-content/uploads/2023/11/271_31e1b421cf.jpg"
+                                            alt="Visa định cư Mỹ EB-1C dành cho nhân sự cấp cao"
                                             class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/visa_482_lao_dong_tay_nghe_ngan_han_tam_thoi_e86a8e8d56.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2023/11/visa_482_lao_dong_tay_nghe_ngan_han_tam_thoi_e86a8e8d56.jpg"
-                                                alt="Visa 482 &#8211; Định cư Úc diện tay nghề tạm trú"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/271_31e1b421cf.jpg"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2023/11/271_31e1b421cf.jpg"
+                                                alt="Visa định cư Mỹ EB-1C dành cho nhân sự cấp cao"
                                                 class="blog-thumbnail img-fluid" /></noscript>
                                     </div>
                                     <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>10/03/2025</span>
+                                        <span class="clock"></span><span>05/11/2023</span>
                                     </p>
-                                    <h2>Visa 482 – Định cư Úc diện tay nghề tạm trú</h2>
+                                    <h2>Visa định cư Mỹ EB-1C dành cho nhân sự cấp cao</h2>
                                     <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Visa 482 là visa tạm trú Úc diện tay nghề cho phép
-                                            người lao động nước ngoài đến Úc sinh sống và làm việc dưới sự bảo lãnh của
-                                            doanh nghiệp Úc với thời hạn tối đa đến 4 năm.&nbsp;&nbsp;</p>
+                                        <p class="item-short-content">Visa EB-1C là chương trình làm việc định cư Mỹ
+                                            dành cho quản lý hoặc giám đốc điều hành của một công ty nước ngoài đến Mỹ
+                                            vận hành công ty con tại Mỹ và nhận Thẻ xanh cho cả gia đình. </p>
                                     </div>
                                 </a>
                             </div>
                         </div>
                         <div class="row">
                             <div class="text-center col-12">
-                                <a rel="nofollow" data-country="43" data-id="82" class="mt-4 si-btn country-more">Tải
+                                <a rel="nofollow" data-country="227" data-id="82" class="mt-4 si-btn country-more">Tải
                                     thêm</a>
                             </div>
-                            <div class="col-12">
-                                <div class="my-10 si-line"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <h2 class="text-center si-title">GIẢI PHÁP KHÁC</h2>
-                    </div>
-                    <div class="col-12">
-                        <div id="program-79" class="row">
-                            <div data-id="1890" class="col-12 col-md-4">
-                                <a target="_blank"
-                                    href="https://sigroup.vn/chuong-trinh/chuong-trinh-visa-500-du-hoc-uc/"
-                                    title="Quy trình &amp; điều kiện xin Visa 500 du học Úc thành công"
-                                    class="mt-5 item">
-                                    <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2023/12/johnny-bhalla-DLbCETd599Y-unsplash.jpg"
-                                            alt="Quy trình &amp; điều kiện xin Visa 500 du học Úc thành công"
-                                            class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/12/johnny-bhalla-DLbCETd599Y-unsplash.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2023/12/johnny-bhalla-DLbCETd599Y-unsplash.jpg"
-                                                alt="Quy trình &#038; điều kiện xin Visa 500 du học Úc thành công"
-                                                class="blog-thumbnail img-fluid" /></noscript>
-                                    </div>
-                                    <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>13/12/2023</span>
-                                    </p>
-                                    <h2>Quy trình &amp; điều kiện xin Visa 500 du học Úc thành công</h2>
-                                    <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Visa 500 là visa tạm trú diện du học dành cho du
-                                            học sinh quốc tế đến Úc sinh sống và học tập với thời hạn tối đa 5 năm. </p>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="row">
                             <div class="col-12">
                                 <div class="my-10 si-line"></div>
                             </div>
@@ -722,87 +675,92 @@
                         <h4 class="text-center si-title">TIN TỨC</h4>
                     </div>
                     <div class="col-12">
-                        <div id="country-43" class="row">
-                            <div data-id="18224" class="col-12 col-md-4">
+                        <div id="country-227" class="row">
+                            <div data-id="18601" class="col-12 col-md-4">
                                 <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/dinh-cu-uc-dien-tay-nghe-co-phai-la-xuat-khau-lao-dong/"
-                                    title="Định cư Úc diện tay nghề có phải là “Xuất khẩu lao động”?" class="mt-5 item">
-                                    <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-58.jpg"
-                                            alt="Định cư Úc diện tay nghề có phải là “Xuất khẩu lao động”?"
-                                            class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-58.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-58.jpg"
-                                                alt="Định cư Úc diện tay nghề có phải là “Xuất khẩu lao động”?"
-                                                class="blog-thumbnail img-fluid" /></noscript>
-                                    </div>
-                                    <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>01/10/2025</span>
-                                    </p>
-                                    <h4>Định cư Úc diện tay nghề có phải là “Xuất khẩu lao động”?</h4>
-                                    <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Định cư Úc diện tay nghề khác biệt hoàn toàn với
-                                            xuất khẩu lao động. Đây là chương trình nhập cư chính thống, cho phép cả gia
-                                            đình nhận thẻ thường trú và lộ trình quốc tịch. Trong khi đó, xuất khẩu lao
-                                            động chỉ là hợp đồng có thời hạn, hết hạn phải về nước, không có an sinh xã
-                                            hội và quyền lợi gia đình như PR.</p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div data-id="18209" class="col-12 col-md-4">
-                                <a target="_blank"
-                                    href="https://sigroup.vn/tin-tuc/6-loai-visa-uc-cho-phep-dinh-cu-o-tuoi-45/"
-                                    title="6 loại visa Úc cho phép định cư ở tuổi 45+" class="mt-5 item">
-                                    <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-49.jpg"
-                                            alt="6 loại visa Úc cho phép định cư ở tuổi 45+"
-                                            class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-49.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-49.jpg"
-                                                alt="6 loại visa Úc cho phép định cư ở tuổi 45+"
-                                                class="blog-thumbnail img-fluid" /></noscript>
-                                    </div>
-                                    <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>30/09/2025</span>
-                                    </p>
-                                    <h4>6 loại visa Úc cho phép định cư ở tuổi 45+</h4>
-                                    <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Người trên 45 tuổi vẫn có thể định cư Úc thông qua
-                                            các loại visa linh hoạt về độ tuổi như DAMA, 858, 482, 186, visa đối tác và
-                                            visa cha mẹ. Bài viết này phân tích chi tiết điều kiện, lợi thế và lộ trình
-                                            PR của từng loại visa, giúp quý vị chọn lựa phương án phù hợp.
-                                        </p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div data-id="18055" class="col-12 col-md-4">
-                                <a target="_blank" href="https://sigroup.vn/tin-tuc/kinh-nghiem-di-che-bien-thit-uc/"
-                                    title="Kinh nghiệm định cư Úc ngành chế biến thịt năm 2025 cho người Việt&nbsp;"
+                                    href="https://sigroup.vn/tin-tuc/bo-an-ninh-noi-dia-hoa-ky-dhs-de-xuat-giam-phi-chuong-trinh-eb-5/"
+                                    title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                                     class="mt-5 item">
                                     <div class="position-relative img">
-                                        <img src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-46.jpg"
-                                            alt="Kinh nghiệm định cư Úc ngành chế biến thịt năm 2025 cho người Việt&nbsp;"
+                                        <img src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
+                                            alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                                             class="blog-thumbnail img-fluid"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-46.jpg"><noscript><img
-                                                src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-46.jpg"
-                                                alt="Kinh nghiệm định cư Úc ngành chế biến thịt năm 2025 cho người Việt "
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2025/10/Anh-size-moi-1-4.jpg"
+                                                alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
                                                 class="blog-thumbnail img-fluid" /></noscript>
                                     </div>
                                     <p class="d-flex align-items-center py-3">
-                                        <span class="clock"></span><span>25/09/2025</span>
+                                        <span class="clock"></span><span>25/10/2025</span>
                                     </p>
-                                    <h4>Kinh nghiệm định cư Úc ngành chế biến thịt năm 2025 cho người Việt&nbsp;</h4>
+                                    <h4>Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5</h4>
                                     <div class="py-2 si-3-line">
-                                        <p class="item-short-content">Bài viết chia sẻ kinh nghiệm thực tế khi làm chế
-                                            biến thịt ở Úc, đặc biệt là so sánh thu nhập ngành này với chi phí sinh hoạt
-                                            để giúp người lao động lựa chọn khu vực sống phù hợp. </p>
+                                        <p class="item-short-content">Bộ An ninh Nội địa Hoa Kỳ (DHS) vừa công bố dự
+                                            thảo quy định giảm phí hành chính trong chương trình đầu tư định cư EB-5,
+                                            với mức cắt giảm lên tới 61% cho trung tâm vùng và 14–17% cho nhà đầu tư cá
+                                            nhân.</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div data-id="18183" class="col-12 col-md-4">
+                                <a target="_blank"
+                                    href="https://sigroup.vn/tin-tuc/sac-lenh-the-vang-cua-tong-thong-trump-se-tac-dong-nhu-the-nao-den-chinh-sach-nhap-cu-hoa-ky/"
+                                    title="Sắc lệnh Thẻ Vàng của Tổng thống Trump sẽ tác động như thế nào đến chính sách nhập cư Hoa Kỳ?"
+                                    class="mt-5 item">
+                                    <div class="position-relative img">
+                                        <img src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-6-1.jpg"
+                                            alt="Sắc lệnh Thẻ Vàng của Tổng thống Trump sẽ tác động như thế nào đến chính sách nhập cư Hoa Kỳ?"
+                                            class="blog-thumbnail img-fluid"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-6-1.jpg"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-6-1.jpg"
+                                                alt="Sắc lệnh Thẻ Vàng của Tổng thống Trump sẽ tác động như thế nào đến chính sách nhập cư Hoa Kỳ?"
+                                                class="blog-thumbnail img-fluid" /></noscript>
+                                    </div>
+                                    <p class="d-flex align-items-center py-3">
+                                        <span class="clock"></span><span>29/09/2025</span>
+                                    </p>
+                                    <h4>Sắc lệnh Thẻ Vàng của Tổng thống Trump sẽ tác động như thế nào đến chính sách
+                                        nhập cư Hoa Kỳ?</h4>
+                                    <div class="py-2 si-3-line">
+                                        <p class="item-short-content">Sắc lệnh Thẻ Vàng mà Tổng thống Trump ban hành
+                                            không chỉ gây chấn động thị trường lao động Mỹ mà còn đặt ra thách thức mới
+                                            cho doanh nghiệp phụ thuộc lao động nhập cư. Chính sách này dự báo sẽ ảnh
+                                            hưởng trực tiếp đến thị thực H-1B và thay đổi bức tranh nhập cư Hoa Kỳ trong
+                                            trung và dài hạn.</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div data-id="17910" class="col-12 col-md-4">
+                                <a target="_blank"
+                                    href="https://sigroup.vn/tin-tuc/ong-trump-ra-mat-the-vang-tri-gia-1-trieu-do-danh-cho-cac-nha-dau-tu-nuoc-ngoai/"
+                                    title="Ông Trump ra mắt “Thẻ vàng” trị giá 1 triệu đô dành cho các nhà đầu tư nước ngoài"
+                                    class="mt-5 item">
+                                    <div class="position-relative img">
+                                        <img src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-9.jpg"
+                                            alt="Ông Trump ra mắt “Thẻ vàng” trị giá 1 triệu đô dành cho các nhà đầu tư nước ngoài"
+                                            class="blog-thumbnail img-fluid"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-9.jpg"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2025/09/Anh-size-moi-9.jpg"
+                                                alt="Ông Trump ra mắt &#8220;Thẻ vàng&#8221; trị giá 1 triệu đô dành cho các nhà đầu tư nước ngoài"
+                                                class="blog-thumbnail img-fluid" /></noscript>
+                                    </div>
+                                    <p class="d-flex align-items-center py-3">
+                                        <span class="clock"></span><span>20/09/2025</span>
+                                    </p>
+                                    <h4>Ông Trump ra mắt “Thẻ vàng” trị giá 1 triệu đô dành cho các nhà đầu tư nước
+                                        ngoài</h4>
+                                    <div class="py-2 si-3-line">
+                                        <p class="item-short-content">Chính quyền Trump chính thức ra mắt “Gold Card”,
+                                            thị thực ưu tiên cho giới tinh hoa toàn cầu với mức phí 1 triệu USD, kỳ vọng
+                                            thu về 100 tỷ USD. Chương trình này sẽ thay thế các visa tay nghề cao hiện
+                                            tại, đồng thời siết chặt các diện nhập cư truyền thống và bất hợp pháp.</p>
                                     </div>
                                 </a>
                             </div>
                         </div>
                         <div class="row">
                             <div class="text-center col-12">
-                                <a rel="nofollow" data-country="43" data-id="43"
+                                <a rel="nofollow" data-country="227" data-id="227"
                                     class="mt-4 si-btn news-country-more">Tải thêm</a>
                             </div>
                             <div class="col-12">
@@ -813,14 +771,7 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <div class="content">
-                            <p>Với quyền lực hộ chiếu bậc nhất thế giới cùng diện tích đất rộng lớn, Úc luôn là địa điểm
-                                an cư, lập nghiệp hàng đầu cho nhiều nhà đầu tư, hộ gia đình hay các cá nhân khác nhau.
-                                Chính phủ Úc cũng luôn “mở rộng cửa” chào đón cư dân quốc tế cùng đa dạng các chương
-                                trình nhập cư <a href="https://sigroup.vn/tin-tuc/dinh-cu-uc/" target="_blank"
-                                    rel="noopener">định cư Úc</a>.</p>
-                            <p>&nbsp;</p>
-                        </div>
+                        <div class="content"></div>
                     </div>
                 </div>
             </div>
@@ -877,7 +828,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <select class="form-control" name="chuong_trinh_quan_tam" id="chuong_trinh_quan_tam"
-                                        >
+                                        disabled="">
                                         <option value="">Chương trình quan tâm*</option>
                                     </select>
                                 </div>

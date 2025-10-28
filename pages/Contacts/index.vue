@@ -2,9 +2,9 @@
     <div id="site">
         <div id="site-inner">   
             <main class="main-wrapper">
-                <div class="home-page si-blog si-form mx-auto">
+                <div class="mx-auto home-page si-blog si-form">
                     <div class="container">
-                        <div class="row py-40">
+                        <div class="py-40 row">
                             <div class="col-12 col-md-6 info-contact">
                                 <div class="si-form-tt">Liên Hệ Tư Vấn</div>
                                 <div class="mt-5">
@@ -23,11 +23,11 @@
                                             placeholder="Họ và Tên*">
                                     </div>
                                     <div class="row">
-                                        <div class="col-12 col-md-6 mb-3 d-none">
+                                        <div class="mb-3 col-12 col-md-6 d-none">
                                             <input type="number" class="form-control" id="your_age" name="your_age"
                                                 value="2025" placeholder="Năm sinh*">
                                         </div>
-                                        <div class="col-12 mb-3">
+                                        <div class="mb-3 col-12">
                                             <input type="text" class="form-control" id="phone" name="phone"
                                                 placeholder="Số điện thoại*">
                                         </div>
@@ -55,7 +55,7 @@
                                     </div>
                                     <div class="mb-3">
                                         <select class="form-control" name="chuong_trinh_quan_tam"
-                                            id="chuong_trinh_quan_tam" disabled="">
+                                            id="chuong_trinh_quan_tam" >
                                             <option value="">Chương trình quan tâm*</option>
                                         </select>
                                     </div>
@@ -147,9 +147,9 @@
                                     <input type="hidden" id="hsa_src" name="hsa_src" value="">
                                     <input type="hidden" id="hsa_net" name="hsa_net" value="">
                                     <input type="hidden" id="hsa_ver" name="hsa_ver" value="">
-                                    <div class="d-flex flex-wrap w-100 align-items-center">
+                                    <div class="d-flex flex-wrap align-items-center w-100">
                                         <button class="si-btn" type="submit">Gửi đi</button>
-                                        <div class="home-contact-alert ml-4"></div>
+                                        <div class="ml-4 home-contact-alert"></div>
                                     </div>
                                 </form>
                                

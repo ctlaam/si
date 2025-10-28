@@ -188,54 +188,54 @@
                             <h1 class="text-center si-title">ƯU ĐIỂM VISA 482 DAMA </h1>
                             <div class="mt-5 row">
                                 <div class="col-12 col-md-6">
-                                    <div class="condition">
-                                        <div class="d-flex flex-wrap align-items-stretch">
+                                    <details class="condition">
+                                        <summary class="d-flex flex-wrap align-items-stretch">
                                             <div style="opacity:0"
                                                 class="d-flex align-items-center justify-content-center icon">
                                                 <span class="ic-down"></span>
                                             </div>
                                             <div class="title">Thu nhập hấp dẫn từ 73,150 AUD/năm </div>
-                                        </div>
+                                        </summary>
                                         <div class="d-block text"></div>
-                                    </div>
+                                    </details>
                                 </div>
                                 <div class="col-12 col-md-6">
-                                    <div class="condition">
-                                        <div class="d-flex flex-wrap align-items-stretch">
+                                    <details class="condition">
+                                        <summary class="d-flex flex-wrap align-items-stretch">
                                             <div style="opacity:0"
                                                 class="d-flex align-items-center justify-content-center icon">
                                                 <span class="ic-down"></span>
                                             </div>
                                             <div class="title">Sở hữu PR chỉ sau 2 năm </div>
-                                        </div>
+                                        </summary>
                                         <div class="d-block text"></div>
-                                    </div>
+                                    </details>
                                 </div>
                                 <div class="col-12 col-md-6">
-                                    <div class="condition">
-                                        <div class="d-flex flex-wrap align-items-stretch">
+                                    <details class="condition">
+                                        <summary class="d-flex flex-wrap align-items-stretch">
                                             <div style="opacity:0"
                                                 class="d-flex align-items-center justify-content-center icon">
                                                 <span class="ic-down"></span>
                                             </div>
                                             <div class="title">Điều kiện cấp visa dễ dàng hơn so với Visa 482 tiêu chuẩn
                                                 (gồm yêu cầu tiếng Anh và kinh nghiệm làm việc)</div>
-                                        </div>
+                                        </summary>
                                         <div class="d-block text"></div>
-                                    </div>
+                                    </details>
                                 </div>
                                 <div class="col-12 col-md-6">
-                                    <div class="condition">
-                                        <div class="d-flex flex-wrap align-items-stretch">
+                                    <details class="condition">
+                                        <summary class="d-flex flex-wrap align-items-stretch">
                                             <div style="opacity:0"
                                                 class="d-flex align-items-center justify-content-center icon">
                                                 <span class="ic-down"></span>
                                             </div>
                                             <div class="title">Thời gian cư trú Úc dài hơn so với chương trình tiêu
                                                 chuẩn </div>
-                                        </div>
+                                        </summary>
                                         <div class="d-block text"></div>
-                                    </div>
+                                    </details>
                                 </div>
                             </div>
                         </div>
@@ -296,55 +296,55 @@
                     <div class="mt-10 col-12">
                         <h2 class="text-center si-title">ĐIỀU KIỆN CẤP 482 DAMA</h2>
                         <div class="pt-5 rule">
-                            <div class="condition">
-                                <div class="d-flex flex-wrap align-items-stretch click">
+                            <details class="condition">
+                                <summary class="d-flex flex-wrap align-items-stretch click">
                                     <div class="title">Nhân thân </div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
-                                </div>
+                                </summary>
                                 <div class="px-4 text">
                                     <ul>
                                         <li>Độ tuổi: Dưới 55 tuổi</li>
                                         <li>Đáp ứng yêu cầu về sức khỏe và lý lịch tư pháp&nbsp;</li>
                                     </ul>
                                 </div>
-                            </div>
-                            <div class="condition">
-                                <div class="d-flex flex-wrap align-items-stretch click">
+                            </details>
+                            <details class="condition">
+                                <summary class="d-flex flex-wrap align-items-stretch click">
                                     <div class="title">Kinh nghiệm làm việc </div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
-                                </div>
+                                </summary>
                                 <div class="px-4 text">
                                     <p>Tối thiểu 1 năm làm việc tại Úc.&nbsp;</p>
                                 </div>
-                            </div>
-                            <div class="condition">
-                                <div class="d-flex flex-wrap align-items-stretch click">
+                            </details>
+                            <details class="condition">
+                                <summary class="d-flex flex-wrap align-items-stretch click">
                                     <div class="title">Sát hạch tay nghề</div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
-                                </div>
+                                </summary>
                                 <div class="px-4 text">
                                     <p>Vượt qua Sát hạch tay nghề (Skill Assessment) áp dụng đối với một số ngành
                                         nghề có yêu cầu.&nbsp;</p>
                                 </div>
-                            </div>
-                            <div class="condition">
-                                <div class="d-flex flex-wrap align-items-stretch click">
+                            </details>
+                            <details class="condition">
+                                <summary class="d-flex flex-wrap align-items-stretch click">
                                     <div class="title">Trình độ tiếng Anh</div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
-                                </div>
+                                </summary>
                                 <div class="px-4 text">
                                     <p>IELTS 5.0 hoặc PTE 36 (4 kỹ năng) và yêu cầu này có thể thay đổi tùy vào khu vực
                                         chỉ định&nbsp;</p>
                                 </div>
-                            </div>
+                            </details>
                         </div>
                     </div>
                     <div class="col-12">
@@ -428,7 +428,7 @@
                                         <p class="item-short-content">Tuyển thợ nail làm việc tại Úc: yêu cầu kỹ năng
                                             làm móng, kinh nghiệm 1–2 năm, tiếng Anh giao tiếp (IELTS 5.0+), ưu tiên có
                                             chứng chỉ ngành làm đẹp. Lương 15–30 AUD/giờ, làm việc linh hoạt, có thêm
-                                            tips. Hiện còn 2 suất, liên hệ SI Group để ứng tuyển.</p>
+                                            tips. Hiện còn 2 suất, liên hệ HOÀNG HÀ GROUP để ứng tuyển.</p>
                                     </div>
                                 </a>
                             </div>
@@ -732,12 +732,12 @@
                         <div class="col-12 col-md-6 info-contact">
                             <div class="si-form-tt">Liên Hệ Tư Vấn</div>
                             <div class="mt-4">
-                                Điều làm nên khác biệt của SI Group chính là từng giải pháp được cá nhân hóa phù hợp với
+                                Điều làm nên khác biệt của HOÀNG HÀ GROUP chính là từng giải pháp được cá nhân hóa phù hợp với
                                 nhu cầu, điều kiện riêng biệt của từng Quý khách hàng. Chúng tôi cung cấp giải pháp tối
                                 ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ thành công và thời gian hoàn
                                 thành cho từng dịch vụ.<br>Để được tư vấn chính xác, nhanh chóng và bảo mật, Quý khách
-                                liên hệ trực tiếp Hotline <a href="tel:+84979355355">(+84) 979 355 355</a> hoặc để lại
-                                thông tin. Đội ngũ với hơn 20 năm kinh nghiệm của SI Group luôn sẵn sàng để kết nối và
+                                liên hệ trực tiếp Hotline <a href="tel:+84979355355">+84 856 936 666</a> hoặc để lại
+                                thông tin. Đội ngũ với hơn 20 năm kinh nghiệm của HOÀNG HÀ GROUP luôn sẵn sàng để kết nối và
                                 tư vấn miễn phí. </div>
                         </div>
                         <div class="col-12 col-md-6">
@@ -779,7 +779,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <select class="form-control" name="chuong_trinh_quan_tam" id="chuong_trinh_quan_tam"
-                                        disabled="">
+                                        >
                                         <option value="">Chương trình quan tâm*</option>
                                     </select>
                                 </div>

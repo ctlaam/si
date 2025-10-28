@@ -77,7 +77,7 @@
                             <h2>Kỹ thuật viên làm nail (Nail Technician) – Định cư Úc</h2>
                             <div class="py-2 si-3-line">Tuyển thợ nail làm việc tại Úc: yêu cầu kỹ năng làm móng, kinh
                                 nghiệm 1–2 năm, tiếng Anh giao tiếp (IELTS 5.0+), ưu tiên có chứng chỉ ngành làm đẹp.
-                                Lương 15–30 AUD/giờ, làm việc linh hoạt, có thêm tips. Hiện còn 2 suất, liên hệ SI Group
+                                Lương 15–30 AUD/giờ, làm việc linh hoạt, có thêm tips. Hiện còn 2 suất, liên hệ HOÀNG HÀ GROUP
                                 để ứng tuyển.</div>
                         </a>
                     </div>

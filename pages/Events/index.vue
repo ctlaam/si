@@ -3,7 +3,7 @@
         <div id="site-inner">
             <main class="main-wrapper">
                 <div class="event-page">
-                    <div class="si-breadcrumbs d-flex">
+                    <div class="d-flex si-breadcrumbs">
                         <div class="container">
                             <div class="row">
                                 <div class="col-12">
@@ -22,7 +22,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="container my-10 py-5">
+                    <div class="my-10 py-5 container">
                         <div class="row">
                             <div class="col-12">
                                 <h1 class="text-center si-title">Sự kiện nổi bật</h1>
@@ -34,13 +34,13 @@
                                             <a target="_blank"
                                                 href="#"
                                                 title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ">
-                                                <div class="justify-center align-items-center position-relative bg-banner vh-80"
+                                                <div class="position-relative justify-center align-items-center bg-banner vh-80"
                                                     :style="{
                                                         background: `url(${require('@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg')}) center/cover no-repeat`
                                                     }">
                                                     <div class="bg-overlay"></div>
-                                                    <div class="banner-wrap w-100 h-100 position-relative">
-                                                        <div class="w-100 mb-13">
+                                                    <div class="position-relative w-100 h-100 banner-wrap">
+                                                        <div class="mb-13 w-100">
                                                             <h2>
                                                                 HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư
                                                                 Solomon, thúc
@@ -67,13 +67,13 @@
                                             <a target="_blank"
                                                 href="#"
                                                 title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà">
-                                                <div class="justify-center align-items-center position-relative bg-banner vh-80"
+                                                <div class="position-relative justify-center align-items-center bg-banner vh-80"
                                                     :style="{
                                                         background: `url(${require('@/assets/uploads/2025/04/Thumbnail-1-1.jpg')}) center/cover no-repeat`
                                                     }">
                                                     <div class="bg-overlay"></div>
-                                                    <div class="banner-wrap w-100 h-100 position-relative">
-                                                        <div class="w-100 mb-13">
+                                                    <div class="position-relative w-100 h-100 banner-wrap">
+                                                        <div class="mb-13 w-100">
                                                             <h2>Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc
                                                                 cho
                                                                 Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà</h2>
@@ -100,13 +100,13 @@
                                             <a target="_blank"
                                                 href="#"
                                                 title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp & Độc quyền sở hữu quốc tịch">
-                                                <div class="justify-center align-items-center position-relative bg-banner vh-80"
+                                                <div class="position-relative justify-center align-items-center bg-banner vh-80"
                                                     :style="{
                                                         background: `url(${require('@/assets/uploads/2025/04/Thumbnail-3-1.jpg')}) center/cover no-repeat`
                                                     }">
                                                     <div class="bg-overlay"></div>
-                                                    <div class="banner-wrap w-100 h-100 position-relative">
-                                                        <div class="w-100 mb-13">
+                                                    <div class="position-relative w-100 h-100 banner-wrap">
+                                                        <div class="mb-13 w-100">
                                                             <h2>Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &
                                                                 Độc
                                                                 quyền sở hữu quốc tịch</h2>
@@ -136,7 +136,7 @@
                                         <a target="_blank"
                                             href="#"
                                             title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                                            class="si-event mt-10">
+                                            class="mt-10 si-event">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                                                     alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
@@ -173,7 +173,7 @@
                                         <a target="_blank"
                                             href="#"
                                             title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
-                                            class="si-event mt-10">
+                                            class="mt-10 si-event">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
                                                     alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
@@ -216,7 +216,7 @@
                                         <a target="_blank"
                                             href="#"
                                             title="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                                            class="si-event mt-10">
+                                            class="mt-10 si-event">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                                                     alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
@@ -251,7 +251,7 @@
                                         <a target="_blank"
                                             href="#"
                                             title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
-                                            class="si-event mt-10">
+                                            class="mt-10 si-event">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/Thumbnail-3-1.jpg"
                                                     alt="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &amp; Độc quyền sở hữu quốc tịch"
@@ -287,7 +287,7 @@
                                         <a target="_blank"
                                             href="#"
                                             title="HOÀNG HÀ Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
-                                            class="si-event mt-10">
+                                            class="mt-10 si-event">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/Thumbnail-7.jpg"
                                                     alt="HOÀNG HÀ Group tổ chức buổi training chuyên sâu các sản phẩm độc quyền với đối tác chiến lược"
@@ -321,7 +321,7 @@
                                         <a target="_blank"
                                             href="#"
                                             title="Ban lãnh đạo HOÀNG HÀ Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
-                                            class="si-event mt-10">
+                                            class="mt-10 si-event">
                                             <div class="img">
                                                 <img src="@/assets/uploads/2025/04/z5238090850865_5886f8bdd58bb47ac912f21095fc016f.jpg"
                                                     alt="Ban lãnh đạo HOÀNG HÀ Group và Thủ tướng Bahamas trao đổi kế hoạch hợp tác đầu tư vào Đặc Khu Kinh tế SEZ&nbsp;&nbsp;&nbsp;"
@@ -376,8 +376,8 @@
 
                         </div>
                     </div>
-                    <div class="py-10 si-form mx-auto">
-                        <div class="container my-3">
+                    <div class="mx-auto py-10 si-form">
+                        <div class="my-3 container">
                             <div class="row">
                                 <div class="col-12 col-md-6 info-contact">
                                     <div class="si-form-tt">Liên Hệ Tư Vấn</div>
@@ -387,7 +387,7 @@
                                         cấp giải pháp tối ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ
                                         thành công và thời gian hoàn thành cho từng dịch vụ.<br>Để được tư vấn chính
                                         xác, nhanh chóng và bảo mật, Quý khách liên hệ trực tiếp Hotline <a
-                                            href="#">+6666</a> hoặc để lại thông tin. Đội ngũ
+                                            href="#">+84 856 936 666</a> hoặc để lại thông tin. Đội ngũ
                                         với hơn 20 năm kinh nghiệm của HOÀNG HÀ Group luôn sẵn sàng để kết nối và tư vấn miễn
                                         phí. </div>
                                 </div>
@@ -398,11 +398,11 @@
                                                 placeholder="Họ và Tên*">
                                         </div>
                                         <div class="row">
-                                            <div class="col-12 col-md-6 mb-3 d-none">
+                                            <div class="mb-3 col-12 col-md-6 d-none">
                                                 <input type="number" class="form-control" id="your_age" name="your_age"
                                                     value="2025" placeholder="Năm sinh*">
                                             </div>
-                                            <div class="col-12 mb-3">
+                                            <div class="mb-3 col-12">
                                                 <input type="text" class="form-control" id="phone" name="phone"
                                                     placeholder="Số điện thoại*">
                                             </div>
@@ -431,7 +431,7 @@
                                         </div>
                                         <div class="mb-3">
                                             <select class="form-control" name="chuong_trinh_quan_tam"
-                                                id="chuong_trinh_quan_tam" disabled="">
+                                                id="chuong_trinh_quan_tam" >
                                                 <option value="">Chương trình quan tâm*</option>
                                             </select>
                                         </div>
@@ -523,9 +523,9 @@
                                         <input type="hidden" id="hsa_src" name="hsa_src" value="">
                                         <input type="hidden" id="hsa_net" name="hsa_net" value="">
                                         <input type="hidden" id="hsa_ver" name="hsa_ver" value="">
-                                        <div class="d-flex flex-wrap w-100 align-items-center">
+                                        <div class="d-flex flex-wrap align-items-center w-100">
                                             <button class="si-btn" type="submit">Gửi đi</button>
-                                            <div class="home-contact-alert ml-4"></div>
+                                            <div class="ml-4 home-contact-alert"></div>
                                         </div>
                                     </form>
 

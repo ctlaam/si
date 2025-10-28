@@ -216,7 +216,7 @@
                         <h2 class="text-center si-title">QUY TRÌNH CẤP VISA 491 </h2>
                         <div class="d-flex flex-wrap application-process">
                             <div class="it">
-                                <span>Đánh giá hồ sơ &amp; Ký Hợp đồng với SI Group</span>
+                                <span>Đánh giá hồ sơ &amp; Ký Hợp đồng với HOÀNG HÀ GROUP</span>
                             </div>
                             <div class="it">
                                 <span>Sát hạch tay nghề (Skill Assessment)</span>
@@ -425,12 +425,12 @@
                         <div class="col-12 col-md-6 info-contact">
                             <div class="si-form-tt">Liên Hệ Tư Vấn</div>
                             <div class="mt-4">
-                                Điều làm nên khác biệt của SI Group chính là từng giải pháp được cá nhân hóa phù hợp với
+                                Điều làm nên khác biệt của HOÀNG HÀ GROUP chính là từng giải pháp được cá nhân hóa phù hợp với
                                 nhu cầu, điều kiện riêng biệt của từng Quý khách hàng. Chúng tôi cung cấp giải pháp tối
                                 ưu nhất dành riêng cho Quý khách, đồng thời cam kết tỷ lệ thành công và thời gian hoàn
                                 thành cho từng dịch vụ.<br>Để được tư vấn chính xác, nhanh chóng và bảo mật, Quý khách
-                                liên hệ trực tiếp Hotline <a href="tel:+84979355355">(+84) 979 355 355</a> hoặc để lại
-                                thông tin. Đội ngũ với hơn 20 năm kinh nghiệm của SI Group luôn sẵn sàng để kết nối và
+                                liên hệ trực tiếp Hotline <a href="tel:+84979355355">+84 856 936 666</a> hoặc để lại
+                                thông tin. Đội ngũ với hơn 20 năm kinh nghiệm của HOÀNG HÀ GROUP luôn sẵn sàng để kết nối và
                                 tư vấn miễn phí. </div>
                         </div>
                         <div class="col-12 col-md-6">
@@ -460,7 +460,7 @@
                                 </div>
                                 <div class="mb-3">
                                     <select class="form-control" name="chuong_trinh_quan_tam" id="chuong_trinh_quan_tam"
-                                        disabled="">
+                                        >
                                         <option value="">Chương trình quan tâm*</option>
                                     </select>
                                 </div>
