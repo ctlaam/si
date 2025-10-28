@@ -186,9 +186,7 @@
                   </li>
                 </ul>
               </li>
-              <li class="menu-item" :class="{ active: $route.path === '/RealEstate' }">
-                <nuxt-link to="/RealEstate"><span>Bất động sản</span></nuxt-link>
-              </li>
+
               <li class="menu-item" :class="{ active: $route.path === '/TSI' }">
                 <a href="/TSI"><span>Xuất nhập khẩu</span></a>
               </li>
@@ -226,9 +224,9 @@
               <li class="menu-item" :class="{ active: $route.path === '/SettlementProgram' }">
                 <nuxt-link to="/SettlementProgram"><span>Chương trình định cư</span></nuxt-link>
                 <ul class="sub-menu">
-                  <li class="menu-item">
+                  <li class="menu-item sub-menu1" style="position: relative;">
                     <nuxt-link to="/SettlementProgram/SettlementAmerica"><span>Định cư Mỹ</span></nuxt-link>
-                    <ul class="sub-menu">
+                    <ul class="sub-menu sub-menu2" style="position: relative;left: 0;">
                       <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAmerica/EB-5"><span>Visa EB-5
                             định cư Mỹ diện đầu tư</span></nuxt-link></li>
                       <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAmerica/EB-3"><span>Visa EB-3
@@ -242,9 +240,9 @@
                     </ul>
                   </li>
 
-                  <li class="menu-item">
+                  <li class="menu-item" style="position: relative;">
                     <nuxt-link to="/SettlementProgram/SettlementAustraylia"><span>Định cư Úc</span></nuxt-link>
-                    <ul class="sub-menu">
+                    <ul class="sub-menu" style="position: relative;left: 0;">
                       <li class="menu-item"><nuxt-link
                           to="/SettlementProgram/SettlementAustraylia/DemandVisa"><span>Skills in Demand
                             Visa</span></nuxt-link></li>
@@ -276,9 +274,9 @@
                     </ul>
                   </li>
 
-                  <li class="menu-item">
+                  <li class="menu-item" style="position: relative;">
                     <nuxt-link to="/SettlementProgram/SettlementCanada"><span>Định cư Canada</span></nuxt-link>
-                    <ul class="sub-menu">
+                    <ul class="sub-menu" style="position: relative;left: 0;">
                       <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementCanada/Startup"><span>Chương
                             trình Start up visa Canada diện khởi nghiệp</span></nuxt-link></li>
                       <li class="menu-item"><nuxt-link
@@ -289,9 +287,9 @@
                     </ul>
                   </li>
 
-                  <li class="menu-item">
+                  <li class="menu-item" style="position: relative;">
                     <nuxt-link to="/SettlementProgram/SettlementEurope"><span>Định cư Châu Âu</span></nuxt-link>
-                    <ul class="sub-menu">
+                    <ul class="sub-menu" style="position: relative;left: 0;">
                       <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementEurope/BoDaoNha"><span>Định cư
                             Bồ Đào Nha</span></nuxt-link></li>
                       <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementEurope/Hungary"><span>Định cư
@@ -303,9 +301,9 @@
                     </ul>
                   </li>
 
-                  <li class="menu-item">
+                  <li class="menu-item" style="position: relative;">
                     <nuxt-link to="/SettlementProgram/SettlementOrthers"><span>Định cư các nước khác</span></nuxt-link>
-                    <ul class="sub-menu">
+                    <ul class="sub-menu" style="position: relative;left: 0;">
                       <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementOrthers/Dominica"><span>Định cư
                             Dominica</span></nuxt-link></li>
                       <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementOrthers/Grenada"><span>Định cư
@@ -313,15 +311,13 @@
                     </ul>
                   </li>
 
-                  <li class="menu-item">
+                  <li class="menu-item" style="position: relative;">
                     <nuxt-link to="/SettlementProgram/SettlementGlobal"><span>Định cư toàn cầu</span></nuxt-link>
                   </li>
                 </ul>
               </li>
 
-              <li class="menu-item" :class="{ active: $route.path === '/RealEstate' }">
-                <nuxt-link to="/RealEstate"><span>Bất động sản</span></nuxt-link>
-              </li>
+
 
               <li class="menu-item" :class="{ active: $route.path === '/TSI' }">
                 <a href="/TSI"><span>Xuất nhập khẩu</span></a>
@@ -364,6 +360,17 @@
   display: block;
 }
 
+.si-nav.mobile .menu-main .sub-menu,
+.si-nav.mobile .menu-main .sub-menu:hover,
+.si-nav.mobile .menu-main:hover .sub-menu {
+  display: block;
+}
+
+.default-layout .si-nav.mobile .menu-main .sub-menu>li>a .sub-menu>li>a {
+
+  transform: translateX(-50%);
+}
+
 .menu-mobile {
   cursor: pointer;
 }
@@ -378,6 +385,10 @@
   color: #007bff;
   /* Example text color for active link */
 }
+
+.default-layout .si-nav.mobile .menu-main-container{
+  overflow-y: auto;
+}
 </style>
 
 <script>
@@ -389,6 +400,7 @@ export default {
   },
   mounted() {
     const menuMobile = document.querySelector(".menu-mobile");
+    const mobileNav = document.querySelector(".si-nav.mobile");
     const navClose = document.querySelector(".si-nav-close");
 
     menuMobile.addEventListener("click", () => {
@@ -397,20 +409,6 @@ export default {
 
     navClose.addEventListener("click", () => {
       this.isMobileMenuActive = false;
-    });
-
-    // ✅ thêm logic cho submenu trong mobile
-    const mobileNav = document.querySelector(".si-nav.mobile");
-    mobileNav.querySelectorAll(".menu-item > a, .menu-item > .nuxt-link").forEach((link) => {
-      link.addEventListener("click", (e) => {
-        const li = e.target.closest(".menu-item");
-        const subMenu = li.querySelector(".sub-menu");
-
-        if (subMenu) {
-          e.preventDefault(); // chặn điều hướng
-          li.classList.toggle("open");
-        }
-      });
     });
   },
 };
