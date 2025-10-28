@@ -25,8 +25,8 @@
         <div class="d-md-flex justify-content-end si-nav d-none">
           <div class="menu-main-container">
             <ul id="menu-main" class="list-unstyled menu-main">
-              <li class="menu-item" :class="{ active: $route.path === '/AboutSiGroup' }">
-                <nuxt-link to="/AboutSiGroup"><span>Về HOÀNG HÀ Group</span></nuxt-link>
+              <li class="menu-item" :class="{ active: $route.path === '/About' }">
+                <nuxt-link to="/About"><span>Về HOÀNG HÀ Group</span></nuxt-link>
                 <ul class="sub-menu">
                   <li class="menu-item">
                     <nuxt-link to="#gia-tri-cot-loi"><span>Giá trị cốt lõi</span></nuxt-link>
@@ -206,8 +206,8 @@
           <span class="si-nav-close"></span>
           <div class="menu-main-container">
             <ul id="menu-main-1" class="list-unstyled menu-main">
-              <li class="menu-item" :class="{ active: $route.path === '/AboutSiGroup' }">
-                <nuxt-link to="/AboutSiGroup"><span>Về HOÀNG HÀ Group</span></nuxt-link>
+              <li class="menu-item" :class="{ active: $route.path === '/About' }">
+                <nuxt-link to="/About"><span>Về HOÀNG HÀ Group</span></nuxt-link>
                 <ul class="sub-menu">
                   <li class="menu-item"><nuxt-link to="#gia-tri-cot-loi"><span>Giá trị cốt lõi</span></nuxt-link></li>
                   <li class="menu-item"><nuxt-link to="#lich-su-phat-trien"><span>Lịch sử phát triển</span></nuxt-link>

@@ -2782,3 +2782,9 @@ html,
 * {
   font-family: "Lexend Deca", sans-serif !important;
 }
+
+// làm mỏng thanh scroll bar 
+::-webkit-scrollbar {
+  width: 5px;
+  background: gray;
+}
