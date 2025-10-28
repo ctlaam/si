@@ -3,7 +3,7 @@
     <div id="site-inner">
       <main class="main-wrapper">
         <div class="about-us">
-          <div class="si-breadcrumbs d-flex">
+          <div class="d-flex si-breadcrumbs">
             <div class="container">
               <div class="row">
                 <div class="col-12">
@@ -22,11 +22,11 @@
               </div>
             </div>
           </div>
-          <div class="container my-10 py-5">
+          <div class="my-10 py-5 container">
             <div class="row">
               <div class="col-12">
                 <h1 class="text-center si-title"></h1>
-                <div class="excerpt my-6">
+                <div class="my-6 excerpt">
                   <p><span style="font-weight: 300;">Thành lập năm 2001 với tiền thân là công ty ESPECO (H.K) Limited.,
                       có trụ sở tại Đặc khu kinh tế Hồng Kông, HOÀNG HÀ Group tự hào là đơn vị dẫn đầu trong lĩnh vực
                       cung cấp
@@ -41,13 +41,13 @@
                     :slidesToShow="1" :slidesToScroll="1">
                     <div v-for="(item, index) in banners1" :key="index" class="banner-slide">
                       <!-- Desktop background -->
-                      <div class="banner-bg d-none d-md-block"
+                      <div class="d-md-block banner-bg d-none"
                         :style="{ backgroundImage: `url(${require(`@/assets/uploads/${item.bgDesktop}`)})` }">
                         <div class="bg-overlay"></div>
                       </div>
 
                       <!-- Mobile image -->
-                      <div class="banner-bg d-block d-md-none">
+                      <div class="d-block banner-bg d-md-none">
                         <img :src="require(`@/assets/uploads/${item.bgMobile}`)" :alt="item.alt" class="w-100" />
                       </div>
                     </div>
@@ -55,36 +55,36 @@
 
                 </div>
               </div>
-              <div id="gia-tri-cot-loi" class="col-12 core-values my-10 py-10">
-                <h2 class="text-center si-title"> GIÁ TRỊ CỐT LÕI</h2>
-                <!-- <h3 class="text-center mt-8">{{ core_value.Content }}</h3> -->
-                <img src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
+              <!-- <div id="gia-tri-cot-loi" class="my-10 py-10 col-12 core-values">
+                <h2 class="text-center si-title"> GIÁ TRỊ CỐT LÕI</h2> -->
+                <!-- <h3 class="mt-8 text-center">{{ core_value.Content }}</h3> -->
+                <!-- <img src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
                   alt="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
                   data-lazy-src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png" data-ll-status="loaded"
                   class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"
-                    alt="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"></noscript>
-                <!-- <div class="possible d-flex align-items-start justify-content-center mt-4">
+                    alt="@/assets/uploads/2024/10/Gia-tri-cot-loi-VN.png"></noscript> -->
+                <!-- <div class="d-flex align-items-start justify-content-center mt-4 possible">
                                                               </div> -->
-                <!-- <div class="quote relative mt-10" v-if="core_value.Quote">
+                <!-- <div class="relative mt-10 quote" v-if="core_value.Quote">
                                   {{ core_value.Quote }}
                               </div> -->
-              </div>
-              <div id="lich-su-phat-trien" class="col-12 mb-10 pb-5">
+              <!-- </div> -->
+              <!-- <div id="lich-su-phat-trien" class="mb-10 pb-5 col-12">
                 <h2 class="text-center si-title">LỊCH SỬ PHÁT TRIỂN</h2>
                 <img src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
                   alt="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
                   data-lazy-src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg" data-ll-status="loaded"
                   class="entered lazyloaded"><noscript><img src="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"
-                    alt="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"></noscript>
-                <!-- <div class="history text-center mt-10">
+                    alt="@/assets/uploads/2024/10/Lich-su-phat-trien-VN-1.jpg"></noscript> -->
+                <!-- <div class="mt-10 text-center history">
                                                               </div> -->
-              </div>
+              <!-- </div> -->
               <div class="col-12">
-                <div class="si-line my-10"></div>
+                <div class="my-10 si-line"></div>
               </div>
               <div class="col-12 si-scale">
                 <h2 class="text-center si-title">QUY MÔ TẬP ĐOÀN</h2>
-                <div class="text-center mt-10 hinh-anh-quy-mo">
+                <div class="mt-10 text-center hinh-anh-quy-mo">
                   <!-- <img src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
                     alt="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png"
                     data-lazy-src="@/assets/uploads/2024/09/SI-LOGO_Full_Brown-1.png" data-ll-status="loaded"
@@ -138,7 +138,7 @@
                 </div>
               </div>
               <div class="col-12">
-                <div class="si-line my-10"></div>
+                <div class="my-10 si-line"></div>
               </div>
               <div class="col-12">
                 <h2 class="text-center si-title">HOÀNG HÀ Group TRÊN TOÀN CẦU</h2>
@@ -150,15 +150,15 @@
             </div>
           </div>
           <div class="managing-director ban-lanh-dao" id="ban-lanh-dao">
-            <div class="container mb-5 py-10">
+            <div class="mb-5 py-10 container">
               <div class="row">
                 <div class="col-12">
                   <div class="slides-bod">
                     <SlickCarousel :arrows="true" :dots="false" :infinite="true" :autoplay="false" :autoplaySpeed="2500"
                       :slidesToShow="4" :slidesToScroll="1" :responsive="responsiveSettings">
-                      <div v-for="(member, index) in bodList" :key="index" class="it-bod text-center my-3"
+                      <div v-for="(member, index) in bodList" :key="index" class="my-3 text-center it-bod"
                         @click="openPopup(index)">
-                        <img :src="member.img" :alt="member.name" class="img-fluid rounded shadow-sm" />
+                        <img :src="member.img" :alt="member.name" class="shadow-sm rounded img-fluid" />
                         <div>
                           <div class="name">{{ member.name }}</div>
                           <div class="position">{{ member.position }}</div>
@@ -173,7 +173,7 @@
               </div>
             </div>
           </div>
-          <div id="chung-nhan-giai-thuong" class="container py-5">
+          <div id="chung-nhan-giai-thuong" class="py-5 container">
             <div class="row">
               <div class="col-12 certification">
                 <h2 class="text-center si-title">CHỨNG NHẬN &amp; GIẢI THƯỞNG </h2>
@@ -181,7 +181,7 @@
                   <SlickCarousel :arrows="false" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="2000"
                     :slidesToShow="4" :slidesToScroll="1" :responsive="responsiveSettings"
                     class="d-flex align-items-center justify-content-center">
-                    <div v-for="(img, index) in banners" :key="index" class="it p-2">
+                    <div v-for="(img, index) in banners" :key="index" class="p-2 it">
                       <img :src="img" class="w-100 h-auto" :alt="`banner-${index}`" />
                     </div>
                   </SlickCarousel>
@@ -189,7 +189,7 @@
               </div>
             </div>
           </div>
-          <div class="container py-5">
+          <div class="py-5 container">
             <div class="row">
               <div class="col-12 certification" id="certification">
                 <h2 class="text-center si-title">ĐỐI TÁC CHIẾN LƯỢC</h2>
