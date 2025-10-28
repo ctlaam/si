@@ -1,21 +1,19 @@
 <template>
-
     <main class="main-wrapper">
-        <div class="si-landing 13119">
+        <div class="si-landing 824">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
                         <div class="banner-events">
-                            <div class="mx-auto mb-0 si-banners slick-initialized slick-slider">
-
+                            <div class="mx-auto mb-0 si-banners slick-initialized slick-slider slick-dotted">
                                 <div class="slick-list draggable">
                                     <div class="slick-track"
-                                        style="opacity: 1; width: 696px; transform: translate3d(0px, 0px, 0px);">
-                                        <div class="slick-slide slick-current slick-active" style="width: 696px;"
-                                            data-slick-index="0" aria-hidden="false" tabindex="0">
-                                            <div style="background-image:url(https://sigroup.vn/wp-content/uploads/2024/12/visa-tay-nghe-theo-nhu-cau-1.jpg);"
+                                        style="opacity: 1; width: 936px; transform: translate3d(0px, 0px, 0px);">
+                                        <div class="slick-slide slick-current slick-active" data-slick-index="0"
+                                            aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide00"
+                                            aria-describedby="slick-slide-control00" style="width: 936px;">
+                                            <div style="background-image:url(https://sigroup.vn/wp-content/uploads/2023/11/cuoc_song_cua_nguoi_Viet_o_Uc_91667149f8.jpg);"
                                                 class="position-relative justify-center align-items-center bg-banner vh-80">
-                                                <div class="bg-overlay"></div>
                                                 <div class="position-relative w-100 h-100 banner-wrap">
                                                     <div class="mb-10 w-100">
                                                         <div class="flag">
@@ -35,16 +33,18 @@
                                         </div>
                                     </div>
                                 </div>
+                          
                             </div>
                             <div class="my-5">
-                                <h1 class="si-title">Tìm hiểu Skills in Demand Visa (SID) – Visa Tay nghề theo Nhu cầu
-                                </h1>
+                                <h1 class="si-title">Visa 186 Úc – Định cư diện tay nghề do doanh nghiệp đề cử</h1>
                             </div>
-                            <div class="py-3 excerpt">Skills in Demand Visa mở ra cơ hội đến Úc làm việc và định cư sớm
-                                hơn cho lao động tay nghề nước ngoài với thời gian xử lý hồ sơ chỉ trong 1 tháng. </div>
+                            <div class="py-3 excerpt">Visa 186 là visa tay nghề thường trú Úc do doanh nghiệp đề cử, cho
+                                phép người lao động nước ngoài và gia đình gồm vợ/chồng và con cái phụ thuộc đến Úc sinh
+                                sống, học tập và làm việc lâu dài. Visa 186 mở ra cơ hội trở thành công dân Úc sau 4 năm
+                                sinh sống, học tập và làm việc tại quốc gia này. </div>
                         </div>
                         <div class="advantage pa-5">
-                            <h1 class="text-center si-title">ƯU ĐIỂM CHƯƠNG TRÌNH</h1>
+                            <h1 class="text-center si-title">ƯU ĐIỂM VISA 186 </h1>
                             <div class="mt-5 row">
                                 <div class="col-12 col-md-6">
                                     <details class="condition">
@@ -53,19 +53,7 @@
                                                 class="d-flex align-items-center justify-content-center icon">
                                                 <span class="ic-down"></span>
                                             </div>
-                                            <div class="title">Không giới hạn độ tuổi</div>
-                                        </summary>
-                                        <div class="d-block text"> </div>
-                                    </details>
-                                </div>
-                                <div class="col-12 col-md-6">
-                                    <details class="condition">
-                                        <summary class="d-flex flex-wrap align-items-stretch">
-                                            <div style="opacity:0"
-                                                class="d-flex align-items-center justify-content-center icon">
-                                                <span class="ic-down"></span>
-                                            </div>
-                                            <div class="title">Được linh hoạt chuyển đổi doanh nghiệp bảo lãnh </div>
+                                            <div class="title">Trực tiếp sở hữu thường trú nhân Úc </div>
                                         </summary>
                                         <div class="d-block text"></div>
                                     </details>
@@ -77,19 +65,7 @@
                                                 class="d-flex align-items-center justify-content-center icon">
                                                 <span class="ic-down"></span>
                                             </div>
-                                            <div class="title">Thời gian xử lý hồ sơ nhanh, chỉ trong 1 tháng </div>
-                                        </summary>
-                                        <div class="d-block text"></div>
-                                    </details>
-                                </div>
-                                <div class="col-12 col-md-6">
-                                    <details class="condition">
-                                        <summary class="d-flex flex-wrap align-items-stretch">
-                                            <div style="opacity:0"
-                                                class="d-flex align-items-center justify-content-center icon">
-                                                <span class="ic-down"></span>
-                                            </div>
-                                            <div class="title">Rút ngắn yêu cầu kinh nghiệm làm việc xuống còn 1 năm
+                                            <div class="title">Cơ hội trở thành công dân Úc nếu đáp ứng đủ điều kiện
                                             </div>
                                         </summary>
                                         <div class="d-block text"></div>
@@ -98,129 +74,139 @@
                             </div>
                         </div>
                         <div class="mt-5 benefit pa-5">
-                            <h2 class="text-center si-title">QUYỀN LỢI CHƯƠNG TRÌNH</h2>
+                            <h2 class="text-center si-title">QUYỀN LỢI VISA 186 </h2>
                             <div class="d-flex flex-wrap wrap-be">
                                 <div class="d-flex align-items-center text-center si-benefit">
                                     <div>
-                                        <img class="img-fluid entered lazyloaded"
-                                            src="https://sigroup.vn/wp-content/uploads/2023/11/8_Song_tich_11ed9688b1.png"
-                                            alt="https://sigroup.vn/wp-content/uploads/2023/11/8_Song_tich_11ed9688b1.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/8_Song_tich_11ed9688b1.png"
-                                            data-ll-status="loaded"><noscript><img class="img-fluid"
-                                                src="https://sigroup.vn/wp-content/uploads/2023/11/8_Song_tich_11ed9688b1.png"
-                                                alt="https://sigroup.vn/wp-content/uploads/2023/11/8_Song_tich_11ed9688b1.png" /></noscript>
-                                        <p>Sinh sống, học tập và làm việc tại Úc đến 4 năm</p>
+                                        <img class="img-fluid"
+                                            src="https://sigroup.vn/wp-content/uploads/2023/11/00_Ho_chieu_ac1256defa.png"
+                                            alt="https://sigroup.vn/wp-content/uploads/2023/11/00_Ho_chieu_ac1256defa.png"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/00_Ho_chieu_ac1256defa.png"><noscript><img
+                                                class="img-fluid"
+                                                src="https://sigroup.vn/wp-content/uploads/2023/11/00_Ho_chieu_ac1256defa.png"
+                                                alt="https://sigroup.vn/wp-content/uploads/2023/11/00_Ho_chieu_ac1256defa.png" /></noscript>
+                                        <p>Được học tập, làm việc và sinh sống tại Úc vô thời hạn</p>
                                     </div>
                                 </div>
                                 <div class="d-flex align-items-center text-center si-benefit">
                                     <div>
-                                        <img class="img-fluid entered lazyloaded"
-                                            src="https://sigroup.vn/wp-content/uploads/2023/12/25.-Visa-PR-the-thuong-tru-nhan.png"
-                                            alt="https://sigroup.vn/wp-content/uploads/2023/12/25.-Visa-PR-the-thuong-tru-nhan.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/12/25.-Visa-PR-the-thuong-tru-nhan.png"
-                                            data-ll-status="loaded"><noscript><img class="img-fluid"
-                                                src="https://sigroup.vn/wp-content/uploads/2023/12/25.-Visa-PR-the-thuong-tru-nhan.png"
-                                                alt="https://sigroup.vn/wp-content/uploads/2023/12/25.-Visa-PR-the-thuong-tru-nhan.png" /></noscript>
-                                        <p>Lộ trình lên PR Úc rõ ràng, sau 2 năm sở hữu SID</p>
+                                        <img class="img-fluid"
+                                            src="https://sigroup.vn/wp-content/uploads/2023/10/19_chinh_sach_an_sinh_xa_hoi_30c8bac783.png"
+                                            alt="https://sigroup.vn/wp-content/uploads/2023/10/19_chinh_sach_an_sinh_xa_hoi_30c8bac783.png"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/10/19_chinh_sach_an_sinh_xa_hoi_30c8bac783.png"><noscript><img
+                                                class="img-fluid"
+                                                src="https://sigroup.vn/wp-content/uploads/2023/10/19_chinh_sach_an_sinh_xa_hoi_30c8bac783.png"
+                                                alt="https://sigroup.vn/wp-content/uploads/2023/10/19_chinh_sach_an_sinh_xa_hoi_30c8bac783.png" /></noscript>
+                                        <p>Được hưởng các quyền lợi an sinh xã hội và tham gia MEDICARE </p>
                                     </div>
                                 </div>
                                 <div class="d-flex align-items-center text-center si-benefit">
                                     <div>
-                                        <img class="img-fluid entered lazyloaded"
-                                            src="https://sigroup.vn/wp-content/uploads/2023/12/8.-Visa-tu-do-di-chuyen-cac-quoc-gia.png"
-                                            alt="https://sigroup.vn/wp-content/uploads/2023/12/8.-Visa-tu-do-di-chuyen-cac-quoc-gia.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/12/8.-Visa-tu-do-di-chuyen-cac-quoc-gia.png"
-                                            data-ll-status="loaded"><noscript><img class="img-fluid"
-                                                src="https://sigroup.vn/wp-content/uploads/2023/12/8.-Visa-tu-do-di-chuyen-cac-quoc-gia.png"
-                                                alt="https://sigroup.vn/wp-content/uploads/2023/12/8.-Visa-tu-do-di-chuyen-cac-quoc-gia.png" /></noscript>
-                                        <p>Tự do ra vào Úc trong thời hạn visa</p>
+                                        <img class="img-fluid"
+                                            src="https://sigroup.vn/wp-content/uploads/2023/11/4_Mien_giam_hoc_phi_ce871de419.png"
+                                            alt="https://sigroup.vn/wp-content/uploads/2023/11/4_Mien_giam_hoc_phi_ce871de419.png"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/4_Mien_giam_hoc_phi_ce871de419.png"><noscript><img
+                                                class="img-fluid"
+                                                src="https://sigroup.vn/wp-content/uploads/2023/11/4_Mien_giam_hoc_phi_ce871de419.png"
+                                                alt="https://sigroup.vn/wp-content/uploads/2023/11/4_Mien_giam_hoc_phi_ce871de419.png" /></noscript>
+                                        <p>Miễn giảm học phí cho con cái </p>
                                     </div>
                                 </div>
                                 <div class="d-flex align-items-center text-center si-benefit">
                                     <div>
-                                        <img class="img-fluid entered lazyloaded"
-                                            src="https://sigroup.vn/wp-content/uploads/2023/12/6.-Mien-giam-hoc-phi.png"
-                                            alt="https://sigroup.vn/wp-content/uploads/2023/12/6.-Mien-giam-hoc-phi.png"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/12/6.-Mien-giam-hoc-phi.png"
-                                            data-ll-status="loaded"><noscript><img class="img-fluid"
-                                                src="https://sigroup.vn/wp-content/uploads/2023/12/6.-Mien-giam-hoc-phi.png"
-                                                alt="https://sigroup.vn/wp-content/uploads/2023/12/6.-Mien-giam-hoc-phi.png" /></noscript>
-                                        <p>Miễn học phí cho con cái đến hết bậc phổ thông tại hệ thống trường công lập
-                                        </p>
+                                        <img class="img-fluid"
+                                            src="https://sigroup.vn/wp-content/uploads/2023/11/32_Nguoi_than_bdb8f457ef.png"
+                                            alt="https://sigroup.vn/wp-content/uploads/2023/11/32_Nguoi_than_bdb8f457ef.png"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2023/11/32_Nguoi_than_bdb8f457ef.png"><noscript><img
+                                                class="img-fluid"
+                                                src="https://sigroup.vn/wp-content/uploads/2023/11/32_Nguoi_than_bdb8f457ef.png"
+                                                alt="https://sigroup.vn/wp-content/uploads/2023/11/32_Nguoi_than_bdb8f457ef.png" /></noscript>
+                                        <p>Bảo lãnh người thân đủ điều kiện sang Úc định cư</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="mt-10 col-12">
-                        <h2 class="text-center si-title">ĐIỀU KIỆN CHƯƠNG TRÌNH </h2>
+                        <h2 class="text-center si-title">ĐIỀU KIỆN VISA 186 </h2>
                         <div class="pt-5 rule">
                             <details class="condition">
                                 <summary class="d-flex flex-wrap align-items-stretch click">
-                                    <div class="title">Nhân thân </div>
+                                    <div class="title">Nhân thân</div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
                                 </summary>
                                 <div class="px-4 text">
                                     <ul>
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Độ
-                                                tuổi: Từ đủ 18 tuổi trở lên</span></li>
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Đáp
-                                                ứng điều kiện sức khỏe và lý lịch tư pháp</span></li>
+                                        <li>Dưới 45 tuổi.</li>
+                                        <li>Đáp ứng đủ điều kiện về sức khỏe và lý lịch tư pháp.</li>
                                     </ul>
                                 </div>
                             </details>
                             <details class="condition">
                                 <summary class="d-flex flex-wrap align-items-stretch click">
-                                    <div class="title">Sát hạch tay nghề </div>
+                                    <div class="title">Khả năng tiếng Anh</div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
                                 </summary>
                                 <div class="px-4 text">
-                                    <p><span style="font-weight: 400;">Vượt qua Sát hạch Tay nghề (Skills Assessment),
-                                            đối với một số ngành nghề&nbsp;</span></p>
+                                    <p>Tối thiểu IELTS 6.0 hoặc PTE 50 (4 kỹ năng).</p>
                                 </div>
                             </details>
                             <details class="condition">
                                 <summary class="d-flex flex-wrap align-items-stretch click">
-                                    <div class="title">Được doanh nghiệp Úc bảo lãnh </div>
+                                    <div class="title">Được đề cử bởi doanh nghiệp Úc</div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
                                 </summary>
                                 <div class="px-4 text">
-                                    <p><span style="font-weight: 400;">Được bảo lãnh bởi DN do Chính phủ Úc cấp phép
-                                            hoạt động</span></p>
+                                    <p>Doanh nghiệp Úc đề cử phải là doanh nghiệp đang hoạt động hợp pháp tại Úc.</p>
                                 </div>
                             </details>
                             <details class="condition">
                                 <summary class="d-flex flex-wrap align-items-stretch click">
-                                    <div class="title">Trình độ tiếng Anh</div>
+                                    <div class="title">Nghề nghiệp </div>
+                                    <div class="d-flex align-items-center justify-content-center icon">
+                                        <span class="ic-down"></span>
+                                    </div>
+                                </summary>
+                                <div class="px-4 text">
+                                    <p>Nằm trong danh sách do Chính phủ quy định.</p>
+                                </div>
+                            </details>
+                            <details class="condition">
+                                <summary class="d-flex flex-wrap align-items-stretch click">
+                                    <div class="title">Kinh nghiệm làm việc</div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
                                 </summary>
                                 <div class="px-4 text">
                                     <ul>
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Đối
-                                                với Chương trình Tay nghề Cốt lõi và Thỏa thuận Lao động: IELTS 5.0 hoặc
-                                                PTE 36</span></li>
-                                        <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Đối
-                                                với Chương trình dành cho Chuyên gia: IELTS 6.0 hoặc PTE 50</span></li>
+                                        <li>Đối với diện trực tiếp định cư và diện chuyển tiếp tạm trú: Tối thiểu 3 năm
+                                            kinh nghiệm làm việc trong lĩnh vực liên quan.</li>
+                                        <li>Đối với diện thỏa thuận lao động: Số năm kinh nghiệm tùy theo thỏa thuận lao
+                                            động với doanh nghiệp đề cử.</li>
                                     </ul>
                                 </div>
                             </details>
                             <details class="condition">
                                 <summary class="d-flex flex-wrap align-items-stretch click">
-                                    <div class="title">Bằng cấp</div>
+                                    <div class="title">Đánh giá tay nghề</div>
                                     <div class="d-flex align-items-center justify-content-center icon">
                                         <span class="ic-down"></span>
                                     </div>
                                 </summary>
                                 <div class="px-4 text">
-                                    <p><span style="font-weight: 400;">Tối thiểu trung cấp hoặc cao đẳng</span></p>
+                                    <ul>
+                                        <li>Đối với diện trực tiếp định cư và diện chuyển tiếp tạm trú: Vượt qua bài
+                                            đánh giá sát hạch tay nghề.</li>
+                                        <li>Đối với diện thỏa thuận lao động: Tùy theo thỏa thuận với doanh nghiệp đề
+                                            cử.</li>
+                                    </ul>
                                 </div>
                             </details>
                         </div>
@@ -229,25 +215,59 @@
                         <div class="my-10 si-line"></div>
                     </div>
                     <div class="col-12">
-                        <h2 class="text-center si-title">QUY TRÌNH HỒ SƠ</h2>
+                        <h2 class="text-center si-title">QUY TRÌNH CẤP VISA 186 </h2>
                         <div class="d-flex flex-wrap application-process">
                             <div class="it">
-                                <span>Đánh giá hồ sơ và ký hợp đồng với SI Group</span>
+                                <span>Ký Hợp đồng với SI Group</span>
                             </div>
                             <div class="it">
-                                <span>Nộp hồ sơ bảo lãnh</span>
+                                <span>Tham gia đánh giá tay nghề</span>
                             </div>
                             <div class="it">
-                                <span>Nộp hồ sơ Visa 482 Skills in Demand</span>
+                                <span>Ký hợp đồng lao động với doanh nghiệp Úc</span>
                             </div>
                             <div class="it">
-                                <span>Nhận Visa 482 Skills in Demand</span>
+                                <span>Nộp hồ sơ visa 186 và trực tiếp lấy PR</span>
                             </div>
                             <div class="it">
-                                <span>Nộp hồ sơ bảo lãnh và Visa 186</span>
+                                <span>Cả gia đình sang Úc sinh sống, học tập và làm việc</span>
                             </div>
                             <div class="it">
-                                <span>Nhận Visa 186 (thường trú Úc)</span>
+                                <span>Xin nhập quốc tịch Úc khi đủ điều kiện</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="my-10 si-line"></div>
+                    </div>
+                    <div class="col-12">
+                        <h2 class="text-center si-title">DANH SÁCH NGÀNH NGHỀ ƯU TIÊN TUYỂN DỤNG</h2>
+                    </div>
+                    <div class="col-12 si-blog">
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a target="_blank"
+                                    href="https://sigroup.vn/danh-sach-nganh-nghe-uu-tien-dinh-cu/danh-sach-nganh-nghe-uu-tien-dinh-cu-uc/ky-su-xay-dung-civil-engineer/"
+                                    title="Kỹ sư Xây dựng (Civil Engineer) – Định cư Úc" class="mt-5 item">
+                                    <div class="position-relative img">
+                                        <img src="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-JOB-UC-1500x954_KY-SU-XAY-DUNG.jpg"
+                                            alt="Kỹ sư Xây dựng (Civil Engineer) – Định cư Úc"
+                                            class="blog-thumbnail img-fluid"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-JOB-UC-1500x954_KY-SU-XAY-DUNG.jpg"><noscript><img
+                                                src="https://sigroup.vn/wp-content/uploads/2024/10/Thumbnail-JOB-UC-1500x954_KY-SU-XAY-DUNG.jpg"
+                                                alt="Kỹ sư Xây dựng (Civil Engineer) &#8211; Định cư Úc"
+                                                class="blog-thumbnail img-fluid" /></noscript>
+                                    </div>
+                                    <p class="d-flex align-items-center py-3">
+                                        <span class="clock"></span><span>12/10/2024</span>
+                                    </p>
+                                    <h4>Kỹ sư Xây dựng (Civil Engineer) – Định cư Úc</h4>
+                                    <div class="py-2 si-3-line">
+                                        <p class="item-short-content">Lấy PR Úc trực tiếp khi trở thành Kỹ sư Xây dựng.
+                                            Kỹ sư Xây dựng đang là một trong những ngành thiếu hụt và nằm trong top trả
+                                            lương cao ở Úc.</p>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -267,9 +287,8 @@
                                     <div class="position-relative img">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-58.jpg"
                                             alt="Định cư Úc diện tay nghề có phải là “Xuất khẩu lao động”?"
-                                            class="blog-thumbnail img-fluid entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-58.jpg"
-                                            data-ll-status="loaded"><noscript><img
+                                            class="blog-thumbnail img-fluid"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-58.jpg"><noscript><img
                                                 src="https://sigroup.vn/wp-content/uploads/2025/10/Thumbnail-website-1500-x-954px-58.jpg"
                                                 alt="Định cư Úc diện tay nghề có phải là “Xuất khẩu lao động”?"
                                                 class="blog-thumbnail img-fluid" /></noscript>
@@ -299,9 +318,8 @@
                                     <div class="position-relative img">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-49.jpg"
                                             alt="6 loại visa Úc cho phép định cư ở tuổi 45+"
-                                            class="blog-thumbnail img-fluid entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-49.jpg"
-                                            data-ll-status="loaded"><noscript><img
+                                            class="blog-thumbnail img-fluid"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-49.jpg"><noscript><img
                                                 src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-49.jpg"
                                                 alt="6 loại visa Úc cho phép định cư ở tuổi 45+"
                                                 class="blog-thumbnail img-fluid" /></noscript>
@@ -331,9 +349,8 @@
                                     <div class="position-relative img">
                                         <img src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-46.jpg"
                                             alt="Kinh nghiệm định cư Úc ngành chế biến thịt năm 2025 cho người Việt&nbsp;"
-                                            class="blog-thumbnail img-fluid entered lazyloaded"
-                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-46.jpg"
-                                            data-ll-status="loaded"><noscript><img
+                                            class="blog-thumbnail img-fluid"
+                                            data-lazy-src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-46.jpg"><noscript><img
                                                 src="https://sigroup.vn/wp-content/uploads/2025/09/Thumbnail-website-1500-x-954px-46.jpg"
                                                 alt="Kinh nghiệm định cư Úc ngành chế biến thịt năm 2025 cho người Việt "
                                                 class="blog-thumbnail img-fluid" /></noscript>
@@ -367,89 +384,87 @@
                     </div>
                     <div class="col-12">
                         <div class="content">
-                            <p style="text-align: justify;"><em><strong><span
-                                            style="font-size: 24px;">FAQs</span></strong></em></p>
-                            <h2 style="text-align: justify;">Giới thiệu về Chương trình Skills in Demand Visa</h2>
-                            <p style="text-align: justify;"><span style="font-weight: 400;">Skills in Demand Visa (Visa
-                                    Tay nghề theo Nhu cầu) chính thức thay thế Visa 482 trước đây kể từ ngày
-                                    07/12/2024.&nbsp;</span></p>
-                            <p style="text-align: justify;"><span style="font-weight: 400;">Skills in Demand Visa là
-                                    visa tay nghề tạm trú Úc cho phép lao động nước ngoài đáp ứng điều kiện theo quy
-                                    định đến quốc gia này làm việc và định cư, với các ưu điểm nổi bật sau đây:</span>
-                            </p>
-                            <ul style="text-align: justify;">
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Thời gian
-                                        xử lý hồ sơ nhanh hơn, tối đa chỉ trong vòng 1 tháng;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Rút ngắn
-                                        yêu cầu kinh nghiệm làm việc trong lĩnh vực liên quan xuống còn 1 năm;</span>
-                                </li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Không giới
-                                        hạn độ tuổi nộp hồ sơ, ứng viên chỉ cần từ đủ 18 tuổi trở lên là có thể nộp hồ
-                                        sơ.&nbsp;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Không ràng
-                                        buộc làm việc cho một chủ sử dụng lao động bảo lãnh duy nhất trong thời gian sở
-                                        hữu Skills in Demand Visa. Nghĩa là được phép linh hoạt chuyển đổi chủ bảo
-                                        lãnh.</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lộ trình
-                                        lên thường trú Úc rõ ràng, chỉ sau 2 năm sở hữu Skills in Demand
-                                        Visa.&nbsp;</span></li>
+                            <p><span style="font-size: 32px;"><em><strong>FAQs</strong></em></span></p>
+                            <h2>Visa 186 Úc là gì?</h2>
+                            <p><span style="font-weight: 400;"><span style="color: #993300;"><a style="color: #993300;"
+                                            href="https://sigroup.vn/tin-tuc/visa-186-uc/" target="_blank"
+                                            rel="noopener">Visa 186 Úc là visa tay nghề thường trú Úc do doanh nghiệp đề
+                                            cử</a></span>, cho phép lao động nước ngoài và gia đình của họ, bao gồm
+                                    vợ/chồng và con cái phụ thuộc đến Úc sinh sống, học tập và làm việc lâu dài. Sau khi
+                                    sở hữu Visa 186 Úc, đương đơn và gia đình được hưởng các quyền lợi về giáo dục, y
+                                    tế, phúc lợi xã hội, v.v. gần </span><span style="font-weight: 400;">đầy đủ
+                                </span><span style="font-weight: 400;">như công dân Úc.&nbsp;</span></p>
+                            <p><span style="font-weight: 400;">Visa 186 Úc bao gồm diện Trực tiếp định cư và diện Thỏa
+                                    thuận Lao động.&nbsp;</span></p>
+                            <h2>Chi phí xin Visa 186 cần bao nhiêu tiền?</h2>
+                            <p><span style="font-weight: 400;"><span style="color: #993300;"><a style="color: #993300;"
+                                            href="https://sigroup.vn/tin-tuc/le-phi-xin-visa-uc/" target="_blank"
+                                            rel="noopener">Phí nộp đơn xin cấp Visa Úc</a></span> 186 cập nhật mới nhất
+                                    từ ngày 01/7/2024 như sau:</span></p>
+                            <ul>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Đương đơn
+                                        chính: 4,770 AUD</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Người phụ
+                                        thuộc đi kèm hồ sơ từ đủ 18 tuổi trở lên: 2,385 AUD</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Người phụ
+                                        thuộc đi kèm hồ sơ dưới 18 tuổi: 1,190 AUD</span></li>
                             </ul>
-                            <p style="text-align: justify;"><span style="font-weight: 400;">Visa Tay nghề theo Nhu cầu
-                                    bao gồm 3 luồng gồm Specialist Skills Stream (Dòng Chuyên gia), Core Skills Stream
-                                    (Dòng Tay nghề Cốt lõi) và Labour Agreement Stream (Dòng Thỏa thuận Lao động). Trong
-                                    đó, mỗi dòng sẽ có yêu cầu cụ thể về bằng cấp, trình độ tiếng Anh khác nhau và mức
-                                    thu nhập mà chủ bảo lãnh đảm bảo trả cho người lao động cũng khác nhau. Trong
-                                    đó:</span></p>
-                            <ul style="text-align: justify;">
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Specialist
-                                        Skills Stream (Dòng Chuyên gia): Chủ bảo lãnh cần đảm bảo thu nhập của người nộp
-                                        đơn từ 135,000 AUD/năm trở lên, và ứng viên cần có kinh nghiệm làm việc tối
-                                        thiểu 1 năm trong các lĩnh vực nằm trong danh sách nghề ANZCO, cũng như trình độ
-                                        tiếng Anh tối thiểu IELTS 6.0 hoặc PTE 50&nbsp;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Core Skills
-                                        Stream (Dòng Tay nghề Cốt lõi): Chủ bảo lãnh cần đảm bảo thu nhập của người nộp
-                                        đơn từ 73,150 AUD/năm trở lên, và ứng viên cần có kinh nghiệm làm việc tối thiểu
-                                        1 năm trong các lĩnh vực thuộc danh sách 456 nghề nghiệp cùng trình độ tiếng Anh
-                                        tối thiểu IELTS 5.0 hoặc PTE 36.&nbsp;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Labour
-                                        Agreement Stream (Dòng Thỏa thuận Lao động): Chủ bảo lãnh cần đảm bảo thu nhập
-                                        của người nộp đơn dưới 73,150 AUD/năm, và ứng viên cần có kinh nghiệm làm việc
-                                        tối thiểu 1 năm trong ngành nghề được đánh giá thiết yếu cùng trình độ tiếng Anh
-                                        tối thiểu IELTS 5.0 hoặc PTE 36.&nbsp;</span></li>
+                            <h2>Điều kiện chuyển Visa 482 sang Visa 186?</h2>
+                            <p><span style="font-weight: 400;">Để chuyển từ <span style="color: #993300;"><a
+                                            style="color: #993300;"
+                                            href="https://sigroup.vn/chuong-trinh/visa-482-dinh-cu-uc-dien-tay-nghe-tam-tru/"
+                                            target="_blank" rel="noopener">Visa 482 – Visa tay nghề tạm trú</a></span>
+                                    sang Visa 186 – Visa tay nghề thường trú, đương đơn cần đáp ứng các điều kiện
+                                    sau:&nbsp;</span></p>
+                            <ol>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Đáp ứng yêu
+                                        cầu về sức khỏe và lý lịch tư pháp</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sở hữu
+                                        <span style="color: #993300;"><a style="color: #993300;"
+                                                href="https://sigroup.vn/tin-tuc/visa-482-uc-la-gi-tong-hop-nhung-dieu-can-biet/"
+                                                target="_blank" rel="noopener">Visa 482 Úc</a></span>&nbsp;</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Độ tuổi:
+                                        Thông thường, để được cấp Visa 186, đương đơn cần đáp ứng yêu cầu dưới 45 tuổi.
+                                        Tuy nhiên, đối với đương đơn sở hữu Visa 482, yêu cầu này có thể được miễn nếu
+                                        làm việc trong ngành nghề được đề cử với doanh nghiệp đề cử tối thiểu 2 năm
+                                        trong vòng 3 năm trước thời điểm nộp đơn xin cấp Visa 186, đồng thời đạt ngưỡng
+                                        thu nhập cao 175,000 AUD/năm áp dụng từ ngày 01/7/2024 hoặc 167,500 AUD/năm
+                                        trước 01/7/2024.&nbsp;</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Có kỹ năng
+                                        và trình độ cần thiết để thực hiện nhiệm vụ công việc được yêu cầu. Trong một số
+                                        trường hợp, Bộ Nội vụ Úc có thể yêu cầu đương đơn thực hiện sát hạch tay nghề để
+                                        thể hiện rằng đương đơn có những kỹ năng này.&nbsp;</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Được cấp
+                                        phép, đăng ký hoặc là thành viên của cơ quan chuyên môn nếu đó là yêu cầu bắt
+                                        buộc đối với tiểu bang hoặc vùng lãnh thổ nơi đương đơn dự định làm
+                                        việc.&nbsp;</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Được đề cử
+                                        bởi người sử dụng lao động bảo lãnh visa tay nghề tạm trú. Người sử dụng lao
+                                        động phải bảo lãnh đương đơn đã làm việc toàn thời gian theo Visa 482 hoặc <span
+                                            style="color: #993300;"><a style="color: #993300;"
+                                                href="https://sigroup.vn/tin-tuc/dinh-cu-uc-visa-457/" target="_blank"
+                                                rel="noopener">Visa 457</a></span> tối thiểu 2 năm trong 3 năm trước khi
+                                        nộp đơn xin Visa 186. Lưu ý rằng doanh nghiệp đề cử phải hoạt động hợp pháp và
+                                        hiệu quả tại Úc. Quý vị phải nộp đơn xin visa trong vòng 6 tháng kể từ khi được
+                                        đề cử.</span></li>
+                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Trình độ
+                                        tiếng Anh: Tối thiểu IELTS 6.0 hoặc PTE (4 kỹ năng).&nbsp;</span></li>
+                            </ol>
+                            <p><strong>&gt;&gt; Tham khảo thêm:</strong></p>
+                            <ul>
+                                <li><span style="color: #993300;"><a style="color: #993300;"
+                                            href="https://sigroup.vn/tin-tuc/visa-494/" target="_blank"
+                                            rel="noopener">Visa 494 Úc</a>: Cơ hội xin visa diện tay nghề tạm trú do
+                                        doanh nghiệp bảo lãnh</span></li>
+                                <li><span style="color: #993300;"><a style="color: #993300;"
+                                            href="https://sigroup.vn/tin-tuc/visa-190-uc/" target="_blank"
+                                            rel="noopener">Visa 190 Úc</a> là gì? Cách xin visa diện tay nghề bảo lãnh
+                                        bang định cư Úc</span></li>
+                                <li><span style="color: #993300;"><a style="color: #993300;"
+                                            href="https://sigroup.vn/tin-tuc/visa-491-uc/" target="_blank"
+                                            rel="noopener">Visa 491 Úc</a> là gì? Bí quyết xin visa 491 Úc diện tay nghề
+                                        khu vực chỉ định</span></li>
                             </ul>
-                            <h2>Lợi ích tham gia Chương trình Skills in Demand Visa</h2>
-                            <p style="text-align: justify;"><span style="font-weight: 400;">Tham gia Chương trình Skills
-                                    in Demand Visa, ứng viên được hưởng các lợi ích sau đây:</span></p>
-                            <ul style="text-align: justify;">
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tự do sinh
-                                        sống, học tập và làm việc tại Úc đến 4 năm.</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tự do ra
-                                        vào Úc trong thời hạn visa còn hiệu lực.&nbsp;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lộ trình
-                                        lên thường trú Úc rõ ràng, chỉ sau 2 năm sở hữu visa.&nbsp;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Con cái
-                                        được miễn học phí đến hết bậc phổ thông tại hệ thống trường công
-                                        lập.&nbsp;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Đa dạng các
-                                        ngành nghề để lựa chọn, thu nhập kiếm được tốt hơn.&nbsp;</span></li>
-                                <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cơ hội phát
-                                        triển nghề nghiệp của bản thân và cải thiện môi trường sống cho cả gia
-                                        đình.&nbsp;</span></li>
-                            </ul>
-                            <h2>Sự khác biệt giữa Skills in Demand Visa và Visa 482 trước đây&nbsp;</h2>
-                            <p style="text-align: justify;"><span style="font-weight: 400;">Về cơ bản, Skills in Demand
-                                    Visa không chỉ nhắm đến mục tiêu giải quyết thiếu hụt lao động tạm thời, mà còn thu
-                                    hút nhân tài đến với nước Úc và các chính sách đang mở rộng hơn đối với lao động tay
-                                    nghề nước ngoài.&nbsp;</span></p>
-                            <p style="text-align: justify;"><span style="font-weight: 400;">Thời gian cư trú tại Úc khi
-                                    sở hữu Skills in Demand Visa lên đến 4 năm, áp dụng đối với tất cả luồng. Ứng viên
-                                    hoàn toàn có thể chuyển đổi chủ bảo lãnh trong thời hạn visa, thay vì phụ thuộc vào
-                                    một chủ bảo lãnh như trước đây. Đặc biệt thời gian xử lý hồ sơ nhanh, chậm nhất là 1
-                                    tháng, nên mang đến nhiều cơ hội làm việc định cư Úc hơn cho lao động tay nghề nước
-                                    ngoài với thu nhập được đảm bảo cao hơn so với chương trình cũ.&nbsp;</span></p>
-                            <p style="text-align: justify;"><span style="font-weight: 400;">Skills in Demand Visa là xu
-                                    thế mới, phù hợp với hầu hết lao động nước ngoài có nhu cầu đến Úc làm việc và định
-                                    cư. </span></p>
                         </div>
                     </div>
                 </div>
@@ -604,7 +619,6 @@
                                     <div class="ml-4 home-contact-alert"></div>
                                 </div>
                             </form>
-                         
                         </div>
                     </div>
                 </div>

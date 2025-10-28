@@ -1,9 +1,9 @@
 <template>
   <div class="si-header">
-    <div class="container d-flex align-items-center justify-content-between">
-      <div class="background w-100 h-100 position-absolute"></div>
-      <nuxt-link class="logo position-relative" to="/">
-        <img class="d-none d-md-block py-3" src="@/assets/themes/sigroup/assets/images/si_logofullgold.png"
+    <div class="d-flex align-items-center justify-content-between container">
+      <div class="position-absolute w-100 h-100 background"></div>
+      <nuxt-link class="position-relative logo" to="/">
+        <img class="d-md-block py-3 d-none" src="@/assets/themes/sigroup/assets/images/si_logofullgold.png"
           alt="HOÀNG HÀ Group" style="border-radius: 50%" />
         <img class="d-md-none entered lazyloaded" src="@/assets/themes/sigroup/assets/images/si_logofullgold_mb.png"
           alt="HOÀNG HÀ Group" data-lazy-src="@/assets/themes/sigroup/assets/images/si_logofullgold_mb.png"
@@ -15,16 +15,16 @@
       </nuxt-link>
       <div class="position-relative">
         <div class="si-top d-flex align-items-center justify-content-end">
-          <div class="call d-flex align-items-center">
+          <div class="d-flex align-items-center call">
             <nuxt-link to="#">+6666</nuxt-link>
           </div>
           <div class="px-3 menu-mobile">
             <img width="30" height="21" src="@/assets/themes/sigroup/assets/images/menu-icon.png" alt="Menu Icon" />
           </div>
         </div>
-        <div class="si-nav d-none d-md-flex justify-content-end">
+        <div class="d-md-flex justify-content-end si-nav d-none">
           <div class="menu-main-container">
-            <ul id="menu-main" class="menu-main list-unstyled">
+            <ul id="menu-main" class="list-unstyled menu-main">
               <li class="menu-item" :class="{ active: $route.path === '/AboutSiGroup' }">
                 <nuxt-link to="/AboutSiGroup"><span>Về HOÀNG HÀ Group</span></nuxt-link>
                 <ul class="sub-menu">
@@ -76,40 +76,40 @@
                     </ul>
                   </li>
                   <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Úc</span></nuxt-link>
+                    <nuxt-link to="/SettlementAustraylia"><span>Định cư Úc</span></nuxt-link>
                     <ul class="sub-menu">
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Skills in Demand Visa</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/DemandVisa"><span>Skills in Demand Visa</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>National Innovation Visa</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/NationalInnovationVisa"><span>National Innovation Visa</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 494 Úc</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa494Uc"><span>Visa 494 Úc</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 494 DAMA</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa494DAMA"><span>Visa 494 DAMA</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 186 Úc</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa186Uc"><span>Visa 186 Úc</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 491 Úc</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa491Uc"><span>Visa 491 Úc</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 190 Úc</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa190Uc"><span>Visa 190 Úc</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482 OBS</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa482OBS"><span>Visa 482 OBS</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa482"><span>Visa 482</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482 DAMA</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa482DAMA"><span>Visa 482 DAMA</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Danh sách ngành nghề ưu tiên định cư Úc</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/NgheUuTien"><span>Danh sách ngành nghề ưu tiên định cư Úc</span></nuxt-link>
                       </li>
                     </ul>
                   </li>
@@ -240,10 +240,10 @@
             </ul>
           </div>
         </div>
-        <div class="si-nav mobile justify-content-end" :class="{ active: isMobileMenuActive }">
+        <div class="justify-content-end si-nav mobile" :class="{ active: isMobileMenuActive }">
           <span class="si-nav-close"></span>
           <div class="menu-main-container">
-            <ul id="menu-main-1" class="menu-main list-unstyled">
+            <ul id="menu-main-1" class="list-unstyled menu-main">
               <li class="menu-item" :class="{ active: $route.path === '/AboutSiGroup' }">
                 <nuxt-link to="/AboutSiGroup"><span>Về HOÀNG HÀ Group</span></nuxt-link>
                 <ul class="sub-menu">
