@@ -9,6 +9,8 @@
 import Header from '~/components/Header'
 import Footer from '~/components/Footer'
 import '@/assets/css/global.scss'
+import '@/assets/css/country.scss'
+import '@/assets/css/program.scss'
 export default {
   components: {
     Header,

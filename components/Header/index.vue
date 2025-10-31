@@ -1,9 +1,9 @@
 <template>
   <div class="si-header">
-    <div class="container d-flex align-items-center justify-content-between">
-      <div class="background w-100 h-100 position-absolute"></div>
-      <nuxt-link class="logo position-relative" to="/">
-        <img class="d-none d-md-block py-3" src="@/assets/themes/sigroup/assets/images/si_logofullgold.png"
+    <div class="d-flex align-items-center justify-content-between container">
+      <div class="position-absolute w-100 h-100 background"></div>
+      <nuxt-link class="position-relative logo" to="/">
+        <img class="d-md-block py-3 d-none" src="@/assets/themes/sigroup/assets/images/si_logofullgold.png"
           alt="HOÀNG HÀ Group" style="border-radius: 50%" />
         <img class="d-md-none entered lazyloaded" src="@/assets/themes/sigroup/assets/images/si_logofullgold_mb.png"
           alt="HOÀNG HÀ Group" data-lazy-src="@/assets/themes/sigroup/assets/images/si_logofullgold_mb.png"
@@ -15,18 +15,18 @@
       </nuxt-link>
       <div class="position-relative">
         <div class="si-top d-flex align-items-center justify-content-end">
-          <div class="call d-flex align-items-center">
-            <nuxt-link to="#">(+84) 979 355 355</nuxt-link>
+          <div class="d-flex align-items-center call">
+            <nuxt-link to="#">+84 856 936 666</nuxt-link>
           </div>
           <div class="px-3 menu-mobile">
             <img width="30" height="21" src="@/assets/themes/sigroup/assets/images/menu-icon.png" alt="Menu Icon" />
           </div>
         </div>
-        <div class="si-nav d-none d-md-flex justify-content-end">
+        <div class="d-md-flex justify-content-end si-nav d-none">
           <div class="menu-main-container">
-            <ul id="menu-main" class="menu-main list-unstyled">
-              <li class="menu-item" :class="{ active: $route.path === '/AboutSiGroup' }">
-                <nuxt-link to="/AboutSiGroup"><span>Về HOÀNG HÀ Group</span></nuxt-link>
+            <ul id="menu-main" class="list-unstyled menu-main">
+              <li class="menu-item" :class="{ active: $route.path === '/About' }">
+                <nuxt-link to="/About"><span>Về HOÀNG HÀ Group</span></nuxt-link>
                 <ul class="sub-menu">
                   <li class="menu-item">
                     <nuxt-link to="#gia-tri-cot-loi"><span>Giá trị cốt lõi</span></nuxt-link>
@@ -53,178 +53,140 @@
                 <nuxt-link to="/SettlementProgram"><span>Chương trình định cư</span></nuxt-link>
                 <ul class="sub-menu">
                   <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Mỹ</span></nuxt-link>
+                    <nuxt-link to="/SettlementProgram/SettlementAmerica"><span>Định cư Mỹ</span></nuxt-link>
                     <ul class="sub-menu">
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-5 định cư Mỹ diện đầu tư</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAmerica/EB-5"><span>Visa EB-5 định cư Mỹ diện đầu
+                            tư</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-3 định cư Mỹ diện tay nghề</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAmerica/EB-3"><span>Visa EB-3 định cư Mỹ diện tay
+                            nghề</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-2 định cư Mỹ diện tài năng đặc biệt</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAmerica/EB-2"><span>Visa EB-2 định cư Mỹ diện tài
+                            năng đặc biệt</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-1C định cư Mỹ</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAmerica/EB-C1"><span>Visa EB-1C định cư
+                            Mỹ</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa L-1A định cư Mỹ diện doanh nhân</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAmerica/L-A1"><span>Visa L-1A định cư Mỹ diện doanh
+                            nhân</span></nuxt-link>
+                      </li>
+
+                    </ul>
+                  </li>
+                  <li class="menu-item">
+                    <nuxt-link to="/SettlementProgram/SettlementAustraylia"><span>Định cư Úc</span></nuxt-link>
+                    <ul class="sub-menu">
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/DemandVisa"><span>Skills in Demand
+                            Visa</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Danh sách ngành nghề ưu tiên định cư Mỹ</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/NationalInnovationVisa"><span>National
+                            Innovation Visa</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa494Uc"><span>Visa 494
+                            Úc</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa494DAMA"><span>Visa 494
+                            DAMA</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa186Uc"><span>Visa 186
+                            Úc</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa491Uc"><span>Visa 491
+                            Úc</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa190Uc"><span>Visa 190
+                            Úc</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa482OBS"><span>Visa 482
+                            OBS</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa482"><span>Visa
+                            482</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa482DAMA"><span>Visa 482
+                            DAMA</span></nuxt-link>
+                      </li>
+                      <li class="menu-item">
+                        <nuxt-link to="/SettlementProgram/SettlementAustraylia/NgheUuTien"><span>Danh sách ngành nghề ưu
+                            tiên định cư Úc</span></nuxt-link>
                       </li>
                     </ul>
                   </li>
                   <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Úc</span></nuxt-link>
+                    <nuxt-link to="/SettlementProgram/SettlementCanada"><span>Định cư Canada</span></nuxt-link>
                     <ul class="sub-menu">
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Skills in Demand Visa</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>National Innovation Visa</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 494 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 494 DAMA</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 186 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 491 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 190 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482 OBS</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482 DAMA</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Danh sách ngành nghề ưu tiên định cư Úc</span></nuxt-link>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Canada</span></nuxt-link>
-                    <ul class="sub-menu">
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Chương trình Start up visa Canada diện khởi
+                        <nuxt-link to="/SettlementProgram/SettlementCanada/Startup"><span>Chương trình Start up visa
+                            Canada diện khởi
                             nghiệp</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Chương trình Express Entry Canada định cư diện tay
+                        <nuxt-link to="/SettlementProgram/SettlementCanada/ExpressEntry"><span>Chương trình Express
+                            Entry Canada định cư diện tay
                             nghề cao</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Danh sách ngành nghề ưu tiên định cư Canada</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementCanada/NganhUuTien"><span>Danh sách ngành nghề ưu
+                            tiên định cư Canada</span></nuxt-link>
                       </li>
                     </ul>
                   </li>
                   <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Châu Âu</span></nuxt-link>
+                    <nuxt-link to="/SettlementProgram/SettlementEurope"><span>Định cư Châu Âu</span></nuxt-link>
                     <ul class="sub-menu">
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Bồ Đào Nha</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementEurope/BoDaoNha"><span>Định cư Bồ Đào
+                            Nha</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Hungary</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementEurope/Hungary"><span>Định cư
+                            Hungary</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Malta</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementEurope/Malta"><span>Định cư Malta</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Slovakia</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementEurope/Slovakia"><span>Định cư
+                            Slovakia</span></nuxt-link>
                       </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Bulgaria</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Hy Lạp</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Tây Ban Nha</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Ý</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Đảo Síp</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Latvia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Ireland</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Vương Quốc Anh</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Thổ Nhĩ Kỳ</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Slovenia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Thụy Sĩ</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Pháp</span></nuxt-link>
-                      </li>
+
                     </ul>
                   </li>
                   <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư các nước khác</span></nuxt-link>
+                    <nuxt-link to="/SettlementProgram/SettlementOrthers"><span>Định cư các nước khác</span></nuxt-link>
                     <ul class="sub-menu">
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Dominica</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementOrthers/Dominica"><span>Định cư
+                            Dominica</span></nuxt-link>
                       </li>
                       <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Grenada</span></nuxt-link>
+                        <nuxt-link to="/SettlementProgram/SettlementOrthers/Grenada"><span>Định cư
+                            Grenada</span></nuxt-link>
                       </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Vanuatu</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư St. Kitts & Nevis</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Antigua & Barbuda</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Malaysia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Saint Lucia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Singapore</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư New Zealand</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư UAE</span></nuxt-link>
-                      </li>
+
                     </ul>
                   </li>
                   <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư toàn cầu</span></nuxt-link>
+                    <nuxt-link to="/SettlementProgram/SettlementGlobal"><span>Định cư toàn cầu</span></nuxt-link>
                   </li>
                 </ul>
               </li>
-              <li class="menu-item" :class="{ active: $route.path === '/RealEstate' }">
-                <nuxt-link to="/RealEstate"><span>Bất động sản</span></nuxt-link>
-              </li>
+
               <li class="menu-item" :class="{ active: $route.path === '/TSI' }">
                 <a href="/TSI"><span>Xuất nhập khẩu</span></a>
               </li>
@@ -240,225 +202,142 @@
             </ul>
           </div>
         </div>
-        <div class="si-nav mobile justify-content-end" :class="{ active: isMobileMenuActive }">
+        <div class="justify-content-end si-nav mobile" :class="{ active: isMobileMenuActive }">
           <span class="si-nav-close"></span>
           <div class="menu-main-container">
-            <ul id="menu-main-1" class="menu-main list-unstyled">
-              <li class="menu-item" :class="{ active: $route.path === '/AboutSiGroup' }">
-                <nuxt-link to="/AboutSiGroup"><span>Về HOÀNG HÀ Group</span></nuxt-link>
+            <ul id="menu-main-1" class="list-unstyled menu-main">
+              <li class="menu-item" :class="{ active: $route.path === '/About' }">
+                <nuxt-link to="/About"><span>Về HOÀNG HÀ Group</span></nuxt-link>
                 <ul class="sub-menu">
-                  <li class="menu-item">
-                    <nuxt-link to="#gia-tri-cot-loi"><span>Giá trị cốt lõi</span></nuxt-link>
+                  <li class="menu-item"><nuxt-link to="#gia-tri-cot-loi"><span>Giá trị cốt lõi</span></nuxt-link></li>
+                  <li class="menu-item"><nuxt-link to="#lich-su-phat-trien"><span>Lịch sử phát triển</span></nuxt-link>
                   </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#lich-su-phat-trien">
-                      <span>Lịch sử phát triển</span></nuxt-link>
-                  </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#chung-nhan-giai-thuong"><span>Chứng nhận & Giải thưởng</span></nuxt-link>
-                  </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#ban-lanh-dao"><span>Ban lãnh đạo</span></nuxt-link>
-                  </li>
-                  <li class="menu-item">
-                    <nuxt-link to="/news"><span>Báo chí</span></nuxt-link>
-                  </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#certification"><span>Khách hàng thành công</span></nuxt-link>
+                  <li class="menu-item"><nuxt-link to="#chung-nhan-giai-thuong"><span>Chứng nhận & Giải
+                        thưởng</span></nuxt-link></li>
+                  <li class="menu-item"><nuxt-link to="#ban-lanh-dao"><span>Ban lãnh đạo</span></nuxt-link></li>
+                  <li class="menu-item"><nuxt-link to="/news"><span>Báo chí</span></nuxt-link></li>
+                  <li class="menu-item"><nuxt-link to="#certification"><span>Khách hàng thành công</span></nuxt-link>
                   </li>
                 </ul>
               </li>
+
               <li class="menu-item" :class="{ active: $route.path === '/SettlementProgram' }">
                 <nuxt-link to="/SettlementProgram"><span>Chương trình định cư</span></nuxt-link>
                 <ul class="sub-menu">
-                  <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Mỹ</span></nuxt-link>
-                    <ul class="sub-menu">
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-5 định cư Mỹ diện đầu tư</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-3 định cư Mỹ diện tay nghề</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-2 định cư Mỹ diện tài năng đặc biệt</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa EB-1C định cư Mỹ</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa L-1A định cư Mỹ diện doanh nhân</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Danh sách ngành nghề ưu tiên định cư Mỹ</span></nuxt-link>
-                      </li>
+                  <li class="menu-item sub-menu1" style="position: relative;">
+                    <nuxt-link to="/SettlementProgram/SettlementAmerica"><span>Định cư Mỹ</span></nuxt-link>
+                    <ul class="sub-menu sub-menu2" style="position: relative;left: 0;">
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAmerica/EB-5"><span>Visa EB-5
+                            định cư Mỹ diện đầu tư</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAmerica/EB-3"><span>Visa EB-3
+                            định cư Mỹ diện tay nghề</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAmerica/EB-2"><span>Visa EB-2
+                            định cư Mỹ diện tài năng đặc biệt</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAmerica/EB-C1"><span>Visa EB-1C
+                            định cư Mỹ</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAmerica/L-A1"><span>Visa L-1A
+                            định cư Mỹ diện doanh nhân</span></nuxt-link></li>
                     </ul>
                   </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Úc</span></nuxt-link>
-                    <ul class="sub-menu">
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Skills in Demand Visa</span></nuxt-link>
+
+                  <li class="menu-item" style="position: relative;">
+                    <nuxt-link to="/SettlementProgram/SettlementAustraylia"><span>Định cư Úc</span></nuxt-link>
+                    <ul class="sub-menu" style="position: relative;left: 0;">
+                      <li class="menu-item"><nuxt-link
+                          to="/SettlementProgram/SettlementAustraylia/DemandVisa"><span>Skills in Demand
+                            Visa</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link
+                          to="/SettlementProgram/SettlementAustraylia/NationalInnovationVisa"><span>National Innovation
+                            Visa</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa494Uc"><span>Visa
+                            494 Úc</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link
+                          to="/SettlementProgram/SettlementAustraylia/Visa494DAMA"><span>Visa 494
+                            DAMA</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa186Uc"><span>Visa
+                            186 Úc</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa491Uc"><span>Visa
+                            491 Úc</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa190Uc"><span>Visa
+                            190 Úc</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link
+                          to="/SettlementProgram/SettlementAustraylia/Visa482OBS"><span>Visa 482 OBS</span></nuxt-link>
                       </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>National Innovation Visa</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 494 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 494 DAMA</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 186 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 491 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 190 Úc</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482 OBS</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Visa 482 DAMA</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Danh sách ngành nghề ưu tiên định cư Úc</span></nuxt-link>
-                      </li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementAustraylia/Visa482"><span>Visa
+                            482</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link
+                          to="/SettlementProgram/SettlementAustraylia/Visa482DAMA"><span>Visa 482
+                            DAMA</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link
+                          to="/SettlementProgram/SettlementAustraylia/NgheUuTien"><span>Danh sách ngành nghề ưu tiên
+                            định cư Úc</span></nuxt-link></li>
                     </ul>
                   </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Canada</span></nuxt-link>
-                    <ul class="sub-menu">
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Chương trình Start up visa Canada diện khởi
-                            nghiệp</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Chương trình Express Entry Canada định cư diện tay
-                            nghề cao</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Danh sách ngành nghề ưu tiên định cư Canada</span></nuxt-link>
-                      </li>
+
+                  <li class="menu-item" style="position: relative;">
+                    <nuxt-link to="/SettlementProgram/SettlementCanada"><span>Định cư Canada</span></nuxt-link>
+                    <ul class="sub-menu" style="position: relative;left: 0;">
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementCanada/Startup"><span>Chương
+                            trình Start up visa Canada diện khởi nghiệp</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link
+                          to="/SettlementProgram/SettlementCanada/ExpressEntry"><span>Chương trình Express Entry Canada
+                            định cư diện tay nghề cao</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementCanada/NganhUuTien"><span>Danh
+                            sách ngành nghề ưu tiên định cư Canada</span></nuxt-link></li>
                     </ul>
                   </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư Châu Âu</span></nuxt-link>
-                    <ul class="sub-menu">
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Bồ Đào Nha</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Hungary</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Malta</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Slovakia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Bulgaria</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Hy Lạp</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Tây Ban Nha</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Ý</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Đảo Síp</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Latvia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Ireland</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Vương Quốc Anh</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Thổ Nhĩ Kỳ</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Slovenia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Thụy Sĩ</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Pháp</span></nuxt-link>
-                      </li>
+
+                  <li class="menu-item" style="position: relative;">
+                    <nuxt-link to="/SettlementProgram/SettlementEurope"><span>Định cư Châu Âu</span></nuxt-link>
+                    <ul class="sub-menu" style="position: relative;left: 0;">
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementEurope/BoDaoNha"><span>Định cư
+                            Bồ Đào Nha</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementEurope/Hungary"><span>Định cư
+                            Hungary</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementEurope/Malta"><span>Định cư
+                            Malta</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementEurope/Slovakia"><span>Định cư
+                            Slovakia</span></nuxt-link></li>
                     </ul>
                   </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư các nước khác</span></nuxt-link>
-                    <ul class="sub-menu">
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Dominica</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Grenada</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Vanuatu</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư St. Kitts & Nevis</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Antigua & Barbuda</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Malaysia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Saint Lucia</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư Singapore</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư New Zealand</span></nuxt-link>
-                      </li>
-                      <li class="menu-item">
-                        <nuxt-link to="#"><span>Định cư UAE</span></nuxt-link>
-                      </li>
+
+                  <li class="menu-item" style="position: relative;">
+                    <nuxt-link to="/SettlementProgram/SettlementOrthers"><span>Định cư các nước khác</span></nuxt-link>
+                    <ul class="sub-menu" style="position: relative;left: 0;">
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementOrthers/Dominica"><span>Định cư
+                            Dominica</span></nuxt-link></li>
+                      <li class="menu-item"><nuxt-link to="/SettlementProgram/SettlementOrthers/Grenada"><span>Định cư
+                            Grenada</span></nuxt-link></li>
                     </ul>
                   </li>
-                  <li class="menu-item">
-                    <nuxt-link to="#"><span>Định cư toàn cầu</span></nuxt-link>
+
+                  <li class="menu-item" style="position: relative;">
+                    <nuxt-link to="/SettlementProgram/SettlementGlobal"><span>Định cư toàn cầu</span></nuxt-link>
                   </li>
                 </ul>
               </li>
-              <li class="menu-item" :class="{ active: $route.path === '/RealEstate' }">
-                <nuxt-link to="/RealEstate"><span>Bất động sản</span></nuxt-link>
-              </li>
+
+
+
               <li class="menu-item" :class="{ active: $route.path === '/TSI' }">
                 <a href="/TSI"><span>Xuất nhập khẩu</span></a>
               </li>
+
               <li class="menu-item" :class="{ active: $route.path === '/Events' }">
                 <nuxt-link to="/Events"><span>Sự Kiện</span></nuxt-link>
               </li>
+
               <li class="menu-item" :class="{ active: $route.path === '/News' }">
                 <nuxt-link to="/News"><span>Tin Tức</span></nuxt-link>
               </li>
+
               <li class="menu-item" :class="{ active: $route.path === '/Contacts' }">
                 <nuxt-link to="/Contacts"><span>Liên Hệ</span></nuxt-link>
               </li>
             </ul>
           </div>
         </div>
+
       </div>
     </div>
   </div>
@@ -481,6 +360,17 @@
   display: block;
 }
 
+.si-nav.mobile .menu-main .sub-menu,
+.si-nav.mobile .menu-main .sub-menu:hover,
+.si-nav.mobile .menu-main:hover .sub-menu {
+  display: block;
+}
+
+.default-layout .si-nav.mobile .menu-main .sub-menu>li>a .sub-menu>li>a {
+
+  transform: translateX(-50%);
+}
+
 .menu-mobile {
   cursor: pointer;
 }
@@ -494,6 +384,10 @@
 .menu-item.active a {
   color: #007bff;
   /* Example text color for active link */
+}
+
+.default-layout .si-nav.mobile .menu-main-container{
+  overflow-y: auto;
 }
 </style>
 

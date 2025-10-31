@@ -1,0 +1,415 @@
+.star-si,.star-si-no {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 24px;
+    height: 24px
+}
+
+.star-si {
+    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/star-si.png)
+}
+
+.star-si-no {
+    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/star-si-no.png)
+}
+
+.ic-down {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/ic-down.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.si-landing .condition {
+    max-width: 655px;
+    margin: 0 auto 24px;
+    background-color: var(--octonary-color)
+}
+
+.si-landing .condition>.d-flex {
+    cursor: pointer
+}
+
+.si-landing .condition .title {
+    display: flex;
+    align-items: center;
+    position: relative;
+    font-size: var(--size-20);
+    font-family: var(--font-heavy);
+    color: var(--background-color);
+    font-weight: 400;
+    min-height: 50px;
+    width: calc(100% - 50px);
+    padding: 10px 15px;
+    line-height: 1.2
+}
+
+.si-landing .condition .text {
+    font-family: var(--font-stack);
+    color: var(--background-color);
+    font-weight: 400;
+    padding: 16px 24px 16px 65px;
+    // display: none
+}
+
+.si-landing .condition .icon {
+    width: 50px;
+    background-color: var(--denary-color);
+    color: var(--background-color);
+    font-size: var(--size-35)
+}
+
+.si-landing .banner-wrap {
+    padding-left: 0!important
+}
+
+.si-landing .banner-events .flag {
+    display: flex;
+    align-items: stretch;
+    color: var(--si-gold-color)
+}
+
+.si-landing .banner-events .flag div {
+    font-family: var(--font-black);
+    font-weight: 400
+}
+
+.si-landing .banner-events .flag>div:nth-child(1) {
+    line-height: 0
+}
+
+.si-landing .banner-events .flag>div:nth-child(2) {
+    background: rgba(0,0,0,.4);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 0 20px;
+    width: auto;
+    line-height: 1.5
+}
+
+.si-landing .banner-events .flag>div:nth-child(2)>div div:nth-child(1) {
+    font-size: var(--size-35)
+}
+
+.si-landing .banner-events .flag>div:nth-child(2)>div div:nth-child(2) {
+    font-size: var(--size-20)
+}
+
+.si-landing .banner-events .flag img {
+    max-height: 90px
+}
+
+.si-landing .rate-country {
+    position: absolute;
+    right: 30px;
+    bottom: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 450px;
+    padding: 0 20px 20px;
+    background: rgba(0,0,0,.4);
+    justify-content: space-between
+}
+
+.si-landing .rate-country .it {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+    width: 50%
+}
+
+.si-landing .rate-country .it .img {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px
+}
+
+.si-landing .rate-country .it .img img {
+    width: 100%
+}
+
+.si-landing .advantage {
+    background-color: #f7f7f8
+}
+
+.si-landing .benefit {
+    background-color: #fcf5eb
+}
+
+.si-landing .wrap-be {
+    width: 100%;
+    justify-content: space-between;
+    padding: 0 15px
+}
+
+.si-landing .wrap-be .si-benefit {
+    width: 160px;
+    margin-bottom: 30px;
+    padding: 20px 10px;
+    min-height: 220px
+}
+
+.si-landing .wrap-be .si-benefit p {
+    font-family: var(--font-stack)
+}
+
+.si-landing .wrap-be .si-benefit img {
+    max-height: 80px
+}
+
+.si-landing .application-process {
+    justify-content: space-between
+}
+
+.si-landing .application-process {
+    position: relative
+}
+
+.si-landing .application-process .it {
+    padding-top: 95px;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    max-width: 200px;
+    z-index: 1
+}
+
+.si-landing .application-process .it::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -16.5px;
+    width: 33px;
+    height: 82px;
+    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/circle-border.png)
+}
+
+.si-landing .application-process .it:first-child::after,.si-landing .application-process .it:last-child::after {
+    background-image: url(https://sigroup.vn/wp-content/themes/sigroup/assets/images/circle-default.png)
+}
+
+.si-landing .application-process::after {
+    content: "";
+    position: absolute;
+    z-index: 0;
+    top: 14px;
+    left: 50%;
+    margin-left: -42%;
+    width: 84%;
+    height: 5px;
+    background-color: #8e4121
+}
+
+.si-landing .exclusive-information {
+    justify-content: center
+}
+
+.si-landing .exclusive-information .it {
+    width: 100%;
+    text-align: center;
+    max-width: 225px
+}
+
+.si-landing .exclusive-information .it .img {
+    min-height: 225px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px #934d26;
+    border-radius: 30px
+}
+
+.si-landing .exclusive-information .it .img img {
+    max-height: 100px
+}
+
+.si-landing .exclusive-information .it .text {
+    margin-top: 20px
+}
+
+.si-landing .web-landing {
+    display: block
+}
+
+.si-landing .mb-landing {
+    display: none
+}
+
+.si-landing .excerpt {
+    list-style: inside
+}
+
+.si-landing .rule .condition {
+    margin-bottom: 5px;
+    border-top: 1px solid #ccc
+}
+
+.si-landing .rule .condition:first-child {
+    border: none
+}
+
+.si-landing .rule .condition .title {
+    color: var(--duodenary-color);
+    font-size: var(--size-20);
+    background-color: #f6f6f6
+}
+
+.si-landing .rule .condition .active .title {
+    background-color: #ddd
+}
+
+.si-landing .rule .condition .text {
+    color: var(--duodenary-color);
+    background-color: #f6f6f6
+}
+
+.single-programs .content a {
+    text-decoration: underline;
+    color: var(--si-brown-color)
+}
+
+.single-programs .content a:hover {
+    color: var(--si-brown-color)
+}
+
+.single-programs .content {
+    list-style: inside
+}
+
+.single-programs .content p {
+    margin: 1rem 0
+}
+
+.single-programs .content .d-flex {
+    flex-wrap: wrap
+}
+
+.single-programs .content img {
+    margin-top: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover
+}
+
+.single-programs .content h1,.single-programs .content h2,.single-programs .content h3,.single-programs .content h4,.single-programs .content h5,.single-programs .content h6 {
+    font-family: var(--font-black)
+}
+
+.single-programs .content table {
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.single-programs .content td {
+    padding: 10px;
+    border: 1px solid #010300
+}
+
+.single-programs .content tr:first-child td {
+    background-color: #f1d1a9;
+    color: #934d26
+}
+
+@media (max-width: 820px) {
+    .si-landing .banner-wrap {
+        padding-bottom:0;
+        height: 200px!important
+    }
+
+    .si-landing .banner-events .w-100.mb-10 {
+        margin-bottom: 10px!important
+    }
+
+    .si-landing .banner-events .flag img {
+        max-height: 55px
+    }
+
+    .si-landing .banner-events .flag>div:nth-child(2)>div div:nth-child(1) {
+        font-size: var(--size-20)
+    }
+
+    .si-landing .banner-events .flag>div:nth-child(2)>div div:nth-child(2) {
+        font-size: var(--size-14)
+    }
+
+    .si-landing .application-process {
+        justify-content: center
+    }
+
+    .si-landing .application-process .it {
+        margin-bottom: 20px
+    }
+
+    .si-landing .application-process::after {
+        top: 0;
+        width: 5px;
+        margin-left: -2.5px;
+        height: 100%;
+        display: none
+    }
+
+    .si-landing .web-landing {
+        display: none
+    }
+
+    .si-landing .mb-landing {
+        display: block
+    }
+
+    .si-landing .wrap-be {
+        justify-content: center
+    }
+
+    .si-landing .wrap-be .si-benefit {
+        width: calc(100% - 40px)
+    }
+
+    .si-landing .exclusive-information {
+        justify-content: center
+    }
+
+    .si-landing .exclusive-information .it {
+        margin-top: 30px
+    }
+
+    .si-landing .exclusive-information .it:first-child {
+        margin-top: 0
+    }
+
+    .si-landing .rate-country {
+        margin-top: 30px;
+        position: relative;
+        right: auto;
+        bottom: auto
+    }
+
+    .si-landing .condition .title {
+        font-size: var(--size-16)
+    }
+}
+
+@media (max-width: 480px) {
+    .si-landing .rate-country {
+        padding:0 15px 15px
+    }
+
+    .si-landing .rate-country .it .img {
+        width: 35px;
+        height: 35px
+    }
+}

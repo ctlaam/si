@@ -2,9 +2,9 @@
     <div id="site">
         <div id="site-inner">   
             <main class="main-wrapper">
-                <div class="home-page si-blog si-form mx-auto">
+                <div class="mx-auto home-page si-blog si-form">
                     <div class="container">
-                        <div class="row py-40">
+                        <div class="py-40 row">
                             <div class="col-12 col-md-6 info-contact">
                                 <div class="si-form-tt">Liên Hệ Tư Vấn</div>
                                 <div class="mt-5">
@@ -23,11 +23,11 @@
                                             placeholder="Họ và Tên*">
                                     </div>
                                     <div class="row">
-                                        <div class="col-12 col-md-6 mb-3 d-none">
+                                        <div class="mb-3 col-12 col-md-6 d-none">
                                             <input type="number" class="form-control" id="your_age" name="your_age"
                                                 value="2025" placeholder="Năm sinh*">
                                         </div>
-                                        <div class="col-12 mb-3">
+                                        <div class="mb-3 col-12">
                                             <input type="text" class="form-control" id="phone" name="phone"
                                                 placeholder="Số điện thoại*">
                                         </div>
@@ -55,7 +55,7 @@
                                     </div>
                                     <div class="mb-3">
                                         <select class="form-control" name="chuong_trinh_quan_tam"
-                                            id="chuong_trinh_quan_tam" disabled="">
+                                            id="chuong_trinh_quan_tam" >
                                             <option value="">Chương trình quan tâm*</option>
                                         </select>
                                     </div>
@@ -147,19 +147,16 @@
                                     <input type="hidden" id="hsa_src" name="hsa_src" value="">
                                     <input type="hidden" id="hsa_net" name="hsa_net" value="">
                                     <input type="hidden" id="hsa_ver" name="hsa_ver" value="">
-                                    <div class="d-flex flex-wrap w-100 align-items-center">
+                                    <div class="d-flex flex-wrap align-items-center w-100">
                                         <button class="si-btn" type="submit">Gửi đi</button>
-                                        <div class="home-contact-alert ml-4"></div>
+                                        <div class="ml-4 home-contact-alert"></div>
                                     </div>
                                 </form>
                                
                             </div>
                             <div class="col-12">
                                 <div class="mt-5">
-                                    <iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31355.762447137946!2d106.68483889114974!3d10.775245758253924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f9fbe8b6dcb%3A0xad0dafc146a62287!2sSI%20GROUP%20JSC!5e0!3m2!1sen!2s!4v1693896106355!5m2!1sen!2s"
-                                        width="100%" height="450" style="border: 0" loading="lazy"
-                                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                   
                                 </div>
                             </div>
                         </div>

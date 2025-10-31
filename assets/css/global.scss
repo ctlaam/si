@@ -310,7 +310,7 @@ body {
   th {
     border-color: inherit;
     border-style: solid;
-    border-width: 0;
+    border-width: 1px;
   }
   label {
     display: inline-block;
@@ -464,6 +464,9 @@ body {
     margin-top: calc(-1 * var(--bs-gutter-y));
     margin-right: calc(-0.5 * var(--bs-gutter-x));
     margin-left: calc(-0.5 * var(--bs-gutter-x));
+  }
+  .slick-slider{
+    margin: 50px 0;
   }
   .row > * {
     flex-shrink: 0;
@@ -2479,11 +2482,11 @@ body {
   //   background-repeat: no-repeat;
   //   background-size: cover;
   // }
-  .si-nav.mobile .menu-main > li:hover .sub-menu,
-  .si-nav.mobile .menu-main .sub-menu::after,
-  .si-nav.mobile .menu-main > li > a::after {
-    display: none;
-  }
+  // .si-nav.mobile .menu-main > li:hover .sub-menu,
+  // .si-nav.mobile .menu-main .sub-menu::after,
+  // .si-nav.mobile .menu-main > li > a::after {
+  //   // display: none;
+  // }
   .si-tags {
     display: flex;
     flex-wrap: wrap;
@@ -2778,4 +2781,10 @@ body {
 html,
 * {
   font-family: "Lexend Deca", sans-serif !important;
+}
+
+// làm mỏng thanh scroll bar 
+::-webkit-scrollbar {
+  width: 5px;
+  background: gray;
 }

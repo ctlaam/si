@@ -16,11 +16,11 @@
                 <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="false" :autoplaySpeed="4000"
                   :slidesToShow="1" :slidesToScroll="1">
                   <div v-for="(item, index) in banners" :key="index" class="banner-slide">
-                    <div class="banner-bg d-none d-md-block" :style="{ backgroundImage: `url(${item.bgDesktop})` }">
+                    <div class="d-md-block banner-bg d-none" :style="{ backgroundImage: `url(${item.bgDesktop})` }">
                       <div class="bg-overlay"></div>
                     </div>
 
-                    <div class="banner-bg d-block d-md-none" :style="{ backgroundImage: `url(${item.bgMobile})` }">
+                    <div class="d-block banner-bg d-md-none" :style="{ backgroundImage: `url(${item.bgMobile})` }">
                       <div class="bg-overlay"></div>
                     </div>
 
@@ -47,7 +47,7 @@
                       <div class="social-links">
                         <div>Social media</div>
                         <div class="line"></div>
-                        <div class="icons gap-x-3">
+                        <div class="gap-x-3 icons">
                           <a href="#"><img src="@/assets/images/facebook.png" alt="Facebook" /></a>
                           <a href="#"><img src="@/assets/images/zalo.png" alt="Zalo" /></a>
                           <a href="#"><img src="@/assets/images/linkedin.png" alt="LinkedIn" /></a>
@@ -64,7 +64,7 @@
             </div>
           </div>
           <div class="container">
-            <div id="section-2" class="row py-10 text-center align-items-center">
+            <div id="section-2" class="align-items-center py-10 text-center row">
               <div class="s2-left col-12 col-md-6" data-aos="fade-right">
                 <!-- <img class="img-fluid" src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg" alt="Tìm hiểu thêm" data-lazy-src="@/assets/uploads/2023/10/vie_si_group_logofullbrown.png" /><noscript><img class="img-fluid" src="@/assets/uploads/2023/10/vie_si_group_logofullbrown.png" alt="Tìm hiểu thêm" /></noscript> -->
                 <div class="mt-8 text-justify">Bên cạnh việc sở hữu hệ thống hơn sáu văn phòng tại bốn quốc gia và vùng
@@ -75,11 +75,11 @@
                   chiến lược và ngân hàng, Tập đoàn chúng tôi tự tin đồng hành cùng các cá nhân và gia đình vượt qua
                   những rào cản phức tạp của các thủ tục pháp lý quốc tế trong lĩnh vực Di trú - An cư - Đầu tư tài
                   chính và thương mại quốc tế - Y tế và chăm sóc sức khỏe toàn cầu.</div>
-                <a class="si-btn my-6" href="#">Tìm hiểu thêm</a>
+                <a class="my-6 si-btn" href="#">Tìm hiểu thêm</a>
               </div>
               <div class="s2-right col-12 col-md-6" data-aos="fade-left">
                 <div class="row">
-                  <div class="col-6 col-md-4 my-3">
+                  <div class="my-3 col-6 col-md-4">
                     <div class="img">
                       <img height="66" width="66" src="@/assets/uploads/2023/11/Chuong_trinh_dinh_cu_4290e839ef.png"
                         alt="100++ ">
@@ -87,7 +87,7 @@
                     <div class="s2-right-tt">100++ </div>
                     <p>Chương trình định cư</p>
                   </div>
-                  <div class="col-6 col-md-4 my-3">
+                  <div class="my-3 col-6 col-md-4">
                     <div class="img">
                       <img height="66" width="66" src="@/assets/uploads/2023/11/Thanh_pho_noi_bat_bc27b8699c.png"
                         alt="30+">
@@ -95,7 +95,7 @@
                     <div class="s2-right-tt">30+</div>
                     <p>Thành phố nổi bật</p>
                   </div>
-                  <div class="col-6 col-md-4 my-3">
+                  <div class="my-3 col-6 col-md-4">
                     <div class="img">
                       <img height="66" width="66" src="@/assets/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
                         alt="10,660+" data-lazy-src="@/assets/uploads/2023/11/Ho_so_thanh_cong_33fb00ce65.png"
@@ -105,7 +105,7 @@
                     <div class="s2-right-tt">10,660+</div>
                     <p>Hồ sơ thành công</p>
                   </div>
-                  <div class="col-6 col-md-4 my-3">
+                  <div class="my-3 col-6 col-md-4">
                     <div class="img">
                       <img height="66" width="66"
                         src="@/assets/uploads/2023/11/Nhap_quoc_tich_thanh_cong_5e58d6668b.png" alt="1,200+"
@@ -117,7 +117,7 @@
                     <div class="s2-right-tt">1,200+</div>
                     <p>Số lượng nhập quốc tịch thành công</p>
                   </div>
-                  <div class="col-6 col-md-4 my-3">
+                  <div class="my-3 col-6 col-md-4">
                     <div class="img">
                       <img height="66" width="66" src="@/assets/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" alt="20+"
                         data-lazy-src="@/assets/uploads/2023/11/Kinh_nghiem_596f0aa4ea.png" data-ll-status="loaded"
@@ -127,7 +127,7 @@
                     <div class="s2-right-tt">20+</div>
                     <p>Năm kinh nghiệm</p>
                   </div>
-                  <div class="col-6 col-md-4 my-3">
+                  <div class="my-3 col-6 col-md-4">
                     <div class="img">
                       <img height="66" width="66" src="@/assets/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
                         alt="6+" data-lazy-src="@/assets/uploads/2023/11/Dich_vu_doc_quyen_3ed4c174ae.png"
@@ -147,15 +147,15 @@
                 <div class="row">
                   <div class="col-12" data-aos="fade-up">
                     <h4 class="text-center si-title">GIẢI THƯỞNG</h4>
-                    <div class="text-center mb-5"></div>
+                    <div class="mb-5 text-center"></div>
                   </div>
                 </div>
-                <div class="row justify-center">
+                <div class="justify-center row">
                   <div class="col-12">
                     <div class="awards-carousel">
                       <SlickCarousel :arrows="false" :dots="true" :infinite="true" :autoplay="true"
                         :autoplaySpeed="2000" :slidesToShow="4" :slidesToScroll="1" :responsive="responsiveSettings">
-                        <div v-for="(award, index) in awards" :key="index" class="text-center mt-5">
+                        <div v-for="(award, index) in awards" :key="index" class="mt-5 text-center">
                           <img class="img-fluid" :src="award.image" :alt="award.title" />
                           <div class="my-1 so_nam">{{ award.type }}</div>
                           <div class="noi_nhan_giai">{{ award.title }}</div>
@@ -167,22 +167,22 @@
               </div>
             </div>
             <section id="section-3">
-              <div class="si-banners mx-auto mb-0">
+              <div class="mx-auto mb-0 si-banners">
                 <SlickCarousel :arrows="true" :dots="true" :infinite="true" :autoplay="true" :autoplaySpeed="4000"
                   :slidesToShow="1" :slidesToScroll="1" :responsive="responsiveSettings">
-                  <div v-for="(banner, index) in banners2" :key="index" class="banner-slide position-relative">
+                  <div v-for="(banner, index) in banners2" :key="index" class="position-relative banner-slide">
                     <a :href="banner.link" target="_blank" :title="banner.title">
-                      <div class="bg-banner vh-80 position-relative">
+                      <div class="position-relative bg-banner vh-80">
                         <!-- Ảnh desktop -->
-                        <img class="w-100 d-none d-md-block" :src="banner.bgDesktop" :alt="banner.title" />
+                        <img class="d-md-block w-100 d-none" :src="banner.bgDesktop" :alt="banner.title" />
                         <!-- Ảnh mobile -->
-                        <img class="w-100 d-block d-md-none" :src="banner.bgMobile || banner.bgDesktop"
+                        <img class="d-block w-100 d-md-none" :src="banner.bgMobile || banner.bgDesktop"
                           :alt="banner.title" />
 
                         <div class="bg-overlay"></div>
 
-                        <div class="banner-wrap position-absolute top-0 left-0 w-100 h-100 d-flex align-items-center">
-                          <div class="text-content px-4">
+                        <div class="top-0 left-0 position-absolute d-flex align-items-center w-100 h-100 banner-wrap">
+                          <div class="px-4 text-content">
                             <h3 class="si-banners-tt">{{ banner.title }}</h3>
                             <p class="mt-3">{{ banner.description }}</p>
                           </div>
@@ -195,14 +195,14 @@
             </section>
             <div class="container">
               <div data-aos="fade-up" class="mt-5 row">
-                <div class="col-12 mt-2">
+                <div class="mt-2 col-12">
                   <h2 class="text-center si-title">CHƯƠNG TRÌNH ĐỘC QUYỀN CỦA HOÀNG HÀ Group</h2>
                 </div>
                 <div class="col-12">
                   <div id="chuong-trinh-doc-quyen-cua-si-group" class="row">
                     <div data-id="15305" class="col-12 col-md-4">
-                      <a target="_blank" href="#" title="Quốc tế hóa doanh nghiệp" class="item mt-5">
-                        <div class="img position-relative">
+                      <a target="_blank" href="#" title="Quốc tế hóa doanh nghiệp" class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"
                             alt="Quốc tế hóa doanh nghiệp" class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2025/03/quoc-te-hoa-doanh-nghiep-thumb.jpg"><noscript><img
@@ -228,8 +228,8 @@
                     </div>
                     <div data-id="15313" class="col-12 col-md-4">
                       <a target="_blank" href="#"
-                        title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày" class="item mt-5">
-                        <div class="img position-relative">
+                        title="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày" class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2025/03/dau-tu-so-huu-quoc-tich-chau-au-120-ngay-thumb.jpg"
                             alt="Chương trình Đầu tư Sở hữu Quốc tịch Châu Âu chỉ trong 120 ngày"
                             class="blog-thumbnail img-fluid"
@@ -258,8 +258,8 @@
                     </div>
                     <div data-id="822" class="col-12 col-md-4">
                       <a target="_blank" href="#"
-                        title="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A" class="item mt-5">
-                        <div class="img position-relative">
+                        title="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A" class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2023/11/2_ca0e447c97.png"
                             alt="Tư vấn quản lý vận hành doanh nghiệp tại Úc cho nhà đầu tư 188A/132A"
                             class="blog-thumbnail img-fluid"
@@ -286,12 +286,12 @@
                     </div>
                   </div>
                   <div class="row">
-                    <div class="col-12 text-center">
-                      <!--<div data-id="chuong-trinh-doc-quyen-cua-si-group" class="si-btn mt-4 home-more">Xem thêm</div>-->
-                      <a target="_blank" href="#" class="si-btn mt-4">Xem thêm</a>
+                    <div class="text-center col-12">
+                      <!--<div data-id="chuong-trinh-doc-quyen-cua-si-group" class="mt-4 si-btn home-more">Xem thêm</div>-->
+                      <a target="_blank" href="#" class="mt-4 si-btn">Xem thêm</a>
                     </div>
                     <div class="col-12">
-                      <div class="si-line my-10"></div>
+                      <div class="my-10 si-line"></div>
                     </div>
                   </div>
                 </div>
@@ -304,8 +304,8 @@
                   <div id="giai-phap-xu-ly-ho-so-doc-quyen" class="row">
                     <div data-id="14698" class="col-12 col-md-4">
                       <a target="_blank" href="#" title="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group"
-                        class="item mt-5">
-                        <div class="img position-relative">
+                        class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2025/02/Anh-chup-Man-hinh-2025-02-25-luc-14.38.55.jpg"
                             alt="Giải pháp Đầu tư sở hữu Quốc tịch Malta cùng HOÀNG HÀ Group"
                             class="blog-thumbnail img-fluid"
@@ -333,8 +333,8 @@
                     </div>
                     <div data-id="10056" class="col-12 col-md-4">
                       <a target="_blank" href="#" title="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
-                        class="item mt-5">
-                        <div class="img position-relative">
+                        class="mt-5 item">
+                        <div class="position-relative img">
                           <img
                             src="@/assets/uploads/2024/09/Chuong-trinh-thanh-lap-doanh-nghiep-tu-bao-lanh-tai-Thuy-Si.jpg"
                             alt="Chương trình thành lập doanh nghiệp tự bảo lãnh tại Thụy Sĩ"
@@ -365,8 +365,8 @@
                     </div>
                     <div data-id="690" class="col-12 col-md-4">
                       <a target="_blank" href="#" title="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group"
-                        class="item mt-5">
-                        <div class="img position-relative">
+                        class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2023/11/2_f164830d12.png"
                             alt="Giải pháp đầu tư EB-5 độc quyền cùng HOÀNG HÀ Group" class="blog-thumbnail img-fluid"
                             data-lazy-src="@/assets/uploads/2023/11/2_f164830d12.png"><noscript><img
@@ -392,12 +392,12 @@
                     </div>
                   </div>
                   <div class="row">
-                    <div class="col-12 text-center">
-                      <!--<div data-id="giai-phap-xu-ly-ho-so-doc-quyen" class="si-btn mt-4 home-more">Xem thêm</div>-->
-                      <a target="_blank" href="#" class="si-btn mt-4">Xem thêm</a>
+                    <div class="text-center col-12">
+                      <!--<div data-id="giai-phap-xu-ly-ho-so-doc-quyen" class="mt-4 si-btn home-more">Xem thêm</div>-->
+                      <a target="_blank" href="#" class="mt-4 si-btn">Xem thêm</a>
                     </div>
                     <div class="col-12">
-                      <div class="si-line my-10"></div>
+                      <div class="my-10 si-line"></div>
                     </div>
                   </div>
                 </div>
@@ -411,12 +411,12 @@
                     <!-- Slide 1 -->
                     <a target="_blank" href="#"
                       title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ">
-                      <div class="justify-center align-items-center position-relative bg-banner vh-80" :style="{
+                      <div class="position-relative justify-center align-items-center bg-banner vh-80" :style="{
                         background: `url(${require('@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg')}) center/cover no-repeat`
                       }">
                         <div class="bg-overlay"></div>
-                        <div class="banner-wrap w-100 h-100 position-relative">
-                          <div class="w-100 mb-13">
+                        <div class="position-relative w-100 h-100 banner-wrap">
+                          <div class="mb-13 w-100">
                             <h2>
                               HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư
                               Solomon, thúc
@@ -442,12 +442,12 @@
                     <!-- Slide 2 -->
                     <a target="_blank" href="#"
                       title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà">
-                      <div class="justify-center align-items-center position-relative bg-banner vh-80" :style="{
+                      <div class="position-relative justify-center align-items-center bg-banner vh-80" :style="{
                         background: `url(${require('@/assets/uploads/2025/04/Thumbnail-1-1.jpg')}) center/cover no-repeat`
                       }">
                         <div class="bg-overlay"></div>
-                        <div class="banner-wrap w-100 h-100 position-relative">
-                          <div class="w-100 mb-13">
+                        <div class="position-relative w-100 h-100 banner-wrap">
+                          <div class="mb-13 w-100">
                             <h2>Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc
                               cho
                               Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà</h2>
@@ -473,12 +473,12 @@
                     <!-- Slide 3 -->
                     <a target="_blank" href="#"
                       title="Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp & Độc quyền sở hữu quốc tịch">
-                      <div class="justify-center align-items-center position-relative bg-banner vh-80" :style="{
+                      <div class="position-relative justify-center align-items-center bg-banner vh-80" :style="{
                         background: `url(${require('@/assets/uploads/2025/04/Thumbnail-3-1.jpg')}) center/cover no-repeat`
                       }">
                         <div class="bg-overlay"></div>
-                        <div class="banner-wrap w-100 h-100 position-relative">
-                          <div class="w-100 mb-13">
+                        <div class="position-relative w-100 h-100 banner-wrap">
+                          <div class="mb-13 w-100">
                             <h2>Hội thảo Quản lý Gia sản – Quốc tế hoá doanh nghiệp &
                               Độc
                               quyền sở hữu quốc tịch</h2>
@@ -504,7 +504,7 @@
 
 
 
-            <div id="section-8" class="container py-10">
+            <div id="section-8" class="py-10 container">
               <div class="row">
                 <div class="col-12" data-aos="fade-up">
                   <h4 class="text-center si-title">SỰ KIỆN </h4>
@@ -515,7 +515,7 @@
                       :slidesToShow="3" :slidesToScroll="1">
                       <a target="_blank" href="#"
                         title="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
-                        class="si-event mt-5 px-3" tabindex="0">
+                        class="mt-5 px-3 si-event" tabindex="0">
                         <div class="img">
                           <img src="@/assets/uploads/2025/06/su-kien-dau-tu-solomon.jpg"
                             alt="HOÀNG HÀ Group ký kết hợp tác chiến lược tại sự kiện đầu tư Solomon, thúc đẩy phát triển Đặc khu Kinh tế SEZ"
@@ -539,7 +539,7 @@
                       </a>
                       <a target="_blank" href="#"
                         title="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
-                        class="si-event mt-5 px-3" tabindex="0">
+                        class="mt-5 px-3 si-event" tabindex="0">
                         <div class="img">
                           <img src="@/assets/uploads/2025/04/Thumbnail-1-1.jpg"
                             alt="Bộ Ngoại giao Mỹ trao tặng Giải thưởng đóng góp xuất sắc cho Phó Chủ tịch HĐQT HOÀNG HÀ Group – Bà Nguyễn Thị Bích Hà"
@@ -563,7 +563,7 @@
                       </a>
                       <a target="_blank" href="#"
                         title="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
-                        class="si-event mt-5 px-3" tabindex="0">
+                        class="mt-5 px-3 si-event" tabindex="0">
                         <div class="img">
                           <img src="@/assets/uploads/2025/04/SI-Group-gap-go-chinh-quyen-bang-Queensland_thumb.jpg"
                             alt="Lãnh đạo HOÀNG HÀ Group thảo luận với chính quyền bang Queensland về chiến lược hợp tác đầu tư&nbsp;"
@@ -591,7 +591,7 @@
                 </div>
               </div>
             </div>
-            <div id="section-bc" class="container py-10">
+            <div id="section-bc" class="py-10 container">
               <div data-aos="fade-up" class="mt-5 row">
                 <div class="col-12">
                   <h2 class="text-center si-title">BÁO CHÍ</h2>
@@ -601,8 +601,8 @@
                     <div data-id="9209" class="col-12 col-md-4">
                       <a target="_blank" href="#"
                         title="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
-                        class="item mt-5">
-                        <div class="img position-relative">
+                        class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2024/09/Giai-thuong-Tin-nhiem-hang-dau-Chau-A-2024.jpg"
                             alt="Tập đoàn di trú Việt tự hào với giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
@@ -624,8 +624,8 @@
                     <div data-id="9208" class="col-12 col-md-4">
                       <a target="_blank" href="#"
                         title="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
-                        class="item mt-5">
-                        <div class="img position-relative">
+                        class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2024/08/3-sigroup56-1722585307257279057371.webp"
                             alt="Tập đoàn di trú Việt tự hào nhận giải Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
@@ -647,8 +647,8 @@
                     <div data-id="8445" class="col-12 col-md-4">
                       <a target="_blank" href="#"
                         title="HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
-                        class="item mt-5">
-                        <div class="img position-relative">
+                        class="mt-5 item">
+                        <div class="position-relative img">
                           <img src="@/assets/uploads/2024/08/1-sigroup56-17225851943401113341346.webp"
                             alt="HOÀNG HÀ Group tự hào với Giải thưởng Thương hiệu Tín nhiệm hàng đầu Châu Á"
                             class="blog-thumbnail img-fluid"
@@ -669,24 +669,24 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-12 text-center">
-                  <div data-id="newspapers" class="si-btn mt-4 newspapers-more">Tải thêm</div>
+                <div class="text-center col-12">
+                  <div data-id="newspapers" class="mt-4 si-btn newspapers-more">Tải thêm</div>
                 </div>
                 <div class="col-12">
-                  <div class="si-line my-10"></div>
+                  <div class="my-10 si-line"></div>
                 </div>
               </div>
             </div>
-            <div id="section-9" class="container mt-5 mb-4">
+            <div id="section-9" class="mt-5 mb-4 container">
               <div class="row">
                 <div class="col-12" data-aos="fade-up">
                   <h4 class="text-center si-title">TIN TỨC CẬP NHẬT</h4>
                 </div>
               </div>
-              <div class="row d-flex align-items-stretch">
+              <div class="d-flex align-items-stretch row">
                 <div class="col-12 col-md-7" data-aos="fade-right">
                   <a target="_blank" href="#" title="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5"
-                    class="new big h-100 d-block">
+                    class="d-block h-100 new big">
                     <div class="img">
                       <img src="@/assets/uploads/2025/10/Anh-size-moi-1-4.jpg"
                         alt="Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5" class="blog-thumbnail"
@@ -699,14 +699,14 @@
                       <h4 class="mb-2">Bộ An ninh Nội địa Hoa Kỳ (DHS) đề xuất giảm phí chương trình EB-5</h4>
                       <!-- <h3 class="mb-2">{{ featureNews.ProgramTypeName || "" }}</h3>
                                         <p class="py-3" v-html="featureNews.bref"></p> -->
-                      <span class="pb-2 d-block">25/10/2025</span>
+                      <span class="d-block pb-2">25/10/2025</span>
                     </div>
                   </a>
                 </div>
-                <div data-aos="fade-left" class="col-12 col-md-5 d-flex flex-wrap align-content-space-between">
+                <div data-aos="fade-left" class="d-flex flex-wrap align-content-space-between col-12 col-md-5">
                   <a target="_blank" href="#"
                     title="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
-                    class="new d-flex w-100">
+                    class="d-flex w-100 new">
                     <div class="img ratio ratio-16x9">
                       <img src="@/assets/uploads/2025/10/Anh-size-moi-16.jpg"
                         alt="Lỗ hổng mới trong chương trình Express Entry Canada: Gian lận kết quả thi tiếng Pháp"
@@ -723,7 +723,7 @@
                     </div>
                   </a>
                   <a target="_blank" href="#" title="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc"
-                    class="new d-flex w-100">
+                    class="d-flex w-100 new">
                     <div class="img ratio ratio-16x9">
                       <img src="@/assets/uploads/2024/05/Anh-size-moi-12.jpg"
                         alt="Mua nhà ở Úc có được định cư không? Bí quyết mua nhà tại Úc" class="blog-thumbnail"
@@ -738,7 +738,7 @@
                     </div>
                   </a>
                   <a target="_blank" href="#" title="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025"
-                    class="new d-flex w-100">
+                    class="d-flex w-100 new">
                     <div class="img ratio ratio-16x9">
                       <img src="@/assets/uploads/2025/10/Anh-size-moi-6.jpg"
                         alt="Đầu tư bất động sản Úc là gì? Kinh nghiệm cho nhà đầu tư Việt 2025" class="blog-thumbnail"
@@ -755,8 +755,8 @@
                 </div>
               </div>
             </div>
-            <div id="section-10" class="py-10 si-form mx-auto">
-              <div class="container my-3">
+            <div id="section-10" class="mx-auto py-10 si-form">
+              <div class="my-3 container">
                 <div class="row">
                   <div class="col-12 col-md-6 info-contact">
                     <div class="si-form-tt">Liên Hệ Tư Vấn</div>
@@ -768,7 +768,7 @@
                       cho Quý khách, đồng thời cam kết tỷ lệ thành công và thời gian hoàn thành cho từng dịch
                       vụ.<br>Để
                       được tư vấn chính xác, nhanh chóng và bảo mật, Quý khách liên hệ trực tiếp Hotline <a
-                        href="#">(+84) 979 355 355</a> hoặc để lại thông tin. Đội ngũ với hơn 20 năm kinh
+                        href="#">+84 856 936 666</a> hoặc để lại thông tin. Đội ngũ với hơn 20 năm kinh
                       nghiệm của HOÀNG HÀ Group luôn sẵn sàng để kết nối và tư vấn miễn phí. </div>
                   </div>
                   <div class="col-12 col-md-6">
@@ -778,11 +778,11 @@
                           placeholder="Họ và Tên*">
                       </div>
                       <div class="row">
-                        <div class="col-12 col-md-6 mb-3 d-none">
+                        <div class="mb-3 col-12 col-md-6 d-none">
                           <input type="number" class="form-control" id="your_age" name="your_age" value="2025"
                             placeholder="Năm sinh*">
                         </div>
-                        <div class="col-12 mb-3">
+                        <div class="mb-3 col-12">
                           <input type="text" class="form-control" id="phone" name="phone" placeholder="Số điện thoại*">
                         </div>
                       </div>
@@ -807,7 +807,7 @@
                       </div>
                       <div class="mb-3">
                         <select class="form-control" name="chuong_trinh_quan_tam" id="chuong_trinh_quan_tam"
-                          disabled="">
+                          >
                           <option value="">Chương trình quan tâm*</option>
                         </select>
                       </div>
@@ -899,9 +899,9 @@
                       <input type="hidden" id="hsa_src" name="hsa_src" value="">
                       <input type="hidden" id="hsa_net" name="hsa_net" value="">
                       <input type="hidden" id="hsa_ver" name="hsa_ver" value="">
-                      <div class="d-flex flex-wrap w-100 align-items-center">
+                      <div class="d-flex flex-wrap align-items-center w-100">
                         <button class="si-btn" type="submit">Gửi đi</button>
-                        <div class="home-contact-alert ml-4"></div>
+                        <div class="ml-4 home-contact-alert"></div>
                       </div>
                     </form>
 
