@@ -11,8 +11,7 @@
               <div class="top-left clearfix">
                 <ul class="top-info clearfix">
                   <li>
-                    <i class="icon fa fa-map-marker-alt"></i>Số nhà 20 ngõ 58/3
-                    đường Trần Bình, Quận Cầu Giấy, Hà Nội.&nbsp;
+                    <i class="icon fa fa-map-marker-alt"></i>20/58/3 đường Trần Bình, tổ 24, Phường Nghĩa Đô - Hà Nội.&nbsp;
                   </li>
                   <li>
                     Tầng 18, Tòa nhà The METT , 15 Trần Bạch Đằng Phường An
@@ -103,7 +102,7 @@
             </ul>
           </div>
           <ul class="info">
-            <li>Số nhà 20 ngõ 58/3 đường Trần Bình, Quận Cầu Giấy, Hà Nội.;</li>
+            <li>20/58/3 đường Trần Bình, tổ 24, Phường Nghĩa Đô - Hà Nội.;</li>
             <li>
               Tầng 18, Tòa nhà The METT , 15 Trần Bạch Đằng Phường An Khánh, TP.
               Hồ Chí Minh

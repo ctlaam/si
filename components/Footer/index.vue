@@ -18,8 +18,7 @@
                     src="@/assets/themes/sigroup/assets/images/ic-ft-1.png"
                     alt="@/assets/themes/sigroup/assets/images/ic-ft-1.png" /></noscript
                 ><span
-                  >Miền bắc: Số nhà 20 ngõ 58/3 đường Trần Bình, tổ 24, Phường
-                  Mai Dịch, Quận Cầu Giấy, Hà Nội</span
+                  >Miền bắc: Số nhà 20 ngõ 58/3 đường Trần Bình, tổ 24, Phường Nghĩa Đô, Thành phố Hà Nội</span
                 >
               </p>
             </div>
